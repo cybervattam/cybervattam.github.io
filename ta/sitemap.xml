@@ -8,9 +8,6 @@
     <loc>/courses/books/cryptography/cryptography/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/asymmetric-key/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-  </url><url>
     <loc>/books/cryptography/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
@@ -20,22 +17,28 @@
     <loc>/books/cryptography/cryptography/cryptography-introduction/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/merkle-tree/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-  </url><url>
     <loc>/books/cryptography/cryptography/encryption-types/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/public-key-cryptography-properties/</loc>
+    <loc>/books/cryptography/cryptography/symmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/crytography-comparision/</loc>
+    <loc>/books/cryptography/cryptography/asymmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cryptography/cryptography/hashing/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/symmetric-key/</loc>
+    <loc>/books/cryptography/cryptography/merkle-tree/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cryptography/cryptography/public-key-cryptography-properties/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cryptography/cryptography/crytography-comparison/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cryptography/cryptography/encryption-usecases/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/</loc>
