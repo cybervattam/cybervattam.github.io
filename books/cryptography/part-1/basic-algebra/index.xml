@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>அடிப்படை இயற்கணிதம் on Cybervattam </title>
+    <link>/books/cryptography/part-1/basic-algebra/</link>
+    <description>Recent content in அடிப்படை இயற்கணிதம் on Cybervattam </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/books/cryptography/part-1/basic-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>அறிமுகம்</title>
+      <link>/books/cryptography/part-1/basic-algebra/introduction/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/introduction/</guid>
+      <description>அளவுகளைக் குறியீடுகளாகக் கொண்டு எழுதப்பட்டு அவைகளுக்கு இடையே உள்ள தொடர்புகளை வெளிப்படுத்தும் ஒரு கணிதத்தின் தனிப் பிரிவாக இயற்கணிதம் விளங்குகிறது. இந்த வகுப்பில் மாறிகள் மெய்யெண்களை மட்டும் குறிக்கும் என்போம். மாறிகளை கையாளுதல் மற்றும் கணக்கீடுகளில் பயன்படுத்துதல் ஆகியவை எண்களைப் போலவே அமைகிறது. ஒரு கோவையிலுள்ள மாறிகளுக்கு மெய்யெண்களைப் பிரதியிடக் கிடைப்பது ஒரு மெய்யெண்ணாகும். ஒரு அளவையோ அல்லது கணிதக் கூற்றையோ மாறிகளின் மூலமாக எழுதினால் அதில் மாறிகளுக்கு குறிப்பிட்ட எண் மதிப்புகளைப் பிரதியிட முடியும். இது இயற்கணிதத்தைச் சக்தி வாய்ந்த கருவியாக மாற்றுகிறது. இதன் காரணமாக கணிதத்தில் மட்டுமல்லாமல் மேலும், பல துறைகளிலும் மற்றும் அன்றாட வாழ்க்கைக்கும் இயற்கணிதம் பரவலான பயன்பாடுகளைக் கொண்டிருக்கிறது.</description>
+    </item>
+    
+    <item>
+      <title>மெய்யெண்களின் அமைப்பு</title>
+      <link>/books/cryptography/part-1/basic-algebra/real-number-system/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/real-number-system/</guid>
+      <description>ுதலில் எவ்வாறு மெய்யெண்களின் அமைப்பு உருவானது என்பதனை மீள் பார்வையிடுவோம். இயல் எண்கள் N-லிருந்து தொடங்குவோம்.
+விகிதமுறு எண்கள் (Rational Numbers) \(\mathbb N = {1,2,3,&amp;hellip;}\) என்பது பொ ரு ட்களை எண்ணிடப் போ து ம ா ன க ண ம ா கு ம் .இலாப-நஷ்டங்களைக் கையாள வசதியாக \( \mathbb N\)-ஐ விரிவு செய்து அனைத்து முழு எண்களின் கணமாக \(\mathbb Z\)={-4,-3,-2,-1,0,1,2,&amp;hellip;} விரிவாக்கப்பட்டது. இக்கணம் இயல் எண்கள் (மிகை முழு எண்கள்), பூஜ்ஜியம் மற்றும் குறை குறியீடுகளுடன் கூடிய இயல் எண்கள் (குறை முழு எண்கள்) ஆகியவற்றைக் கொண்டுள்ளது.mathbb N = {0,1,2,3,&amp;hellip;} என்பதைக் குறையற்ற முழு எண்களின் கணம் என்போம்.</description>
+    </item>
+    
+    <item>
+      <title>மட்டு மதிப்பு</title>
+      <link>/books/cryptography/part-1/basic-algebra/absolute-value/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/absolute-value/</guid>
+      <description>வரையறை மற்றும் பண்புகள் (Definition and Properties) R-ல் உள்ள ஒவ்வொரு உறுப்பும் எண்கோட்டில் உள்ள ஒவ்வொரு புள்ளியோடு ஒழுங்கு வரிசையில் ஒன்றுக்கு ஒன்று தொடர்புடையவை என்பதைக் கண்டோம். \(x \in \mathbb R\) எனில்,x மற்றும் - x ஆகியவை 0-லிருந்து சமதூரத்தில் அமைந்துள்ளன. எண்கோட்டில், \(a \in \mathbb R\)-க்கும் 0-க்கும் a-க்கும் இடைப்பட்ட தொலைவு a-ன் மட்டு மதிப்பு (absolute value) எனப்படும். மேலும், இதனை a எனக் குறிப்பிடலாம். எனவே எந்த ஒரு \(x \in R\)-க்கும் 0
+ \\(\vert x \vert={-x x&amp;lt;0\\) எனில் \\(\vert x \vert={x x\geqq0\\) எனில் என எழுதலாம், மற்றும்  | .</description>
+    </item>
+    
+    <item>
+      <title>நேரிய அசமன்பாடுகள்</title>
+      <link>/books/cryptography/part-1/basic-algebra/linear-inequalities/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/linear-inequalities/</guid>
+      <description>\(a,b \in \R \) என்ற மாறிலிகளைக் கொண்ட f(x) = ax + b என்ற சார்பு நேரியல் சார்பு என்பதை நினைவு கூர்வோம். இதன் வரைபடம் ஒரு நேர்கோடு என்பதால் இதை நேரியல் சார்பு என்கிறோம். இங்கு, a என்பது கோட்டின் சாய்வு மற்றும் b என்பது y-வெட்டு துண்டு ஆகும். \(a \not = 0 \), எனில்,
+f(x) = ax + b = 0 என்பதைத் தீர்க்க x-வெட்டுத்துண்டு \(\frac {-b}{a} \)எனக் கிடைக்கும்.
+சில நேரங்களில் நேரிய அசமன்பாடுகளை கருத்தில் கொள்ளும் தேவை உருவாகிறது. எடுத்துக்காட்டாக, “கோபுரத்தின் உயரம் 50 அடிக்கு மேல் இல்லை” என்ற கூற்றை விளக்க வேண்டும்.</description>
+    </item>
+    
+    <item>
+      <title>இருபடிச் சார்புகள்</title>
+      <link>/books/cryptography/part-1/basic-algebra/quadratic-functions/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/quadratic-functions/</guid>
+      <description>\(z \in R\) மற்றும் \(n \in N\) க்கு \(z^n=z.z.z&amp;hellip;z\) (n-முறைகள்) என்பதை முந்தைய வகுப்புகளில் படித்துள்ளோம்.
+\(P(x)=ax^2+bx+c\),, (இங்கு,\(a,b,c \in \R\) என்பன மாறிலிகள் மற்றும் \(a \ne 0\) என்ற வடிவில் உள்ள சார்பு இருபடிச் சார்பு என்றழைக்கப்படுகிறது.\(t \in \R \)-க்கு, P(t)=0 எனில், t என்பது P(x)-ன் ஒரு பூஜ்ஜியமாகும்.
+இருபடி சூத்திரம் (Quadratic Formula) பொதுவாக, இருபடிச் சார்பு \(P(x)=ax^2+bx+c \)-ஐ \(a(x-k)^2+d\)என எழுத இயலுமா? இயலும். இதனை “வர்க்கத்தை நிறைவு செய்தல்” (completing the square) என்ற முறையில் கீழ்க்கண்டவாறு எழுதலாம்.
+\(P(x)=ax^2+bx+c\)
+\(= a(x^2+2x \frac{b}{2a}+ \frac{c}{a})\)</description>
+    </item>
+    
+    <item>
+      <title>பல்லுறுப்புச் சார்புகள்</title>
+      <link>/books/cryptography/part-1/basic-algebra/polynomial-functions/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/polynomial-functions/</guid>
+      <description>இதுவரை நாம் கற்றது ஒருபடி மற்றும் இருபடிச் சார்புகளைப் பற்றியது. இக்கருத்துகளைப் பொ து மை ப்படுத்து வோ ம். \(a_i \in \R,i=0,1,2,&amp;hellip;,n\) எனக் க ொண்டுள ்ள கோவ ை \(a_{n} x^n+a_{n-1} x^{n-1}+&amp;hellip; + a_0 \) -ஐ x என்ற மாறியிலான பல்லுறுப்புக் கோவை (polynomial) என்போம்.இங்கு, n ஒரு குறையற்ற முழு எண்ணாகும். \(a_n \ne 0\) ஆக இருக்கும்போது, பல்லுறுப்புக் கோவையின் படி (degree) n ஆகும்.\(a_0,a_1,&amp;hellip;,a_n \in \R\) ஆகியவை பல்லுறுப்புக் கோவையின் குணகங்களாகும். \(a_0\) என்பது மாறிலி உறுப்பு எனவும் (coefficients) an-ஐ முதற்குணகம் (பூஜ்ஜியமல்லாதபோது) எனவும் கூறலாம்.</description>
+    </item>
+    
+    <item>
+      <title>விகிதமுறுச் சார்புகள் (Rational Functions)</title>
+      <link>/books/cryptography/part-1/basic-algebra/rational-functions/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/rational-functions/</guid>
+      <description>இரு பல்லுறுப்புக் கோவைகள் \(P ( x ) \ மற்றும் \ Q ( x ), Q ( x ) \not= 0\) , ஆகியவற்றின் விகிதம் x-ஆல் ஆன விகிதமுறு கோவை எனப்படும்.
+\( \dfrac {2x+1}{x^2 +x+1},\dfrac{x^4 +1}{x^2+1} \) மற்றும் \( \dfrac{x^2 +x}{x^2 -5x+6} \) ஆகியவை விகிதமுறு கோவைகளுக்குச் சில எடுத்துக்காட்டுகளாகும்
+பகுதி P ( x ) -ன் படி Q ( x ) -ன் படிக்குச் சமமாகவோ அல்லது அதைவிடப் பெரியதாகவே இருப்பின் P ( x ) = f ( x ) Q ( x ) + r ( x ) என எழுதலாம்.</description>
+    </item>
+    
+    <item>
+      <title>அடுக்குகளும் படி மூலங்களும்</title>
+      <link>/books/cryptography/part-1/basic-algebra/exponents-and-radicals/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/exponents-and-radicals/</guid>
+      <description>முதலில் அடுக்குகளைப் பற்றி காண்போம்.
+அடுக்குகள் (Exponents) \(n \in \N,a \in \R\) எனும்போது, \(a^n =a.a...a\)(n முறைகள்) ஆகும். m ஒரு குறை முழு எண் மற்றும் மெய்யெண் \(a \ne 0\) எனில், \(a^m = \dfrac{1}{a^{-m}}\).
+எந்தவொரு\(a \ne 0\)-க்கு \(\dfrac{a}{a} = a^{1-1}= a^0 =1\) ஆகும்.
+கீழ்க்காணும் பண்புகளை எளிதில் அறியலாம்.
+அடுக்குகளின் பண்புகள் (Properties of Exponents) i. \(m,n \in \Z\) மேலும், \(a \ne 0\) எனில், \(a^m a^n =a^{m+n}\)
+ii. \(m,n \in \Z\)மேலும், \(a \ne 0\) எனில்,\(\dfrac {a^m} {a^n} =a^{m-n}\)</description>
+    </item>
+    
+    <item>
+      <title>மடக்கை</title>
+      <link>/books/cryptography/part-1/basic-algebra/logarithm/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/logarithm/</guid>
+      <description>அடிமானம் \(0 &amp;lt; a \ne 1 \)-க்கு, சார்பகம் \( \R \)மற்றும் வீச்சகம் \( ( 0 , \infty ) \) உடைய படிக்குறிச் சார்பு \( f ( x ) = a^x \)என வரையறுக்கப்படுகிறது என்பதை அறிவோம். f ( x ) ஒரு இருபுறச் சார்பு (bijection) என்பதால் இதற்கு நேர்மாறு உண்டு. இதன் நேர்மாறு சார்பு மடக்கைச் சார்பு (logarithmic function) எனப்படும். அது \(log_a ( . ) \)எனக் குறிக்கப்படுகிறது. f ( x ) என்பது x-லிருந்து \(y = a^x \)வரை எனில், \(log_a ( .</description>
+    </item>
+    
+    <item>
+      <title>வாழ்க்கைச் சூழலில் இயற்கணிதத்தின் பயன்பாடுகள்</title>
+      <link>/books/cryptography/part-1/basic-algebra/application-of-algebra-in-real-life/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/books/cryptography/part-1/basic-algebra/application-of-algebra-in-real-life/</guid>
+      <description>அன்றாட வாழ்வில் இயற்கணிதம் பல இடங்களில் பயன்படுகின்றன. அன்றாட வாழ்வில் நிதி திட்டமிடலில் இயற்கணிதம் பயன்படுகிறது. வங்கிகளின் வட்டி விகிதத்தைக் கணக்கிடவும் கடனுக்கான திருப்பிச் செலுத்தப்படும் தொகையைக் கணக்கிடவும் இயற்கணிதம் பயன்படுகிறது. பண வளர்ச்சியைக் கண்டறியவும் பயன்படுகிறது. ஒருவருடைய உயரம், உடல் பருமன் போன்றவற்றைக் கட்டுப்படுத்தத் தேவையான உணவைத் திட்டமிட இயற்கணிதம் பயன்படுகிறது. ஒருவருடைய வயது மற்றும் எடைக்கு ஏற்ப மருந்துகளின் அளவை திட்டமிட மருத்துவர்கள் இயற்கணிதத்தைப் பயன்படுத்துகின்றனர். சாலைகள், பாலங்கள் மற்றும் குகைப்பாதைகள் அமைப்பதற்குப் பொறியாளர்களும் கட்டடங்களை வடிவமைப்பதற்குக் கட்டடக்கலை பொறியாளர்களும் இயற்கணிதத்தைப் பயன்படுத்துகின்றனர். இயற்கணிதத்தில் ஒவ்வொன்றையும் அளவுகளோடு குறிக்கப்படுவதால் அதைப் பயன்படுத்தி வடிவமைக்கப்படும் கட்டமைப்புகள் சரியான விகிதத்தில் இருக்கும்.</description>
+    </item>
+    
+  </channel>
+</rss>

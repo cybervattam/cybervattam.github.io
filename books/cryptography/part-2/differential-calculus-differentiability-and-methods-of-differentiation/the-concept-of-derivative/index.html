@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="ta">
+
+<head>
+
+
+  <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <base href="/">
+    <title>Cybervattam </title>
+
+    
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/images/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/images/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/images/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/images/site.webmanifest" />
+
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    
+
+    <link rel="stylesheet" href="/css/style.css"/>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+      crossorigin="anonymous"
+    />
+
+
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css" integrity="sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET" crossorigin="anonymous">
+    
+
+       
+
+  
+
+
+</head>
+
+<body>
+  
+
+  <nav class="navbar navbar-expand-md navbar-light fixed-top">
+  <div class="container-fluid">
+    <span class="navbar-brand">
+      <a class="h5" href="/"><strong>Cybervattam</strong></a>
+    </span>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleDefault"
+      aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" href="/books/cryptography">மறைப்பியல்</a>
+        </li>
+        
+        
+      </ul>
+
+      <ul class="navbar-nav secured">
+        
+        <li class="nav-item dropdown ">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+             தமிழ் 
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            
+          <li><a class="dropdown-item" href="#">English</a></li>
+          
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <main class="container-fluid mt-5 w-100 h-100">
+    <div class="row py-5 w-100 h-100" id="main-container">
+       
+
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
+      <a href="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/introduction">அறிமுகம்</a>
+    </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation">வகை நுண்கணிதம் வகைமை மற்றும் வகையிடல் முறைகள்</a>
+         <h4>வகையிடுதலின் கருத்தாக்கம்</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/differentiability-and-continuity">வகைமை மற்றும் தொடர்ச்சி</a>
+    </div>
+  </div>
+</nav>
+
+<main id="content" class="pt-3"><h3 id="வகயடதலன-கரததககம-the-concept-of-derivative">வகையிடுதலின் கருத்தாக்கம் (The concept of derivative)</h3>
+<p>பதினேழாம் நூற்றாண்டில் கணிதவியலாளர்கள் தீர்வு காண முயன்ற நான்கு முக்கியமான
+கணக்குகளிலிருந்து வகைநுண் கணிதம் தோன்றி வளர்ச்சி பெற்றது. அவை</p>
+<p>(1) தொடுகோடுக் கணக்கு
+(2) திசைவேகம் மற்றும் முடுக்கக் கணக்கு
+(3) சிறுமம் மற்றும் பெருமக் கணக்கு
+(4) பரப்பளவுக் கணக்கு.</p>
+<p>முதலிரண்டு கணக்குகளைப் பற்றி இப்பாடப்பகுதியில் காண்போம். ஏனைய இரண்டினைப்
+பின்னர் வரும் பாடப்பகுதியில் காணலாம்.</p>
+<h4 id="தடகடக-கணககthe-tangent-line-problem">தொடுகோடுக் கணக்கு(The tangent line problem)</h4>
+<p>ஒரு வளைவரையில் குறிப்பிட்ட ஒரு புள்ளியில் ஒரு
+நேர்க்கோடு தொடுகோடாக அமைகின்றது என்பதன் பொருள்
+என்ன? ஒரு வட்டத்தில் ‘P’ எனும் புள்ளியின் மீது தொட்டுச்
+செல்லும் தொடுகோடு என்பது படம் 10.1-ல் கண்டுள்ளவாறு
+‘P’ எனும் புள்ளியைச் சந்திக்கும் ஆரக்கோட்டிற்குச் செங்குத்துக்
+கோடாக (radial line) அமையும்.
+ஆனால் பொதுவான வளைவரையாக இருந்தால் தொடுகோட்டைக்
+கண்டறிவது மிகக் கடினமான செயலாகும். எடுத்துக்காட்டாக
+கீழ்க்காணும் 10.2-லிருந்து 10.4 வரையிலான படங்களில்
+உள்ளவற்றிற்குத் தொடுககோடுகளை எவ்வாறு வரையறுக்க இயலும்</p>
+<p>‘P’ எனும் புள்ளியில் வளைவரையை வெட்டிச் செல்லாமல் தொட்டுச் செல்லும் கோடுதான்
+தொடுககோடாக அமையும் எனக் கூற முனையலாம். இந்த வரையறை படம் 10.2-ல் உள்ளது போன்ற
+வளைவரைக்குப் பொருந்தும், ஆனால் 10.3-ல் உள்ள வளைவரைக்குப் பொருந்தாது, அல்லது ஒரு
+வளைவரைக்கு ஒரு கோடு தொடுகோடாக அமைய வேண்டுமெனில்,கோடும் வளைவரையும்
+ஒரே ஒரு புள்ளியில் தொட்டுச் செல்லவன் அல்லது சந்திக்கவன் வேண்டும். ஆனால் இந்த
+வரையறை வட்டத்திற்குப் பொருந்தக் கூடும். ஆனால் படம் 10.4-ல் உள்ளது போன்ற பொதுவான
+வளைவரைகளுக்கு இந்த வரையறை பொருந்தாது.
+அடிப்படையில் ‘P’ எனும் புள்ளியில் உள்ள தொடுகோட்டைக் கண்டறிய முயல்வது ‘P’ எனும்
+புள்ளியில் தொடுகோட்டின் சாய்வினைக் கண்டறிவதாக மாறுகிறது.
+இச்சாய்வினை, தொடுவரைப்புள்ளி (point of tangency) மற்றும் வளைவரையின் மீதான
+மற்றொரு புள்ளி வழியாகச் செல்லும் வெட்டுக் கோட்டின் சாய்வுக்குத் தோராயமாகப் படம் 10.5ல்
+காண்பதுபோல் காணலாம்.
+தொடுவரைப்புள்ளியாக \(P(x_{0})\) எனவும் இரண்டாவது புள்ளியாக \(Q(x_{0}+\vartriangle x, f(x_{0}+\vartriangle x))\) எனவும் கருதுவோம்.</p>
+<p>m=\(\frac{y_{2}-y_{1}}{x_2-x_1}\) எனும் சாய்வு விதியில் பிரதியிடுவதன் மூலம் இரு புள்ளிகள் வழியாகச் செல்லும்</p>
+<p>வெட்டுக் கோட்டின் சாய்வைப் பெற இயலும்.</p>
+<p>\(m_{sec}\)=\(\frac{f(x_0+\Delta x)-f(x_0)}{(x_0+\Delta x)-x_0}\)=\(\frac{y-ன் மாற்றம்}{x-ன் மாற்றம்}\)=\(\frac{\Delta y}{\Delta x}\)</p>
+<p>அதாவது,\(m_{sec}\)=\(\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}\)என்பது</p>
+<p>வெட்டுக்கோட்டின் சாய்வாக அமையும்.
+இந்தச் சமன்பாட்டின் வலப்பக்கம் இருப்பது <strong>வேறுபாட்டுப்
+பின்னம் (Difference quotient)</strong> ஆகும்.</p>
+<p>பகுதி \(\Delta x\)என்பது x-ன் மாற்றம் (x-ன் அதிகரிப்பு) மற்றும்
+தொகுதி \(\Delta y= f(x_0+\Delta x)-f(x_0)\) என்பது <strong>y-ன் மாற்றம்</strong> ஆகும்.</p>
+<p>தொடுவரைப்புள்ளிக்கு மிக அருகே புள்ளிகளைத் தேர்ந்தெடுப்பதன் மூலம் தொடுகோட்டின்
+சாய்விற்கான சிறந்த தோராய மதிப்பினைப் பெற இயலும் என்பதே இம்முறையின் சிறப்பம்சம் ஆகும்.</p>
+<p><img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/1.png" alt="relation" title="relation">
+<img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/2.png" alt="relation" title="relation"></p>
+<h4 id="வளகக-எடததககடட">விளக்க எடுத்துக்காட்டு</h4>
+<p>f(x) = \(x_2\) எனும் வளைவரைக்கு (1, 1)
+என்ற புள்ளியில் தொடுககோட்டின் சாய்வினைக்
+கண்டவோறிம்.
+முதலில்
+<img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/3.png" alt="relation" title="relation">
+<img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/3.png" alt="relation" title="relation"></p>
+<p>முதலில் Dx = 0.1 எனக் கருதுவோம்.
+(1, 1) மற்றும் (1.1, \((1.1)^{2}\) புள்ளிகள் வழியாகச்
+செல்லும் வெட்டுக்கோட்டின் சாய்வினைக்
+கண்டறிவோம்.</p>
+<p>(i) f(1.1) = \((1.1)^2\)= 1.21</p>
+<p>(ii) \(\Delta y\) = f(1.1) - f(1)
+= 1.21 - 1 = 0.21</p>
+<p>\(\frac{\Delta y}{\Delta x}\)=\(\frac{0.21}{0.1}\)=2.1</p>
+<p>1-க்கு வலப்பக்கமும் இடப்பக்கமும் அமையும் அடுத்தடுத்த மதிப்புகளைக் கீழ்க்காணும்
+வகையில் அட்டவணைப்படுத்துவோம்.</p>
+<p><img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/4.png" alt="relation" title="relation"></p>
+<p><img src="/books/cryptography/part-2/differential-calculus-differentiability-and-methods-of-differentiation/5.png" alt="relation" title="relation"></p>
+<p>\((x_0,f(x_0))\) என்ற புள்ளியில் வரையப்பட்ட தொடுகோட்டின் சாய்வு, அப்புள்ளியில்வளைவரையின் சாய்வு எனவும் அழைக்கப்படுகிறது,வரையறையின் மூலம் ஒரு வளைவரை \((x_{0},f(x_0))\) என்ற புள்ளியில் ஒரு தொடுவோட்டினைத்தருமாயின் அது தனித்ததாக இருக்கும். ஏனெனில் வோடுக்கப்பட்ட ஒரு புள்ளி மற்றும் சாய்வுவழியாகஒரே ஒரு வோட்டினையே வரைய இயலும்.</p>
+<p>வளைவரையின் சாய்வைக் காண்பதற்கான நிபந்தனைகளை 4 படி நிலைகளாக எழுதலாம்.</p>
+<p>(i) \(x_{0}\) மற்றும்  \(x_{0}\) என்ற புள்ளிகளில் f-ன் மதிப்புகளைக் காண்க. அதாவது, \(f(x_{0})\) மற்றும் \(f(x_{0}+\Delta x)\) ஆகியவற்றைக் காண்க.</p>
+<p>(ii) \(\Delta y\) கணக்கிடுக: அதாவது \(\Delta y\) = \(f(x_0+\Delta x)-f(x_0)\) -ஐ காண்க.</p>
+<p>(iii) \(\Delta y\)-ஐ \(\Delta x\)≠ 0ஆல் வகுக்க : அதாவது,\(\frac{\Delta y}{\Delta x}\)=
+\(\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}\) -ஐ காண்க.</p>
+<p>(iv) \(\Delta x\) \(\to\) எனும்போது :\(\frac{\Delta y}{\Delta x}\) -ன் எல்லையைக் காண்க. அதாவது, \(m_{tan}\) = \(\displaystyle\lim_{x\to1}\)\(\frac{\Delta y}{\Delta x}\)</p>
+<p>விளக்க எடுத்துக்காட்டு 10.1-ல் உள்ள வளைவரையின்சாய்வினைக் காண்பதை எளிமைப்படுத்த
+வரையறைகள் பயன்படுவதைக் காணலாம்.</p>
+<p>(i) f(1) = \(1_{2}\)=1 .
+எந்தவோரு \(\Delta x\)≠ 0-க்கும் \(f(1 + \Delta x) = (1 + \Delta x)^2=1+2\Delta x+(\Delta x)^2\)</p>
+<p>(ii)\(\Delta  = f(1 +\Delta x) - f(1) = 2\Delta x + (\Delta x)^2=\Delta x(2+\Delta x)\)</p>
+<p>(iii)\(\frac{\Delta y}{\Delta x}\)=\(\frac{\Delta x(2+\Delta x)}{\Delta x}\)</p>
+<p>=2+\(\Delta\) x</p>
+<p>(iv) \(m_tan\) = \(\displaystyle\lim_{\Delta x \to 0}\)\(\frac{\Delta y}{\Delta x}\)</p>
+<p>\(\displaystyle\lim_{\Delta x \to 0}\)(2+\Delta x)=2+0=2</p>
+<div class="card">
+    <div class="card-header">
+      
+        <i class="text-info fas fa-bullseye fa-2x"></i> 
+        எடுத்துக்காட்டு 10.1
+
+      </div>
+    <div class="card-body">
+        <p>f(x) = 7x + 5 எனும் வளைவரைக்கு \(f எனும் புள்ளியில் தொடுக�ோட்டின் சாய்வினைக்</p>
+<p>காண்க.</p>
+
+    </div>
+  </div>
+
+
+</main>
+
+
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+    
+  </main>
+  
+
+
+
+  
+
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Confimation</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          Are you sure you want to delete ?
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">No</button>
+          <button type="button" class="btn btn-primary">Yes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div aria-live="polite" aria-atomic="true">
+  <div class="toast-container position-absolute top-0 start-0 p-5 mt-5" id="toast-container">
+    
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+
+
+
+
+<script type="module">
+    import renderMathInElement from "https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.mjs";
+
+    const onRender = () => {
+      renderMathInElement(document.getElementById('main-container'), {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false,
+          macros:{"\\f":"#1f(#2)"}
+        });
+    };
+    document.addEventListener('onrender', function (e) { 
+
+      onRender();
+      
+
+        
+        
+
+         
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+     }, false);
+
+     
+     
+     onRender();
+        
+        
+</script>
+
+
+
+  
+
+  
+  
+  
+
+<script type="text/javascript" src="/js/chapter.js"></script>
+
+
+  
+
+  
+</body>
+
+</html>
