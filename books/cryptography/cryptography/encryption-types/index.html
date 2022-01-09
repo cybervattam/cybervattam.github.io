@@ -50,6 +50,8 @@
 
 
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css" integrity="sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET" crossorigin="anonymous">
+    
 
        
 
@@ -100,37 +102,52 @@
 
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
-      
+       
 
-<nav class="navbar">
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
+      <a href="/books/cryptography/cryptography/merkle-tree">குறுக்க மரம்/மெர்கல் மரம்</a>
+    </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cryptography/cryptography">மறைப்பியல்</a>
+         <h4>மறையாக்க வகைகள்</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cryptography/cryptography/public-key-cryptography-properties">பொதுத் திறவி மறைப்பியல் பண்புகள்</a>
+    </div>
+  </div>
+</nav>
 
+<main id="content" class="pt-3"><h2 id="ஒறறத-தறவ-மறயககம">ஒற்றைத் திறவி மறையாக்கம்</h2>
 
-    
-    <ol class="breadcrumb">
-        <li class="text-info px-2"><i class="fas fa-book fa-2x"></i></li>
-        
-        <li class="breadcrumb-item" aria-current="page">
-            <a href="">Cybervattam </a>
-        </li>
-        
-        <li class="breadcrumb-item" aria-current="page"></li>
-    </ol>
-    
-      
-    
-  </nav>
-  
+<h2 id="இரடடத-தறவ-மறயககம">இரட்டைத் திறவி மறையாக்கம்</h2>
 
-<main class="pt-3">
-    <ul>
-    
-    
-        <li>
-            <a href="/books/cryptography">தகவல் பாதுகாப்பு</a>
-        </li>
-    
-    </ul>
+<h2 id="கறககம">குறுக்கம்</h2>
 </main>
+
+
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     </div>
     
@@ -173,13 +190,71 @@
 
 
 
+<script type="module">
+    import renderMathInElement from "https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.mjs";
+
+    const onRender = () => {
+      renderMathInElement(document.getElementById('main-container'), {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false,
+          macros:{"\\f":"#1f(#2)"}
+        });
+    };
+    document.addEventListener('onrender', function (e) { 
+
+      onRender();
+      
+
+        
+        
+
+         
 
 
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+     }, false);
+
+     
+     
+     onRender();
+        
+        
+</script>
+
+
+
   
 
   
   
   
+
+<script type="text/javascript" src="/js/chapter.js"></script>
 
 
   

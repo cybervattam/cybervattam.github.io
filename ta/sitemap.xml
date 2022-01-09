@@ -2,43 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/books/cryptography/basic-algebra/introduction/</loc>
+    <loc>/books/cryptography/cryptography/cybersecurity-pillars/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/courses/books/cryptography/basic-algebra/</loc>
+    <loc>/courses/books/cryptography/cryptography/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/</loc>
+    <loc>/books/cryptography/cryptography/asymmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/cryptography/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/real-number-system/</loc>
+    <loc>/books/cryptography/cryptography/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/absolute-value/</loc>
+    <loc>/books/cryptography/cryptography/cryptography-introduction/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/linear-inequalities/</loc>
+    <loc>/books/cryptography/cryptography/merkle-tree/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/quadratic-functions/</loc>
+    <loc>/books/cryptography/cryptography/encryption-types/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/polynomial-functions/</loc>
+    <loc>/books/cryptography/cryptography/public-key-cryptography-properties/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/rational-functions/</loc>
+    <loc>/books/cryptography/cryptography/crytography-comparision/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/exponents-and-radicals/</loc>
+    <loc>/books/cryptography/cryptography/hashing/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/basic-algebra/logarithm/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
-  </url><url>
-    <loc>/books/cryptography/basic-algebra/application-of-algebra-in-real-life/</loc>
+    <loc>/books/cryptography/cryptography/symmetric-key/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/</loc>

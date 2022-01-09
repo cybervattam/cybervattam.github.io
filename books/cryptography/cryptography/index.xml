@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybervattam </title>
-    <link>/</link>
-    <description>Recent content on Cybervattam </description>
+    <title>மறைப்பியல் on Cybervattam </title>
+    <link>/books/cryptography/cryptography/</link>
+    <description>Recent content in மறைப்பியல் on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/books/cryptography/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>தகவல் பாதுகாப்பின் தூண்கள்</title>
       <link>/books/cryptography/cryptography/cybersecurity-pillars/</link>
@@ -16,15 +16,6 @@
       <description>இரகசியத்தன்மை அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை உறுதிப்படுத்துவது
 நம்பகத்தன்மை தகவலை மாற்றவோ / சிதைக்கவோ முடியாது என்பதை உறுதிப்படுத்துவது. தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும். மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.
 கிடைக்கும் தன்மை அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.</description>
-    </item>
-    
-    <item>
-      <title>Sets</title>
-      <link>/courses/books/cryptography/cryptography/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/cryptography/cryptography/</guid>
-      <description>  Section 1   Section 2   </description>
     </item>
     
     <item>

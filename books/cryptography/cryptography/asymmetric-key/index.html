@@ -56,23 +56,6 @@
        
 
   
-  
-  
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/css/reveal.css"
-  integrity="sha512-ELSdJJazJezQ42bIQYmdIk1xCq3hHfSL3e9jRr/0U1JofaybYBceJ3y2UasSokCT4F8Kk4fu5nKEw3JuVneVOA=="
-  crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/css/theme/white.min.css"
-  integrity="sha512-0bRpW+1GC+RBSImOJNjFDO3/8wvElYORoZ4CqKxqSeRmmClfEdXfkIx+qrRR1hkhtClxcH5GZFhmKnav7rTxoA=="
-  crossorigin="anonymous" />
-  <link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css">
-
-
-
-
-
-  
 
 
 </head>
@@ -120,22 +103,55 @@
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
        
-<div class="container reveal d-flex w-25px h-25px m-4">
-    <div class="slides">
 
-        <section>
-            $$ \f\relax{x} = \int_{-\infty}^\infty
-            \f\hat\xi\,e^{2 \pi i \xi x}
-            \,d\xi $$
-          </section>
-
-          <section>
-            $$ \f\relax{x} $$
-          </section>
-
+  <nav class="navbar border-1 border-bottom">
+  <div class="row w-100">
+    <div class="col-4 text-start">
+      <a href="/books/cryptography/cryptography/cybersecurity-pillars">தகவல் பாதுகாப்பின் தூண்கள்</a>
     </div>
+    <div class="col-4 mb-2 text-center">
+      <a class="text-dark"
+        href="/books/cryptography/cryptography">மறைப்பியல்</a>
+         <h4>இரட்டைத் திறவி மறையாக்கம்</h4>
+    </div>
+    <div class="col-4 text-end">
+      <a href="/books/cryptography/cryptography/cryptography-introduction">மறைப்பியல் அறிமுகம்</a>
+    </div>
+  </div>
+</nav>
+
+<main id="content" class="pt-3"><p>ஒவ்வொரு நபரிடமும் இரு திறவிகள் இருக்கும். இவை பொதுத் திறவி (Public Key) &amp; தனித் திறவி (Private Key) என்று அழைக்கப்படும்</p>
+<p>இவை இரண்டும் துணைத் திறவிகள் (Key Pair) என்றும் அழைக்கப்படும். துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டது</p>
+<p>ஒரு திறவியில் இருந்து மற்றொரு திறவியை தருவிக்க (Derive) / ஊகிக்க (Guess) முடியாது</p>
+<p>பொதுத் திறவியை பொது வெளியில் (மின்னஞ்சல், வலைத்தளம், சமூக ஊடகம் வாயிலாக) பகிர்வர்</p>
+<p>தனித் திறவியை இரகசியமாக பாதுகாப்பர்</p>
+<p>ஒரு திறவியால் மறையாக்கம் (encryption) செய்த மறைக்குறியீட்டை (cipher text) அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் (decryption) செய்ய இயலும்</p>
+<p>உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று</p>
+<p>முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார்</p>
+<p>எழிலன் தன் தனித் திறவி கொண்டு மறைநீக்கம் செய்து இயற்தகவலை பெறுவார்.</p>
+<p>எழிலனின் துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டதால், எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டிலிருந்து மறைநீக்கம் செய்ய இயலாது.</p>
+<p>பொதுத் திறவியை பகிர்ந்து மறையாக்கம்/மறைநீக்கம் செய்யப்படுவதால் இம்முறை பொதுத் திறவி மறைப்பியல் (Public Key Cryptography) என்றும் அழைக்கப்படுகிறது.</p>
+</main>
 
 
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
 </div>
 
 
@@ -243,24 +259,8 @@
   
   
   
-<script src="https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js"
-    integrity="sha512-8Nk/zoTKjNixnM15wXjpF26KR4Ln87cc5Yllc5xP54wwbcKnljAAn2JP+tYAS8+4e7s/XK8XTiDH0Ltw2fmoBQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/js/reveal.js"
-    integrity="sha512-VMwkG0MdbDSSM3wUzu6Ny450qkGMXTuBJdN1ssTZPTNWBkXxSYuvhW/o6eu7YQ2H1X2X1thKs6xdt8+obhX4Gg=="
-    crossorigin="anonymous"></script>
 
-<script>
-    Reveal.initialize({
-        dependencies: [
-            {
-                src: 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js', 
-                async: true, 
-                callback: function () { hljs.highlightAll(); }
-            }
-        ]
-    });
-</script>
+<script type="text/javascript" src="/js/chapter.js"></script>
 
 
   
