@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybervattam </title>
-    <link>/</link>
-    <description>Recent content on Cybervattam </description>
+    <title>அடிப்படை இயற்கணிதம் on Cybervattam </title>
+    <link>/books/cryptography/basic-algebra/</link>
+    <description>Recent content in அடிப்படை இயற்கணிதம் on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/books/cryptography/basic-algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>அறிமுகம்</title>
       <link>/books/cryptography/basic-algebra/introduction/</link>
@@ -14,15 +14,6 @@
       
       <guid>/books/cryptography/basic-algebra/introduction/</guid>
       <description>அளவுகளைக் குறியீடுகளாகக் கொண்டு எழுதப்பட்டு அவைகளுக்கு இடையே உள்ள தொடர்புகளை வெளிப்படுத்தும் ஒரு கணிதத்தின் தனிப் பிரிவாக இயற்கணிதம் விளங்குகிறது. இந்த வகுப்பில் மாறிகள் மெய்யெண்களை மட்டும் குறிக்கும் என்போம். மாறிகளை கையாளுதல் மற்றும் கணக்கீடுகளில் பயன்படுத்துதல் ஆகியவை எண்களைப் போலவே அமைகிறது. ஒரு கோவையிலுள்ள மாறிகளுக்கு மெய்யெண்களைப் பிரதியிடக் கிடைப்பது ஒரு மெய்யெண்ணாகும். ஒரு அளவையோ அல்லது கணிதக் கூற்றையோ மாறிகளின் மூலமாக எழுதினால் அதில் மாறிகளுக்கு குறிப்பிட்ட எண் மதிப்புகளைப் பிரதியிட முடியும். இது இயற்கணிதத்தைச் சக்தி வாய்ந்த கருவியாக மாற்றுகிறது. இதன் காரணமாக கணிதத்தில் மட்டுமல்லாமல் மேலும், பல துறைகளிலும் மற்றும் அன்றாட வாழ்க்கைக்கும் இயற்கணிதம் பரவலான பயன்பாடுகளைக் கொண்டிருக்கிறது.</description>
-    </item>
-    
-    <item>
-      <title>Sets</title>
-      <link>/courses/books/cryptography/basic-algebra/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/cryptography/basic-algebra/</guid>
-      <description>  $$ \f\relax{x} = \int_{-\infty}^\infty \f\hat\xi\,e^{2 \pi i \xi x} \,d\xi $$   $$ \f\relax{x} $$   </description>
     </item>
     
     <item>
