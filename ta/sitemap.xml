@@ -2,43 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/books/cryptography/cryptography/cybersecurity-pillars/</loc>
+    <loc>/books/cybersecurity/cryptography/cybersecurity-pillars/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/courses/books/cryptography/cryptography/</loc>
+    <loc>/books/aboutus/contribution/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/</loc>
+    <loc>/books/aboutus/contribution/contribution/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/</loc>
+    <loc>/books/aboutus/licenses/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/cryptography-introduction/</loc>
+    <loc>/books/aboutus/licenses/licenses/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/encryption-types/</loc>
+    <loc>/courses/books/aboutus/licenses/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/symmetric-key/</loc>
+    <loc>/books/aboutus/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/asymmetric-key/</loc>
+    <loc>/books/aboutus/aboutus/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/hashing/</loc>
+    <loc>/books/aboutus/aboutus/aboutus/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/merkle-tree/</loc>
+    <loc>/courses/books/aboutus/aboutus/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/public-key-cryptography-properties/</loc>
+    <loc>/courses/books/emergingtech/blockchain/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/crytography-comparison/</loc>
+    <loc>/books/emergingtech/blockchain/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
-    <loc>/books/cryptography/cryptography/encryption-usecases/</loc>
+    <loc>/books/emergingtech/blockchain/introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/courses/books/aboutus/contribution/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/courses/books/cybersecurity/pki/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/pki/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/pki/introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/courses/books/emergingtech/cryptocurrency/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/emergingtech/cryptocurrency/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/emergingtech/cryptocurrency/introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/courses/books/cybersecurity/cryptography/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/cryptography-introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/courses/books/emergingtech/nft/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/emergingtech/nft/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/emergingtech/nft/introduction/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/emergingtech/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/encryption-types/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/symmetric-key/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/asymmetric-key/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/hashing/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/merkle-tree/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/public-key-cryptography-properties/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/crytography-comparison/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url><url>
+    <loc>/books/cybersecurity/cryptography/encryption-usecases/</loc>
     <lastmod>2018-11-14T19:02:50-07:00</lastmod>
   </url><url>
     <loc>/books/</loc>

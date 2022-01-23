@@ -8,12 +8,75 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sets</title>
-      <link>/courses/books/cryptography/cryptography/</link>
+      <title>உரிமங்கள்</title>
+      <link>/courses/books/aboutus/licenses/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
       
-      <guid>/courses/books/cryptography/cryptography/</guid>
-      <description>  Section 1   Section 2   </description>
+      <guid>/courses/books/aboutus/licenses/</guid>
+      <description>  உரிமங்கள் 1   உரிமங்கள் 2  </description>
+    </item>
+    
+    <item>
+      <title>எங்களை பற்றி</title>
+      <link>/courses/books/aboutus/aboutus/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/aboutus/aboutus/</guid>
+      <description>  எங்களை பற்றி 1   எங்களை பற்றி 2  </description>
+    </item>
+    
+    <item>
+      <title>கட்டச்சங்கிலி</title>
+      <link>/courses/books/emergingtech/blockchain/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/blockchain/</guid>
+      <description>  கட்டச்சங்கிலி 1   கட்டச்சங்கிலி 2  </description>
+    </item>
+    
+    <item>
+      <title>பங்களிப்பு</title>
+      <link>/courses/books/aboutus/contribution/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/aboutus/contribution/</guid>
+      <description>  பங்களிப்பு 1   பங்களிப்பு 2  </description>
+    </item>
+    
+    <item>
+      <title>பொதுத் திறவி உள்கட்டமைப்பு</title>
+      <link>/courses/books/cybersecurity/pki/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/cybersecurity/pki/</guid>
+      <description>  பொதுத் திறவி உள்கட்டமைப்பு 1   பொதுத் திறவி உள்கட்டமைப்பு 2   </description>
+    </item>
+    
+    <item>
+      <title>மறை நாணயங்கள்</title>
+      <link>/courses/books/emergingtech/cryptocurrency/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/cryptocurrency/</guid>
+      <description>  மறை நாணயங்கள் 1   மறை நாணயங்கள் 2  </description>
+    </item>
+    
+    <item>
+      <title>மறைப்பியல்</title>
+      <link>/courses/books/cybersecurity/cryptography/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/cybersecurity/cryptography/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>மாற்ற முடியாத வில்லைகள்</title>
+      <link>/courses/books/emergingtech/nft/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/courses/books/emergingtech/nft/</guid>
+      <description>  மாற்ற முடியாத வில்லைகள் 1   மாற்ற முடியாத வில்லைகள் 2  </description>
     </item>
     
   </channel>

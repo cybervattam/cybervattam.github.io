@@ -50,12 +50,24 @@
 
 
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css" integrity="sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET" crossorigin="anonymous">
+    
 
        
 
   
   
   
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/css/reveal.css"
+  integrity="sha512-ELSdJJazJezQ42bIQYmdIk1xCq3hHfSL3e9jRr/0U1JofaybYBceJ3y2UasSokCT4F8Kk4fu5nKEw3JuVneVOA=="
+  crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/css/theme/white.min.css"
+  integrity="sha512-0bRpW+1GC+RBSImOJNjFDO3/8wvElYORoZ4CqKxqSeRmmClfEdXfkIx+qrRR1hkhtClxcH5GZFhmKnav7rTxoA=="
+  crossorigin="anonymous" />
+  <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css">
+
 
 
 
@@ -113,62 +125,18 @@
 
   <main class="container-fluid mt-5 w-100 h-100">
     <div class="row py-5 w-100 h-100" id="main-container">
-      
+       
+<div class="container reveal d-flex w-25px h-25px m-4">
+    <div class="slides">
 
-<nav class="navbar">
+        <section data-background-iframe="https://onedrive.live.com/embed?cid=44E3FF1DE9A8C7EA&resid=44E3FF1DE9A8C7EA%21129&authkey=ACyj2EucTgzVe4A&em=2"
+        data-background-interactive>
+        </section>
 
+        
 
+    </div></div>
 
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item"><i class="far fa-file-powerpoint"></i></li>
-        <li class="breadcrumb-item active" aria-current="page">
-            Courses
-        </li>
-    </ol>
-      
-
-   
-  </nav>
-  
-
-<main class="pt-3">
-    <ul>
-    
-    
-        <li>
-            <a href="/courses/books/aboutus/licenses">உரிமங்கள்</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/aboutus/aboutus">எங்களை பற்றி</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/emergingtech/blockchain">கட்டச்சங்கிலி</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/aboutus/contribution">பங்களிப்பு</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/cybersecurity/pki">பொதுத் திறவி உள்கட்டமைப்பு</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/emergingtech/cryptocurrency">மறை நாணயங்கள்</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/cybersecurity/cryptography">மறைப்பியல்</a>
-        </li>
-    
-        <li>
-            <a href="/courses/books/emergingtech/nft">மாற்ற முடியாத வில்லைகள்</a>
-        </li>
-    
-    </ul>
-</main>
 
     </div>
     
@@ -211,13 +179,89 @@
 
 
 
+<script type="module">
+    import renderMathInElement from "https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.mjs";
+
+    const onRender = () => {
+      renderMathInElement(document.getElementById('main-container'), {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false,
+          macros:{"\\f":"#1f(#2)"}
+        });
+    };
+    document.addEventListener('onrender', function (e) { 
+
+      onRender();
+      
+
+        
+        
+
+         
 
 
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+     }, false);
+
+     
+     
+     onRender();
+        
+        
+</script>
+
+
+
   
 
   
   
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js"
+    integrity="sha512-8Nk/zoTKjNixnM15wXjpF26KR4Ln87cc5Yllc5xP54wwbcKnljAAn2JP+tYAS8+4e7s/XK8XTiDH0Ltw2fmoBQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2/js/reveal.js"
+    integrity="sha512-VMwkG0MdbDSSM3wUzu6Ny450qkGMXTuBJdN1ssTZPTNWBkXxSYuvhW/o6eu7YQ2H1X2X1thKs6xdt8+obhX4Gg=="
+    crossorigin="anonymous"></script>
+
+<script>
+    Reveal.initialize({
+        dependencies: [
+            {
+                src: 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js', 
+                async: true, 
+                callback: function () { hljs.highlightAll(); }
+            }
+        ]
+    });
+</script>
+
+
   
 
   

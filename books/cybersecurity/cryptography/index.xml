@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybervattam </title>
-    <link>/</link>
-    <description>Recent content on Cybervattam </description>
+    <title>மறைப்பியல் (Cryptography) on Cybervattam </title>
+    <link>/books/cybersecurity/cryptography/</link>
+    <description>Recent content in மறைப்பியல் (Cryptography) on Cybervattam </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/books/cybersecurity/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>தகவல் பாதுகாப்பின் தூண்கள்</title>
       <link>/books/cybersecurity/cryptography/cybersecurity-pillars/</link>
@@ -20,124 +20,6 @@
     </item>
     
     <item>
-      <title>இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா?</title>
-      <link>/books/aboutus/contribution/contribution/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/aboutus/contribution/contribution/</guid>
-      <description>இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா? இந்த தளத்தில் காணும் படைப்புகளை உங்கள் மொழியில் காண விரும்பினால், நீங்கள் ஆங்கில வடிவில் உள்ள படைப்பை எடுத்து நீங்கள் விரும்பிய மொழிக்கு மொழிமாற்றம் செய்ய உதவலாம்.</description>
-    </item>
-    
-    <item>
-      <title>உரிமங்கள்</title>
-      <link>/books/aboutus/licenses/licenses/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/aboutus/licenses/licenses/</guid>
-      <description>உரிமங்கள் இந்த தளத்தில் உள்ள அனைத்து படைப்புகளும், படைப்பாக்கப் பொதுமங்கள்-பெயர் குறிப்பிடுதல்-வர்த்தக நோக்கமற்ற-அதே மாதிரி பகிர்தல் (CC-BY-NC-SA 4.0) உரிமத்தின் கீழ் வழங்கப்படுகிறது. இந்த உரிமம்பற்றி மேலும் தெரிந்துகொள்ள, கீழ்காணும் வளங்காட்டியை சொடுக்கவும்.
-https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
-    </item>
-    
-    <item>
-      <title>உரிமங்கள்</title>
-      <link>/courses/books/aboutus/licenses/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/aboutus/licenses/</guid>
-      <description>  உரிமங்கள் 1   உரிமங்கள் 2  </description>
-    </item>
-    
-    <item>
-      <title>எங்களை பற்றி</title>
-      <link>/books/aboutus/aboutus/aboutus/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/aboutus/aboutus/aboutus/</guid>
-      <description>எங்களை பற்றி தகவல் தொழில்நுட்பத்தை அவரவர் தாய் மொழியில் பயில்வதற்கு தேவையான தரவுகளை உருவாக்குவதே இந்த தளத்தின் நோக்கம். தற்போது, ஆங்கிலம் மற்றும் தமிழில் தரவுகள் கிடைக்கின்றன. மற்ற மொழிகளிலும், இதனை கிடைக்கச் செய்வதில் மிகுந்த ஆர்வமாக உள்ளோம். நீங்கள், இதனை உங்கள் மொழியில் கிடைக்க உதவலாம்.</description>
-    </item>
-    
-    <item>
-      <title>எங்களை பற்றி</title>
-      <link>/courses/books/aboutus/aboutus/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/aboutus/aboutus/</guid>
-      <description>  எங்களை பற்றி 1   எங்களை பற்றி 2  </description>
-    </item>
-    
-    <item>
-      <title>கட்டச்சங்கிலி</title>
-      <link>/courses/books/emergingtech/blockchain/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/emergingtech/blockchain/</guid>
-      <description>  கட்டச்சங்கிலி 1   கட்டச்சங்கிலி 2  </description>
-    </item>
-    
-    <item>
-      <title>கட்டச்சங்கிலி அறிமுகம்</title>
-      <link>/books/emergingtech/blockchain/introduction/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/emergingtech/blockchain/introduction/</guid>
-      <description>கட்டச்சங்கிலி அறிமுகம் கட்டச்சங்கிலி கட்டச்சங்கிலி கட்டச்சங்கிலி</description>
-    </item>
-    
-    <item>
-      <title>பங்களிப்பு</title>
-      <link>/courses/books/aboutus/contribution/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/aboutus/contribution/</guid>
-      <description>  பங்களிப்பு 1   பங்களிப்பு 2  </description>
-    </item>
-    
-    <item>
-      <title>பொதுத் திறவி உள்கட்டமைப்பு</title>
-      <link>/courses/books/cybersecurity/pki/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/cybersecurity/pki/</guid>
-      <description>  பொதுத் திறவி உள்கட்டமைப்பு 1   பொதுத் திறவி உள்கட்டமைப்பு 2   </description>
-    </item>
-    
-    <item>
-      <title>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்</title>
-      <link>/books/cybersecurity/pki/introduction/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/cybersecurity/pki/introduction/</guid>
-      <description>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம் பொதுத் திறவி உள்கட்டமைப்பு பொதுத் திறவி உள்கட்டமைப்பு பொதுத் திறவி உள்கட்டமைப்பு</description>
-    </item>
-    
-    <item>
-      <title>மறை நாணயங்கள்</title>
-      <link>/courses/books/emergingtech/cryptocurrency/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/emergingtech/cryptocurrency/</guid>
-      <description>  மறை நாணயங்கள் 1   மறை நாணயங்கள் 2  </description>
-    </item>
-    
-    <item>
-      <title>மறை நாணயங்கள் அறிமுகம்</title>
-      <link>/books/emergingtech/cryptocurrency/introduction/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/emergingtech/cryptocurrency/introduction/</guid>
-      <description>மறை நாணயங்கள் அறிமுகம் மறை நாணயங்கள் மறை நாணயங்கள் மறை நாணயங்கள்</description>
-    </item>
-    
-    <item>
-      <title>மறைப்பியல்</title>
-      <link>/courses/books/cybersecurity/cryptography/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/cybersecurity/cryptography/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
       <title>மறைப்பியல் அறிமுகம்</title>
       <link>/books/cybersecurity/cryptography/cryptography-introduction/</link>
       <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
@@ -145,24 +27,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/</description>
       <guid>/books/cybersecurity/cryptography/cryptography-introduction/</guid>
       <description>மறைப்பியல் அறிமுகம் மறைப்பியல் என்பது மின் வெளியில்(Cyber Space) தகவலை எவ்வாறு மறைத்து பரிமாறி/சேமித்து, மீட்டெப்பது என்பது பற்றியதன் இயல் ஆகும். இது மறையீட்டியல், குறியாக்கவியல் அல்லது கமுக்கவியல் என்றும் அழைக்கப்படுகிறது. இவ்வியல் கணிதவியல், கணினியியல் மற்றும் பொறியியல் துறைகளின் கூற்றுகளை ஒருசேர உபயோகிக்கும் கூட்டுத் துறையாக விளங்குகிறது. மின் வெளியில் தகவல் பரிமாற்றம் மற்றும் சேமிப்பின் பொழுது, அதன் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மையை காக்க உதவுகிறது
 தகவலை பரிமாறும் / சேமிக்கும் முன்னர், அந்த தகவல் மறையாக்க தீர்வுநெறியின் (Encryption Algorithm) உதவியால், மறையாக்க திறவி (Encryption Key) கொண்டு, மறைக்குறியீடாக (Ciphertext) மாற்றப்படும். இச்செயல் மறையாக்கம் (Encryption) என்று அழைக்கப்படுகிறது</description>
-    </item>
-    
-    <item>
-      <title>மாற்ற முடியாத வில்லைகள்</title>
-      <link>/courses/books/emergingtech/nft/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/courses/books/emergingtech/nft/</guid>
-      <description>  மாற்ற முடியாத வில்லைகள் 1   மாற்ற முடியாத வில்லைகள் 2  </description>
-    </item>
-    
-    <item>
-      <title>மாற்ற முடியாத வில்லைகள் அறிமுகம்</title>
-      <link>/books/emergingtech/nft/introduction/</link>
-      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
-      
-      <guid>/books/emergingtech/nft/introduction/</guid>
-      <description>மாற்ற முடியாத வில்லைகள் அறிமுகம் மாற்ற முடியாத வில்லைகள் மாற்ற முடியாத வில்லைகள் மாற்ற முடியாத வில்லைகள்</description>
     </item>
     
     <item>
