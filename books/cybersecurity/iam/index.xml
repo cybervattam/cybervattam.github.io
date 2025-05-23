@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>அடையாளம் &amp; அணுகல் மேலாண்மை (Identity &amp; Access Management) on Cybervattam</title><link>/books/cybersecurity/iam/</link><description>Recent content in அடையாளம் &amp; அணுகல் மேலாண்மை (Identity &amp; Access Management) on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/books/cybersecurity/iam/index.xml" rel="self" type="application/rss+xml"/><item><title>அடையாளம் &amp; அணுகல் மேலாண்மை கண்ணோட்டம்</title><link>/books/cybersecurity/iam/iam-intro/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-intro/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-intro/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%ae--%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae-%e0%ae%95%e0%ae%a3%e0%ae%a3%e0%ae%9f%e0%ae%9f%e0%ae%ae-iam-overview">
+&lt;h3 id="அடயளம--அணகல-மலணம-கணணடடம-iam-overview">
+ அடையாளம் &amp;amp; அணுகல் மேலாண்மை கண்ணோட்டம் (IAM Overview) 
+&lt;/h3>
+&lt;/a>&lt;p>சரியான காரணங்களுக்காக சரியான அடையாளங்கள் சரியான வளங்களை சரியான நேரத்தில் அணுகுவதை உறுதிசெய்து, தரவின் ரகசியத்தன்மையைப் பாதுகாப்பதே அடையாளம் &amp;amp; அணுகல் மேலாண்மை.&lt;/p>
+&lt;p>Ensuring right entities have right access to right resources at the right time for right reasons and hence protect the confidentiality of the data&lt;/p>
+&lt;p>அடையாளம் &amp;amp; அணுகல் மேலாண்மையை பொதுவாக நான்கு தலைப்புகளாக பிரிக்கலாம்.&lt;/p>
+&lt;ul>
+&lt;li>அடையாள மேலாண்மை (identity management)&lt;/li>
+&lt;li>அடையாள ஆளுகை (identity governance)&lt;/li>
+&lt;li>அணுகல் மேலாண்மை (access management)&lt;/li>
+&lt;li>சிறப்புரிமை அணுகல் மேலாண்மை (privileged access management)&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+&lt;p>இந்த தலைப்புகள் ஒவ்வொன்றையும் விரிவாக காணலாம்.&lt;/p></description></item><item><title>அடையாள வகைகள்</title><link>/books/cybersecurity/iam/iam-identity-types/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-types/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-types/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--identity-types">
+&lt;h3 id="அடயள-வககள--identity-types">
+ அடையாள வகைகள் / Identity Types 
+&lt;/h3>
+&lt;/a>&lt;p>அடையாளங்களை பொதுவாக இரண்டு வகைகளாக பிரிக்கலாம்.&lt;/p>
+&lt;ul>
+&lt;li>வணிகம்-வணிகம் அடையாளங்கள்&lt;/li>
+&lt;li>வணிகம்-நுகர்வோர் அடையாளங்கள்&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-types/#%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%ae-%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%ae-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%99%e0%ae%95%e0%ae%b3-b2b--workforce-identity">
+&lt;h4 id="வணகம-வணகம-அடயளஙகள-b2b--workforce-identity">
+ வணிகம்-வணிகம் அடையாளங்கள் (B2B / Workforce Identity) 
+&lt;/h4>
+&lt;/a>&lt;p>ஒரு வணிக நிறுவனத்தின் செயல்பாட்டிற்கு தேவையான அடையாளங்கள் இந்த வகையின் கீழ் வரும். இவை சொந்த செயல்பாட்டிற்கோ அல்லது மற்ற நிறுவனத்துடன் வர்த்தகம் செய்ய உதவும் அடையாளங்கள். உதாரணமாக,&lt;/p>
+&lt;ul>
+&lt;li>பணியாளர்கள் மற்றும் ஒப்பந்ததாரர்கள் (Employees/Contractors)&lt;/li>
+&lt;li>நிரல்கள் மற்றும் பயன்பாடுகள் (Applications/Programs)&lt;/li>
+&lt;li>பயன்பாட்டு நிரலாக்க இடைமுகம் / சேவைகள் (API/Services)&lt;/li>
+&lt;li>மேசைக்கணினிகள், மடிக்கணினிகள், அச்சுப்பொறிகள், வருடுபொறிகள் (Desktop/Laptop)&lt;/li>
+&lt;li>சேவையகம் &amp;amp; பிணைய சாதனங்கள் (Servers &amp;amp; Network Devices)&lt;/li>
+&lt;/ul>
+&lt;p>அடையாளம் மற்றும் அணுகல் மேலாண்மை அமைப்பில் நிர்வகிக்கப்படுகிறது.&lt;/p></description></item><item><title>அடையாள வாழ்நிலைச் சுழற்சி</title><link>/books/cybersecurity/iam/iam-identity-lifecycle/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-lifecycle/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a--identity-lifecycle-joiner-mover-leaver---jml">
+&lt;h3 id="அடயள-வழநலச-சழறச--identity-lifecycle-joiner-mover-leaver---jml">
+ அடையாள வாழ்நிலைச் சுழற்சி / Identity Lifecycle (Joiner, Mover, Leaver - JML) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-identity-lifecycle-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%b5%e0%ae%b0--joiner">
+&lt;h4 id="அடயள-வழநலச-சழறச---இணபவர--joiner">
+ அடையாள வாழ்நிலைச் சுழற்சி - இணைபவர் / Joiner 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-joiner-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%aa%e0%ae%b5%e0%ae%b0--mover">
+&lt;h4 id="அடயள-வழநலச-சழறச---நகரபவர--mover">
+ அடையாள வாழ்நிலைச் சுழற்சி - நகர்பவர் / Mover 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-mover-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%b5%e0%ae%b3%e0%ae%af%e0%ae%b1%e0%ae%aa%e0%ae%b5%e0%ae%b0--leaver">
+&lt;h4 id="அடயள-வழநலச-சழறச---வளயறபவர--leaver">
+ அடையாள வாழ்நிலைச் சுழற்சி - வெளியேறுபவர் / Leaver 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-leaver-ta.svg" width=50%></description></item><item><title>அதிகாரம் வழங்கல்</title><link>/books/cybersecurity/iam/iam-provisioning/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-provisioning/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-provisioning/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-provisioning">
+&lt;h3 id="அதகரம-வழஙகல-provisioning">
+ அதிகாரம் வழங்கல் (Provisioning) 
+&lt;/h3>
+&lt;/a>&lt;p>அதிகாரம் வழங்கல் என்பது ஒரு தானியங்கி அல்லது அரை தானியங்கி முறையில் செயல்படும் பயனர் கணக்குகளை உருவாக்குதல், இந்த கணக்குகளுக்கான பாத்திரங்கள் மற்றும் அனுமதிகளை ஒதுக்குதல் மற்றும் நிர்வகித்தல் ஆகியவற்றை உள்ளடக்கிய ஒரு செயல்முறையாகும்.&lt;/p>
+&lt;p>அதிகாரம் வழங்கல் பயன்பாடு, அதிகாரப்பூர்வ அடையாள அமைப்பிலிருந்து பயனர் தகவலைப் படிக்கும், பயன்பாட்டு தகவலிலிருந்து பயன்பாட்டுப் பாத்திரங்களைப் படிக்கும். பின்னர், நிறுவனக் கொள்கைகளின் அடிப்படையில் அடையாள பாத்திர வரைவை (identity role mapping) உருவாக்கும்.&lt;/p>
+&lt;p>வழங்கல் கட்டமைப்பு வகையின் அடிப்படையில் இலக்கு பயன்பாட்டிற்கு அடையாள பாத்திர வரைவை அனுப்பலாம்.&lt;/p>
+&lt;p>அங்கீகாரத் தகவல்களை அதிகாரம் வழங்கல் பயன்பாடு அனுப்பலாம் அல்லது இலக்கு பயன்பாடு அதிகாரம் வழங்கல் பயன்பாடு அனுப்பிய அடையாள பாத்திர வரைவை கொண்டு தன் அங்கீகாரம் செய்யப்படலாம்.&lt;/p></description></item><item><title>அதிகாரம் வழங்கல் வகைகள்</title><link>/books/cybersecurity/iam/iam-provisioning-types/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-provisioning-types/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--provisioning-types">
+&lt;h3 id="அதகரம-வழஙகல-வககள--provisioning-types">
+ அதிகாரம் வழங்கல் வகைகள் / Provisioning Types 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%b5%e0%ae%b0%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%ae-%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2---discretionary-access-provisioning">
+&lt;h4 id="வரபபரம-அதகரம-வழஙகல---discretionary-access-provisioning">
+ விருப்புரிமை அதிகாரம் வழங்கல் / Discretionary access provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* பெரும்பாலும் சிறிய முதல் நடுத்தர அளவிலான நிறுவனங்களில் பயன்படுத்தப்படும், இந்த அணுகுமுறை எந்த பயன்பாடுகள் மற்றும் தரவுகளை பயனர்கள் அணுக முடியும் என்பதை முடிவு செய்ய ஒரு பிணைய நிர்வாகியை அனுமதிக்கிறது..
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5-%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2--self-service-access-provisioning">
+&lt;h4 id="சயசவ-அதகரம-வழஙகல--self-service-access-provisioning">
+ சுயசேவை அதிகாரம் வழங்கல் / Self-service access provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* பொதுவாக, இந்த அணுகுமுறை ஒரு நிர்வாகியின் பணிச்சுமையை குறைக்க உதவுகிறது. இது பயனர்கள் ஒரு கணக்கைகோருதல் மற்றும் சுய-மேலாண்மை கடவுச்சொற்களை கோருதல் போன்ற வழங்கல் செயல்முறையின் சில அம்சங்களில் பங்கேற்க உதவுகிறது.
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%aa%e0%ae%a3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b5-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a4%e0%ae%b2--workflow-based-account-provisioning">
+&lt;h4 id="பணபபயவ-அடபபடயலன-கணகக-வழஙகதல--workflow-based-account-provisioning">
+ பணிப்பாய்வு அடிப்படையிலான கணக்கு வழங்குதல் / Workflow based account provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* ஒரு பயன்பாடு அல்லது தரவுக்கான பயனர் அணுக அதிகாரம் வழங்குவதற்கு முன், நியமிக்கப்பட்ட ஒப்புதல் அளிப்பவர்களிடமிருந்து ஒப்புதல் தேவை. உதாரணமாக, நிதி மேலாண்மை அமைப்பை அணுக அதிகாரம் வழங்குவதற்கு முன், அந்நிறுவனத்தின் தலைமை நிதி அதிகாரி ஒப்புதல் தேவைப்படும்.
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%99%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a4%e0%ae%b2--automated-account-provisioning">
+&lt;h4 id="தனயஙக-கணகக-வழஙகதல--automated-account-provisioning">
+ தானியங்கு கணக்கு வழங்குதல் / Automated account provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* ஒவ்வொரு கணக்கும் ஒரு மையப்படுத்தப்பட்ட மேலாண்மை பயன்பாட்டு இடைமுகம் மூலம் ஒரே முறையில் சேர்க்கப்படுகிறது.
+* இது பயனர் நம்பிக்கைச்சான்றுகளைச் சேர்ப்பது மற்றும் நிர்வகிப்பது போன்ற செயல்முறையை ஒழுங்குபடுத்துகிறது மற்றும் குறிப்பிட்ட பயன்பாடுகள் மற்றும் தரவு ஆதாரங்களை யார் அணுகுகிறார்கள் என்பதைக் கண்காணிக்க நிர்வாகிகளுக்கு மிகவும் துல்லியமான வழியை வழங்குகிறது.
+* வழங்கல் மற்றும் அடையாள மேலாண்மை செயல்முறைகள் ஒரே மாதிரியாக இருந்தாலும், பல்வேறு பயனர்களிடையே (எ.கா. நோயாளிகள், மருத்துவர்கள், வாடிக்கையாளர்கள் மற்றும் கூட்டாளர்கள்) வழங்கல் அளவு மற்றும் வகை பெரிதும் வேறுபடுகிறது
+&lt;/code>&lt;/pre></description></item><item><title>அடையாள வரைவுகள்</title><link>/books/cybersecurity/iam/iam-identity-mapping/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-mapping/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-mapping/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b0%e0%ae%b5%e0%ae%95%e0%ae%b3-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%a9%e0%ae%a4-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95%e0%ae%95%e0%ae%b3--identity-mapping--orphan-accounts">
+&lt;h3 id="அடயள-வரவகள-மறறம-அனத-கணகககள--identity-mapping--orphan-accounts">
+ அடையாள வரைவுகள் மற்றும் அனாதை கணக்குகள் / Identity mapping &amp;amp; orphan accounts 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>அடையாள வரைபடமானது பல்வேறு வடிவங்களில் பயன்பாடுகளில் உள்ள பல்வேறு கணக்குகளை மனிதவள அல்லது செயற்பாட்டு அடைவில் உள்ள ஒரு அதிகாரபூர்வ அடையாளத்துடன் இணைக்கும் ஒரு செயல் ஆகும்&lt;/li>
+&lt;li>அனாதை கணக்குகள் என்பது எந்தவொரு அதிகாரபூர்வமான அடையாளத்துடன் இணைக்கப்படாமல் பயன்பாடுகளில் உள்ள கணக்குகள்/அடையாளங்கள் ஆகும்.&lt;/li>
+&lt;li>அனாதை கணக்குகள் இரண்டு வகையான பாதுகாப்பு மறையிடர்களுக்கு வழிவகுக்கும்:
+&lt;ul>
+&lt;li>கணக்கிண் உரிமையாளர் இல்லை / பதவி விலகினால், அந்த கணக்கு தவறாக பயன்படுத்துவதன் மூலம் உயர்ந்த ஆபத்திற்கு வழிவகுக்கும். ஏனெனில் கணக்கின் வழக்கத்திற்கு மாறான பயன்பாட்டை இல்லாத கணக்கின் உரிமையாளரால் கண்டறிய இயலாது.&lt;/li>
+&lt;li>அனாதை கணக்குகள் அவற்றின் உரிமையாளர் வெளியேறும்போது நம்பகமான முறையில் செயலிழக்க முடியாது. ஏனெனில் அந்த உரிமையாளருக்கு இந்த கணக்குடன் இணைப்பு இருக்காது.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-identity-map-ta.svg" width=70%></description></item><item><title>அடையாள சுயசேவை</title><link>/books/cybersecurity/iam/iam-self-service/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-self-service/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-self-service/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5--iam-self-service">
+&lt;h3 id="அடயள-சயசவ--iam-self-service">
+ அடையாள சுயசேவை / IAM self service 
+&lt;/h3>
+&lt;/a>&lt;p>அடையாள மேலாண்மை அமைப்பில் கீழ்காணும் சேவைகள் சுய சேவைகளாக பயனர்/மனித அடையாளங்களுக்கு வழங்கப்படுகின்றன&lt;/p>
+&lt;ol>
+&lt;li>சுயசேவை கடவுச்சொல் மேலாண்மை&lt;/li>
+&lt;li>சுயசேவை அணுகல் கோரிக்கை மேலாண்மை&lt;/li>
+&lt;li>சுயசேவை சுயவிவரம் பராமரித்தல்&lt;/li>
+&lt;/ol>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-self-service/#1-%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5-%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae">
+&lt;h4 id="1-சயசவ-கடவசசல-மலணம">
+ &lt;strong>1. சுயசேவை கடவுச்சொல் மேலாண்மை&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>சுய சேவை கடவுச்சொல் மேலாண்மை என்பது தங்கள் கடவுச்சொல்லை மறந்துவிட்ட அல்லது கணக்கு பூட்டப்பட்ட ஒரு பயனர், மாற்று சான்றுறுதி முறை மூலம் தம்மை அங்கீகரிக்கவும், உதவி மேசையை அழைக்காமல் தங்கள் சிக்கலை சரிசெய்யவும் பயனர்களை அனுமதிக்கும் செயல்முறை அல்லது தொழில்நுட்பமாகும்.&lt;/p>
+&lt;p>சுய-சேவை கடவுச்சொல் மேலாண்மை தீர்வுகள், பயனர் கோப்பகத்துடன் (செயற்பாட்டு அடைவு) நேரடியாக தொடர்புகொள்வதன் மூலம் மீட்டமைத்தல் மற்றும் கணக்கை திறக்கும் செயல்பாடுகளைச் செய்கின்றன.&lt;/p></description></item><item><title>நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை</title><link>/books/cybersecurity/iam/iam-ciam/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-ciam/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%ae-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae--consumer-identity--access-management">
+&lt;h3 id="நகரவர-அடயளம-மறறம-அணகல-மலணம--consumer-identity--access-management">
+ நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை / Consumer identity &amp;amp; access management 
+&lt;/h3>
+&lt;/a>&lt;p>நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை என்பது ஒரு சிறப்பு வகை அமைப்பு ஆகும்.&lt;/p>
+&lt;p>நிறுவனங்கள் தங்களின் நுகர்வோர் அல்லது வாடிக்கையாளர் அடையாளம் மற்றும் சுயவிவரத் தரவை பாதுகாப்பாக பதிவு செய்யவும், நிர்வகிக்கவும் உதவுகிறது.&lt;/p>
+&lt;p>வணிகம்-நுகர்வோர் சூழலில் பயன்பாடுகள் மற்றும் சேவைகளுக்கான வாடிக்கையாளர் அணுகலைக் கட்டுப்படுத்தவும் உதவுகிறது.&lt;/p>
+&lt;p>ஒரு நிறுவனத்தின் எந்த தொடர்பு வசதியை (வலை, திறன்பேசி செயலி, தொலைபேசி முதலியன) பயன்படுத்தினாலும், ஒரு பாதுகாப்பான, தடையற்ற வாடிக்கையாளர் அனுபவத்தை வழங்க உறுதி செய்கிறது.&lt;/p>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%a4%e0%ae%b1%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%b3--ciam-features">
+&lt;h4 id="நகரவர-அடயள-அமபபன-தறறக-கறகள--ciam-features">
+ &lt;strong>நுகர்வோர் அடையாள அமைப்பின் தோற்றக் கூறுகள் / CIAM features&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%9a%e0%ae%af%e0%ae%b2%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--ciam-processes">
+&lt;h3 id="நகரவர-அடயள-அமபபன-சயலமறகள--ciam-processes">
+ &lt;strong>நுகர்வோர் அடையாள அமைப்பின் செயல்முறைகள் / CIAM processes&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%></description></item><item><title>வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு</title><link>/books/cybersecurity/iam/iam-vs-ciam/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-vs-ciam/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-vs-ciam/#%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%9f-iam-vs-ciam-comparison">
+&lt;h3 id="வணகநகரவர-அடயள-அமபப-ஒபபட-iam-vs-ciam-comparison">
+ வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு (IAM vs CIAM comparison) 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>வணிக அடையாள அமைப்பு&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>நுகர்வோர் அடையாள அமைப்பு&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>இன்றைய நிறுவனங்களில் காணப்படும் ஆயிரக்கணக்கான அடையாளங்களைக் கையாள வடிவமைக்கப்பட்டுள்ளன. &lt;br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்றங்களை கையாளும் திறன் குறைவாக உள்ளது. &lt;br> வணிகம்-வணிகம் அமைப்பிற்கு ஏற்றது. &lt;br> ஒரு பயனருக்கு ஒற்றை அடையாளம் மட்டுமே இருக்கும். &lt;br> ஊழியர்கள் அல்லது ஒப்பந்தக்காரர்களுக்காக நிறுவனத்தால் அடையாளங்கள் உருவாக்கப்படுகின்றன. &lt;br> வணிக பயன்பாடுகளுக்கான கடுமையான பாதுகாப்புக் கொள்கைகளுடன் சான்றுறுதி மற்றும் அங்கீகாரத்திற்காக முதன்மையாகப் பயன்படுத்தப்படுகிறது.&lt;/td>
+ &lt;td>ஒரு நிறுவனத்தின் இலட்சக்கணக்கான வாடிக்கையாளர்கள் அல்லது நுகர்வோருக்கு ஆதரவளிக்கும் வகையில் வடிவமைக்கப்பட்டுள்ளன. &lt;br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்ற இறக்கங்களைக் கையாளும் வகையில் கட்டமைக்கப்பட்டுள்ளன. &lt;br> வணிகம்-நுகர்வோர் அமைப்பிற்கு ஏற்றது. &lt;br> நுகர்வோர் பல அடையாளங்களைக் கொண்டிருக்கலாம். &lt;br> அடையாளங்கள் சுயமாக பதிவு செய்யப்படுகின்றன மற்றும் வாடிக்கையாளர்களால் நிர்வகிக்கப்படுகின்றன. &lt;br> இறுதி பயனர் எங்கே இருந்தாலும் அல்லது அவர்கள் என்ன சாதனத்தைப் பயன்படுத்தினாலும் ஒரு நிலையான உள்நுழைவு அனுபவத்தை வழங்குகிறது. &lt;br> சமூக ஊடக வழி சான்றுறுதியை ஆதரிக்கிறது. &lt;br> இசைவு மேலாண்மையை செயல்படுத்துகிறது. &lt;br> தனிப்பயனாக்கப்பட்ட பயனர் அனுபவத்தை உருவாக்க நிறுவனங்களை அனுமதிக்கிறது&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>சான்றுறுதி &amp; அதிகாரம் வழங்கல்</title><link>/books/cybersecurity/iam/iam-authn-authz/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-authn-authz/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-authn-authz/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-authentication">
+&lt;h3 id="சனறறத-authentication">
+ &lt;strong>சான்றுறுதி (Authentication)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>அடையாளத்தை உறுதி செய்வது&lt;/strong>&lt;/p>
+&lt;p>சான்றுறுதி என்பது பயனரின் விவரங்களைச் சரிபார்த்து பயனரை அடையாளம் கண்டு ஒரு இணைய வளத்திற்கு அணுகலை வழங்கும் செயல்முறையாகும்&lt;/p>
+&lt;p>ஒரு அடையாளத்தால் கோரப்படும் ஒரு பண்பு / தரவுத் துண்டின் உண்மையை உறுதிப்படுத்துவதன் மூலம் சரிபார்ப்பு செய்யப்படுகிறது&lt;/p>
+&lt;p>எ.கா., பயனர் பெயர் &amp;amp; கடவுச்சொல், உயிரளவைத் தரவு, அரசு வழங்கிய அடையாள அட்டை&lt;/p>
+&lt;p>பயனர்கள் நம்பிக்கைச்சான்றுகளை சரிபார்க்கிறது&lt;/p>
+&lt;p>அங்கீகாரம் / அதிகாரம் வழங்கும் முன் நிகழும்&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-authn-authz/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-authorization">
+&lt;h3 id="அதகரம-வழஙகல-authorization">
+ &lt;strong>அதிகாரம் வழங்கல் (Authorization)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>அடையாளத்திற்கு உரிமை நல்குதல்&lt;/strong>&lt;/p>
+&lt;p>அங்கீகாரம் / அதிகாரம் வழங்கல் என்பது சான்றுறுதி அளிக்கப்பட்ட பயனரின் சிறப்புரிமைகள் அல்லது அமைப்பின் வளங்களை அணுகுவதற்கான அனுமதிகளை சரிபார்க்கும் செயல்முறையாகும்&lt;/p></description></item><item><title>பல காரணி சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-mfa/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-mfa/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-mfa/#%e0%ae%aa%e0%ae%b2-%e0%ae%95%e0%ae%b0%e0%ae%a3-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-multifactor-authentication">
+&lt;h3 id="பல-கரண-சனறறத-multifactor-authentication">
+ பல காரணி சான்றுறுதி (Multifactor Authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>பல காரணி சான்றுறுதி என்பது ஒரு பயனரின் அடையாளத்தை உறுதி செய்ய ஒன்றுக்கும் மேலான காரணிகளை பயன்படுத்த நிர்பந்திக்கும் ஒரு பாதுகாப்பு முறை. இம்முறை, இரண்டு அல்லது அதற்கும் மேலான தொடர்பில்லாத காரணிகளை சரிபார்த்த பின்னர் ஒரு அடையாளத்திற்கு சான்றுறுதி அளிக்கும். இதற்கு பயன்படும் சில காரணிகளை கீழே காணலாம்.&lt;/p>
+&lt;img src="images/iam-ta/iam-mfa-ta.svg" width=50%></description></item><item><title>ஓரு முறை கடவுச்சொல்</title><link>/books/cybersecurity/iam/iam-otp/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-otp/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-otp/#%e0%ae%93%e0%ae%b0-%e0%ae%ae%e0%ae%b1-%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2--one-time-password-otp">
+&lt;h3 id="ஓர-மற-கடவசசல--one-time-password-otp">
+ &lt;strong>ஓரு முறை கடவுச்சொல் / One time password (OTP)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>குறுக்க தீர்வுநெறிகள் ஒரு முறை கடவுச்சொல்லை உருவாக்க பயன்படுத்தப்படுகின்றன. இதற்கு தீர்வுநெறிகள் இரண்டு உள்ளீடுகளைப் பயன்படுத்துகின்றன: விதை மற்றும் நகரும் காரணி.&lt;/p>
+&lt;p>விதை என்பது ஒரு நிலையான மதிப்பு (இரகசியத் திறவி). இந்த இரகசியத் திறவி நீங்கள் சான்றுறுதி சேவையகத்தில் புதிய கணக்கை நிறுவும் போது உருவாக்கப்படும். நகரும் காரணியின் அடிப்படையில், HOTP &amp;amp; TOTP என இரண்டு வகையான ஒரு முறை கடவுச்சொற்கள் கிடைக்கின்றன.&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-otp/#hotp">
+&lt;h4 id="hotp">
+ &lt;strong>HOTP&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>Hash-based Message Authentication Code OTP (HOTP) எனும் குறுக்கம் சார்ந்த செய்தி நம்பத்தகுமைக் குறியீட்டு ஒரு முறை கடவுச்சொல்லை குறிக்கிறது.&lt;/p></description></item><item><title>கடவுச்சொல்லற்ற சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-passwordless/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-passwordless/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-passwordless/#%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2%e0%ae%b2%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-password-less-authentication">
+&lt;h3 id="கடவசசலலறற-சனறறத-password-less-authentication">
+ கடவுச்சொல்லற்ற சான்றுறுதி (Password-less authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>கடவுச்சொல்லற்ற சான்றுறுதி என்பது பல காரணி சான்றுறுதியின் ஒரு வகை ஆகும். இங்கே பலவீனமான கடவுச்சொற்கள் காரணிக்கு மாற்றாக கைரேகை அல்லது இரகசியக் குறியீடு போன்ற மிகவும் பாதுகாப்பான சான்றுறுதி காரணிகள் பயன்படுத்தப்படுகின்றன. கடவுச்சொல்லற்ற சான்றுறுதி இலக்கமுறைச் சான்றிதழ்கள் சான்றுறுதியின் கொள்கைகளான மறைப்பியல் துணைத்திறவிகளை நம்பியுள்ளது. (தனித்திறவி மற்றும் பொதுத்திறவி)&lt;/p>
+&lt;p>ஒரு பாதுகாப்பான கணக்கை உருவாக்க விரும்பும் ஒரு தனிநபர் ஒரு தனித்திறவி மற்றும் பொதுத்திறவி அடங்கிய துணைத்திறவிகளை உருவாக்க ஒரு கருவியை (எ. கா. திறன்பேசி செயலி, உலாவி நீட்டிப்பு) பயன்படுத்துகிறார். தனித்திறவி பயனரின் சாதனத்தின் உள்ளேயே சேமிக்கப்பட்டு மற்றும் கைரேகை, பின் அல்லது குரல் அறிதல் போன்ற காரணியுடன் இணைக்கப்பட்டுள்ளது, மேலும் இந்த சைகைகளை செய்வதன்மூலம் மட்டுமே அதை அணுக முடியும்.&lt;/p></description></item><item><title>மறையிடர் அடிப்படியிலான சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-risk-based-auth/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-risk-based-auth/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-risk-based-auth/#%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%9f%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4--%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%ae%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-risk-based-authenticationadaptive-authentication">
+&lt;h3 id="மறயடர-அடபபடயலன-சனறறத--தகவமச-சனறறத-risk-based-authenticationadaptive-authentication">
+ மறையிடர் அடிப்படியிலான சான்றுறுதி / தகவமைச் சான்றுறுதி (Risk-based authentication/Adaptive authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>மறையிடர் அடிப்படியிலான / தகவமைச் சான்றுறுதி என்பது பல்வேறு ஆதாரங்களில் இருந்து கிடைக்கும் சமிக்ஞைகளை பகுப்பாய்வு செய்து ஒரு குறிப்பிட்ட அமர்வுக்கு மறையிடர் மதிப்பெண்ணை கணக்கிடுகிறது.&lt;/p>
+&lt;p>நிறுவனக் கொள்கைகள் கணக்கிடப்பட்ட மறையிடர் மதிப்பெண் அடிப்படையில் எடுக்கப்பட வேண்டிய நடவடிக்கையை வரையறுக்கின்றன.&lt;/p>
+&lt;img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%></description></item><item><title>சான்றிதழ் அடிப்படையிலான சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-certificate-based-authn/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-certificate-based-authn/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-certificate-based-authn/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-certificate-based-authentication">
+&lt;h3 id="சனறதழ-அடபபடயலன-சனறறத-certificate-based-authentication">
+ சான்றிதழ் அடிப்படையிலான சான்றுறுதி (Certificate Based Authentication) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%></description></item><item><title>ஒற்றை நுழைவு / கூட்டமைத்தல்</title><link>/books/cybersecurity/iam/iam-sso-federation/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-sso-federation/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5--%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b2-ssofederation">
+&lt;h3 id="ஒறற-நழவ--கடடமததல-ssofederation">
+ ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%b5%e0%ae%b5%e0%ae%b5%e0%ae%b1-%e0%ae%95%e0%ae%b3%e0%ae%99%e0%ae%95%e0%ae%b3">
+&lt;h4 id="கடடமததல-வவவற-களஙகள">
+ கூட்டமைத்தல் (வெவ்வேறு களங்கள்) 
+&lt;/h4>
+&lt;/a>&lt;p>கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.
+பயனரின் நம்பிக்கைச்சான்று (User Credentials) எங்கே சேமிக்கப்படுகின்றன
+மேலும், மூன்றாம் தரப்பினர் அதனை பார்க்காமல் அந்த நம்பிக்கைச்சான்றுகளுக்கு எவ்வாறு சான்றுறுதி அளிப்பது என்பதைப் பற்றியது&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5-%e0%ae%92%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%89%e0%ae%b3%e0%ae%b3-%e0%ae%aa%e0%ae%b2-%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3">
+&lt;h4 id="ஒறற-நழவ-ஒர-களததல-உளள-பல-பயனபடகள">
+ ஒற்றை நுழைவு (ஒரே களத்தில் உள்ள பல பயன்பாடுகள்) 
+&lt;/h4>
+&lt;/a>&lt;p>அடையாள வழங்குநர் பக்கத்தில் ஒருமுறை மட்டுமே உள்நுழைந்து, ஒரு அமர்வைச் செயல்படுத்துவதன் மூலம் ஒரே களத்தில் உள்ள வெவ்வேறு பயன்பாடுகளை அங்கீகரிக்கவும் உள்நுழையவும் ஒற்றை உள்நுழைவு பயன்படுத்தப்படுகிறது.
+ஒற்றை வெளியேற்றம் செய்யவும் இது பயன்படுகிறது&lt;/p></description></item><item><title>பாதுகாப்பு வலியுறுத்தல் மீவுரை</title><link>/books/cybersecurity/iam/iam-saml/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-saml/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-saml/#%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa-%e0%ae%b5%e0%ae%b2%e0%ae%af%e0%ae%b1%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%ae%e0%ae%b5%e0%ae%b0-security-assertion-markup-languagesaml">
+&lt;h3 id="பதகபப-வலயறததல-மவர-security-assertion-markup-languagesaml">
+ பாதுகாப்பு வலியுறுத்தல் மீவுரை (Security Assertion Markup Language/SAML) 
+&lt;/h3>
+&lt;/a>&lt;p>பாதுகாப்பு வலியுறுத்தல் மீவுரை (SAML) என்பது XML-ஐ அடிப்படையாக கொண்டு உருவாக்கப்பட்ட ஒற்றை நுழைவு நெறிமுறையாகும் (SSO Protocol). அடையாள வழங்குநர் (IDP) மற்றும் சேவை வழங்குநர் (SP) இடையே SOAP/HTTP கோரிக்கை மீது சான்றுறுதி மற்றும் அதிகாரம் வழங்குதல் என இரண்டையும் ஆதரிக்கும் திறன் பெற்றது.
+அடையாள சரிபார்ப்புக்காக பேசுவதற்கு முன், இரண்டு வழங்குநர்களும் ஒரு SAML ஒப்பந்தத்தை வரையறுத்து மீத்தரவு வழியாக பூர்வாங்க தகவல்களை பரிமாறிக் கொள்ள வேண்டும். இந்த தகவலில் இது போன்ற விவரங்கள் அடங்கும்:&lt;/p>
+&lt;ul>
+&lt;li>பொதுத் திறவிகள் (மறையாக்கத்திற்கு பயன்படுத்தப்படும்), ஆதரிக்கப்படும் மறையாக்க நெறிமுறைகள், முடிவுபுள்ளி சீர் வள குறிப்பான் (Endpoint URL) (SAML செய்திகளை * எங்கு அனுப்புவது).&lt;/li>
+&lt;li>ஆதரிக்கப்படும் இணைப்பு முறைகள் மற்றும் ஆதரிக்கப்படும் XML பண்பு வடிவங்கள்.
+இரு வழங்குநர்களும் ஒருவரையொருவர் பற்றிய இந்த விவரங்களை அறிந்தவுடன், அதற்கேற்ப தங்களை மாற்றி அமைத்துக் கொள்கிறார்கள்.&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%></description></item><item><title>திறந்த அடையாள இணைப்பு</title><link>/books/cybersecurity/iam/iam-oidc/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-oidc/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-oidc/#%e0%ae%a4%e0%ae%b1%e0%ae%a8%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%aa-open-id-connect--oidc">
+&lt;h3 id="தறநத-அடயள-இணபப-open-id-connect--oidc">
+ திறந்த அடையாள இணைப்பு (Open ID Connect / OIDC) 
+&lt;/h3>
+&lt;/a>&lt;p>OIDC என்பது OAuth 2.0 கட்டமைப்பின் மேல் உருவாக்கப்பட்ட ஒரு புதிய ஒற்றை நுழைவு நெறிமுறையாகும். பாதுகாப்பு தரவை உருவாக்க JSON-அடிப்படையிலான இணைய குறிகளை (JSON-based Web Tokens) பயன்படுத்துகிறது.
+JWT என்பது அடையாள வழங்குநர் (IDP) &amp;amp; சார்ந்திருக்கும் சேவை (RP) ஆகிய இரு தரப்பினரிடையே உரிமைகோரல் (Claims) விதிகளை வகுப்பதற்கும் மற்றும் பாதுகாப்பாக பரிமாற்றுவதற்கும் பயன்படுத்தப்படும் ஒரு தரநிலையாகும்.
+அடையாளச் சரிபார்ப்பை ஆதரிக்கப் பயன்படுத்தப்படும் மறையாக்கம் செய்யப்பட்ட, முக்கிய பயனர் தரவு, உரிமை கோரல்கள்
+ஒரு பயன்பாடு அணுகக்கூடிய உரிமைகோரல்களை (பயனர் பண்புகள்) OIDC நோக்கங்கள் (Scopes) வரையறுக்கின்றன. அடையாள வழங்குநர் ஏற்றுக்கொள்ளக்கூடிய நோக்கங்களின் பட்டியலைபராமரிக்கிறது மற்றும் ஒரு பயனர் வெளிப்படையாக தங்கள் விவரங்களைப் பகிர சம்மதித்த பிறகு, சார்ந்திருக்கும் சேவைக்கு (பயன்பாடு) நோக்கங்களைக் கிடைக்கச் செய்கிறது.
+தொடர்பு கொள்ளும் முன், சார்ந்திருக்கும் சேவை மற்றும் அடையாள வழங்குநர் மீத்தரவை பரிமாறிக் கொள்ளவேண்டும். இரு தரப்பினரும் சாத்தியமான நோக்கங்களில் உடன்பட வேண்டும். அடையாள வழங்குநர் சார்ந்திருக்கும் சேவைக்கு ஒரு இரகசியக் குறியீடு மற்றும் சேவை அடையாளத்தை வழங்க வேண்டும். மேலும் சார்ந்திருக்கும் சேவை குறியீடுகள் மற்றும் குறிகளைப் பெற முடிவுபுள்ளி சீர் வள குறிப்பான் பகிர்ந்து கொள்ள வேண்டும்.&lt;/p></description></item><item><title>ஒற்றை நுழைவு நெறிமுறை ஒப்பீடு</title><link>/books/cybersecurity/iam/iam-saml-vs-oidc/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-saml-vs-oidc/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-saml-vs-oidc/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%9f-sso-protocol-comparision">
+&lt;h3 id="ஒறற-நழவ-நறமற-ஒபபட-sso-protocol-comparision">
+ ஒற்றை நுழைவு நெறிமுறை ஒப்பீடு (SSO Protocol Comparision) 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;img src="images/logos/saml-logo.png" width=20%>&lt;/th>
+ &lt;th>&lt;img src="images/logos/openid-connect-logo.jpg" width=20%>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>நீண்ட காலமாக பயன்பாட்டில் உள்ள ஒரு சான்றுறுதி மற்றும் அதிகாரம் வழங்குதல் மற்றும் ஒற்றை நுழைவு நெறிமுறை ஆகும். &lt;br> தகவலைப் பரிமாறிக்கொள்ள XML ஐப் பயன்படுத்துகிறது. SAML பாதுகாப்பு வலியுறுத்தல்கள் / குறிகள் அளவில் பெரியவையாகவும் மேலும் இதனை செயலாக்குவது ஒப்பீட்டளவில் கடினம். &lt;br> பயனர் ஒப்புதலை இயல்பாக ஆதரிக்காது, ஆனால் விரிவான மேம்பாட்டின் மூலம் அடைய முடியும். &lt;br> நீண்ட காலமாக இருப்பதால், அது இன்னும் அரசாங்க நிறுவனங்கள் உட்பட நிறைய அமைப்புகளால் நம்பப்படுகிறது. &lt;br> நிறுவனங்கள் மற்றும் ஒரு வணிகத்திலிருந்து மற்றொரு வணிக அமைப்பிற்கு தகவலைப் பரிமாற ஏற்றது&lt;/td>
+ &lt;td>OAuth 2.0 கட்டமைப்பின் மேல் உருவாக்கப்பட்ட ஒரு புதிய ஒற்றை நுழைவு நெறிமுறையாகும். &lt;br> JSON-அடிப்படையிலான இணைய குறிகளை (JSON-based Web Tokens) பயன்படுத்துகிறது. இவை அளவில் சிறியதாகவும் மேலும் இலகுவாக செயலாக்கம் இயலும். &lt;br> இயல்பாகவே பயனர் ஒப்புதலை ஆதரிக்கிறது. &lt;br> OIDC இப்போது SAML ஆல் ஆதரிக்கப்படும் அம்சங்களைப் வழங்கத் தொடங்குகிறது. &lt;br> வணிகத்திலிருந்து நுகர்வோர் அமைப்பிற்கு தகவலைப் பரிமாற ஏற்றது. மேலும், ஒற்றைப் பக்க பயன்பாடுகள் (SPA) மற்றும் திறன்பேசி செயலிகள் போன்ற நவீன பயன்பாடுகளுக்கு சான்றுறுதி அளிப்பதை ஆதரிக்கிறது.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

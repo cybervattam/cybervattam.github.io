@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybervattam</title><link>/</link><description>Recent content on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN)</title><link>/books/cybersecurity/icann-iana/icann-intro/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/icann-iana/icann-intro/</guid><description>&lt;a href="/books/cybersecurity/icann-iana/icann-intro/#%e0%ae%87%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%af-%e0%ae%aa%e0%ae%af%e0%ae%b0%e0%ae%95%e0%ae%b3-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%8e%e0%ae%a3%e0%ae%95%e0%ae%b3%e0%ae%95%e0%ae%95%e0%ae%a9-%e0%ae%87%e0%ae%a3%e0%ae%af-%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9%e0%ae%ae-internet-corporation-for-assigned-names-and-numbers">
+&lt;h3 id="இரததய-பயரகள-மறறம-எணகளககன-இணய-நறவனம-internet-corporation-for-assigned-names-and-numbers">
+ இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (Internet Corporation for Assigned Names and Numbers) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/logos/icann-logo.svg">
+&lt;br>
+&lt;br>
+&lt;p>&lt;strong>யார் இவர்கள்?&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்பது 1988-ஆம் ஆண்டு தொடங்கப்பட்ட ஒரு சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனம். நிலையான, பாதுகாப்பான மற்றும் ஒருங்கிணைந்த உலகளாவிய இணையத்தை உறுதிப்படுத்த உதவுவதே இந்நிறுவனத்தின் நோக்கம்.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>ஏன் இவர்கள் தேவை?&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>இணையத்தில் மற்றொரு அமைப்பை (நபர், நிறுவனம், சேவையகம்) தொடர்புகொள்ள, உங்கள் சாதனத்தில் (கணினி/திறன் பேசி) ஒரு முகவரியை (ஒரு பெயர் அல்லது எண்ணை) உள்ளீடு செய்ய வேண்டும். அந்த முகவரி தனிப்பட்டதாக இருக்க வேண்டும்; அப்பொழுது தான் கணினிகள் ஒன்றையொன்று எங்கு உள்ளது என்பதை கண்டுபிடிக்க இயலும். உலகெங்கிலும் உள்ள இந்த தனித்துவமான அடையாளங்காட்டிகளை ஒருங்கிணைக்கவும் ஆதரிக்கவும் இந்நிறுவனம் உதவுகிறது.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>இந்நிறுவனத்தின் பொறுப்பு என்ன?&lt;/strong>&lt;/p></description></item><item><title>அடையாளம் &amp; அணுகல் மேலாண்மை கண்ணோட்டம்</title><link>/books/cybersecurity/iam/iam-intro/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-intro/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-intro/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%ae--%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae-%e0%ae%95%e0%ae%a3%e0%ae%a3%e0%ae%9f%e0%ae%9f%e0%ae%ae-iam-overview">
+&lt;h3 id="அடயளம--அணகல-மலணம-கணணடடம-iam-overview">
+ அடையாளம் &amp;amp; அணுகல் மேலாண்மை கண்ணோட்டம் (IAM Overview) 
+&lt;/h3>
+&lt;/a>&lt;p>சரியான காரணங்களுக்காக சரியான அடையாளங்கள் சரியான வளங்களை சரியான நேரத்தில் அணுகுவதை உறுதிசெய்து, தரவின் ரகசியத்தன்மையைப் பாதுகாப்பதே அடையாளம் &amp;amp; அணுகல் மேலாண்மை.&lt;/p>
+&lt;p>Ensuring right entities have right access to right resources at the right time for right reasons and hence protect the confidentiality of the data&lt;/p>
+&lt;p>அடையாளம் &amp;amp; அணுகல் மேலாண்மையை பொதுவாக நான்கு தலைப்புகளாக பிரிக்கலாம்.&lt;/p>
+&lt;ul>
+&lt;li>அடையாள மேலாண்மை (identity management)&lt;/li>
+&lt;li>அடையாள ஆளுகை (identity governance)&lt;/li>
+&lt;li>அணுகல் மேலாண்மை (access management)&lt;/li>
+&lt;li>சிறப்புரிமை அணுகல் மேலாண்மை (privileged access management)&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+&lt;p>இந்த தலைப்புகள் ஒவ்வொன்றையும் விரிவாக காணலாம்.&lt;/p></description></item><item><title>கட்டச்சங்கிலி அறிமுகம்</title><link>/books/emergingtech/blockchain/introduction/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/introduction/</guid><description>&lt;a href="/books/emergingtech/blockchain/introduction/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="கடடசசஙகல-அறமகம">
+ கட்டச்சங்கிலி அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>கட்டச்சங்கிலி / தொடரேடு என்பது இணையர் பிணையத்தில் (P2P network) இருக்கும் பல்வேறு கணினிகளில் உள்ள ஒரு பரவலாக்கப்பட்ட பேரேடு (Distributed Ledger). அனைத்து கணினிகளும் அதே பேரேடு நகலைக் கொண்டிருக்கும்.&lt;/p>
+&lt;p>இலக்கமுறைச் சொத்துக்களைக் (Digital Assets) கண்காணிக்க உதுவும் இந்த தொழில்நுட்பம் கணினிகளின் நினைவகத்தில் இயங்குகின்ற செயல்பாடுகளாக உள்ளன&lt;/p>
+&lt;p>உதாரணமாக, ஒரு பரிவர்த்தனை பதிவேட்டை எடுத்துக்கொள்வோம். பதிவேட்டில் பல பக்கங்கள் இருக்கும். ஒவ்வொரு பக்கத்திலும் பல பரிவர்த்தனைகளின் பதிவுகள் இருக்கும். மேலும் ஒவ்வொரு பக்கத்திலும், பக்கத்தின் எண் குறிக்கப்பட்டிருக்கும்.&lt;/p>
+&lt;p>பக்கத்தின் எண்களை கொண்டு, பரிவர்த்தனை பதிவுகளை நாம் எளிதில் காணலாம். ஒரு பக்கம் தொலைந்தாலோ அல்லது மாற்றப்பட்டாலோ அதனை எளிதில் கண்டுபிடிக்க இயலும்.&lt;/p></description></item><item><title>மேகக் கணிமை</title><link>/books/emergingtech/cloud/introduction/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/introduction/</guid><description>&lt;a href="/books/emergingtech/cloud/introduction/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--%e0%ae%85%e0%ae%af%e0%ae%b2%e0%ae%95%e0%ae%a3%e0%ae%9a-%e0%ae%9a%e0%ae%b5--cloud-computing">
+&lt;h3 id="மகக-கணம--அயலகணச-சவ--cloud-computing">
+ மேகக் கணிமை / அயல்கணிச் சேவை / Cloud Computing 
+&lt;/h3>
+&lt;/a>&lt;p>2011-ஆம் ஆண்டு, அமெரிக்காவின் தேசிய தரநிலைகள் மற்றும் தொழில்நுட்ப நிறுவனம் (NIST) இவ்வாறு மேகக் கணிமைக்கு விளக்கம் கொடுத்தது.&lt;/p>
+&lt;p>&amp;ldquo;எங்கும் நிறைந்துள்ள, வசதியான, கணினி வளங்களின் (எ.கா., பிணையங்கள், சேவையகங்கள், சேமிப்பகங்கள், பயன்பாடுகள் மற்றும் சேவைகள்) வள திரள்விற்கு தேவைக்கேற்ப பிணைய அணுகலை வழங்கக்கூடிய ஒரு தொழில்நுட்ப முறை. இது குறைந்தபட்ச மேலாண்மையுடன், சேவையாளரிடம் நேரடித் தொடர்பு இன்றி விரைவாக வழங்கப்படும்.&lt;/p>
+&lt;p>மேகக் கணிமை 5 அத்தியாவசிய பண்புகள், 3 சேவை முறைகள் மற்றும் 4 பணியமர்த்தல் முறைகளை கொண்டுள்ளது.&lt;/p></description></item><item><title>களப்பெயர் முறைமை அறிமுகம்</title><link>/books/cybersecurity/dns/dns-introduction/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-introduction/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-introduction/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae--dns-introduction">
+&lt;h3 id="களபபயர-மறம-அறமகம--dns-introduction">
+ களப்பெயர் முறைமை அறிமுகம் / DNS Introduction 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை என்பது ஒரு கணினி சேவையகத்தில் இயங்கும் ஒரு சிறப்பு மென்பொருள் ஆகும். இது சேவையக பெயர்கள் மற்றும் அதனுடன் தொடர்புடைய இ.நெறி முகவரி ஆகியவற்றின் விவரங்களை இணைத்துக் கொண்டுள்ளது. இது நமது கைபேசியில் உள்ள தொடர்புகள் செயலி அல்லது தொலைபேசி எண் விவரப் புத்தகத்திற்கு மிகவும் ஒத்திருக்கிறது. இணையம் / அக வளங்களை அணுக உலாவிகள் / பயன்பாடுகளுக்கான களப்பெயர்களை இ.நெறி முகவரிகளுக்கு களப்பெயர் முறைமை மொழிபெயர்க்கிறது. களப்பெயர் முறைமை சேவையகங்கள் சிறப்பு மென்பொருளை இயக்குகின்றன மற்றும் பெயரைத் தீர்க்க சிறப்பு நெறிமுறைகளைப் பயன்படுத்தி தங்களுக்குள்ளே தொடர்பு கொள்கின்றன. தொடக்கத்திலிருந்தே பயணாளர் தரவுச்செய்தி நெறிமுறை (UDP) மற்றும் பரப்புகை கட்டுப்பாடு நெறிமுறை (TCP) துறை (Port) எண் 53-ஐ பயன்படுத்த களப்பெயர் முறைமை வடிவமைக்கப்பட்டுள்ளது, இயல்புநிலையில் UDP-யிலும் வழிமாற்றாக TCP-யிலும் செயல்படும்.&lt;/p></description></item><item><title>தகவல் பாதுகாப்பின் தூண்கள்</title><link>/books/cybersecurity/cryptography/cybersecurity-pillars/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/cybersecurity-pillars/</guid><description>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid பாதுகாப்பு முக்கோணம்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/security-triad-ta.svg" alt="பாதுகாப்பு முக்கோணம்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ பாதுகாப்பு முக்கோணம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;a href="/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="இரகசயததனம">
+ இரகசியத்தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை உறுதிப்படுத்துவது&lt;/p>
+&lt;a href="/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="நமபகததனம">
+ நம்பகத்தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>தகவலை மாற்றவோ / சிதைக்கவோ முடியாது என்பதை உறுதிப்படுத்துவது.
+தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும்.
+மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.&lt;/p>
+&lt;a href="/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%95%e0%ae%9f%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="கடககம-தனம">
+ கிடைக்கும் தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.&lt;/p></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்</title><link>/books/cybersecurity/pki/introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/pki/introduction/</guid><description>&lt;a href="/books/cybersecurity/pki/introduction/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="பதத-தறவ-உளகடடமபப-அறமகம">
+ பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>பொதுத் திறவி உள்கட்டமைப்பு என்பது வன்பொருள் (Hardware), மென்பொருள் (Software), கொள்கைகள் (Policies) நடைமுறைகள் (procedures), மக்கள் (People), பாத்திரங்கள் (Roles) ஆகியவற்றின் தொகுப்பாகும்.​​&lt;/p>
+&lt;p>இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​&lt;/p>
+&lt;p>இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​&lt;/p>
+&lt;p>பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத் தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​&lt;/p></description></item><item><title>இணைய இருத்திய எண்கள் ஆணையம் (IANA)</title><link>/books/cybersecurity/icann-iana/iana-intro/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/icann-iana/iana-intro/</guid><description>&lt;a href="/books/cybersecurity/icann-iana/iana-intro/#%e0%ae%87%e0%ae%a3%e0%ae%af-%e0%ae%87%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%af-%e0%ae%8e%e0%ae%a3%e0%ae%95%e0%ae%b3-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae-internet-assigned-numbers-authority">
+&lt;h3 id="இணய-இரததய-எணகள-ஆணயம-internet-assigned-numbers-authority">
+ இணைய இருத்திய எண்கள் ஆணையம் (Internet Assigned Numbers Authority) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/logos/iana-logo.svg" width=20%>
+&lt;p>இணைய இருத்திய எண்கள் ஆணையம் என்பது உலகளாவிய களப்பெயர்கள், எண் வளங்கள் மற்றும் நெறிமுறை இருத்தங்களை மேற்பார்வையிடும் ஒரு தரநிலை அமைப்பாகும்.&lt;/p>
+&lt;p>இந்த ஆணையம் அமெரிக்க அரசாங்கத்தின் கட்டுப்பாட்டில் இருந்தது. இணையம் பல நாடுகளால் பரவலாக ஏற்றுக்கொள்ளப்பட்டதால், இந்த ஆணையத்தை ஒரே நாடு நிர்வகிக்கக்கூடாது என்று முடிவு செய்யப்பட்டது.&lt;/p>
+&lt;p>இப்போது இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்ற சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனத்தால் நிர்வகிக்கப்படுகிறது. இவ்வாணையத்தின் செயல்பாடுகள்:&lt;/p>
+&lt;a href="/books/cybersecurity/icann-iana/iana-intro/#-1-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%9a%e0%ae%b5%e0%ae%95%e0%ae%b3--domain-name-service">
+&lt;h4 id="-1-களபபயர-சவகள--domain-name-service">
+ * 1. &lt;strong>களப்பெயர் சேவைகள் / Domain Name Service&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>1.1 களப்பெயர் முறைமை வேர் மண்டலம் மேலாண்மை மற்றும் திறவி ஒப்பமிடல் விழா (DNS Root Zone Management &amp;amp; Key Signing Ceremony)&lt;/strong>
+&lt;ul>
+&lt;li>களப்பெயர் முறைமையின் வேர் மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது.&lt;/li>
+&lt;li>இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும்.&lt;/li>
+&lt;li>வேர் மண்டலத்தில் பாதுகாப்பான களப்பெயர் முறைமையை (DNSSEC) இயக்குவதற்கான திறவி ஒப்பமிடல் விழாவையும் இது செய்கிறது&lt;/li>
+&lt;li>செயல்பாட்டில் anycast இ.நெறி முகவரியைப் பயன்படுத்தி 13 வேர் சேவையகங்கள் உள்ளன&lt;/li>
+&lt;li>பிணையத்தில் உள்ள கணினிகள் ஒரு உயர் நிலை களத்தின் முகவரியை விரைவகத்தில் சேமிப்பதால், வேர் சேவையகங்கள் அடிக்கடி வினவப்படுவதில்லை. ஆனால் அவை இணைய கட்டமைப்பின் ஒரு முக்கிய அங்கமாகும்&lt;/li>
+&lt;li>வேர் சேவையகங்களின் இயக்குனர்கள் பெரும்பாலும் தன்னாட்சி பெற்று இருப்பினும், அவர்கள் ஒருவருக்கொருவர் மற்றும் ICANN உடன் இணைந்து பணியாற்ற வேண்டும் &lt;a href="https://root-servers.org/">https://root-servers.org/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>1.2 மேல் நிலை களப்பெயர்களின் தரவுத்தளம் (Database of Top Level Domains)&lt;/strong>
+&lt;ul>
+&lt;li>வேர் மண்டல தரவுத்தளம் .com போன்ற பொது உயர் நிலை களம் (gTLD) மற்றும் .uk போன்ற நாட்டு குறியீடு களம் (ccTLD) உள்ளிட்ட உயர்மட்ட களங்களின் பிரதிநிதித்துவ விவரங்களை (Delegation Details) குறிக்கிறது.&lt;/li>
+&lt;li>களப்பெயர் முறைமையின் வேர் மண்டலத்தின் மேலாளராக, வகுக்கப்பட்ட கொள்கைகள் மற்றும் நடைமுறைகளுக்கு ஏற்ப இந்த பிரதிநிதிகளை ஒருங்கிணைப்பது இணைய இருத்திய எண்கள் ஆணையத்தின் பொறுப்பு.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>1.3 .int பதிவகம் (registry)&lt;/strong>
+&lt;ul>
+&lt;li>ஒரு குறிப்பிட்ட நாட்டு அளவிலான மேல் நிலை களப்பெயரில் இயற்கையாக பொருந்தாத சர்வதேச நிறுவனங்கள், சர்வதேச அமைப்புகளின் பயன்பாட்டிற்காக வடிவமைக்கப்பட்டதே .int மேல் நிலை களப்பெயர். எடுத்துக்காட்டாக, உலக சுகாதார அமைப்புக்கு who.int என்ற களப்பெயர் பயன்படுத்தப்படுகிறது&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>1.4 .arpa பதிவகம் (registry)&lt;/strong>
+&lt;ul>
+&lt;li>.arpa களம், இ.நெறி முகவரிகளின் தலைகீழ் குறிப்பு வடிவம் இணைத்தல் மற்றும் ENUM தொலைபேசி எண் இணைத்தல் விநியோகம் போன்ற இணைய நெறிமுறைகளால் உள் தொடர்புகளுக்கு பயன்படுத்தப்படுகிறது.&lt;/li>
+&lt;li>.arpa வுக்கான கொள்கை பொறுப்பைக் கொண்ட இணைய கட்டிடக்கலை வாரியத்துடன் நெருங்கிய தொடர்பில் இந்த களத்தை இணைய இருத்திய எண்கள் ஆணையம் நிர்வகிக்கிறது.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;a href="/books/cybersecurity/icann-iana/iana-intro/#-2-%e0%ae%8e%e0%ae%a3-%e0%ae%b5%e0%ae%b3%e0%ae%99%e0%ae%95%e0%ae%b3--number-resources">
+&lt;h4 id="-2-எண-வளஙகள--number-resources">
+ * 2. &lt;strong>எண் வளங்கள் / Number Resources&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>இணைய நெறிமுறை முகவரி (IP Addresses)&lt;/li>
+&lt;li>தன்னாட்சி அமைப்பு எண்கள் (Autonomous System Number)&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;a href="/books/cybersecurity/icann-iana/iana-intro/#-3-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%87%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%ae-protocol-assignments">
+&lt;h4 id="-3-நறமற-இரததம-protocol-assignments">
+ * 3. &lt;strong>நெறிமுறை இருத்தம் (Protocol Assignments)&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>3.1 நெறிமுறை பதிவகம் (Protocol Registry)&lt;/strong>
+&lt;ul>
+&lt;li>பல்வேறு இணைய நெறிமுறைகளில் உள்ள பல குறியீடுகளையும் எண்களையும் பராமரிக்கும் பொறுப்பு இணைய இருத்திய எண்கள் ஆணையத்தின் வசம் உள்ளது. இந்த சேவையை, இணைய பொறியியல் பணிக்குழு (Internet Engineering Task Force - IETF) உடன் இணைந்து அவர்கள் வழங்குகிறார்கள்.&lt;/li>
+&lt;li>இணைய இருத்திய எண்கள் ஆணையத்தால் நிர்வகிக்கப்படும் நெறிமுறைகளின் பட்டியல் &lt;a href="https://www.iana.org/protocols">https://www.iana.org/protocols&lt;/a> என்ற முகவரியில் கிடைக்கிறது.&lt;/li>
+&lt;li>நெறிமுறை பதிவகத்தின் ஒரு பகுதியாக, இணைய இருத்திய எண்கள் ஆணையம் பல்வேறு நெறிமுறைகளின் துறைமுக எண்களை நிர்வகிக்கிறது மற்றும் நன்கு அறியப்பட்ட துறைமுகங்கள் மற்றும் பதிவு செய்யப்பட்ட துறைமுக வரம்புகளின் அதிகாரப்பூர்வ பட்டியலை பராமரிக்கிறது.
+&lt;ul>
+&lt;li>நன்கு அறியப்பட்ட துறைமுக எண்கள் (0 முதல் 1023 வரை)&lt;/li>
+&lt;li>பதிவு செய்யப்பட்ட துறைமுக எண்கள் (1024 முதல் 49151 வரை)&lt;/li>
+&lt;li>மாறும் அல்லது தனியார் துறைமுக எண்கள் (49152 முதல் 65535 வரை)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>&lt;strong>3.2 நேர மண்டல தரவுத்தளம் (Time Zone Database)&lt;/strong>
+&lt;ul>
+&lt;li>நேர மண்டல தரவுத்தளம் (பெரும்பாலும் tz அல்லது zoneinfo என அழைக்கப்படுகிறது) உலகெங்கிலும் உள்ள பல பிரதிநிதி இடங்களுக்கான உள்ளூர் நேர வரலாற்றைக் குறிக்கும் குறியீடு மற்றும் தரவுகளைக் கொண்டுள்ளது.&lt;/li>
+&lt;li>அரசியல் அமைப்புகளால் நேர மண்டல எல்லைகள் மாற்றம், உலகளாவிய நேர ஒருங்கிணைப்பு (UTC) நேரம் தள்ளி அமைத்தல் மற்றும் பகல் நேர சேமிப்பு நேரம் (Daylight Savings Time) விதிகள் ஆகியவற்றில் செய்யப்பட்ட மாற்றங்களை பிரதிபலிக்க இது அவ்வப்போது புதுப்பிக்கப்படுகிறது.&lt;/li>
+&lt;li>நேர மண்டலங்களின் அதிகாரப்பூர்வ பட்டியல் &lt;a href="https://www.iana.org/time-zones">https://www.iana.org/time-zones&lt;/a> இல் வெளியிடப்பட்டுள்ளது&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>அடையாள வகைகள்</title><link>/books/cybersecurity/iam/iam-identity-types/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-types/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-types/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--identity-types">
+&lt;h3 id="அடயள-வககள--identity-types">
+ அடையாள வகைகள் / Identity Types 
+&lt;/h3>
+&lt;/a>&lt;p>அடையாளங்களை பொதுவாக இரண்டு வகைகளாக பிரிக்கலாம்.&lt;/p>
+&lt;ul>
+&lt;li>வணிகம்-வணிகம் அடையாளங்கள்&lt;/li>
+&lt;li>வணிகம்-நுகர்வோர் அடையாளங்கள்&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-types/#%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%ae-%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%ae-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%99%e0%ae%95%e0%ae%b3-b2b--workforce-identity">
+&lt;h4 id="வணகம-வணகம-அடயளஙகள-b2b--workforce-identity">
+ வணிகம்-வணிகம் அடையாளங்கள் (B2B / Workforce Identity) 
+&lt;/h4>
+&lt;/a>&lt;p>ஒரு வணிக நிறுவனத்தின் செயல்பாட்டிற்கு தேவையான அடையாளங்கள் இந்த வகையின் கீழ் வரும். இவை சொந்த செயல்பாட்டிற்கோ அல்லது மற்ற நிறுவனத்துடன் வர்த்தகம் செய்ய உதவும் அடையாளங்கள். உதாரணமாக,&lt;/p>
+&lt;ul>
+&lt;li>பணியாளர்கள் மற்றும் ஒப்பந்ததாரர்கள் (Employees/Contractors)&lt;/li>
+&lt;li>நிரல்கள் மற்றும் பயன்பாடுகள் (Applications/Programs)&lt;/li>
+&lt;li>பயன்பாட்டு நிரலாக்க இடைமுகம் / சேவைகள் (API/Services)&lt;/li>
+&lt;li>மேசைக்கணினிகள், மடிக்கணினிகள், அச்சுப்பொறிகள், வருடுபொறிகள் (Desktop/Laptop)&lt;/li>
+&lt;li>சேவையகம் &amp;amp; பிணைய சாதனங்கள் (Servers &amp;amp; Network Devices)&lt;/li>
+&lt;/ul>
+&lt;p>அடையாளம் மற்றும் அணுகல் மேலாண்மை அமைப்பில் நிர்வகிக்கப்படுகிறது.&lt;/p></description></item><item><title>கட்டச்சங்கிலிக்கு ஏற்ற சூழல்</title><link>/books/emergingtech/blockchain/blockchain-context/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-context/</guid><description>&lt;a href="/books/emergingtech/blockchain/blockchain-context/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2%e0%ae%95%e0%ae%95-%e0%ae%8f%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%b4%e0%ae%b2">
+&lt;h3 id="கடடசசஙகலகக-ஏறற-சழல">
+ கட்டச்சங்கிலிக்கு ஏற்ற சூழல் 
+&lt;/h3>
+&lt;/a>&lt;p>இன்றைய சூழலில், அறிமுகமில்லாத இரு நபர்களோ / நிறுவனங்களோ தங்களிடையே பரிவர்த்தனை செய்ய, பொதுவாக உள்ள மூன்றாம் நபரையோ / நிறுவனத்தையோ நம்புகின்றனர்.
+உதாரணமாக,&lt;/p>
+&lt;ul>
+&lt;li>ஒரு நபரை அடையாளம் காண, அரசு அளித்த அடையாள அட்டை (அரசு) பொதுவாக நம்பப்படுகிறது.&lt;/li>
+&lt;li>வீடு/நிலம் வாங்க / விற்க, அரசு பதிவுத்துறை பொதுவாக நம்பப்படுகிறது&lt;/li>
+&lt;li>வாகனம் வாங்க / விற்க, அரசு வட்டார போக்குவரத்து அலுவலகம் பொதுவாக நம்பப்படுகிறது&lt;/li>
+&lt;li>பணம் அனுப்ப / பெற, ஒரு வங்கியில் இருந்து மற்றொரு வங்கிக்கு பரிவர்த்தனை செய்யப்படுகிறது. இங்கே வங்கிகள் பொதுவாக நம்பப்படுகிறது.&lt;/li>
+&lt;/ul>
+&lt;p>இதனால், மூன்றாம் நபரின் மீது சார்பு நிலை ஏற்படுகிறது. இந்த பரிவர்த்தனைகளை பதிவு செய்யும் மூன்றாம் நபர்/நிறுவனம், அந்த தரவுகளை தங்கள் முழு கட்டுப்பாட்டில் வைத்துள்ளனர். இந்த பரிவர்த்தனைகளை சரிபார்க்க வெளிப்படையான அனுமதி இல்லை.&lt;/p></description></item><item><title>மேகக் கணிமை</title><link>/courses/books/emergingtech/cloud/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/courses/books/emergingtech/cloud/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ மேகக் கணிமை 1
+ &lt;/section>
+
+ &lt;section>
+ மேகக் கணிமை 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>மேகக் கணிமையின் அத்தியாவசிய பண்புகள்</title><link>/books/emergingtech/cloud/cloud-characteristics/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/cloud-characteristics/</guid><description>&lt;a href="/books/emergingtech/cloud/cloud-characteristics/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae%e0%ae%af%e0%ae%a9-%e0%ae%85%e0%ae%a4%e0%ae%a4%e0%ae%af%e0%ae%b5%e0%ae%9a%e0%ae%af-%e0%ae%aa%e0%ae%a3%e0%ae%aa%e0%ae%95%e0%ae%b3--cloud-computing-essential-characteristics">
+&lt;h2 id="மகக-கணமயன-அததயவசய-பணபகள--cloud-computing-essential-characteristics">
+ &lt;strong>மேகக் கணிமையின் அத்தியாவசிய பண்புகள் / Cloud Computing Essential Characteristics&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-characteristics-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/books/emergingtech/cloud/cloud-characteristics/#1-%e0%ae%aa%e0%ae%b0%e0%ae%a8%e0%ae%a4-%e0%ae%aa%e0%ae%a3%e0%ae%af-%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2--broad-network-access">
+&lt;h4 id="1-பரநத-பணய-அணகல--broad-network-access">
+ 1. பரந்த பிணைய அணுகல் / Broad Network Access 
+&lt;/h4>
+&lt;/a>&lt;p>அனைத்து மேகக் கணிமை வளங்களும் நேரடி அணுகல் தேவை இல்லாமல் நிர்வகிக்க மற்றும் பயன்படுத்த ஒரு பிணையத்தின் வழியே கிடைக்கும். இந்த பிணையம் சேவையின் ஒரு பகுதியாக இருக்க வேண்டிய அவசியமில்லை. மேகக் கணிமை வளங்கள் எங்கிருந்தும் அணுகக்கூடியதாக இருக்க வேண்டும், ஆனால் அணுகல் கொள்கைகளால் அவை கட்டுப்படுத்தப்படலாம். இது தவிர, மேகக் கணிமை சேவையாளர்கள் பல்வேறு பகுதிகளில் உள்ள தங்கள் வளங்களுக்கு இடையே பாதுகாப்பான பிணைய இணைப்பை கொண்டிருக்க வேண்டும்.&lt;/p></description></item><item><title>களப்பெயர் முறைமை படிநிலை</title><link>/books/cybersecurity/dns/dns-hierarchy/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-hierarchy/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-hierarchy/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%aa%e0%ae%9f%e0%ae%a8%e0%ae%b2--dns-hierarchy">
+&lt;h3 id="களபபயர-மறம-படநல--dns-hierarchy">
+ களப்பெயர் முறைமை படிநிலை / DNS Hierarchy 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/dns/dns-hierarchy/#%e0%ae%b5%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a9--root-name-servers">
+&lt;h4 id="வர-களபபயர-வழஙகன--root-name-servers">
+ வேர் களப்பெயர் வழங்கன் / Root Name Servers 
+&lt;/h4>
+&lt;/a>&lt;p>தற்போது 13 வேர் பெயர் வழங்கன்கள் 13 தன்னாட்சி நிறுவனங்கள் மூலம் எவ்வழி பரப்பு திசைவித்தல் நெறிமுறையில் (Anycast Routing Protocol) இயக்கப்படுகிறது இவை ICANN நிறுவனத்தால் நிர்வகிக்கப்படுகின்றன. ஒரு வேர் வழங்கன், ஒரு சுழல்நிலை தீர்வியின் வினவலை ஏற்றுக்கொள்கிறது, அந்த களப்பெயர் விரிவாக்கம் அடிப்படையில், ஒரு மேல் நிலை களப்பெயர் வழங்கனை நோக்கி மடை மாற்றி விடையளிக்கும். &lt;a href="https://root-servers.org/">https://root-servers.org/&lt;/a>&lt;/p>
+&lt;p>களப்பெயர் முறைமையின் வேர் மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது. இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும். வேர் மண்டலத்தில் பாதுகாப்பான களப்பெயர் முறைமையை (DNSSEC) இயக்குவதற்கான திறவி ஒப்பமிடல் விழாவையும் இது செய்கிறது. செயல்பாட்டில் anycast இ.நெறி முகவரியைப் பயன்படுத்தி 13 வேர் சேவையகங்கள் உள்ளன. பிணையத்தில் உள்ள கணினிகள் ஒரு உயர் நிலை களத்தின் முகவரியை விரைவகத்தில் சேமிப்பதால், வேர் சேவையகங்கள் அடிக்கடி வினவப்படுவதில்லை. ஆனால் அவை இணைய கட்டமைப்பின் ஒரு முக்கிய அங்கமாகும். வேர் சேவையகங்களின் இயக்குனர்கள் பெரும்பாலும் தன்னாட்சி பெற்று இருப்பினும், அவர்கள் ஒருவருக்கொருவர் மற்றும் ICANN உடன் இணைந்து பணியாற்ற வேண்டும்&lt;/p></description></item><item><title>இலக்கமுறைச் சான்றிதழ்</title><link>/books/cybersecurity/pki/digital-certificates/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/digital-certificates/</guid><description>&lt;a href="/books/cybersecurity/pki/digital-certificates/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4--digital-certificate">
+&lt;h3 id="இலககமறச-சனறதழ--digital-certificate">
+ இலக்கமுறைச் சான்றிதழ் / Digital Certificate 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-certificate-sample.png">
+&lt;p>இலக்கமுறைச் சான்றிதழை ஒரு மின்னணு அடையாள ஆவணமாகக் கருதலாம். இவை X.509 சான்றிதழ் என்றும் அறியப்படுகிறது. இலக்கமுறைச் சான்றிதழ் என்பது ஒரு பொதுத் திறவி மற்றும் அதன் உரிமையாளர் இடையில் ஒரு தொடர்பை ஏற்படுத்த வழிவகுக்கிறது
+சான்றிதழ் ஆணையத்தால் சான்றளிக்கப்பட்டு உரிமையாளருக்கு வழங்கப்படுகிறது. உரிமையாளர் முடிந்தவரை இலக்கமுறை சான்றிதழை பாதுகாப்பாக வைக்க வேண்டும். ஒரு குறிப்பிட்ட காலம் வரை மட்டுமே செல்லுபடியாகும். இதன் வாழ்க்கைச் சுழற்சியை பொதுத் திறவி உள்கட்டமைப்பு நிர்வகிக்கிறது.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/digital-certificates/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%9f%e0%ae%b5%e0%ae%99%e0%ae%95%e0%ae%b3--digital-certificate-formats">
+&lt;h3 id="இலககமறச-சனறதழ-வடவஙகள--digital-certificate-formats">
+ இலக்கமுறைச் சான்றிதழ் வடிவங்கள் / Digital Certificate Formats 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+&lt;a href="/books/cybersecurity/pki/digital-certificates/#pem-format-privacy-enhanced-mail--%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%b0%e0%ae%ae-%e0%ae%ae%e0%ae%ae%e0%ae%aa%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%9f-%e0%ae%85%e0%ae%9e%e0%ae%9a%e0%ae%b2">
+&lt;h4 id="pem-format-privacy-enhanced-mail--தனயரம-மமபடததபபடட-அஞசல">
+ PEM format (Privacy Enhanced Mail) / தனியுரிமை மேம்படுத்தப்பட்ட அஞ்சல் 
+&lt;/h4>
+&lt;/a>&lt;p>இவ்வடிவம் X.509 சான்றிதழ்கள், சான்றிதழ் ஒப்பமிடல் கோரிக்கைகள் மற்றும் மறைப்பியல் திறவிகளுக்கான மிகவும் பொதுவான வடிவமாகும்.
+பெரும்பாலான சான்றிதழ் ஆணையங்கள் அடிப்படை 64 ஆஸ்கி முறையில் குறியாக்கம் செய்யப்பட்ட சான்றிதழ்களை வழங்குகின்றன
+இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .pem, .crt, .cer, or .key என முடியும்.
+.pem வகையில் ஒரே கோப்பில் இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் மற்றும் தனித் திறவியை சேமிக்க முடியும்.
+இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் ஆகியவற்றை தனியாக .crt or .cer என்ற வடிவிலும் சேமிக்க முடியும். தனித் திறவியை .key என்ற வடிவில் சேமிக்க முடியும்&lt;/p></description></item><item><title>இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா?</title><link>/books/aboutus/contribution/contribution/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/aboutus/contribution/contribution/</guid><description>&lt;a href="/books/aboutus/contribution/contribution/#%e0%ae%87%e0%ae%a8%e0%ae%a4-%e0%ae%ae%e0%ae%a9%e0%ae%a9%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%b2-%e0%ae%aa%e0%ae%99%e0%ae%95%e0%ae%b3%e0%ae%95%e0%ae%95-%e0%ae%b5%e0%ae%b0%e0%ae%aa%e0%ae%aa%e0%ae%ae">
+&lt;h3 id="இநத-மனனடபபல-பஙகளகக-வரபபம">
+ இந்த முன்னெடுப்பில் பங்களிக்க விருப்பமா? 
+&lt;/h3>
+&lt;/a>&lt;p>இந்த தளத்தில் காணும் படைப்புகளை உங்கள் மொழியில் காண விரும்பினால், நீங்கள் ஆங்கில வடிவில் உள்ள படைப்பை எடுத்து நீங்கள் விரும்பிய மொழிக்கு மொழிமாற்றம் செய்ய உதவலாம்.&lt;/p></description></item><item><title>உரிமங்கள்</title><link>/books/aboutus/licenses/licenses/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/aboutus/licenses/licenses/</guid><description>&lt;a href="/books/aboutus/licenses/licenses/#%e0%ae%89%e0%ae%b0%e0%ae%ae%e0%ae%99%e0%ae%95%e0%ae%b3">
+&lt;h3 id="உரமஙகள">
+ உரிமங்கள் 
+&lt;/h3>
+&lt;/a>&lt;p>இந்த தளத்தில் உள்ள அனைத்து படைப்புகளும், படைப்பாக்கப் பொதுமங்கள்-பெயர் குறிப்பிடுதல்-வர்த்தக நோக்கமற்ற-அதே மாதிரி பகிர்தல் (CC-BY-NC-SA 4.0) உரிமத்தின் கீழ் வழங்கப்படுகிறது. இந்த உரிமம்பற்றி மேலும் தெரிந்துகொள்ள, கீழ்காணும் வளங்காட்டியை சொடுக்கவும்.&lt;/p>
+&lt;p>&lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/&lt;/a>&lt;/p></description></item><item><title>உரிமங்கள்</title><link>/courses/books/aboutus/licenses/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/aboutus/licenses/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ உரிமங்கள் 1
+ &lt;/section>
+
+ &lt;section>
+ உரிமங்கள் 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>எங்களை பற்றி</title><link>/books/aboutus/aboutus/aboutus/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/aboutus/aboutus/aboutus/</guid><description>&lt;a href="/books/aboutus/aboutus/aboutus/#%e0%ae%8e%e0%ae%99%e0%ae%95%e0%ae%b3-%e0%ae%aa%e0%ae%b1%e0%ae%b1">
+&lt;h3 id="எஙகள-பறற">
+ எங்களை பற்றி 
+&lt;/h3>
+&lt;/a>&lt;p>தகவல் தொழில்நுட்பத்தை அவரவர் தாய் மொழியில் பயில்வதற்கு தேவையான தரவுகளை உருவாக்குவதே இந்த தளத்தின் நோக்கம். தற்போது, ஆங்கிலம் மற்றும் தமிழில் தரவுகள் கிடைக்கின்றன. மற்ற மொழிகளிலும், இதனை கிடைக்கச் செய்வதில் மிகுந்த ஆர்வமாக உள்ளோம். நீங்கள், இதனை உங்கள் மொழியில் கிடைக்க உதவலாம்.&lt;/p></description></item><item><title>எங்களை பற்றி</title><link>/courses/books/aboutus/aboutus/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/aboutus/aboutus/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ எங்களை பற்றி 1
+ &lt;/section>
+
+ &lt;section>
+ எங்களை பற்றி 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>கட்டச்சங்கிலி</title><link>/courses/books/emergingtech/blockchain/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/emergingtech/blockchain/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ கட்டச்சங்கிலி 1
+ &lt;/section>
+
+ &lt;section>
+ கட்டச்சங்கிலி 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>பங்களிப்பு</title><link>/courses/books/aboutus/contribution/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/aboutus/contribution/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ பங்களிப்பு 1
+ &lt;/section>
+
+ &lt;section>
+ பங்களிப்பு 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பு</title><link>/courses/books/cybersecurity/pki/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/cybersecurity/pki/</guid><description>&lt;div class="slides">
+
+ &lt;section data-background-iframe="https://onedrive.live.com/edit.aspx?resid=44E3FF1DE9A8C7EA!213&amp;ithint=file%2cpptx&amp;authkey=!ANBpN1ZpAp1KA58"
+ data-background-interactive>
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>மறை நாணயங்கள்</title><link>/courses/books/emergingtech/cryptocurrency/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/emergingtech/cryptocurrency/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ மறை நாணயங்கள் 1
+ &lt;/section>
+
+ &lt;section>
+ மறை நாணயங்கள் 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>மறை நாணயங்கள் அறிமுகம்</title><link>/books/emergingtech/cryptocurrency/introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/emergingtech/cryptocurrency/introduction/</guid><description>&lt;a href="/books/emergingtech/cryptocurrency/introduction/#%e0%ae%ae%e0%ae%b1-%e0%ae%a8%e0%ae%a3%e0%ae%af%e0%ae%99%e0%ae%95%e0%ae%b3-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="மற-நணயஙகள-அறமகம">
+ மறை நாணயங்கள் அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>மறை நாணயங்கள்
+மறை நாணயங்கள்
+மறை நாணயங்கள்&lt;/p></description></item><item><title>மறைப்பியல்</title><link>/courses/books/cybersecurity/cryptography/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/cybersecurity/cryptography/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ Slide 1
+ &lt;/section>
+
+ &lt;section>
+ Slide 2
+ &lt;/section>
+
+ 
+
+ &lt;/div></description></item><item><title>மறைப்பியல் அறிமுகம்</title><link>/books/cybersecurity/cryptography/cryptography-introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/cryptography-introduction/</guid><description>&lt;a href="/books/cybersecurity/cryptography/cryptography-introduction/#%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="மறபபயல-அறமகம">
+ மறைப்பியல் அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>மறைப்பியல் என்பது மின் வெளியில்(Cyber Space) தகவலை எவ்வாறு மறைத்து பரிமாறி/சேமித்து, மீட்டெப்பது என்பது பற்றியதன் இயல் ஆகும்.
+இது மறையீட்டியல், குறியாக்கவியல் அல்லது கமுக்கவியல் என்றும் அழைக்கப்படுகிறது.
+இவ்வியல் கணிதவியல், கணினியியல் மற்றும் பொறியியல் துறைகளின் கூற்றுகளை ஒருசேர உபயோகிக்கும் கூட்டுத் துறையாக விளங்குகிறது.
+மின் வெளியில் தகவல் பரிமாற்றம் மற்றும் சேமிப்பின் பொழுது, அதன் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மையை காக்க உதவுகிறது&lt;/p>
+&lt;p>தகவலை பரிமாறும் / சேமிக்கும் முன்னர், அந்த தகவல் மறையாக்க தீர்வுநெறியின் (Encryption Algorithm) உதவியால், மறையாக்க திறவி (Encryption Key) கொண்டு, மறைக்குறியீடாக (Ciphertext) மாற்றப்படும். இச்செயல் மறையாக்கம் (Encryption) என்று அழைக்கப்படுகிறது&lt;/p></description></item><item><title>மாற்ற முடியாத வில்லைகள்</title><link>/courses/books/emergingtech/nft/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/courses/books/emergingtech/nft/</guid><description>&lt;div class="slides">
+
+ &lt;section>
+ மாற்ற முடியாத வில்லைகள் 1
+ &lt;/section>
+
+ &lt;section>
+ மாற்ற முடியாத வில்லைகள் 2
+ &lt;/section>
+
+ &lt;/div></description></item><item><title>மாற்ற முடியாத வில்லைகள் அறிமுகம்</title><link>/books/emergingtech/nft/introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/emergingtech/nft/introduction/</guid><description>&lt;a href="/books/emergingtech/nft/introduction/#%e0%ae%ae%e0%ae%b1%e0%ae%b1-%e0%ae%ae%e0%ae%9f%e0%ae%af%e0%ae%a4-%e0%ae%b5%e0%ae%b2%e0%ae%b2%e0%ae%95%e0%ae%b3-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="மறற-மடயத-வலலகள-அறமகம">
+ மாற்ற முடியாத வில்லைகள் அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>மாற்ற முடியாத வில்லைகள்
+மாற்ற முடியாத வில்லைகள்
+மாற்ற முடியாத வில்லைகள்&lt;/p></description></item><item><title>தன்னாட்சி அமைப்பு எண்கள்</title><link>/books/cybersecurity/icann-iana/iana-asn/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/icann-iana/iana-asn/</guid><description>&lt;a href="/books/cybersecurity/icann-iana/iana-asn/#%e0%ae%87%e0%ae%a3%e0%ae%af-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%ae%e0%ae%95%e0%ae%b5%e0%ae%b0-%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3--%e0%ae%a4%e0%ae%a9%e0%ae%a9%e0%ae%9f%e0%ae%9a-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa-%e0%ae%8e%e0%ae%a3%e0%ae%95%e0%ae%b3--ip-address-space--autonomous-system-number-asn">
+&lt;h3 id="இணய-நறமற-மகவர-தகபபகள--தனனடச-அமபப-எணகள--ip-address-space--autonomous-system-number-asn">
+ இணைய நெறிமுறை முகவரி தொகுப்புகள் &amp;amp; தன்னாட்சி அமைப்பு எண்கள் / IP Address Space &amp;amp; Autonomous System Number (ASN) 
+&lt;/h3>
+&lt;/a>&lt;p>இணைய இருத்திய எண்கள் ஆணையம் இணைய எண் வளங்களான இணைய நெறிமுறை முகவரி தொகுப்புகள் மற்றும் தன்னாட்சி அமைப்பு எண்கள் ஆகியவற்றை ஒதுக்கும் பொறுப்பை வட்டார இணைய பதிவகங்களிடம் (Regional Internet Registry) வழங்குகிறது. தற்பொழுது ARIN, LACNIC, RIPE NCC, AFRINIC &amp;amp; APNIC என 5 வட்டார இணைய பதிவகங்கள் செயல்பட்டு வருகின்றன.&lt;/p>
+&lt;img src="images/rir-map.svg" width=50%>
+&lt;br>
+&lt;img src="images/logos/arin-logo.svg" width=10%>
+&lt;img src="images/logos/lacnic-logo.svg" width=10%>
+&lt;img src="images/logos/ripe-ncc-logo.svg" width=10%>
+&lt;img src="images/logos/afrinic-logo.svg" width=10%>
+&lt;img src="images/logos/apnic-logo.svg">
+&lt;p>வட்டார இணைய பதிவகங்கள் நேரடியாக இணைய நெறிமுறை முகவரி தொகுப்புகள் மற்றும் தன்னாட்சி அமைப்பு எண்களை நிர்வகிக்கலாம் அல்லது தேசிய இணைய பதிவகத்திடம் (National Internet Registry) அந்த பொறுப்பை ஒப்படைக்கலாம்.&lt;/p></description></item><item><title>அடையாள வாழ்நிலைச் சுழற்சி</title><link>/books/cybersecurity/iam/iam-identity-lifecycle/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-lifecycle/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a--identity-lifecycle-joiner-mover-leaver---jml">
+&lt;h3 id="அடயள-வழநலச-சழறச--identity-lifecycle-joiner-mover-leaver---jml">
+ அடையாள வாழ்நிலைச் சுழற்சி / Identity Lifecycle (Joiner, Mover, Leaver - JML) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-identity-lifecycle-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%b5%e0%ae%b0--joiner">
+&lt;h4 id="அடயள-வழநலச-சழறச---இணபவர--joiner">
+ அடையாள வாழ்நிலைச் சுழற்சி - இணைபவர் / Joiner 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-joiner-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%aa%e0%ae%b5%e0%ae%b0--mover">
+&lt;h4 id="அடயள-வழநலச-சழறச---நகரபவர--mover">
+ அடையாள வாழ்நிலைச் சுழற்சி - நகர்பவர் / Mover 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-mover-ta.svg" width=50%>
+&lt;a href="/books/cybersecurity/iam/iam-identity-lifecycle/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b4%e0%ae%a8%e0%ae%b2%e0%ae%9a-%e0%ae%9a%e0%ae%b4%e0%ae%b1%e0%ae%9a---%e0%ae%b5%e0%ae%b3%e0%ae%af%e0%ae%b1%e0%ae%aa%e0%ae%b5%e0%ae%b0--leaver">
+&lt;h4 id="அடயள-வழநலச-சழறச---வளயறபவர--leaver">
+ அடையாள வாழ்நிலைச் சுழற்சி - வெளியேறுபவர் / Leaver 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-leaver-ta.svg" width=50%></description></item><item><title>கட்டச்சங்கிலி வகைகள்</title><link>/books/emergingtech/blockchain/blockchain-types/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-types/</guid><description>&lt;a href="/books/emergingtech/blockchain/blockchain-types/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3">
+&lt;h3 id="கடடசசஙகல-வககள">
+ &lt;strong>கட்டச்சங்கிலி வகைகள்&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>கட்டச்சங்கிலி பிணைய இணைப்பு முறை மற்றும் அனுமதி கோரல் ஆகியவற்றை அடிப்படையாக கொண்டு வகுக்கப்படுகின்றன.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>அனுமதி கோரல்:&lt;/p>
+&lt;ul>
+&lt;li>அனுமதி கோரும் கட்டச்சங்கிலி (Permissioned Blockchain)
+&lt;ul>
+&lt;li>கணுக்கள் / நிறுவனங்களுக்கு முன் அனுமதி / வெவ்வேறு பாத்திர பொறுப்புகளை கட்டச்சங்கிலியின் இயக்குனர் வழங்குவார்.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>அனுமதி கோரா கட்டச்சங்கிலி (Permissionless Blockchain)
+&lt;ul>
+&lt;li>முன் அனுமதி தேவையில்லை&lt;/li>
+&lt;li>எவரும் சேரலாம்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>பிணைய இணைப்பு முறை:&lt;/p>
+&lt;ul>
+&lt;li>பரவலாக்கப்பட்ட கட்டச்சங்கிலி (Distributed Blockchain)
+&lt;ul>
+&lt;li>அனைத்து கணுக்களும் இணையானவை&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>கூட்டமைப்பு கட்டச்சங்கிலி (Consortium Blockchain)
+&lt;ul>
+&lt;li>தேர்ந்தெடுக்கப்பட்ட ஒரு கணு நிறுவனத்தின் சார்பில் தொடர்புகொள்ளும்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+&lt;a href="/books/emergingtech/blockchain/blockchain-types/#%e0%ae%aa%e0%ae%a4-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2--public-blockchains">
+&lt;h4 id="பத-கடடசசஙகல--public-blockchains">
+ &lt;strong>பொது கட்டச்சங்கிலி / Public Blockchains&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>பொது கட்டச்சங்கிலியில் இணைய யாருக்கும் எந்தத் தடையும் இல்லை. யாரும் இதில் வரவு-செலவு கணக்கை வைத்துக் கொள்ளலாம்; சரி-பார்ப்பவராக (validator) ஆகலாம். (அதாவது,கருத்து இணக்க நெறிமுறையில் பங்கு கொள்ளலாம்.)&lt;/p></description></item><item><title>பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்</title><link>/books/emergingtech/blockchain/bitcoin-block-structure/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/bitcoin-block-structure/</guid><description>&lt;a href="/books/emergingtech/blockchain/bitcoin-block-structure/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%a9-%e0%ae%89%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3--block-structure-in-bitcoin-blockchain">
+&lt;h3 id="கடடசசஙகல-கடடததன-உறபபகள--block-structure-in-bitcoin-blockchain">
+ &lt;img src="images/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain 
+&lt;/h3>
+&lt;/a>&lt;br>
+&lt;ul>
+&lt;li>கட்டத்தின் தலைப்பு (Block Header) (80 பைட் நீளம் கொண்ட வரிசைபடுத்தப்பட்ட வடிவம்)
+&lt;ul>
+&lt;li>பதிப்பு – தற்போதைய கட்ட உருவத்தின் பதிப்பு (4 பைட் நீளம்)&lt;/li>
+&lt;li>முந்தைய கட்டத்தின் குறுக்க மதிப்பு (32 பைட் நீளம்)&lt;/li>
+&lt;li>தரவுக் குறுக்க மதிப்பு (மெர்கல் மர வேரின் குறுக்க மதிப்பு) (32 பைட் நீளம்)&lt;/li>
+&lt;li>நேர முத்திரை (4 பைட் நீளம்)&lt;/li>
+&lt;li>தற்போதைய கடின அளவு (4 பைட் நீளம்)&lt;/li>
+&lt;li>ஒரேமுறை எண் (4 பைட் நீளம்)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>கட்டத்தின் தரவு (Block Data)
+&lt;ul>
+&lt;li>பரிவர்த்தனை எண்ணி (Transaction Counter)&lt;/li>
+&lt;li>பரிவர்த்தனைகள் #1, #2, #3, &amp;hellip; ,#n&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/blockchain-ta/blockchain-bitcoin-block-structure-ta.svg" width=50%>
+&lt;br>
+&lt;br>
+&lt;a href="/books/emergingtech/blockchain/bitcoin-block-structure/#%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%af%e0%ae%a9-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%89%e0%ae%a4%e0%ae%b0%e0%ae%a3%e0%ae%ae--sample-bitcoin-blockchain">
+&lt;h3 id="படகயன-கடடசசஙகல-உதரணம--sample-bitcoin-blockchain">
+ பிட்காயின் கட்டச்சங்கிலி உதாரணம் / Sample Bitcoin blockchain 
+&lt;/h3>
+&lt;/a>&lt;br>
+&lt;br>
+&lt;img src="images/blockchain-ta/blockchain-bitcoin-chain-sample-ta.svg" width=50%></description></item><item><title>மேகக் கணிமை சேவை முறைகள்</title><link>/books/emergingtech/cloud/cloud-service-models/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/cloud-service-models/</guid><description>&lt;a href="/books/emergingtech/cloud/cloud-service-models/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%9a%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--cloud-service-models">
+&lt;h2 id="மகக-கணம-சவ-மறகள--cloud-service-models">
+ &lt;strong>மேகக் கணிமை சேவை முறைகள் / Cloud Service Models&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-service-model-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/books/emergingtech/cloud/cloud-service-models/#1-%e0%ae%9a%e0%ae%b5%e0%ae%af%e0%ae%95-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa--infrastructure-as-a-service-iaas">
+&lt;h4 id="1-சவயக-உளகடடமபப--infrastructure-as-a-service-iaas">
+ 1. சேவையாக உள்கட்டமைப்பு / Infrastructure as a Service (IaaS) 
+&lt;/h4>
+&lt;/a>&lt;p>மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். கக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.&lt;/p>
+&lt;a href="/books/emergingtech/cloud/cloud-service-models/#2-%e0%ae%9a%e0%ae%b5%e0%ae%af%e0%ae%95-%e0%ae%aa%e0%ae%a3%e0%ae%a4%e0%ae%a4%e0%ae%b3%e0%ae%ae--platform-as-a-service-paas">
+&lt;h4 id="2-சவயக-பணததளம--platform-as-a-service-paas">
+ 2. சேவையாக பணித்தளம் / Platform as a service (PaaS) 
+&lt;/h4>
+&lt;/a>&lt;p>மேகக் கணிமை சேவையாளர்கள் தரவுத்தளங்கள், பயன்பாட்டு தளங்கள், நிரலாக்கத் தளங்கள், இயக்க நேரச் சூழல் போன்ற தளங்களை உருவிலா நிலையில் பணித்தளமாக வழங்குகின்றனர்&lt;/p></description></item><item><title>களப்பெயர் முறைமை வினவல் தீர்வு முறை</title><link>/books/cybersecurity/dns/dns-resolution-process/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-resolution-process/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-resolution-process/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%a9%e0%ae%b5%e0%ae%b2-%e0%ae%a4%e0%ae%b0%e0%ae%b5-%e0%ae%ae%e0%ae%b1--dns-query-resolution-process">
+&lt;h3 id="களபபயர-மறம-வனவல-தரவ-மற--dns-query-resolution-process">
+ களப்பெயர் முறைமை வினவல் தீர்வு முறை / DNS Query Resolution Process 
+&lt;/h3>
+&lt;/a>&lt;img src="images/dns-ta/dns-resolution-process-ta.svg"></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்</title><link>/books/cybersecurity/pki/pki-components/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/pki/pki-components/</guid><description>&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%b3-pki-components">
+&lt;h3 id="பதத-தறவ-உளகடடமபபன-கறகள-pki-components">
+ பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள் (PKI components) 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/pki-components-ta.svg">
+&lt;ul>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%aa%e0%ae%a4%e0%ae%b5-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae-registration-authority">
+&lt;h4 id="பதவ-ஆணயம-registration-authority">
+ பதிவு ஆணையம் (Registration Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>சான்றிதழ் கோரி விண்ணப்பிக்கும் நபர்கள் மற்றும் நிறுவனங்களின் அடையாளத்தை சரிபார்க்கும் சேவையை செய்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae-certificate-authority">
+&lt;h4 id="சனறதழ-ஆணயம-certificate-authority">
+ சான்றிதழ் ஆணையம் (Certificate Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>இலக்கமுறைச் சான்றிதழ்களை வழங்கி, சேமித்து, மற்றும் குறியொப்பமிடும் சேவைகளை செய்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%ae%e0%ae%af-%e0%ae%95%e0%ae%b3%e0%ae%9e%e0%ae%9a%e0%ae%af%e0%ae%ae--%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae-central-repository">
+&lt;h4 id="மய-களஞசயம--கபபகம-central-repository">
+ மைய களஞ்சியம் / கோப்பகம் (Central Repository)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>திறவிகள் சேமிக்கப்பட்டு அட்டவணைப்படுத்தப்படும் பாதுகாப்பான இடம்;​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa-certificate-management-system">
+&lt;h4 id="சனறதழ-மலணம-அமபப-certificate-management-system">
+ சான்றிதழ் மேலாண்மை அமைப்பு (Certificate Management System)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>சேமிக்கப்பட்ட சான்றிதழ்களுக்கான அணுகல் மற்றும் வழங்கப்பட வேண்டிய சான்றிதழ்களை வழங்குவது, சான்றிதழ் வாழ்நிலைச் சுழற்சி (Certificate Lifecycle) போன்றவற்றை நிர்வகிக்கும்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%95%e0%ae%b3%e0%ae%95-certificate-policy">
+&lt;h4 id="சனறதழ-களக-certificate-policy">
+ சான்றிதழ் கொள்கை (Certificate Policy)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>பொதுத் திறவி உள்கட்டமைப்பின் நடைமுறைகள் தொடர்பான தேவைகளை குறிப்பிடும். பொதுத் திறவி உள்கட்டமைப்பின் நம்பகத்தன்மையை மூன்றாம் தரப்பினர் பகுப்பாய்வு செய்ய அனுமதிக்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae--validation-authority">
+&lt;h4 id="சரபரததல-ஆணயம--validation-authority">
+ சரிபார்த்தல் ஆணையம் (Validation Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>தவறான சான்றிதழ்களின் பட்டியலைக் குறிப்பிடுவதன் மூலம் இலக்கமுறைச் சான்றிதழின் செல்லுபடியை சரிபார்க்கும் ஒரு அமைப்பாகும். இது இலக்கமுறைச் சான்றிதழ் நம்பகமான சான்றிதழ் ஆணையத்தால் வழங்கப்பட்டதா என்பதை உறுதிப்படுத்துகிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>மறையாக்க வகைகள்</title><link>/books/cybersecurity/cryptography/encryption-types/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/encryption-types/</guid><description>&lt;a href="/books/cybersecurity/cryptography/encryption-types/#%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%95%e0%ae%b4%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%ae%e0%ae%a9%e0%ae%b1-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3%e0%ae%95-%e0%ae%aa%e0%ae%b0%e0%ae%95%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b1%e0%ae%a4-%e0%ae%87%e0%ae%b5-%e0%ae%95%e0%ae%b1%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%a4%e0%ae%a4-%e0%ae%b5%e0%ae%b0%e0%ae%b5%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%b2%e0%ae%ae">
+&lt;h4 id="மறயககம-கழகணம-மனற-வககளக-பரககபபடகறத-இவ-கறதத-அடதத-வரவக-கணலம">
+ மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம். 
+&lt;/h4>
+&lt;/a>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid மறையாக்க வகைகள்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/encryption-types-ta.svg" alt="மறையாக்க வகைகள்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ மறையாக்க வகைகள்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p></description></item><item><title>அதிகாரம் வழங்கல்</title><link>/books/cybersecurity/iam/iam-provisioning/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-provisioning/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-provisioning/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-provisioning">
+&lt;h3 id="அதகரம-வழஙகல-provisioning">
+ அதிகாரம் வழங்கல் (Provisioning) 
+&lt;/h3>
+&lt;/a>&lt;p>அதிகாரம் வழங்கல் என்பது ஒரு தானியங்கி அல்லது அரை தானியங்கி முறையில் செயல்படும் பயனர் கணக்குகளை உருவாக்குதல், இந்த கணக்குகளுக்கான பாத்திரங்கள் மற்றும் அனுமதிகளை ஒதுக்குதல் மற்றும் நிர்வகித்தல் ஆகியவற்றை உள்ளடக்கிய ஒரு செயல்முறையாகும்.&lt;/p>
+&lt;p>அதிகாரம் வழங்கல் பயன்பாடு, அதிகாரப்பூர்வ அடையாள அமைப்பிலிருந்து பயனர் தகவலைப் படிக்கும், பயன்பாட்டு தகவலிலிருந்து பயன்பாட்டுப் பாத்திரங்களைப் படிக்கும். பின்னர், நிறுவனக் கொள்கைகளின் அடிப்படையில் அடையாள பாத்திர வரைவை (identity role mapping) உருவாக்கும்.&lt;/p>
+&lt;p>வழங்கல் கட்டமைப்பு வகையின் அடிப்படையில் இலக்கு பயன்பாட்டிற்கு அடையாள பாத்திர வரைவை அனுப்பலாம்.&lt;/p>
+&lt;p>அங்கீகாரத் தகவல்களை அதிகாரம் வழங்கல் பயன்பாடு அனுப்பலாம் அல்லது இலக்கு பயன்பாடு அதிகாரம் வழங்கல் பயன்பாடு அனுப்பிய அடையாள பாத்திர வரைவை கொண்டு தன் அங்கீகாரம் செய்யப்படலாம்.&lt;/p></description></item><item><title>அதிகாரம் வழங்கல் வகைகள்</title><link>/books/cybersecurity/iam/iam-provisioning-types/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-provisioning-types/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--provisioning-types">
+&lt;h3 id="அதகரம-வழஙகல-வககள--provisioning-types">
+ அதிகாரம் வழங்கல் வகைகள் / Provisioning Types 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%b5%e0%ae%b0%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%ae-%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2---discretionary-access-provisioning">
+&lt;h4 id="வரபபரம-அதகரம-வழஙகல---discretionary-access-provisioning">
+ விருப்புரிமை அதிகாரம் வழங்கல் / Discretionary access provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* பெரும்பாலும் சிறிய முதல் நடுத்தர அளவிலான நிறுவனங்களில் பயன்படுத்தப்படும், இந்த அணுகுமுறை எந்த பயன்பாடுகள் மற்றும் தரவுகளை பயனர்கள் அணுக முடியும் என்பதை முடிவு செய்ய ஒரு பிணைய நிர்வாகியை அனுமதிக்கிறது..
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5-%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2--self-service-access-provisioning">
+&lt;h4 id="சயசவ-அதகரம-வழஙகல--self-service-access-provisioning">
+ சுயசேவை அதிகாரம் வழங்கல் / Self-service access provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* பொதுவாக, இந்த அணுகுமுறை ஒரு நிர்வாகியின் பணிச்சுமையை குறைக்க உதவுகிறது. இது பயனர்கள் ஒரு கணக்கைகோருதல் மற்றும் சுய-மேலாண்மை கடவுச்சொற்களை கோருதல் போன்ற வழங்கல் செயல்முறையின் சில அம்சங்களில் பங்கேற்க உதவுகிறது.
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%aa%e0%ae%a3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b5-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a4%e0%ae%b2--workflow-based-account-provisioning">
+&lt;h4 id="பணபபயவ-அடபபடயலன-கணகக-வழஙகதல--workflow-based-account-provisioning">
+ பணிப்பாய்வு அடிப்படையிலான கணக்கு வழங்குதல் / Workflow based account provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* ஒரு பயன்பாடு அல்லது தரவுக்கான பயனர் அணுக அதிகாரம் வழங்குவதற்கு முன், நியமிக்கப்பட்ட ஒப்புதல் அளிப்பவர்களிடமிருந்து ஒப்புதல் தேவை. உதாரணமாக, நிதி மேலாண்மை அமைப்பை அணுக அதிகாரம் வழங்குவதற்கு முன், அந்நிறுவனத்தின் தலைமை நிதி அதிகாரி ஒப்புதல் தேவைப்படும்.
+&lt;/code>&lt;/pre>
+&lt;a href="/books/cybersecurity/iam/iam-provisioning-types/#%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%99%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a4%e0%ae%b2--automated-account-provisioning">
+&lt;h4 id="தனயஙக-கணகக-வழஙகதல--automated-account-provisioning">
+ தானியங்கு கணக்கு வழங்குதல் / Automated account provisioning 
+&lt;/h4>
+&lt;/a>&lt;pre>&lt;code>* ஒவ்வொரு கணக்கும் ஒரு மையப்படுத்தப்பட்ட மேலாண்மை பயன்பாட்டு இடைமுகம் மூலம் ஒரே முறையில் சேர்க்கப்படுகிறது.
+* இது பயனர் நம்பிக்கைச்சான்றுகளைச் சேர்ப்பது மற்றும் நிர்வகிப்பது போன்ற செயல்முறையை ஒழுங்குபடுத்துகிறது மற்றும் குறிப்பிட்ட பயன்பாடுகள் மற்றும் தரவு ஆதாரங்களை யார் அணுகுகிறார்கள் என்பதைக் கண்காணிக்க நிர்வாகிகளுக்கு மிகவும் துல்லியமான வழியை வழங்குகிறது.
+* வழங்கல் மற்றும் அடையாள மேலாண்மை செயல்முறைகள் ஒரே மாதிரியாக இருந்தாலும், பல்வேறு பயனர்களிடையே (எ.கா. நோயாளிகள், மருத்துவர்கள், வாடிக்கையாளர்கள் மற்றும் கூட்டாளர்கள்) வழங்கல் அளவு மற்றும் வகை பெரிதும் வேறுபடுகிறது
+&lt;/code>&lt;/pre></description></item><item><title>பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை</title><link>/books/emergingtech/blockchain/bitcoin-block-addition-process/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/bitcoin-block-addition-process/</guid><description>&lt;a href="/books/emergingtech/blockchain/bitcoin-block-addition-process/#%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%af%e0%ae%a9-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f-%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%aa-%e0%ae%9a%e0%ae%af%e0%ae%b2%e0%ae%ae%e0%ae%b1--bitcoin-blokchain-block-addition-process">
+&lt;h3 id="படகயன-கடடசசஙகல-கடட-இணபப-சயலமற--bitcoin-blokchain-block-addition-process">
+ பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை / Bitcoin blokchain block addition process 
+&lt;/h3>
+&lt;/a>&lt;img src="images/blockchain-ta/blockchain-bitcoin-block-addition-process-ta.svg" width=70%></description></item><item><title>மேகக் கணிமை பணியமர்த்தல் முறைகள்</title><link>/books/emergingtech/cloud/cloud-deployment-models/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/cloud-deployment-models/</guid><description>&lt;a href="/books/emergingtech/cloud/cloud-deployment-models/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%aa%e0%ae%a3%e0%ae%af%e0%ae%ae%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--cloud-deployment-models">
+&lt;h2 id="மகக-கணம-பணயமரததல-மறகள--cloud-deployment-models">
+ &lt;strong>மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/books/emergingtech/cloud/cloud-deployment-models/#1-%e0%ae%aa%e0%ae%a4-%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--public-cloud">
+&lt;h4 id="1-பத-மகக-கணம--public-cloud">
+ 1. பொது மேகக் கணிமை / Public Cloud 
+&lt;/h4>
+&lt;/a>&lt;p>மேகக்கணிமை உள்கட்டமைப்பு பொது மக்களுக்கு அல்லது பெரிய தொழில் நிறுவனங்களுக்கு வழங்கப்படுகிறது. இந்த உள்கட்டமைப்பு மேகக் கணிமை சேவையாளர்களுக்கு சொந்தமானது.&lt;/p>
+&lt;p>மேகக்கணிமை சேவைகளை யார் வேண்டுமானாலும் பெறலாம்&lt;/p>
+&lt;p>எடுத்துக்காட்டு&lt;/p>
+&lt;ul>
+&lt;li>அமேசான் வலை சேவைகள் / Amazon Web Services&lt;/li>
+&lt;li>மைக்ரோசாஃப்ட் அசூர் / Microsoft Azure&lt;/li>
+&lt;li>கூகுள் மேகக்கணிமை தளம் / Google Cloud Platform&lt;/li>
+&lt;/ul>
+&lt;a href="/books/emergingtech/cloud/cloud-deployment-models/#2-%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--private-cloud">
+&lt;h4 id="2-தனயர-மகக-கணம--private-cloud">
+ 2. தனியார் மேகக் கணிமை / Private Cloud 
+&lt;/h4>
+&lt;/a>&lt;p>இவ்வகை மேகக்கணிமை உள்கட்டமைப்பு ஒரு நிறுவனத்திற்காக மட்டுமே இயக்கப்படுகிறது.&lt;/p></description></item><item><title>களப்பெயர் முறைமை ஏடுகள்</title><link>/books/cybersecurity/dns/dns-records/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-records/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-records/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%8f%e0%ae%9f%e0%ae%95%e0%ae%b3--dns-records">
+&lt;h3 id="களபபயர-மறம-ஏடகள--dns-records">
+ களப்பெயர் முறைமை ஏடுகள் / DNS Records 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>&lt;strong>A ஏடு&lt;/strong> – இணைய நெறிமுறை பதிப்பு 4 (IPv4) முகவரி சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>AAAA ஏடு&lt;/strong> - இணைய நெறிமுறை பதிப்பு 6 (IPv6) முகவரி சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>CNAME ஏடு&lt;/strong> – மாற்று களப்பெயர் சேமிக்குமிடம், இந்த ஏடு இருந்தால் இ.நெறி முகவரி கொடுக்கப்படாது.&lt;/li>
+&lt;li>&lt;strong>MX ஏடு&lt;/strong> – இந்த களப்பெயர் நோக்கி வரும் மின்னஞ்சல்களை அதன் மின்னஞ்சல் சேவையகத்திற்க்கு மடை மாற்றும்&lt;/li>
+&lt;li>&lt;strong>TXT ஏடு&lt;/strong> – கள நிர்வாகி சில எழுத்துக் குறிப்புகளை சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>NS ஏடு&lt;/strong> – களத்தின் அதிகார்பபூர்வ களப்பெயர் வழங்கன் முகவரியை சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>SOA ஏடு&lt;/strong> – கல நிர்வாகி குறித்த தகவல்களை சேமிக்குமிடம்.&lt;/li>
+&lt;li>&lt;strong>SRV ஏடு&lt;/strong> – குறிப்பிட்ட சேவைகளுக்கான துறை எண்ணை குறிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>PTR ஏடு&lt;/strong> – எதிர்திசை வினவலின் பொது, களப் பெயரை பதிலாக கொடுக்கும். இந்த ஏட்டில் இ.நெறி முகவரி தலைகீழாக சேமிக்கப்படும்&lt;/li>
+&lt;/ul>
+&lt;p>களப்பெயர் முறைமை பாதுகாப்பிற்கான பிரத்யேக ஏடுகள் (DNSSEC Specific Records)&lt;/p></description></item><item><title>களப்பெயர் முறைமை மண்டலங்கள்</title><link>/books/cybersecurity/dns/dns-zones/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-zones/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-zones/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%ae%e0%ae%a3%e0%ae%9f%e0%ae%b2%e0%ae%99%e0%ae%95%e0%ae%b3--dns-zones">
+&lt;h3 id="களபபயர-மறம-மணடலஙகள--dns-zones">
+ களப்பெயர் முறைமை மண்டலங்கள் / DNS Zones 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை மண்டலம் என்பது ஒரு குறிப்பிட்ட அமைப்பு அல்லது நிர்வாகியால் நிர்வகிக்கப்படும் களப்பெயர் வெளியின் ஒரு பகுதியாகும். களப்பெயர் முறைமை மண்டலம் பல துணை களப்பெயர்களை கொண்டிருக்கலாம் மற்றும் ஒரே சேவையகத்தில் பல மண்டலங்கள் இருக்கலாம். கட்டுப்பாடுகளை ஒப்படைக்க மண்டலங்கள் பயன்படுத்தப்படுகின்றன. களப்பெயர் முறைமை பதிவுகள் (மண்டல கோப்புகள்) அதிகாரப்பூர்வ களப்பெயர் வழங்கனில் இயக்கம் வழிமுறைகள். களப்பெயர் முறைமை பதிவுகள் தொடர் உரை கோப்புகளைக் கொண்டுள்ளன. இவை களப்பெயர் முறைமை தொடரியல் (DNS Syntax) என்று அழைக்கப்படும். இது களப்பெயர் முறைமை வழங்கன் செய்ய வேண்டிய வேலைகளுக்கு இடும் கட்டளைகளை கொண்ட எழுத்துச்சரம்.&lt;/p></description></item><item><title>நம்பிக்கை சங்கிலி</title><link>/books/cybersecurity/pki/chain-of-trust/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/chain-of-trust/</guid><description>&lt;a href="/books/cybersecurity/pki/chain-of-trust/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%95-%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2--chain-of-trust">
+&lt;h3 id="நமபகக-சஙகல--chain-of-trust">
+ நம்பிக்கை சங்கிலி / Chain of Trust 
+&lt;/h3>
+&lt;/a>&lt;p>நம்பிக்கையின் சங்கிலி பல பகுதிகளைக் கொண்டுள்ளது.&lt;/p>
+&lt;img src="/images/pki-ta/chain-of-trust-ta.svg">
+&lt;p>முதலில் ஒரு நம்பிக்கை நங்கூரம் (Trust Anchor). இது வேர் சான்றிதழ் ஆணையம் (Root Certifying Authority) என்றும் அழைக்கப்படுகிறது.&lt;/p>
+&lt;p>இரண்டாவதாக, ஒரு இடைநிலை சான்றிதழ் ஆணையம் (Intermediate CA). இதன் கட்டுப்பாட்டில் பல துணை இடைநிலை சான்றிதழ் ஆணையங்கள் (Sub CA) இருக்கலாம்.&lt;/p>
+&lt;p>இந்த இடைநிலை சான்றிதழ் ஆணையம் இறுதி அமைப்புகள் மற்றும் வேர் சான்றிதழ் ஆணையத்தின் இடையே ஒரு அரண் போல் செயல்படுகிறது.&lt;/p>
+&lt;p>இறுதியில் ஒரு வலைத்தளம், நிறுவனம் அல்லது நபர் போன்ற அமைப்புகளுக்கு வழங்கப்படும் இறுதி அமைப்புச் சான்றிதழ் (End Entity Certificate)&lt;/p></description></item><item><title>ஒற்றைத் திறவி மறையாக்கம்</title><link>/books/cybersecurity/cryptography/symmetric-key/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/symmetric-key/</guid><description>&lt;p>உதாரணமாக முகிலன் ஒரு இரகசிய தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று&lt;/p>
+&lt;p>தகவலை பரிமாறும் முன்னர், முகிலன் மற்றும் எழிலன் ஒரு இரகசிய சொற்றொடரை தேர்வு செய்வர். இந்த சொற்றொடர் வேறு யாருக்கும் தெரியாது /தெரியவும் கூடாது. இந்த சொற்றொடரை இரகசியத் திறவி என வைத்துக் கொள்வோம்&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid ஒற்றைத் திறவி மறையாக்கம்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/symmetric-key-ta.svg" alt="ஒற்றைத் திறவி மறையாக்கம்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ ஒற்றைத் திறவி மறையாக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>முகிலன் அந்த இரகசியத் திறவியை கொண்டு தன் தகவலை மறையாக்கம் செய்து, மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார்
+எழிலன் அதே இரகசியத் திறவியை கொண்டு மறைக்குறியீட்டை மறைநீக்கம் செய்து இயற்தகவலை பெறுவார்&lt;/p></description></item><item><title>ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்</title><link>/books/emergingtech/blockchain/hyperledger-block-structure/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/hyperledger-block-structure/</guid><description>&lt;a href="/books/emergingtech/blockchain/hyperledger-block-structure/#%e0%ae%b9%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%b2%e0%ae%9f%e0%ae%9c%e0%ae%b0-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%a9-%e0%ae%89%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3-hyperledger-blokchain-block-structure">
+&lt;h3 id="ஹபபரலடஜர-கடடசசஙகல-கடடததன-உறபபகள-hyperledger-blokchain-block-structure">
+ ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blokchain block structure 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>கட்டத்தின் தலைப்பு (Block Header)
+&lt;ul>
+&lt;li>கட்டத்தின் எண்&lt;/li>
+&lt;li>தரவுக் குறுக்க மதிப்பு&lt;/li>
+&lt;li>முந்தைய கட்டத்தின் குறுக்க மதிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>கட்டத்தின் தரவு (Block Data)
+&lt;ul>
+&lt;li>தலைப்பு&lt;/li>
+&lt;li>குறியொப்பம்&lt;/li>
+&lt;li>முன்மொழிவு&lt;/li>
+&lt;li>துலங்கல்&lt;/li>
+&lt;li>மேற்குறிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>மீத்தரவு (Metadata)
+&lt;ul>
+&lt;li>கட்டத்தை உருவாக்கியவரின் சான்றிதழ் மற்றும் குறியொப்பம்&lt;/li>
+&lt;li>கட்டத்தை உறுதி செய்பவர் ஒவ்வொரு பரிவர்த்தனையையும் சரிபார்த்து சேர்க்கும் சரியான / தவறான பரிவர்த்தனை குறிகாட்டி&lt;/li>
+&lt;li>இந்தக் கட்டம் உட்பட ஒட்டுமொத்த நிலை புதுப்பிப்புகளின் குறுக்க மதிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+ &lt;br>
+&lt;img src="images/blockchain-ta/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%></description></item><item><title>மேகக் கணிமை பாத்திரங்கள்</title><link>/books/emergingtech/cloud/cloud-roles/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/cloud-roles/</guid><description>&lt;a href="/books/emergingtech/cloud/cloud-roles/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%aa%e0%ae%a4%e0%ae%a4%e0%ae%b0%e0%ae%99%e0%ae%95%e0%ae%b3--cloud-computing-roles">
+&lt;h3 id="மகக-கணம-பததரஙகள--cloud-computing-roles">
+ மேகக் கணிமை பாத்திரங்கள் / Cloud Computing Roles 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளர்கள் / Cloud Provider
+&lt;ul>
+&lt;li>ஆர்வமுள்ள தரப்பினருக்கு மேகக்கணிமை சேவையை கிடைக்கச் செய்யும் பொறுப்பை ஏற்கும் நபர், அமைப்பு அல்லது நிறுவனம்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக் கணிமை நுகர்வோர் / வாடிக்கையாளர் / Cloud Consumer
+&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளரிடம் வணிக உறவைப் பராமரிக்கும் மற்றும் சேவையைப் பயன்படுத்தும் ஒரு நபர் அல்லது அமைப்பு
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை தரவுக்கடத்தி / Cloud Carrier
+&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளரிடமிருந்து நுகர்வோருக்கு மேகக் கணிமை சேவைகளின் இணைப்பு மற்றும் போக்குவரத்தை வழங்கும் ஒரு இடைத்தரகர்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை தரகர்கள் / Cloud Broker
+&lt;ul>
+&lt;li>மேகக்கணிமை சேவைகளின் பயன்பாடு, செயல்திறன் மற்றும் விநியோகத்தை நிர்வகிக்கும் மற்றும் மேகக்கணிமை சேவையாளர்கள்களுக்கும் நுகர்வோருக்கும் இடையிலான உறவு மேம்பாடு பேச்சுவார்த்தை நடத்தும் ஒரு நிறுவனம்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை அணுகல் பாதுகாப்பு தரகர்கள் / Cloud Access Security Broker (CASB)
+&lt;ul>
+&lt;li>இவ்வகை மென்பொருள் மேகக் கனிமையை நோக்கி அனுப்பப்படும் தகவல்தொடர்புகளை இடைமறிக்கவும் அல்லது செயல்பாட்டை கண்காணிக்கவும், கொள்கைகளை செயல்படுத்தவும், பாதுகாப்பு சிக்கல்களைக் கண்டறிந்து தடுக்கவும் பயன்பாடு நிரலாக்க இடைமுகம் வழியாகவோ அல்லது நேரடியாக சேவையாக நுகரும் மென்பொருளுடன் இணைக்கின்றன. அவை பொதுவாக ஒரு நிறுவனத்தின் அனுமதிக்கப்பட்ட மற்றும் அனுமதிக்கப்படாத சேவைகளை (சேவையாக மென்பொருள்) நிர்வகிக்க பயன்படுத்தப்படுகின்றன.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>மேகக் கணிமையின் நன்மைகள்</title><link>/books/emergingtech/cloud/cloud-benefits/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/cloud/cloud-benefits/</guid><description>&lt;a href="/books/emergingtech/cloud/cloud-benefits/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae%e0%ae%af%e0%ae%a9-%e0%ae%a8%e0%ae%a9%e0%ae%ae%e0%ae%95%e0%ae%b3">
+&lt;h3 id="மகக-கணமயன-நனமகள">
+ மேகக் கணிமையின் நன்மைகள் 
+&lt;/h3>
+&lt;/a>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>சேமிப்பு&lt;/strong> &lt;br>
+மேகக் கணிமை சேவையாளர்கள் வன்பொருள்களை வைத்திருப்பதால், நுகர்வோருக்கு மூலதன செலவினம் (CAPEX) செய்ய தேவையில்லை. நுகர்வோர், தங்கள் சந்தா அடிப்படையில் பயன்பாட்டிற்கு உண்டான கட்டணத்தை செலுத்த வேண்டும். இதனால் செயல்பாட்டு செலவினம் (OPEX) மட்டுமே உண்டு.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>கிடைக்கும் தன்மை&lt;/strong> &lt;br>
+மேகக் கணிமை சேவையாளர்கள் பெரும்பாலோர் தங்கள் சேவைகள் 99.995% நேரம் கிடைப்பதை உறுதி செய்கிறார்கள். அதாவது, ஒரு வருடத்தில் திட்டமிடப்படாத செயலறு நேரம் 25 நிமிடங்கள் மட்டுமே. பயனர்கள் எந்த நேரத்திலும் தேவைப்படும் பயன்பாடுகளை உபயோகிக்க முடியும்.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>அளவு மாற்றம் &amp;amp; நெகிழ்வுத்தன்மை&lt;/strong> &lt;br>
+மேகக் கணிமை உள் கட்டமைப்பிற்கு சிறந்த அளவு மாற்றும் &amp;amp; நெகிழ்வுத் தன்மையை வழங்குகிறது. இது ஒரு தனிப்பட்ட நிறுவனத்தின் பார்வையில் கற்பனை செய்ய முடியாத அளவாக இருக்கும். ஒரு நிறுவனம் மற்றும் அதன் ஊழியர்கள் தங்கள் நேரத்தை தகவல் தொழில்நுட்ப உள் கட்டமைப்பை நிர்வகிப்பதில் செலவிடுவதை விட தங்கள் தொழில் வளர்ச்சியில் கவனம் செலுத்த இயலும்.&lt;/p></description></item><item><title>நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்</title><link>/books/cybersecurity/pki/certificate-store/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/certificate-store/</guid><description>&lt;a href="/books/cybersecurity/pki/certificate-store/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%95-%e0%ae%9a%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae--%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%9a%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae--trust-stores--certificate-stores">
+&lt;h3 id="நமபகக-சமபபகம--சனறதழ-சமபபகம--trust-stores--certificate-stores">
+ நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம் / Trust Stores / Certificate Stores 
+&lt;/h3>
+&lt;/a>&lt;p>நம்பிக்கை சேமிப்பகம் என்பது இயல்பாக நம்பப்படும் வேர் சான்றிதழ்களின் தொகுப்பாகும்&lt;/p>
+&lt;img src="/images/pki-ta/cert-manager.png" >
+&lt;p>இவை இயங்குதளம் மற்றும் வலை உலாவிகளை உருவாக்கும் நிறுவனங்களால் பராமரிக்கப்படுகின்றன.&lt;/p>
+&lt;img src="/images/pki-ta/certificate-stores.png" >
+&lt;a href="/books/cybersecurity/pki/certificate-store/#%e0%ae%87%e0%ae%a8%e0%ae%a4%e0%ae%af%e0%ae%b5%e0%ae%b2-%e0%ae%89%e0%ae%b0%e0%ae%ae%e0%ae%ae-%e0%ae%aa%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b3%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%99%e0%ae%95%e0%ae%b3--licensed-certifying-authorities-in-india">
+&lt;h3 id="இநதயவல-உரமம-பறற-சனறளககம-ஆணயஙகள--licensed-certifying-authorities-in-india">
+ இந்தியாவில் உரிமம் பெற்ற சான்றளிக்கும் ஆணையங்கள் / Licensed Certifying Authorities in India 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/india-licensed-ca.png"></description></item><item><title>இரட்டைத் திறவி மறையாக்கம்</title><link>/books/cybersecurity/cryptography/asymmetric-key/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/asymmetric-key/</guid><description>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid இரட்டைத் திறவி மறையாக்கம்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/asymmetric-key-ta-1.svg" alt="இரட்டைத் திறவி மறையாக்கம்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ இரட்டைத் திறவி மறையாக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>ஒவ்வொரு நபரிடமும் இரு திறவிகள் இருக்கும். இவை பொதுத் திறவி (Public Key) &amp;amp; தனித் திறவி (Private Key) என்று அழைக்கப்படும். இவை இரண்டும் துணைத் திறவிகள் (Key Pair) என்றும் அழைக்கப்படும். துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டது. ஒரு திறவியில் இருந்து மற்றொரு திறவியை தருவிக்க (Derive) / ஊகிக்க (Guess) முடியாது. பொதுத் திறவியை பொது வெளியில் (மின்னஞ்சல், வலைத்தளம், சமூக ஊடகம் வாயிலாக) பகிர்வர். தனித் திறவியை இரகசியமாக பாதுகாப்பர்.&lt;/p>
+&lt;p>ஒரு திறவியால் மறையாக்கம் (encryption) செய்த மறைக்குறியீட்டை (cipher text) அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் (decryption) செய்ய இயலும்&lt;/p></description></item><item><title>அடையாள வரைவுகள்</title><link>/books/cybersecurity/iam/iam-identity-mapping/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-identity-mapping/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-identity-mapping/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%b5%e0%ae%b0%e0%ae%b5%e0%ae%95%e0%ae%b3-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%a9%e0%ae%a4-%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95%e0%ae%95%e0%ae%b3--identity-mapping--orphan-accounts">
+&lt;h3 id="அடயள-வரவகள-மறறம-அனத-கணகககள--identity-mapping--orphan-accounts">
+ அடையாள வரைவுகள் மற்றும் அனாதை கணக்குகள் / Identity mapping &amp;amp; orphan accounts 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>அடையாள வரைபடமானது பல்வேறு வடிவங்களில் பயன்பாடுகளில் உள்ள பல்வேறு கணக்குகளை மனிதவள அல்லது செயற்பாட்டு அடைவில் உள்ள ஒரு அதிகாரபூர்வ அடையாளத்துடன் இணைக்கும் ஒரு செயல் ஆகும்&lt;/li>
+&lt;li>அனாதை கணக்குகள் என்பது எந்தவொரு அதிகாரபூர்வமான அடையாளத்துடன் இணைக்கப்படாமல் பயன்பாடுகளில் உள்ள கணக்குகள்/அடையாளங்கள் ஆகும்.&lt;/li>
+&lt;li>அனாதை கணக்குகள் இரண்டு வகையான பாதுகாப்பு மறையிடர்களுக்கு வழிவகுக்கும்:
+&lt;ul>
+&lt;li>கணக்கிண் உரிமையாளர் இல்லை / பதவி விலகினால், அந்த கணக்கு தவறாக பயன்படுத்துவதன் மூலம் உயர்ந்த ஆபத்திற்கு வழிவகுக்கும். ஏனெனில் கணக்கின் வழக்கத்திற்கு மாறான பயன்பாட்டை இல்லாத கணக்கின் உரிமையாளரால் கண்டறிய இயலாது.&lt;/li>
+&lt;li>அனாதை கணக்குகள் அவற்றின் உரிமையாளர் வெளியேறும்போது நம்பகமான முறையில் செயலிழக்க முடியாது. ஏனெனில் அந்த உரிமையாளருக்கு இந்த கணக்குடன் இணைப்பு இருக்காது.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-identity-map-ta.svg" width=70%></description></item><item><title>ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள்</title><link>/books/emergingtech/blockchain/hyperledger-components/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/hyperledger-components/</guid><description>&lt;a href="/books/emergingtech/blockchain/hyperledger-components/#%e0%ae%b9%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%b2%e0%ae%9f%e0%ae%9c%e0%ae%b0-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%aa%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3--hyperledger-blokchain-components">
+&lt;h3 id="ஹபபரலடஜர-கடடசசஙகல-பகபபகள--hyperledger-blokchain-components">
+ ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள் / Hyperledger blokchain components 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>இணையர்/ கணு&lt;/strong> - இணையர் பிணையத்தில் இணைக்கப்பட்ட ஒவ்வொரு கணினியும் அவர்கள் பங்கேற்க விரும்பும் கட்டச்சங்கிலி அமைப்புக்கு ஏற்ற குறிப்பிட்ட கணு பயன்பாட்டை நிறுவி இயக்க வேண்டும். தொழில்நுட்ப ரீதியாக, கட்டச்சங்கிலி ஒரு சேவை மேலடுக்கு பிணையத்தை (Service Overlay Network - SON) உருவாக்குகிறது. இந்த பிணையத்தில் ஒரு கணுவாக இருக்க, கணினி பயன்பாடு குறித்த செய்திகளை செயல்முறை படுத்த இயல வேண்டும் மற்றும் சேவை மேலடுக்கு பிணையத்தின் SON பகிரப்பட்ட நிலையை மாற்ற வேண்டும்.&lt;/p>
+&lt;p>&lt;strong>கருத்து இணக்க நெறிமுறை&lt;/strong> - கணு பயன்பாட்டிற்குள் ஒரு பகுதியாக, கருத்து இணக்க நெறிமுறை செயல்படுத்தப்படுகிறது. இந்த சூழல் அமைப்பில் பேரேட்டிலிருந்து ஒருமித்த பார்வை எவ்வாறு எட்ட வேண்டும் என்ற விதிகளையும் மற்றும் “உலக நிலையை” தீர்மானிக்கும் முறையை வழங்குகிறது. எ.கா., உழைப்புக்குச் சான்று (PoW), பங்குகளின் சான்று (PoS), பைசண்டைன் தவறு சகிப்புத்தன்மை (BFT), வாக்களிப்பு சான்று (PoV), பங்குகளின் பிரதிநிதித்துவ சான்று (Delegated PoS).&lt;/p></description></item><item><title>களப்பெயர் முறைமை வகைகள்</title><link>/books/cybersecurity/dns/dns-types/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-types/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-types/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--dns-types">
+&lt;h3 id="களபபயர-மறம-வககள--dns-types">
+ களப்பெயர் முறைமை வகைகள் / DNS Types 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/dns/dns-types/#%e0%ae%85%e0%ae%95-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--internal-dns">
+&lt;h4 id="அக-களபபயர-மறம--internal-dns">
+ அக களப்பெயர் முறைமை / Internal DNS 
+&lt;/h4>
+&lt;/a>&lt;p>ஒரு நிறுவன தனியார் பிணைபிற்குள் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை&lt;/p>
+&lt;a href="/books/cybersecurity/dns/dns-types/#%e0%ae%aa%e0%ae%b1-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--external-dns">
+&lt;h4 id="பற-களபபயர-மறம--external-dns">
+ புற களப்பெயர் முறைமை / External DNS 
+&lt;/h4>
+&lt;/a>&lt;p>இணையம் / பொது பிணையத்தில் தொடர்புகொள்ள கூடியி நிலையில் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை&lt;/p>
+&lt;a href="/books/cybersecurity/dns/dns-types/#%e0%ae%8e%e0%ae%a4%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--reverse-dns">
+&lt;h4 id="எதர-களபபயர-மறம--reverse-dns">
+ எதிர் களப்பெயர் முறைமை / Reverse DNS 
+&lt;/h4>
+&lt;/a>&lt;p>இது ஒரு எதிர் திசை வினவல். ஒரு குறிப்பிட்ட இணைய நெறிமுறை முகவரியை கொண்ட சேவையகத்தின் பெயரை பதிலாக கொடுக்கும். களப்பெயர் முறைமையில், ஒரு களத்தின் PTR ஏடு அந்த களத்தின் சேவையக இ.நெறி முகவரியை தலைகீழாக மாற்றி arpa வடிவில் சேமித்து வைத்திருக்கும். எதிர்த்திசை வினவலின் பொது இந்த மதிப்பு பதிலாக வழங்கப்படும். பாதுகாப்பு நிகழ்வுகளை பதிவு செய்யும் மென்பொருள் மற்றும் மின்னஞ்சல் நுழைவாயில்கள் இந்த முறையை பயன்படுத்துகின்றன.&lt;/p></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள்</title><link>/books/cybersecurity/pki/pki-capabilities/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/pki-capabilities/</guid><description>&lt;a href="/books/cybersecurity/pki/pki-capabilities/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%a4%e0%ae%b1%e0%ae%a9%e0%ae%95%e0%ae%b3--public-key-infrastructure-capabilities">
+&lt;h3 id="பதத-தறவ-உளகடடமபபன-தறனகள--public-key-infrastructure-capabilities">
+ பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள் / Public Key Infrastructure Capabilities 
+&lt;/h3>
+&lt;/a>&lt;p>பொதுத் திறவி உள்கட்டமைப்பு &amp;ldquo;நம்பிக்கை சேவைகளை“ (Trust Services) வழங்குகிறது&lt;/p>
+&lt;img src="/images/pki-ta/trust-services-ta.svg">
+&lt;p>எளிதாக கூறுவதென்றால் நபர்கள் / கணினிகள் / நிறுவனங்களின் செயல்கள் அல்லது வெளியீடுகளை நம்ப உதவுகிறது&lt;/p>
+&lt;p>நம்பிக்கை சேவையின் நோக்கங்கள் பின்வரும் திறன்களின் அடிப்படையில் அமைகின்றன&lt;/p>
+&lt;img src="/images/pki-ta/pki-capabilities-ta.svg"></description></item><item><title>குறுக்கம்</title><link>/books/cybersecurity/cryptography/hashing/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/hashing/</guid><description>&lt;p>குறுக்கம் அல்லது குறுக்க செயல்கூறு (Hash Function) என்பது எந்த ஒரு தரவையும் ஒரு குறிப்பிட்ட நீளம் கொண்ட பதினாறெண்முறை எண்ணாக (Hexadecimal number) மாற்றும் கணித வழிமுறை. இதனை பயன்படுத்த திறவிகள் தேவையில்லை. உள்ளீட்டுத் தரவு எவ்வளவு நீளமாக, பெரிதாக அல்லது வெவ்வேறு வகைகளாக இருந்தாலும், ஒரு தீர்வுநெறி குறிப்பிட்ட நீளம் கொண்ட குறுக்க மதிப்புகளை மட்டுமே வெளிப்படுத்தும்&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid குறுக்கம்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/hashing-ta.svg" alt="குறுக்கம்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ குறுக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>இந்த குறிப்பிட்ட நீளம் கொண்ட எண் வரிசைக்கு குறுக்க மதிப்பு (Hash Value) அல்லது செய்திச் சுருக்கம் (Message Digest) என்று பெயர். ஒரு சிறிய இடைவெளி வேறுபாடு கூட குறுக்க மதிப்பை மாற்றிவிடும். இதனால், குறுக்க மதிப்பு அதன் தரவின் கைரேகையை போன்று கருதப்படுகிறது. குறுக்க மதிப்பை மறைநீக்கி அதனை உருவாக்கிய இயற்தகவலை திரும்ப பெற இயலாது. இதனால், இம்முறை ஒரு வழி மறையாக்கம் (One Way Encryption) என்றும் அழைக்கப்படுகிறது&lt;/p></description></item><item><title>அடையாள சுயசேவை</title><link>/books/cybersecurity/iam/iam-self-service/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-self-service/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-self-service/#%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5--iam-self-service">
+&lt;h3 id="அடயள-சயசவ--iam-self-service">
+ அடையாள சுயசேவை / IAM self service 
+&lt;/h3>
+&lt;/a>&lt;p>அடையாள மேலாண்மை அமைப்பில் கீழ்காணும் சேவைகள் சுய சேவைகளாக பயனர்/மனித அடையாளங்களுக்கு வழங்கப்படுகின்றன&lt;/p>
+&lt;ol>
+&lt;li>சுயசேவை கடவுச்சொல் மேலாண்மை&lt;/li>
+&lt;li>சுயசேவை அணுகல் கோரிக்கை மேலாண்மை&lt;/li>
+&lt;li>சுயசேவை சுயவிவரம் பராமரித்தல்&lt;/li>
+&lt;/ol>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-self-service/#1-%e0%ae%9a%e0%ae%af%e0%ae%9a%e0%ae%b5-%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae">
+&lt;h4 id="1-சயசவ-கடவசசல-மலணம">
+ &lt;strong>1. சுயசேவை கடவுச்சொல் மேலாண்மை&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>சுய சேவை கடவுச்சொல் மேலாண்மை என்பது தங்கள் கடவுச்சொல்லை மறந்துவிட்ட அல்லது கணக்கு பூட்டப்பட்ட ஒரு பயனர், மாற்று சான்றுறுதி முறை மூலம் தம்மை அங்கீகரிக்கவும், உதவி மேசையை அழைக்காமல் தங்கள் சிக்கலை சரிசெய்யவும் பயனர்களை அனுமதிக்கும் செயல்முறை அல்லது தொழில்நுட்பமாகும்.&lt;/p>
+&lt;p>சுய-சேவை கடவுச்சொல் மேலாண்மை தீர்வுகள், பயனர் கோப்பகத்துடன் (செயற்பாட்டு அடைவு) நேரடியாக தொடர்புகொள்வதன் மூலம் மீட்டமைத்தல் மற்றும் கணக்கை திறக்கும் செயல்பாடுகளைச் செய்கின்றன.&lt;/p></description></item><item><title>கணக்கியல் முறைகள்</title><link>/books/emergingtech/blockchain/accounting-methods/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/accounting-methods/</guid><description>&lt;a href="/books/emergingtech/blockchain/accounting-methods/#%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95%e0%ae%af%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3">
+&lt;h3 id="கணககயல-மறகள">
+ கணக்கியல் முறைகள் 
+&lt;/h3>
+&lt;/a>&lt;img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%></description></item><item><title>களப்பெயர் முறைமை பாதுகாப்பு</title><link>/books/cybersecurity/dns/dnssec/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dnssec/</guid><description>&lt;a href="/books/cybersecurity/dns/dnssec/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa--dns-sec">
+&lt;h3 id="களபபயர-மறம-பதகபப--dns-sec">
+ களப்பெயர் முறைமை பாதுகாப்பு / DNS SEC 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை பாதுகாப்பின் நோக்கம் களப்பெயர் தரவுகள் மற்றும் அதன் மறைப்பியல் குறியொப்பங்களையும் சேர்த்து ஒரு பாதுகாப்பான களப்பெயர் முறைமையை உருவாக்குவது. தரவின் உரிமையாளர் அவரவர் தரவை ஒப்பமிடுவர்.&lt;/p>
+&lt;p>குறியொப்பம் சரிபார்த்தலை வசதிப்படுத்த, களப்பெயர் முறைமை பாதுகாப்பு சில புதிய ஏட்டு வகைகளை சேர்த்துள்ளது:
+RRSIG ஏடு – ஏட்டுத் தொகுப்பின் இலக்கமுறை குறியொப்பத்தை சேமிக்குமிடம்
+DNSKEY ஏடு – மறையாக்கத்தில் பயன்படுத்தப்படும் பொதுத் திறவியை சேமிக்குமிடம்.
+DS ஏடு – DNSKEY ஏட்டின் குறுக்க மதிப்பை சேமிக்குமிடம்
+NSEC and NSEC3 ஏடு – குறிப்பிட்ட களப்பெயர் முறைமை ஏடு இல்லை என வெளிப்படையாக தெரிவிக்கும் ஏடு
+CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம் தன் பெற்றோர் மண்டலத்தில் உள்ள DS ஏட்டைப் புதுப்பிக்க பயன்படுகிறது.&lt;/p></description></item><item><title>இலக்கமுறைக் குறியொப்ப சான்றிதழ் / Digital Signature Certificate​</title><link>/books/cybersecurity/pki/digital-signature-certificate/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/digital-signature-certificate/</guid><description>&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%aa%e0%ae%aa-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--digital-signature-certificate-types">
+&lt;h3 id="இலககமறக-கறயபப-சனறதழ-வககள--digital-signature-certificate-types">
+ இலக்கமுறைக் குறியொப்ப சான்றிதழ் வகைகள்​ / Digital Signature Certificate Types​ 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>சான்றிதழ் வகை​&lt;/th>
+ &lt;th>உத்தரவாத நிலை​&lt;/th>
+ &lt;th>பொருந்தக்கூடிய சூழல்&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>வகுப்பு 1 ​சான்றிதழ்​ &lt;br> (Class 1 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​&lt;/td>
+ &lt;td>தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் குறைவாக இருக்கும் சூழல்களுக்கு ஒரு அடிப்படை நிலை உத்தரவாதத்தை வழங்குகிறது.​&lt;br> அதிக முக்கியத்துவம் வாய்ந்ததாக கருதப்படவில்லை.​&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>வகுப்பு 2 ​சான்றிதழ்​ &lt;br> (Class 2 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​&lt;/td>
+ &lt;td>தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் மிதமாக இருக்கும் சூழல்களுக்கு உத்தரவாதத்தை வழங்குகிறது.​&lt;br> இது கணிசமான பண மதிப்பு அல்லது மோசடி மறையிடர்கள் கொண்ட பரிவர்த்தனைகள்​ தீங்கிழைக்கும் அணுகல் வழியாக தனியார் தகவல்களை அணுகுவதற்கான சாத்தியக்கூறுகள் கணிசமாக இருக்கும் நிலைகளை உள்ளடக்கியது. ​&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>வகுப்பு 3 ​சான்றிதழ்​ &lt;br> (Class 3 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவனங்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> ​இவை உயர் உத்தரவாத சான்றிதழ்கள் என்பதால், முதன்மையாக இணைய வர்த்தக பயன்பாடுகளுக்காக வழங்கப்படுகிறது. &lt;br> சான்றளிக்கும் அதிகாரிகளின் முன் நேரில் சென்று விண்ணப்பித்தால் மட்டுமே இவ்வகை வழங்கப்படும்.&lt;/td>
+ &lt;td>தரவுக்கு அச்சுறுத்தல்கள் அதிகமாக இருக்கும் அல்லது பாதுகாப்பு சேவைகளின் தோல்வியின் விளைவுகள் அதிகமாக இருக்கும் சூழல்களுக்கு இந்த நிலை பொருத்தமானது.​ &lt;br> இதில் மிக உயர்ந்த மதிப்பு பரிவர்த்தனைகள் அல்லது அதிக அளவு மோசடி மறையிடர்கள் இருக்கலாம்.​&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%aa%e0%ae%aa%e0%ae%ae-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%ae%e0%ae%9f%e0%ae%b2--%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--digital-signature-signing--verification">
+&lt;h3 id="இலககமறக-கறயபபம-ஒபபமடல--சரபரததல--digital-signature-signing--verification">
+ இலக்கமுறைக் குறியொப்பம் (ஒப்பமிடல் / சரிபார்த்தல்)​ / Digital Signature (Signing / Verification) 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-sign-verification-ta.svg">
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4--certificate-based-authentication">
+&lt;h3 id="சனறதழ-அடபபடயலன-சனறறத--certificate-based-authentication">
+ சான்றிதழ் அடிப்படையிலான சான்றுறுதி ​/ Certificate Based Authentication​ 
+&lt;/h3>
+&lt;/a>&lt;p>சான்றிதழ் அடிப்படையிலான சான்றுறுதி என்பது ஒரு பயனர், இயந்திரம் அல்லது சாதனத்தை அடையாளம் காண இலக்கமுறைச் சான்றிதழைப் பயன்படுத்துவதாகும். ​&lt;/p></description></item><item><title>குறுக்க மரம்/மெர்கல் மரம்</title><link>/books/cybersecurity/cryptography/merkle-tree/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/merkle-tree/</guid><description>&lt;p>குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid குறுக்க மரம்/மெர்கல் மரம்">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/merkle-tree-ta.svg" alt="குறுக்க மரம்/மெர்கல் மரம்" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ குறுக்க மரம்/மெர்கல் மரம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.&lt;/p></description></item><item><title>நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை</title><link>/books/cybersecurity/iam/iam-ciam/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-ciam/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3%e0%ae%ae-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae--consumer-identity--access-management">
+&lt;h3 id="நகரவர-அடயளம-மறறம-அணகல-மலணம--consumer-identity--access-management">
+ நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை / Consumer identity &amp;amp; access management 
+&lt;/h3>
+&lt;/a>&lt;p>நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை என்பது ஒரு சிறப்பு வகை அமைப்பு ஆகும்.&lt;/p>
+&lt;p>நிறுவனங்கள் தங்களின் நுகர்வோர் அல்லது வாடிக்கையாளர் அடையாளம் மற்றும் சுயவிவரத் தரவை பாதுகாப்பாக பதிவு செய்யவும், நிர்வகிக்கவும் உதவுகிறது.&lt;/p>
+&lt;p>வணிகம்-நுகர்வோர் சூழலில் பயன்பாடுகள் மற்றும் சேவைகளுக்கான வாடிக்கையாளர் அணுகலைக் கட்டுப்படுத்தவும் உதவுகிறது.&lt;/p>
+&lt;p>ஒரு நிறுவனத்தின் எந்த தொடர்பு வசதியை (வலை, திறன்பேசி செயலி, தொலைபேசி முதலியன) பயன்படுத்தினாலும், ஒரு பாதுகாப்பான, தடையற்ற வாடிக்கையாளர் அனுபவத்தை வழங்க உறுதி செய்கிறது.&lt;/p>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%a4%e0%ae%b1%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%b3--ciam-features">
+&lt;h4 id="நகரவர-அடயள-அமபபன-தறறக-கறகள--ciam-features">
+ &lt;strong>நுகர்வோர் அடையாள அமைப்பின் தோற்றக் கூறுகள் / CIAM features&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+&lt;br>
+&lt;a href="/books/cybersecurity/iam/iam-ciam/#%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%9a%e0%ae%af%e0%ae%b2%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--ciam-processes">
+&lt;h3 id="நகரவர-அடயள-அமபபன-சயலமறகள--ciam-processes">
+ &lt;strong>நுகர்வோர் அடையாள அமைப்பின் செயல்முறைகள் / CIAM processes&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%></description></item><item><title>கட்டச்சங்கிலியின் பயன்பாடுகள்</title><link>/books/emergingtech/blockchain/blockchain-usecases/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-usecases/</guid><description>&lt;p>&lt;strong>நிதித் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>கடன் அறிக்கைகள்&lt;/li>
+&lt;li>இணையர்-இணையர் கடன் அளித்தல்&lt;/li>
+&lt;li>இணையர்-இணையர் பணப் பரிமாற்றம்&lt;/li>
+&lt;li>பன்னாட்டு பரிவர்த்தனை&lt;/li>
+&lt;li>பதிவேடுகளின் தணிக்கை சிக்கலைக் குறைத்தல்&lt;/li>
+&lt;li>பணமோசடி எதிர்ப்பு &amp;amp; வாடிக்கையாளர் அடையாளம்&lt;/li>
+&lt;li>வர்த்தக நிதி மற்றும் மூலதன சந்தைகள்&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>மருத்துவத்துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>மருந்து/மாத்திரை/மருத்துவ உபகரணங்கள் வழங்கல் தொடர் நம்பகத்தன்மை&lt;/li>
+&lt;li>மின் சுகாதார பதிவுருகள் (வெளிப்படையான P2D &amp;amp; P2H பரிவர்த்தனைகள்)&lt;/li>
+&lt;li>நோய்ச் சோதனைகள் ஆதாரம்&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>காப்பீடுத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>மேம்படுத்தப்பட்ட பல தரப்பினர் ஒப்பந்தங்கள்&lt;/li>
+&lt;li>நெறிப்படுத்தப்பட்ட இடர் ஒப்பந்த செயல்திறன் &amp;amp; கோருரிமைகள் தீர்ப்பு&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>சட்டத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>சாட்சியத்தின் நம்பகத்தன்மை,&lt;/li>
+&lt;li>மாற்றரு வழக்கு தரவு,&lt;/li>
+&lt;li>வெளிப்படையான காவல் பொறுப்பு சங்கிலி&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>ஊடகத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>சொத்துரிமைக் கட்டுப்பாடு,&lt;/li>
+&lt;li>இலக்கமுறை சொத்துக்களின் களவு&lt;/li>
+&lt;li>இலக்கமுறை சொத்துக்களின் பதிப்புரிமை மீறல் தடுப்பு&lt;/li>
+&lt;li>படைப்பாளிகள் உரிமைத்தொகை&lt;/li>
+&lt;li>மாற்றரு நுழைவுச்சீட்டு விற்பனை / முன்பதிவு
+&lt;ul>
+&lt;li>நிகழ்ச்சிகள்&lt;/li>
+&lt;li>திரைப்படம்&lt;/li>
+&lt;li>பயிலரங்கம்&lt;/li>
+&lt;li>மாநாடு&lt;/li>
+&lt;li>கருத்தரங்கு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>போக்குவரத்துத் துறை&lt;/strong>&lt;/p></description></item><item><title>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல்</title><link>/books/cybersecurity/dns/dns-over-tls/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-over-tls/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-over-tls/#%e0%ae%aa%e0%ae%95%e0%ae%95%e0%ae%b5%e0%ae%b0%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%95%e0%ae%95-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa-%e0%ae%ae%e0%ae%b2-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%a9%e0%ae%b5%e0%ae%b2--dns-over-tls-dot">
+&lt;h3 id="பககவரதத-அடகக-பதகபப-மல-களபபயர-மறம-வனவல--dns-over-tls-dot">
+ போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் / DNS over TLS (DOT) 
+&lt;/h3>
+&lt;/a>&lt;p>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து போக்குவரத்து அடுக்கு பாதுகாப்பு நெறிமுறை மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.&lt;/p>
+&lt;img src="images/dns-ta/dns-dot-ta.svg"></description></item><item><title>போக்குவரத்து அடுக்கு​ பாதுகாப்புச் சான்றிதழ்​ / Transport Layer Security Certificate​​</title><link>/books/cybersecurity/pki/tls/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/tls/</guid><description>&lt;a href="/books/cybersecurity/pki/tls/#%e0%ae%aa%e0%ae%95%e0%ae%95%e0%ae%b5%e0%ae%b0%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%95%e0%ae%95-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--transport-layer-security-certificate-types">
+&lt;h3 id="பககவரதத-அடகக-பதகபபச-சனறதழ-வககள--transport-layer-security-certificate-types">
+ போக்குவரத்து அடுக்கு பாதுகாப்புச் சான்றிதழ் வகைகள்​ / Transport Layer Security Certificate Types​ 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/pki/tls/#1-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--domain-validation">
+&lt;h4 id="1-களபபயர-சரபரததல--domain-validation">
+ 1. களப்பெயர் சரிபார்த்தல்​ / Domain validation 
+&lt;/h4>
+&lt;/a>&lt;p>குறைந்த அளவிலான உறுதி நிலையை அளிக்கிறது. இவ்வகைச் சான்றிதழ்கள் பெற எளிதானவை. வலைத்தளத்தின் களப்பெயர் மட்டுமே சரிபார்க்கப்படும்​. இச்சான்றிதழ்களைக் கொண்ட வலைத்தளங்களில் பாதுகாப்பான பூட்டு சின்னம் மட்டுமே இருக்கும். அந்த வலைத்தளத்தின் உரிமையாளர் பெயரோ அல்லது வணிக நிறுவன பெயரோ இருக்காது. ​எனவே, பாதுகாப்பான அடையாளம் இருந்தபோதிலும், பார்வையாளர்கள் வலைத்தளம் உண்மையில் அவர்கள் தேடும் வணிகத்திற்கு சொந்தமானதா என்பதை சரிபார்க்க எந்த வழியும் இல்லை.&lt;/p>
+&lt;img src="/images/pki-ta/tls-dv.png">
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/tls/#2-%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9%e0%ae%ae-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--organization-validation">
+&lt;h4 id="2-நறவனம-சரபரததல--organization-validation">
+ 2. நிறுவனம் சரிபார்த்தல் ​/ Organization Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இதுவே மிகவும் பொதுவாக பயன்படுத்தப்படும் பாதுகாப்பு உறுதி நிலை​. இவ்வகைச் சான்றிதழ்கள் கொண்ட வலைத்தளங்கள் பாதுகாப்பான பூட்டு சின்னத்துடன் தங்கள் வணிகப் பெயரை உடன் கொண்டுள்ளன​. இந்த சான்றிதழ்கள் அதிக உத்தரவாதத்தை அளிப்பதால், இவை சான்றிதழ் ஆணையங்களின் சரியான ஆய்வுக்குப் பிறகுதான் வழங்கப்படுகின்றன​. இவ்வகைச் சான்றிதழ்கள் முக்கியமான வாடிக்கையாளர் தரவைக் கையாளும் நிறுவனங்களால் பயன்படுத்தப்படுகின்றன.&lt;/p></description></item><item><title>பொதுத் திறவி மறைப்பியல் பண்புகள்</title><link>/books/cybersecurity/cryptography/public-key-cryptography-properties/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/public-key-cryptography-properties/</guid><description>&lt;a href="/books/cybersecurity/cryptography/public-key-cryptography-properties/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2---%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h2 id="பதத-தறவ-மறபபயல---இரகசயததனம">
+ பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை 
+&lt;/h2>
+&lt;/a>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை">
+ 
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/PKI-C-ta.svg" alt="பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை" class="w-100"/>
+ 
+
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டை மறைநீக்கம் செய்ய இயலாது என்பதால் எழிலனால் மட்டுமே அந்த தகவலை மறைநீக்கம் செய்ய முடியும்&lt;/p></description></item><item><title>வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு</title><link>/books/cybersecurity/iam/iam-vs-ciam/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-vs-ciam/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-vs-ciam/#%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%b5%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%9f-iam-vs-ciam-comparison">
+&lt;h3 id="வணகநகரவர-அடயள-அமபப-ஒபபட-iam-vs-ciam-comparison">
+ வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு (IAM vs CIAM comparison) 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>வணிக அடையாள அமைப்பு&lt;/strong>&lt;/th>
+ &lt;th>&lt;strong>நுகர்வோர் அடையாள அமைப்பு&lt;/strong>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>இன்றைய நிறுவனங்களில் காணப்படும் ஆயிரக்கணக்கான அடையாளங்களைக் கையாள வடிவமைக்கப்பட்டுள்ளன. &lt;br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்றங்களை கையாளும் திறன் குறைவாக உள்ளது. &lt;br> வணிகம்-வணிகம் அமைப்பிற்கு ஏற்றது. &lt;br> ஒரு பயனருக்கு ஒற்றை அடையாளம் மட்டுமே இருக்கும். &lt;br> ஊழியர்கள் அல்லது ஒப்பந்தக்காரர்களுக்காக நிறுவனத்தால் அடையாளங்கள் உருவாக்கப்படுகின்றன. &lt;br> வணிக பயன்பாடுகளுக்கான கடுமையான பாதுகாப்புக் கொள்கைகளுடன் சான்றுறுதி மற்றும் அங்கீகாரத்திற்காக முதன்மையாகப் பயன்படுத்தப்படுகிறது.&lt;/td>
+ &lt;td>ஒரு நிறுவனத்தின் இலட்சக்கணக்கான வாடிக்கையாளர்கள் அல்லது நுகர்வோருக்கு ஆதரவளிக்கும் வகையில் வடிவமைக்கப்பட்டுள்ளன. &lt;br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்ற இறக்கங்களைக் கையாளும் வகையில் கட்டமைக்கப்பட்டுள்ளன. &lt;br> வணிகம்-நுகர்வோர் அமைப்பிற்கு ஏற்றது. &lt;br> நுகர்வோர் பல அடையாளங்களைக் கொண்டிருக்கலாம். &lt;br> அடையாளங்கள் சுயமாக பதிவு செய்யப்படுகின்றன மற்றும் வாடிக்கையாளர்களால் நிர்வகிக்கப்படுகின்றன. &lt;br> இறுதி பயனர் எங்கே இருந்தாலும் அல்லது அவர்கள் என்ன சாதனத்தைப் பயன்படுத்தினாலும் ஒரு நிலையான உள்நுழைவு அனுபவத்தை வழங்குகிறது. &lt;br> சமூக ஊடக வழி சான்றுறுதியை ஆதரிக்கிறது. &lt;br> இசைவு மேலாண்மையை செயல்படுத்துகிறது. &lt;br> தனிப்பயனாக்கப்பட்ட பயனர் அனுபவத்தை உருவாக்க நிறுவனங்களை அனுமதிக்கிறது&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை</title><link>/books/cybersecurity/dns/dns-over-https/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns-over-https/</guid><description>&lt;a href="/books/cybersecurity/dns/dns-over-https/#%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%ae%e0%ae%b5%e0%ae%b0-%e0%ae%aa%e0%ae%b0%e0%ae%ae%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%ae%e0%ae%b2-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--dns-over-https-doh">
+&lt;h3 id="பதகபபன-மவர-பரமறற-நறமற-மல-களபபயர-மறம--dns-over-https-doh">
+ பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை / DNS over HTTPS (DOH) 
+&lt;/h3>
+&lt;/a>&lt;p>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS) மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.&lt;/p>
+&lt;img src="images/dns-ta/dns-doh-ta.svg"></description></item><item><title>குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing Certificate</title><link>/books/cybersecurity/pki/code-signing/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/code-signing/</guid><description>&lt;a href="/books/cybersecurity/pki/code-signing/#%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%9f-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%ae%e0%ae%9f%e0%ae%b2-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4--code-signing">
+&lt;h3 id="கறயட-ஒபபமடல-சனறதழ--code-signing">
+ குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing 
+&lt;/h3>
+&lt;/a>&lt;p>குறியீடு ஒப்பமிடல் என்பது மென்பொருள் (இயக்கக்கூடிய கோப்புகள் மற்றும் மூல குறியீடு) பதிப்பாளரை அடையாளப்படுத்த இலக்கமுறை முறையில் ஒப்பமிடுவது.​ மேலும், இது ஒப்பமிடப்பட்ட நேரத்திலிருந்து மென்பொருள் மாற்றப்படவில்லை அல்லது சிதைக்கப்படவில்லை என்பதற்கு உத்தரவாதம் அளிக்கிறது. இதனை சரிபார்க்க குறுக்க மதிப்புகளை பயன்படுத்துகிறது. ​குறியீடு ஒப்பமிடல் வழியாக மென்பொருள் அடையாளம் / சான்றுறுதி அளிக்கும் இம்முறையின் பாதுகாப்பு, ஒப்பமிடும் திறவிகளின் பாதுகாப்பைப் பொறுத்தது. இந்த அமைப்பின் நம்பகத்தன்மை மென்பொருள் வெளியீட்டாளர்கள் தங்கள் தனித் திறவிகளை பாதுகாப்பதை நம்பியுள்ளது​. எனவே, பாதுகாப்பான, சேதமடையாத, மறைப்பியல் வன்பொருள் சாதனங்களில் திறவிகளை சேமிப்பது மிகவும் பாதுகாப்பானது மற்றும் சிறந்த நடைமுறையாக கருதப்படுகிறது.​ இவ்வகை சாதனங்கள் வன்பொருள் பாதுகாப்பு தொகுதிகள் (Hardware Security Module – HSM) என அழைக்கப்படும்.​&lt;/p></description></item><item><title>மறைப்பியல் ஒப்பீடு</title><link>/books/cybersecurity/cryptography/crytography-comparison/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/crytography-comparison/</guid><description>&lt;a href="/books/cybersecurity/cryptography/crytography-comparison/#%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2">
+&lt;h1 id="இரகசயத-தறவ-மறபபயல">
+ இரகசியத் திறவி மறைப்பியல் 
+&lt;/h1>
+&lt;/a>&lt;ul>
+&lt;li>ஒற்றைத் திறவி மறைப்பியல் இரகசியத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது&lt;/li>
+&lt;li>மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்&lt;/li>
+&lt;li>இரகசியத்தன்மை பண்பை மட்டுமே அளிக்கிறது&lt;/li>
+&lt;li>பொதுவாக மறையாக்கம் / மறைநீக்கம் வேகமாக நிகழும்&lt;/li>
+&lt;li>திறவி மேலாண்மை சற்றே கடினமானது&lt;/li>
+&lt;li>இரகசியத் திறவி வெளியில் கசிந்தால் அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். இதனால் இரகசியத் திறவியை அனைத்து பயன்பாட்டாளர்களும் பாதுகாப்பாக வைக்க வேண்டும்.&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/crytography-comparison/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2">
+&lt;h1 id="பதத-தறவ-மறபபயல">
+ பொதுத் திறவி மறைப்பியல் 
+&lt;/h1>
+&lt;/a>&lt;ul>
+&lt;li>இரட்டைத் திறவி மறைப்பியல் பொதுத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது&lt;/li>
+&lt;li>மறையாக்கம் செய்ய ஒரு திறவி மற்றும் மறைநீக்கம் செய்ய மற்றொரு திறவி என இரண்டு திறவிகள் பயன்படுத்தப்படும்&lt;/li>
+&lt;li>இரகசியத்தன்மை மற்றும் நம்பகத்தன்மை பண்பை அளிக்கிறது&lt;/li>
+&lt;li>மறையாக்கம் / மறைநீக்கம் சற்றே மெதுவாக நிகழும்&lt;/li>
+&lt;li>திறவி மேலாண்மை மிக சிக்கலானது&lt;/li>
+&lt;li>ஒரு திறவியால் மறையாக்கம் செய்த மறைக்குறியீட்டை அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் செய்ய இயலும்.&lt;/li>
+&lt;li>தனித் திறவி வெளியில் கசிந்தால் மட்டுமே அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். தனித்திறவியின் உரிமையாளர் மட்டுமே அதனை மிகவும் பாதுகாப்பாக வைக்க வேண்டும்&lt;/li>
+&lt;/ul></description></item><item><title>சான்றுறுதி &amp; அதிகாரம் வழங்கல்</title><link>/books/cybersecurity/iam/iam-authn-authz/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-authn-authz/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-authn-authz/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-authentication">
+&lt;h3 id="சனறறத-authentication">
+ &lt;strong>சான்றுறுதி (Authentication)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>அடையாளத்தை உறுதி செய்வது&lt;/strong>&lt;/p>
+&lt;p>சான்றுறுதி என்பது பயனரின் விவரங்களைச் சரிபார்த்து பயனரை அடையாளம் கண்டு ஒரு இணைய வளத்திற்கு அணுகலை வழங்கும் செயல்முறையாகும்&lt;/p>
+&lt;p>ஒரு அடையாளத்தால் கோரப்படும் ஒரு பண்பு / தரவுத் துண்டின் உண்மையை உறுதிப்படுத்துவதன் மூலம் சரிபார்ப்பு செய்யப்படுகிறது&lt;/p>
+&lt;p>எ.கா., பயனர் பெயர் &amp;amp; கடவுச்சொல், உயிரளவைத் தரவு, அரசு வழங்கிய அடையாள அட்டை&lt;/p>
+&lt;p>பயனர்கள் நம்பிக்கைச்சான்றுகளை சரிபார்க்கிறது&lt;/p>
+&lt;p>அங்கீகாரம் / அதிகாரம் வழங்கும் முன் நிகழும்&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-authn-authz/#%e0%ae%85%e0%ae%a4%e0%ae%95%e0%ae%b0%e0%ae%ae-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%b2-authorization">
+&lt;h3 id="அதகரம-வழஙகல-authorization">
+ &lt;strong>அதிகாரம் வழங்கல் (Authorization)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>அடையாளத்திற்கு உரிமை நல்குதல்&lt;/strong>&lt;/p>
+&lt;p>அங்கீகாரம் / அதிகாரம் வழங்கல் என்பது சான்றுறுதி அளிக்கப்பட்ட பயனரின் சிறப்புரிமைகள் அல்லது அமைப்பின் வளங்களை அணுகுவதற்கான அனுமதிகளை சரிபார்க்கும் செயல்முறையாகும்&lt;/p></description></item><item><title>மறக்கும் களப்பெயர் முறைமை</title><link>/books/cybersecurity/dns/odoh/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/odoh/</guid><description>&lt;a href="/books/cybersecurity/dns/odoh/#%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--oblivious-dns-odoh">
+&lt;h4 id="மறககம-களபபயர-மறம--oblivious-dns-odoh">
+ மறக்கும் களப்பெயர் முறைமை / Oblivious DNS (ODoH) 
+&lt;/h4>
+&lt;/a>&lt;p>மறக்கும் களப்பெயர் முறைமை என்பது IETF-ஆல் உருவாக்கப்பட்டு வரும் ஒரு வளர்ந்து வரும் நெறிமுறை ஆகும். இது பொதுத் திறவி மறைப்பியல், பிணைய பதிலி, இலக்கு தீர்வி ஆகியவற்றை களப்பெயர் முறைமை வினவல் தீர்வு முறையில் சேர்க்கிறது. இது பயனர்களுக்கும் சுழல்நிலை தீர்விகளுக்கு இடையில் ஒரு பாதுகாப்பு அரணாக செயல்படுகிறது. ஒரு பயனர் அவரவர் விருப்பப்படி ஒரு பதிலி மற்றும் இலக்கை தேர்வு செய்யலாம். இந்த இரண்டு கூறுகள் சேர்க்கப்படுவதால், எப்போதும் பயனர் மட்டுமே களப்பெயர் முறைமை வினவல் தீர்வு மற்றும் அவர் சொந்த இ.நெறி முகவரி இரண்டையும் காண முடியும் என்று உத்தரவாதம் அளிக்கிறது. இந்த நெறிமுறையின் நோக்கம் இறுதி பயனர் தனியுரிமையைப் பாதுகாப்பது, இணைய சேவை வழங்குநர்கள் அல்லது களப்பெயர் முறைமை வினவல் தீர்ப்பாளர்கள் அவர்களின் வாடிக்கையாளர்களால் கோரப்பட்ட / பார்வையிடப்பட்ட வலைத்தளத்தைப் காண முடியும் என்பதைத் தடுப்பது.&lt;/p></description></item><item><title>நேர முத்திரையிடல் / Time Stamping</title><link>/books/cybersecurity/pki/time-stamping/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/time-stamping/</guid><description>&lt;a href="/books/cybersecurity/pki/time-stamping/#%e0%ae%a8%e0%ae%b0-%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b0%e0%ae%af%e0%ae%9f%e0%ae%b2--time-stamping">
+&lt;h3 id="நர-மததரயடல--time-stamping">
+ நேர முத்திரையிடல் / Time Stamping 
+&lt;/h3>
+&lt;/a>&lt;p>நேர முத்திரையிடல் என்பது ஒரு ஆவணத்தின் உருவாக்கம் மற்றும் மாற்றியமைக்கும் நேரங்களை பாதுகாப்பாக கண்காணிக்கும் செயல்முறையாகும். இவ்வாறு வழங்கப்படும் முத்திரை, நம்பகமான நேர முத்திரை (Trusted Time Stamp) என்று அழைக்கப்படும். இங்கே பாதுகாப்பு என்பது நேரம் பதிவு செய்யப்பட்டவுடன், அந்த ஆவணத்தின் உரிமையாளர் உள்பட எவரும் ஆவணத்தை மாற்ற முடியாது என்பதை உறுதிப்படுத்துவது. இலக்கமுறைக் குறியொப்பம் அல்லது குறியீடு குறியொப்பத்துடன் நம்பகமான நேர முத்திரையைச் சேர்ப்பது, அந்த ஒப்பமிடப்பட்ட தரவு, ஆவணம் அல்லது குறியீட்டுக்கு கூடுதல் நம்பகத்தன்மையை அளிப்பதுடன் பரிவர்த்தனை நடந்த நம்பகமான தேதி மற்றும் நேரத்தையும் வழங்குகிறது. ஒரு ஆவணம் அல்லது குறியீடு எந்த தேதி மற்றும் நேரத்தில் ஒப்பமிடப்பட்டுள்ளது என்பதை நம்பகமாக குறிப்பிடுவதற்கு ஒரு நம்பகமான நேர முத்திரையிடல் ஆணையம் (Trusted Time Stamping Authority) பயன்படுத்தப்படுகிறது.&lt;/p></description></item><item><title>மறையாக்க பயன்பாடுகள்</title><link>/books/cybersecurity/cryptography/encryption-usecases/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/cryptography/encryption-usecases/</guid><description>&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%92%e0%ae%b1%e0%ae%b1%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h1 id="ஒறறத-தறவ-மறயககம">
+ ஒற்றைத் திறவி மறையாக்கம் 
+&lt;/h1>
+&lt;/a>&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1">
+&lt;h3 id="தரவநற">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>நவீன மறையாக்க தரப்பாடு (AES)&lt;/li>
+&lt;li>தரவு மறையாக்க தரப்பாடு (DES)&lt;/li>
+&lt;li>Two Fish / Blow Fish&lt;/li>
+&lt;li>RC4, RC5, RC6&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3">
+&lt;h4 id="பயனபடகள">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>நிலைவட்டு (HDD) மறையாக்கம்&lt;/li>
+&lt;li>திடநிலை சேமிப்பகம் (SSD) மறையாக்கம்&lt;/li>
+&lt;li>மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம்&lt;/li>
+&lt;li>மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%87%e0%ae%b0%e0%ae%9f%e0%ae%9f%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h2 id="இரடடத-தறவ-மறயககம">
+ இரட்டைத் திறவி மறையாக்கம் 
+&lt;/h2>
+&lt;/a>&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1-1">
+&lt;h3 id="தரவநற-1">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>Rivest Shamir Adleman (RSA)&lt;/li>
+&lt;li>Diffie-Hellman&lt;/li>
+&lt;li>இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA)&lt;/li>
+&lt;li>நீள்வட்ட வளைவு மறைப்பியல் (ECC)&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3-1">
+&lt;h4 id="பயனபடகள-1">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL)&lt;/li>
+&lt;li>இலக்கமுறைக் குறியொப்பம் (Digital Signature)&lt;/li>
+&lt;li>மெய்நிகர் தனியார் பிணையம் (VPN)&lt;/li>
+&lt;li>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h2 id="கறககம">
+ குறுக்கம் 
+&lt;/h2>
+&lt;/a>&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1-2">
+&lt;h3 id="தரவநற-2">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>செய்திச் சுருக்கம் (MD2, MD4, MD5)&lt;/li>
+&lt;li>பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 &amp;amp; SHA-512)&lt;/li>
+&lt;/ul>
+&lt;a href="/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3-2">
+&lt;h4 id="பயனபடகள-2">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>கடவுச்சொல் குறுக்கம் (Password Hash)&lt;/li>
+&lt;li>மென்பொருள் நம்பகத்தன்மை (Software Integrity)&lt;/li>
+&lt;li>கோப்பு நம்பகத்தன்மை (File Integrity)&lt;/li>
+&lt;li>கட்டச்சங்கிலி / தொடரேடு (Blockchain)&lt;/li>
+&lt;/ul></description></item><item><title>பல காரணி சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-mfa/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-mfa/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-mfa/#%e0%ae%aa%e0%ae%b2-%e0%ae%95%e0%ae%b0%e0%ae%a3-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-multifactor-authentication">
+&lt;h3 id="பல-கரண-சனறறத-multifactor-authentication">
+ பல காரணி சான்றுறுதி (Multifactor Authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>பல காரணி சான்றுறுதி என்பது ஒரு பயனரின் அடையாளத்தை உறுதி செய்ய ஒன்றுக்கும் மேலான காரணிகளை பயன்படுத்த நிர்பந்திக்கும் ஒரு பாதுகாப்பு முறை. இம்முறை, இரண்டு அல்லது அதற்கும் மேலான தொடர்பில்லாத காரணிகளை சரிபார்த்த பின்னர் ஒரு அடையாளத்திற்கு சான்றுறுதி அளிக்கும். இதற்கு பயன்படும் சில காரணிகளை கீழே காணலாம்.&lt;/p>
+&lt;img src="images/iam-ta/iam-mfa-ta.svg" width=50%></description></item><item><title>DNS 64 &amp; NAT 64</title><link>/books/cybersecurity/dns/dns64-nat64/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/dns/dns64-nat64/</guid><description>&lt;a href="/books/cybersecurity/dns/dns64-nat64/#dns-64--nat-64">
+&lt;h3 id="dns-64--nat-64">
+ DNS 64 &amp;amp; NAT 64 
+&lt;/h3>
+&lt;/a>&lt;p>DNS64 என்பது ஒரு களப்பெயர் வழங்கனிடம் ஒரு குறிப்பிட்ட களத்தின் AAAA ஏட்டைக் கோரும்போது, அங்கே A ஏடு மட்டுமே இருந்தால், A ஏடு தரவை AAAA ஏடு தரவாக இணைப்பாக்கும். (Synthesizes the AAAA records from the A records).&lt;/p>
+&lt;p>இணைப்பாக்கம் செய்யப்பட்ட முகவரியில் முதல் பகுதி ஒரு இ.நெறி ப6/இ.நெறி ப4 பெயர்ப்பியை குறிக்கும். அதன் இரண்டாம் பகுதி இ.நெறி ப4 முகவரியை உட்பொதிக்கும். இந்த பெயர்ப்பி பொதுவாக NAT64 வழங்கன் என்று அழைக்கப்படும்.&lt;/p>
+&lt;img src="images/dns-ta/dns64-nat64-ta.svg"></description></item><item><title>மின்னஞ்சல் மறையாக்கம் / Email Encryption</title><link>/books/cybersecurity/pki/email-encryption/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/email-encryption/</guid><description>&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%ae%e0%ae%a9%e0%ae%a9%e0%ae%9e%e0%ae%9a%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae--email-encryption">
+&lt;h3 id="மனனஞசல-மறயககம--email-encryption">
+ மின்னஞ்சல் மறையாக்கம் | Email Encryption 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%ae%e0%ae%a9%e0%ae%a9%e0%ae%9e%e0%ae%9a%e0%ae%b2-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--email-validation">
+&lt;h4 id="மனனஞசல-சரபரததல--email-validation">
+ மின்னஞ்சல் சரிபார்த்தல் / Email Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இந்த செயல்முறைக்கு சரியான மின்னஞ்சல் முகவரி மற்றும் களப்பெயர் சரிபார்த்தல் தேவைப்படுகிறது.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%a4%e0%ae%a9%e0%ae%a8%e0%ae%aa%e0%ae%b0--%e0%ae%aa%e0%ae%a3%e0%ae%af%e0%ae%b3%e0%ae%b0-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--individual-validation">
+&lt;h4 id="தனநபர--பணயளர-சரபரததல--individual-validation">
+ தனிநபர் / பணியாளர் சரிபார்த்தல் / Individual Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இந்த செயல்முறை ஒவ்வொரு பணியாளரையும் தனித்தனியாக அடையாளம் காண்பதை நோக்கமாகக் கொண்டுள்ளது. இவ்வகைச் சான்றிதழ்களில் மின்னஞ்சல் முகவரியுடன் அதன் உரிமையாளர் பெயரும் இணைத்து வழங்கப்படும். இதனைப் பெற அரசாங்கத்தால் வழங்கப்பட்ட அடையாள அட்டை மற்றும் சரிபார்க்கப்பட்ட மின்னஞ்சல் முகவரி அவசியம் தேவை.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--organization-validation">
+&lt;h4 id="நறவன-சரபரததல--organization-validation">
+ நிறுவன சரிபார்த்தல் / Organization Validation 
+&lt;/h4>
+&lt;/a>&lt;p>குறிப்பிட்ட பெயர் கொண்ட நிறுவனம் உள்ளது மற்றும் செயல்படுகிறது என்பதை சரிபார்ப்பது இந்த செயல்முறையின் நோக்கமாக உள்ளது. இந்த வழியில், S / MIME சான்றிதழைப் பெறுவதற்கான செயல்முறை ஒரு நிறுவன சரிபார்ப்பு (OV) TLS சான்றிதழைப் பெறும் வழியை நினைவூட்டுகிறது.&lt;/p></description></item><item><title>ஓரு முறை கடவுச்சொல்</title><link>/books/cybersecurity/iam/iam-otp/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-otp/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-otp/#%e0%ae%93%e0%ae%b0-%e0%ae%ae%e0%ae%b1-%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2--one-time-password-otp">
+&lt;h3 id="ஓர-மற-கடவசசல--one-time-password-otp">
+ &lt;strong>ஓரு முறை கடவுச்சொல் / One time password (OTP)&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>குறுக்க தீர்வுநெறிகள் ஒரு முறை கடவுச்சொல்லை உருவாக்க பயன்படுத்தப்படுகின்றன. இதற்கு தீர்வுநெறிகள் இரண்டு உள்ளீடுகளைப் பயன்படுத்துகின்றன: விதை மற்றும் நகரும் காரணி.&lt;/p>
+&lt;p>விதை என்பது ஒரு நிலையான மதிப்பு (இரகசியத் திறவி). இந்த இரகசியத் திறவி நீங்கள் சான்றுறுதி சேவையகத்தில் புதிய கணக்கை நிறுவும் போது உருவாக்கப்படும். நகரும் காரணியின் அடிப்படையில், HOTP &amp;amp; TOTP என இரண்டு வகையான ஒரு முறை கடவுச்சொற்கள் கிடைக்கின்றன.&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-otp/#hotp">
+&lt;h4 id="hotp">
+ &lt;strong>HOTP&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>Hash-based Message Authentication Code OTP (HOTP) எனும் குறுக்கம் சார்ந்த செய்தி நம்பத்தகுமைக் குறியீட்டு ஒரு முறை கடவுச்சொல்லை குறிக்கிறது.&lt;/p></description></item><item><title>கடவுச்சொல்லற்ற சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-passwordless/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-passwordless/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-passwordless/#%e0%ae%95%e0%ae%9f%e0%ae%b5%e0%ae%9a%e0%ae%9a%e0%ae%b2%e0%ae%b2%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-password-less-authentication">
+&lt;h3 id="கடவசசலலறற-சனறறத-password-less-authentication">
+ கடவுச்சொல்லற்ற சான்றுறுதி (Password-less authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>கடவுச்சொல்லற்ற சான்றுறுதி என்பது பல காரணி சான்றுறுதியின் ஒரு வகை ஆகும். இங்கே பலவீனமான கடவுச்சொற்கள் காரணிக்கு மாற்றாக கைரேகை அல்லது இரகசியக் குறியீடு போன்ற மிகவும் பாதுகாப்பான சான்றுறுதி காரணிகள் பயன்படுத்தப்படுகின்றன. கடவுச்சொல்லற்ற சான்றுறுதி இலக்கமுறைச் சான்றிதழ்கள் சான்றுறுதியின் கொள்கைகளான மறைப்பியல் துணைத்திறவிகளை நம்பியுள்ளது. (தனித்திறவி மற்றும் பொதுத்திறவி)&lt;/p>
+&lt;p>ஒரு பாதுகாப்பான கணக்கை உருவாக்க விரும்பும் ஒரு தனிநபர் ஒரு தனித்திறவி மற்றும் பொதுத்திறவி அடங்கிய துணைத்திறவிகளை உருவாக்க ஒரு கருவியை (எ. கா. திறன்பேசி செயலி, உலாவி நீட்டிப்பு) பயன்படுத்துகிறார். தனித்திறவி பயனரின் சாதனத்தின் உள்ளேயே சேமிக்கப்பட்டு மற்றும் கைரேகை, பின் அல்லது குரல் அறிதல் போன்ற காரணியுடன் இணைக்கப்பட்டுள்ளது, மேலும் இந்த சைகைகளை செய்வதன்மூலம் மட்டுமே அதை அணுக முடியும்.&lt;/p></description></item><item><title>மறையிடர் அடிப்படியிலான சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-risk-based-auth/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-risk-based-auth/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-risk-based-auth/#%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%9f%e0%ae%b0-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4--%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%ae%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-risk-based-authenticationadaptive-authentication">
+&lt;h3 id="மறயடர-அடபபடயலன-சனறறத--தகவமச-சனறறத-risk-based-authenticationadaptive-authentication">
+ மறையிடர் அடிப்படியிலான சான்றுறுதி / தகவமைச் சான்றுறுதி (Risk-based authentication/Adaptive authentication) 
+&lt;/h3>
+&lt;/a>&lt;p>மறையிடர் அடிப்படியிலான / தகவமைச் சான்றுறுதி என்பது பல்வேறு ஆதாரங்களில் இருந்து கிடைக்கும் சமிக்ஞைகளை பகுப்பாய்வு செய்து ஒரு குறிப்பிட்ட அமர்வுக்கு மறையிடர் மதிப்பெண்ணை கணக்கிடுகிறது.&lt;/p>
+&lt;p>நிறுவனக் கொள்கைகள் கணக்கிடப்பட்ட மறையிடர் மதிப்பெண் அடிப்படையில் எடுக்கப்பட வேண்டிய நடவடிக்கையை வரையறுக்கின்றன.&lt;/p>
+&lt;img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%></description></item><item><title>சான்றிதழ் அடிப்படையிலான சான்றுறுதி</title><link>/books/cybersecurity/iam/iam-certificate-based-authn/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-certificate-based-authn/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-certificate-based-authn/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4-certificate-based-authentication">
+&lt;h3 id="சனறதழ-அடபபடயலன-சனறறத-certificate-based-authentication">
+ சான்றிதழ் அடிப்படையிலான சான்றுறுதி (Certificate Based Authentication) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%></description></item><item><title>ஒற்றை நுழைவு / கூட்டமைத்தல்</title><link>/books/cybersecurity/iam/iam-sso-federation/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-sso-federation/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5--%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b2-ssofederation">
+&lt;h3 id="ஒறற-நழவ--கடடமததல-ssofederation">
+ ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation) 
+&lt;/h3>
+&lt;/a>&lt;img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%b5%e0%ae%b5%e0%ae%b5%e0%ae%b1-%e0%ae%95%e0%ae%b3%e0%ae%99%e0%ae%95%e0%ae%b3">
+&lt;h4 id="கடடமததல-வவவற-களஙகள">
+ கூட்டமைத்தல் (வெவ்வேறு களங்கள்) 
+&lt;/h4>
+&lt;/a>&lt;p>கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.
+பயனரின் நம்பிக்கைச்சான்று (User Credentials) எங்கே சேமிக்கப்படுகின்றன
+மேலும், மூன்றாம் தரப்பினர் அதனை பார்க்காமல் அந்த நம்பிக்கைச்சான்றுகளுக்கு எவ்வாறு சான்றுறுதி அளிப்பது என்பதைப் பற்றியது&lt;/p>
+&lt;a href="/books/cybersecurity/iam/iam-sso-federation/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5-%e0%ae%92%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%89%e0%ae%b3%e0%ae%b3-%e0%ae%aa%e0%ae%b2-%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3">
+&lt;h4 id="ஒறற-நழவ-ஒர-களததல-உளள-பல-பயனபடகள">
+ ஒற்றை நுழைவு (ஒரே களத்தில் உள்ள பல பயன்பாடுகள்) 
+&lt;/h4>
+&lt;/a>&lt;p>அடையாள வழங்குநர் பக்கத்தில் ஒருமுறை மட்டுமே உள்நுழைந்து, ஒரு அமர்வைச் செயல்படுத்துவதன் மூலம் ஒரே களத்தில் உள்ள வெவ்வேறு பயன்பாடுகளை அங்கீகரிக்கவும் உள்நுழையவும் ஒற்றை உள்நுழைவு பயன்படுத்தப்படுகிறது.
+ஒற்றை வெளியேற்றம் செய்யவும் இது பயன்படுகிறது&lt;/p></description></item><item><title>பாதுகாப்பு வலியுறுத்தல் மீவுரை</title><link>/books/cybersecurity/iam/iam-saml/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-saml/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-saml/#%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa-%e0%ae%b5%e0%ae%b2%e0%ae%af%e0%ae%b1%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%ae%e0%ae%b5%e0%ae%b0-security-assertion-markup-languagesaml">
+&lt;h3 id="பதகபப-வலயறததல-மவர-security-assertion-markup-languagesaml">
+ பாதுகாப்பு வலியுறுத்தல் மீவுரை (Security Assertion Markup Language/SAML) 
+&lt;/h3>
+&lt;/a>&lt;p>பாதுகாப்பு வலியுறுத்தல் மீவுரை (SAML) என்பது XML-ஐ அடிப்படையாக கொண்டு உருவாக்கப்பட்ட ஒற்றை நுழைவு நெறிமுறையாகும் (SSO Protocol). அடையாள வழங்குநர் (IDP) மற்றும் சேவை வழங்குநர் (SP) இடையே SOAP/HTTP கோரிக்கை மீது சான்றுறுதி மற்றும் அதிகாரம் வழங்குதல் என இரண்டையும் ஆதரிக்கும் திறன் பெற்றது.
+அடையாள சரிபார்ப்புக்காக பேசுவதற்கு முன், இரண்டு வழங்குநர்களும் ஒரு SAML ஒப்பந்தத்தை வரையறுத்து மீத்தரவு வழியாக பூர்வாங்க தகவல்களை பரிமாறிக் கொள்ள வேண்டும். இந்த தகவலில் இது போன்ற விவரங்கள் அடங்கும்:&lt;/p>
+&lt;ul>
+&lt;li>பொதுத் திறவிகள் (மறையாக்கத்திற்கு பயன்படுத்தப்படும்), ஆதரிக்கப்படும் மறையாக்க நெறிமுறைகள், முடிவுபுள்ளி சீர் வள குறிப்பான் (Endpoint URL) (SAML செய்திகளை * எங்கு அனுப்புவது).&lt;/li>
+&lt;li>ஆதரிக்கப்படும் இணைப்பு முறைகள் மற்றும் ஆதரிக்கப்படும் XML பண்பு வடிவங்கள்.
+இரு வழங்குநர்களும் ஒருவரையொருவர் பற்றிய இந்த விவரங்களை அறிந்தவுடன், அதற்கேற்ப தங்களை மாற்றி அமைத்துக் கொள்கிறார்கள்.&lt;/li>
+&lt;/ul>
+&lt;img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%></description></item><item><title>திறந்த அடையாள இணைப்பு</title><link>/books/cybersecurity/iam/iam-oidc/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-oidc/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-oidc/#%e0%ae%a4%e0%ae%b1%e0%ae%a8%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%af%e0%ae%b3-%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%aa-open-id-connect--oidc">
+&lt;h3 id="தறநத-அடயள-இணபப-open-id-connect--oidc">
+ திறந்த அடையாள இணைப்பு (Open ID Connect / OIDC) 
+&lt;/h3>
+&lt;/a>&lt;p>OIDC என்பது OAuth 2.0 கட்டமைப்பின் மேல் உருவாக்கப்பட்ட ஒரு புதிய ஒற்றை நுழைவு நெறிமுறையாகும். பாதுகாப்பு தரவை உருவாக்க JSON-அடிப்படையிலான இணைய குறிகளை (JSON-based Web Tokens) பயன்படுத்துகிறது.
+JWT என்பது அடையாள வழங்குநர் (IDP) &amp;amp; சார்ந்திருக்கும் சேவை (RP) ஆகிய இரு தரப்பினரிடையே உரிமைகோரல் (Claims) விதிகளை வகுப்பதற்கும் மற்றும் பாதுகாப்பாக பரிமாற்றுவதற்கும் பயன்படுத்தப்படும் ஒரு தரநிலையாகும்.
+அடையாளச் சரிபார்ப்பை ஆதரிக்கப் பயன்படுத்தப்படும் மறையாக்கம் செய்யப்பட்ட, முக்கிய பயனர் தரவு, உரிமை கோரல்கள்
+ஒரு பயன்பாடு அணுகக்கூடிய உரிமைகோரல்களை (பயனர் பண்புகள்) OIDC நோக்கங்கள் (Scopes) வரையறுக்கின்றன. அடையாள வழங்குநர் ஏற்றுக்கொள்ளக்கூடிய நோக்கங்களின் பட்டியலைபராமரிக்கிறது மற்றும் ஒரு பயனர் வெளிப்படையாக தங்கள் விவரங்களைப் பகிர சம்மதித்த பிறகு, சார்ந்திருக்கும் சேவைக்கு (பயன்பாடு) நோக்கங்களைக் கிடைக்கச் செய்கிறது.
+தொடர்பு கொள்ளும் முன், சார்ந்திருக்கும் சேவை மற்றும் அடையாள வழங்குநர் மீத்தரவை பரிமாறிக் கொள்ளவேண்டும். இரு தரப்பினரும் சாத்தியமான நோக்கங்களில் உடன்பட வேண்டும். அடையாள வழங்குநர் சார்ந்திருக்கும் சேவைக்கு ஒரு இரகசியக் குறியீடு மற்றும் சேவை அடையாளத்தை வழங்க வேண்டும். மேலும் சார்ந்திருக்கும் சேவை குறியீடுகள் மற்றும் குறிகளைப் பெற முடிவுபுள்ளி சீர் வள குறிப்பான் பகிர்ந்து கொள்ள வேண்டும்.&lt;/p></description></item><item><title>ஒற்றை நுழைவு நெறிமுறை ஒப்பீடு</title><link>/books/cybersecurity/iam/iam-saml-vs-oidc/</link><pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/iam/iam-saml-vs-oidc/</guid><description>&lt;a href="/books/cybersecurity/iam/iam-saml-vs-oidc/#%e0%ae%92%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b4%e0%ae%b5-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%9f-sso-protocol-comparision">
+&lt;h3 id="ஒறற-நழவ-நறமற-ஒபபட-sso-protocol-comparision">
+ ஒற்றை நுழைவு நெறிமுறை ஒப்பீடு (SSO Protocol Comparision) 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;img src="images/logos/saml-logo.png" width=20%>&lt;/th>
+ &lt;th>&lt;img src="images/logos/openid-connect-logo.jpg" width=20%>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>நீண்ட காலமாக பயன்பாட்டில் உள்ள ஒரு சான்றுறுதி மற்றும் அதிகாரம் வழங்குதல் மற்றும் ஒற்றை நுழைவு நெறிமுறை ஆகும். &lt;br> தகவலைப் பரிமாறிக்கொள்ள XML ஐப் பயன்படுத்துகிறது. SAML பாதுகாப்பு வலியுறுத்தல்கள் / குறிகள் அளவில் பெரியவையாகவும் மேலும் இதனை செயலாக்குவது ஒப்பீட்டளவில் கடினம். &lt;br> பயனர் ஒப்புதலை இயல்பாக ஆதரிக்காது, ஆனால் விரிவான மேம்பாட்டின் மூலம் அடைய முடியும். &lt;br> நீண்ட காலமாக இருப்பதால், அது இன்னும் அரசாங்க நிறுவனங்கள் உட்பட நிறைய அமைப்புகளால் நம்பப்படுகிறது. &lt;br> நிறுவனங்கள் மற்றும் ஒரு வணிகத்திலிருந்து மற்றொரு வணிக அமைப்பிற்கு தகவலைப் பரிமாற ஏற்றது&lt;/td>
+ &lt;td>OAuth 2.0 கட்டமைப்பின் மேல் உருவாக்கப்பட்ட ஒரு புதிய ஒற்றை நுழைவு நெறிமுறையாகும். &lt;br> JSON-அடிப்படையிலான இணைய குறிகளை (JSON-based Web Tokens) பயன்படுத்துகிறது. இவை அளவில் சிறியதாகவும் மேலும் இலகுவாக செயலாக்கம் இயலும். &lt;br> இயல்பாகவே பயனர் ஒப்புதலை ஆதரிக்கிறது. &lt;br> OIDC இப்போது SAML ஆல் ஆதரிக்கப்படும் அம்சங்களைப் வழங்கத் தொடங்குகிறது. &lt;br> வணிகத்திலிருந்து நுகர்வோர் அமைப்பிற்கு தகவலைப் பரிமாற ஏற்றது. மேலும், ஒற்றைப் பக்க பயன்பாடுகள் (SPA) மற்றும் திறன்பேசி செயலிகள் போன்ற நவீன பயன்பாடுகளுக்கு சான்றுறுதி அளிப்பதை ஆதரிக்கிறது.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

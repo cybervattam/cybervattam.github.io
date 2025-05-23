@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>கட்டச்சங்கிலி (Blockchain) on Cybervattam</title><link>/books/emergingtech/blockchain/</link><description>Recent content in கட்டச்சங்கிலி (Blockchain) on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/books/emergingtech/blockchain/index.xml" rel="self" type="application/rss+xml"/><item><title>கட்டச்சங்கிலி அறிமுகம்</title><link>/books/emergingtech/blockchain/introduction/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/introduction/</guid><description>&lt;a href="/books/emergingtech/blockchain/introduction/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="கடடசசஙகல-அறமகம">
+ கட்டச்சங்கிலி அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>கட்டச்சங்கிலி / தொடரேடு என்பது இணையர் பிணையத்தில் (P2P network) இருக்கும் பல்வேறு கணினிகளில் உள்ள ஒரு பரவலாக்கப்பட்ட பேரேடு (Distributed Ledger). அனைத்து கணினிகளும் அதே பேரேடு நகலைக் கொண்டிருக்கும்.&lt;/p>
+&lt;p>இலக்கமுறைச் சொத்துக்களைக் (Digital Assets) கண்காணிக்க உதுவும் இந்த தொழில்நுட்பம் கணினிகளின் நினைவகத்தில் இயங்குகின்ற செயல்பாடுகளாக உள்ளன&lt;/p>
+&lt;p>உதாரணமாக, ஒரு பரிவர்த்தனை பதிவேட்டை எடுத்துக்கொள்வோம். பதிவேட்டில் பல பக்கங்கள் இருக்கும். ஒவ்வொரு பக்கத்திலும் பல பரிவர்த்தனைகளின் பதிவுகள் இருக்கும். மேலும் ஒவ்வொரு பக்கத்திலும், பக்கத்தின் எண் குறிக்கப்பட்டிருக்கும்.&lt;/p>
+&lt;p>பக்கத்தின் எண்களை கொண்டு, பரிவர்த்தனை பதிவுகளை நாம் எளிதில் காணலாம். ஒரு பக்கம் தொலைந்தாலோ அல்லது மாற்றப்பட்டாலோ அதனை எளிதில் கண்டுபிடிக்க இயலும்.&lt;/p></description></item><item><title>கட்டச்சங்கிலிக்கு ஏற்ற சூழல்</title><link>/books/emergingtech/blockchain/blockchain-context/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-context/</guid><description>&lt;a href="/books/emergingtech/blockchain/blockchain-context/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2%e0%ae%95%e0%ae%95-%e0%ae%8f%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%b4%e0%ae%b2">
+&lt;h3 id="கடடசசஙகலகக-ஏறற-சழல">
+ கட்டச்சங்கிலிக்கு ஏற்ற சூழல் 
+&lt;/h3>
+&lt;/a>&lt;p>இன்றைய சூழலில், அறிமுகமில்லாத இரு நபர்களோ / நிறுவனங்களோ தங்களிடையே பரிவர்த்தனை செய்ய, பொதுவாக உள்ள மூன்றாம் நபரையோ / நிறுவனத்தையோ நம்புகின்றனர்.
+உதாரணமாக,&lt;/p>
+&lt;ul>
+&lt;li>ஒரு நபரை அடையாளம் காண, அரசு அளித்த அடையாள அட்டை (அரசு) பொதுவாக நம்பப்படுகிறது.&lt;/li>
+&lt;li>வீடு/நிலம் வாங்க / விற்க, அரசு பதிவுத்துறை பொதுவாக நம்பப்படுகிறது&lt;/li>
+&lt;li>வாகனம் வாங்க / விற்க, அரசு வட்டார போக்குவரத்து அலுவலகம் பொதுவாக நம்பப்படுகிறது&lt;/li>
+&lt;li>பணம் அனுப்ப / பெற, ஒரு வங்கியில் இருந்து மற்றொரு வங்கிக்கு பரிவர்த்தனை செய்யப்படுகிறது. இங்கே வங்கிகள் பொதுவாக நம்பப்படுகிறது.&lt;/li>
+&lt;/ul>
+&lt;p>இதனால், மூன்றாம் நபரின் மீது சார்பு நிலை ஏற்படுகிறது. இந்த பரிவர்த்தனைகளை பதிவு செய்யும் மூன்றாம் நபர்/நிறுவனம், அந்த தரவுகளை தங்கள் முழு கட்டுப்பாட்டில் வைத்துள்ளனர். இந்த பரிவர்த்தனைகளை சரிபார்க்க வெளிப்படையான அனுமதி இல்லை.&lt;/p></description></item><item><title>கட்டச்சங்கிலி வகைகள்</title><link>/books/emergingtech/blockchain/blockchain-types/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-types/</guid><description>&lt;a href="/books/emergingtech/blockchain/blockchain-types/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3">
+&lt;h3 id="கடடசசஙகல-வககள">
+ &lt;strong>கட்டச்சங்கிலி வகைகள்&lt;/strong> 
+&lt;/h3>
+&lt;/a>&lt;p>கட்டச்சங்கிலி பிணைய இணைப்பு முறை மற்றும் அனுமதி கோரல் ஆகியவற்றை அடிப்படையாக கொண்டு வகுக்கப்படுகின்றன.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>அனுமதி கோரல்:&lt;/p>
+&lt;ul>
+&lt;li>அனுமதி கோரும் கட்டச்சங்கிலி (Permissioned Blockchain)
+&lt;ul>
+&lt;li>கணுக்கள் / நிறுவனங்களுக்கு முன் அனுமதி / வெவ்வேறு பாத்திர பொறுப்புகளை கட்டச்சங்கிலியின் இயக்குனர் வழங்குவார்.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>அனுமதி கோரா கட்டச்சங்கிலி (Permissionless Blockchain)
+&lt;ul>
+&lt;li>முன் அனுமதி தேவையில்லை&lt;/li>
+&lt;li>எவரும் சேரலாம்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>பிணைய இணைப்பு முறை:&lt;/p>
+&lt;ul>
+&lt;li>பரவலாக்கப்பட்ட கட்டச்சங்கிலி (Distributed Blockchain)
+&lt;ul>
+&lt;li>அனைத்து கணுக்களும் இணையானவை&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>கூட்டமைப்பு கட்டச்சங்கிலி (Consortium Blockchain)
+&lt;ul>
+&lt;li>தேர்ந்தெடுக்கப்பட்ட ஒரு கணு நிறுவனத்தின் சார்பில் தொடர்புகொள்ளும்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+&lt;a href="/books/emergingtech/blockchain/blockchain-types/#%e0%ae%aa%e0%ae%a4-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2--public-blockchains">
+&lt;h4 id="பத-கடடசசஙகல--public-blockchains">
+ &lt;strong>பொது கட்டச்சங்கிலி / Public Blockchains&lt;/strong> 
+&lt;/h4>
+&lt;/a>&lt;p>பொது கட்டச்சங்கிலியில் இணைய யாருக்கும் எந்தத் தடையும் இல்லை. யாரும் இதில் வரவு-செலவு கணக்கை வைத்துக் கொள்ளலாம்; சரி-பார்ப்பவராக (validator) ஆகலாம். (அதாவது,கருத்து இணக்க நெறிமுறையில் பங்கு கொள்ளலாம்.)&lt;/p></description></item><item><title>பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்</title><link>/books/emergingtech/blockchain/bitcoin-block-structure/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/bitcoin-block-structure/</guid><description>&lt;a href="/books/emergingtech/blockchain/bitcoin-block-structure/#%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%a9-%e0%ae%89%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3--block-structure-in-bitcoin-blockchain">
+&lt;h3 id="கடடசசஙகல-கடடததன-உறபபகள--block-structure-in-bitcoin-blockchain">
+ &lt;img src="images/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain 
+&lt;/h3>
+&lt;/a>&lt;br>
+&lt;ul>
+&lt;li>கட்டத்தின் தலைப்பு (Block Header) (80 பைட் நீளம் கொண்ட வரிசைபடுத்தப்பட்ட வடிவம்)
+&lt;ul>
+&lt;li>பதிப்பு – தற்போதைய கட்ட உருவத்தின் பதிப்பு (4 பைட் நீளம்)&lt;/li>
+&lt;li>முந்தைய கட்டத்தின் குறுக்க மதிப்பு (32 பைட் நீளம்)&lt;/li>
+&lt;li>தரவுக் குறுக்க மதிப்பு (மெர்கல் மர வேரின் குறுக்க மதிப்பு) (32 பைட் நீளம்)&lt;/li>
+&lt;li>நேர முத்திரை (4 பைட் நீளம்)&lt;/li>
+&lt;li>தற்போதைய கடின அளவு (4 பைட் நீளம்)&lt;/li>
+&lt;li>ஒரேமுறை எண் (4 பைட் நீளம்)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>கட்டத்தின் தரவு (Block Data)
+&lt;ul>
+&lt;li>பரிவர்த்தனை எண்ணி (Transaction Counter)&lt;/li>
+&lt;li>பரிவர்த்தனைகள் #1, #2, #3, &amp;hellip; ,#n&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="images/blockchain-ta/blockchain-bitcoin-block-structure-ta.svg" width=50%>
+&lt;br>
+&lt;br>
+&lt;a href="/books/emergingtech/blockchain/bitcoin-block-structure/#%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%af%e0%ae%a9-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%89%e0%ae%a4%e0%ae%b0%e0%ae%a3%e0%ae%ae--sample-bitcoin-blockchain">
+&lt;h3 id="படகயன-கடடசசஙகல-உதரணம--sample-bitcoin-blockchain">
+ பிட்காயின் கட்டச்சங்கிலி உதாரணம் / Sample Bitcoin blockchain 
+&lt;/h3>
+&lt;/a>&lt;br>
+&lt;br>
+&lt;img src="images/blockchain-ta/blockchain-bitcoin-chain-sample-ta.svg" width=50%></description></item><item><title>பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை</title><link>/books/emergingtech/blockchain/bitcoin-block-addition-process/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/bitcoin-block-addition-process/</guid><description>&lt;a href="/books/emergingtech/blockchain/bitcoin-block-addition-process/#%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%af%e0%ae%a9-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f-%e0%ae%87%e0%ae%a3%e0%ae%aa%e0%ae%aa-%e0%ae%9a%e0%ae%af%e0%ae%b2%e0%ae%ae%e0%ae%b1--bitcoin-blokchain-block-addition-process">
+&lt;h3 id="படகயன-கடடசசஙகல-கடட-இணபப-சயலமற--bitcoin-blokchain-block-addition-process">
+ பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை / Bitcoin blokchain block addition process 
+&lt;/h3>
+&lt;/a>&lt;img src="images/blockchain-ta/blockchain-bitcoin-block-addition-process-ta.svg" width=70%></description></item><item><title>ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்</title><link>/books/emergingtech/blockchain/hyperledger-block-structure/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/hyperledger-block-structure/</guid><description>&lt;a href="/books/emergingtech/blockchain/hyperledger-block-structure/#%e0%ae%b9%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%b2%e0%ae%9f%e0%ae%9c%e0%ae%b0-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%a9-%e0%ae%89%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3-hyperledger-blokchain-block-structure">
+&lt;h3 id="ஹபபரலடஜர-கடடசசஙகல-கடடததன-உறபபகள-hyperledger-blokchain-block-structure">
+ ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blokchain block structure 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>கட்டத்தின் தலைப்பு (Block Header)
+&lt;ul>
+&lt;li>கட்டத்தின் எண்&lt;/li>
+&lt;li>தரவுக் குறுக்க மதிப்பு&lt;/li>
+&lt;li>முந்தைய கட்டத்தின் குறுக்க மதிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>கட்டத்தின் தரவு (Block Data)
+&lt;ul>
+&lt;li>தலைப்பு&lt;/li>
+&lt;li>குறியொப்பம்&lt;/li>
+&lt;li>முன்மொழிவு&lt;/li>
+&lt;li>துலங்கல்&lt;/li>
+&lt;li>மேற்குறிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>மீத்தரவு (Metadata)
+&lt;ul>
+&lt;li>கட்டத்தை உருவாக்கியவரின் சான்றிதழ் மற்றும் குறியொப்பம்&lt;/li>
+&lt;li>கட்டத்தை உறுதி செய்பவர் ஒவ்வொரு பரிவர்த்தனையையும் சரிபார்த்து சேர்க்கும் சரியான / தவறான பரிவர்த்தனை குறிகாட்டி&lt;/li>
+&lt;li>இந்தக் கட்டம் உட்பட ஒட்டுமொத்த நிலை புதுப்பிப்புகளின் குறுக்க மதிப்பு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+ &lt;br>
+&lt;img src="images/blockchain-ta/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%></description></item><item><title>ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள்</title><link>/books/emergingtech/blockchain/hyperledger-components/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/hyperledger-components/</guid><description>&lt;a href="/books/emergingtech/blockchain/hyperledger-components/#%e0%ae%b9%e0%ae%aa%e0%ae%aa%e0%ae%b0%e0%ae%b2%e0%ae%9f%e0%ae%9c%e0%ae%b0-%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%9a%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2-%e0%ae%aa%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%b3--hyperledger-blokchain-components">
+&lt;h3 id="ஹபபரலடஜர-கடடசசஙகல-பகபபகள--hyperledger-blokchain-components">
+ ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி பகுப்புகள் / Hyperledger blokchain components 
+&lt;/h3>
+&lt;/a>&lt;p>&lt;strong>இணையர்/ கணு&lt;/strong> - இணையர் பிணையத்தில் இணைக்கப்பட்ட ஒவ்வொரு கணினியும் அவர்கள் பங்கேற்க விரும்பும் கட்டச்சங்கிலி அமைப்புக்கு ஏற்ற குறிப்பிட்ட கணு பயன்பாட்டை நிறுவி இயக்க வேண்டும். தொழில்நுட்ப ரீதியாக, கட்டச்சங்கிலி ஒரு சேவை மேலடுக்கு பிணையத்தை (Service Overlay Network - SON) உருவாக்குகிறது. இந்த பிணையத்தில் ஒரு கணுவாக இருக்க, கணினி பயன்பாடு குறித்த செய்திகளை செயல்முறை படுத்த இயல வேண்டும் மற்றும் சேவை மேலடுக்கு பிணையத்தின் SON பகிரப்பட்ட நிலையை மாற்ற வேண்டும்.&lt;/p>
+&lt;p>&lt;strong>கருத்து இணக்க நெறிமுறை&lt;/strong> - கணு பயன்பாட்டிற்குள் ஒரு பகுதியாக, கருத்து இணக்க நெறிமுறை செயல்படுத்தப்படுகிறது. இந்த சூழல் அமைப்பில் பேரேட்டிலிருந்து ஒருமித்த பார்வை எவ்வாறு எட்ட வேண்டும் என்ற விதிகளையும் மற்றும் “உலக நிலையை” தீர்மானிக்கும் முறையை வழங்குகிறது. எ.கா., உழைப்புக்குச் சான்று (PoW), பங்குகளின் சான்று (PoS), பைசண்டைன் தவறு சகிப்புத்தன்மை (BFT), வாக்களிப்பு சான்று (PoV), பங்குகளின் பிரதிநிதித்துவ சான்று (Delegated PoS).&lt;/p></description></item><item><title>கணக்கியல் முறைகள்</title><link>/books/emergingtech/blockchain/accounting-methods/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/accounting-methods/</guid><description>&lt;a href="/books/emergingtech/blockchain/accounting-methods/#%e0%ae%95%e0%ae%a3%e0%ae%95%e0%ae%95%e0%ae%af%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3">
+&lt;h3 id="கணககயல-மறகள">
+ கணக்கியல் முறைகள் 
+&lt;/h3>
+&lt;/a>&lt;img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%></description></item><item><title>கட்டச்சங்கிலியின் பயன்பாடுகள்</title><link>/books/emergingtech/blockchain/blockchain-usecases/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate><guid>/books/emergingtech/blockchain/blockchain-usecases/</guid><description>&lt;p>&lt;strong>நிதித் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>கடன் அறிக்கைகள்&lt;/li>
+&lt;li>இணையர்-இணையர் கடன் அளித்தல்&lt;/li>
+&lt;li>இணையர்-இணையர் பணப் பரிமாற்றம்&lt;/li>
+&lt;li>பன்னாட்டு பரிவர்த்தனை&lt;/li>
+&lt;li>பதிவேடுகளின் தணிக்கை சிக்கலைக் குறைத்தல்&lt;/li>
+&lt;li>பணமோசடி எதிர்ப்பு &amp;amp; வாடிக்கையாளர் அடையாளம்&lt;/li>
+&lt;li>வர்த்தக நிதி மற்றும் மூலதன சந்தைகள்&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>மருத்துவத்துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>மருந்து/மாத்திரை/மருத்துவ உபகரணங்கள் வழங்கல் தொடர் நம்பகத்தன்மை&lt;/li>
+&lt;li>மின் சுகாதார பதிவுருகள் (வெளிப்படையான P2D &amp;amp; P2H பரிவர்த்தனைகள்)&lt;/li>
+&lt;li>நோய்ச் சோதனைகள் ஆதாரம்&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>காப்பீடுத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>மேம்படுத்தப்பட்ட பல தரப்பினர் ஒப்பந்தங்கள்&lt;/li>
+&lt;li>நெறிப்படுத்தப்பட்ட இடர் ஒப்பந்த செயல்திறன் &amp;amp; கோருரிமைகள் தீர்ப்பு&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>சட்டத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>சாட்சியத்தின் நம்பகத்தன்மை,&lt;/li>
+&lt;li>மாற்றரு வழக்கு தரவு,&lt;/li>
+&lt;li>வெளிப்படையான காவல் பொறுப்பு சங்கிலி&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>ஊடகத் துறை&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>சொத்துரிமைக் கட்டுப்பாடு,&lt;/li>
+&lt;li>இலக்கமுறை சொத்துக்களின் களவு&lt;/li>
+&lt;li>இலக்கமுறை சொத்துக்களின் பதிப்புரிமை மீறல் தடுப்பு&lt;/li>
+&lt;li>படைப்பாளிகள் உரிமைத்தொகை&lt;/li>
+&lt;li>மாற்றரு நுழைவுச்சீட்டு விற்பனை / முன்பதிவு
+&lt;ul>
+&lt;li>நிகழ்ச்சிகள்&lt;/li>
+&lt;li>திரைப்படம்&lt;/li>
+&lt;li>பயிலரங்கம்&lt;/li>
+&lt;li>மாநாடு&lt;/li>
+&lt;li>கருத்தரங்கு&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>போக்குவரத்துத் துறை&lt;/strong>&lt;/p></description></item></channel></rss>

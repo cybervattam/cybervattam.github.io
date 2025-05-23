@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI) on Cybervattam</title><link>/books/cybersecurity/pki/</link><description>Recent content in பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI) on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/books/cybersecurity/pki/index.xml" rel="self" type="application/rss+xml"/><item><title>பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்</title><link>/books/cybersecurity/pki/introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/pki/introduction/</guid><description>&lt;a href="/books/cybersecurity/pki/introduction/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="பதத-தறவ-உளகடடமபப-அறமகம">
+ பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>பொதுத் திறவி உள்கட்டமைப்பு என்பது வன்பொருள் (Hardware), மென்பொருள் (Software), கொள்கைகள் (Policies) நடைமுறைகள் (procedures), மக்கள் (People), பாத்திரங்கள் (Roles) ஆகியவற்றின் தொகுப்பாகும்.​​&lt;/p>
+&lt;p>இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​&lt;/p>
+&lt;p>இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​&lt;/p>
+&lt;p>பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத் தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​&lt;/p></description></item><item><title>இலக்கமுறைச் சான்றிதழ்</title><link>/books/cybersecurity/pki/digital-certificates/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/digital-certificates/</guid><description>&lt;a href="/books/cybersecurity/pki/digital-certificates/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4--digital-certificate">
+&lt;h3 id="இலககமறச-சனறதழ--digital-certificate">
+ இலக்கமுறைச் சான்றிதழ் / Digital Certificate 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-certificate-sample.png">
+&lt;p>இலக்கமுறைச் சான்றிதழை ஒரு மின்னணு அடையாள ஆவணமாகக் கருதலாம். இவை X.509 சான்றிதழ் என்றும் அறியப்படுகிறது. இலக்கமுறைச் சான்றிதழ் என்பது ஒரு பொதுத் திறவி மற்றும் அதன் உரிமையாளர் இடையில் ஒரு தொடர்பை ஏற்படுத்த வழிவகுக்கிறது
+சான்றிதழ் ஆணையத்தால் சான்றளிக்கப்பட்டு உரிமையாளருக்கு வழங்கப்படுகிறது. உரிமையாளர் முடிந்தவரை இலக்கமுறை சான்றிதழை பாதுகாப்பாக வைக்க வேண்டும். ஒரு குறிப்பிட்ட காலம் வரை மட்டுமே செல்லுபடியாகும். இதன் வாழ்க்கைச் சுழற்சியை பொதுத் திறவி உள்கட்டமைப்பு நிர்வகிக்கிறது.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/digital-certificates/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%9f%e0%ae%b5%e0%ae%99%e0%ae%95%e0%ae%b3--digital-certificate-formats">
+&lt;h3 id="இலககமறச-சனறதழ-வடவஙகள--digital-certificate-formats">
+ இலக்கமுறைச் சான்றிதழ் வடிவங்கள் / Digital Certificate Formats 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+&lt;a href="/books/cybersecurity/pki/digital-certificates/#pem-format-privacy-enhanced-mail--%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%b0%e0%ae%ae-%e0%ae%ae%e0%ae%ae%e0%ae%aa%e0%ae%9f%e0%ae%a4%e0%ae%a4%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%9f-%e0%ae%85%e0%ae%9e%e0%ae%9a%e0%ae%b2">
+&lt;h4 id="pem-format-privacy-enhanced-mail--தனயரம-மமபடததபபடட-அஞசல">
+ PEM format (Privacy Enhanced Mail) / தனியுரிமை மேம்படுத்தப்பட்ட அஞ்சல் 
+&lt;/h4>
+&lt;/a>&lt;p>இவ்வடிவம் X.509 சான்றிதழ்கள், சான்றிதழ் ஒப்பமிடல் கோரிக்கைகள் மற்றும் மறைப்பியல் திறவிகளுக்கான மிகவும் பொதுவான வடிவமாகும்.
+பெரும்பாலான சான்றிதழ் ஆணையங்கள் அடிப்படை 64 ஆஸ்கி முறையில் குறியாக்கம் செய்யப்பட்ட சான்றிதழ்களை வழங்குகின்றன
+இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .pem, .crt, .cer, or .key என முடியும்.
+.pem வகையில் ஒரே கோப்பில் இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் மற்றும் தனித் திறவியை சேமிக்க முடியும்.
+இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் ஆகியவற்றை தனியாக .crt or .cer என்ற வடிவிலும் சேமிக்க முடியும். தனித் திறவியை .key என்ற வடிவில் சேமிக்க முடியும்&lt;/p></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள்</title><link>/books/cybersecurity/pki/pki-components/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/books/cybersecurity/pki/pki-components/</guid><description>&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%b3-pki-components">
+&lt;h3 id="பதத-தறவ-உளகடடமபபன-கறகள-pki-components">
+ பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள் (PKI components) 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/pki-components-ta.svg">
+&lt;ul>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%aa%e0%ae%a4%e0%ae%b5-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae-registration-authority">
+&lt;h4 id="பதவ-ஆணயம-registration-authority">
+ பதிவு ஆணையம் (Registration Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>சான்றிதழ் கோரி விண்ணப்பிக்கும் நபர்கள் மற்றும் நிறுவனங்களின் அடையாளத்தை சரிபார்க்கும் சேவையை செய்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae-certificate-authority">
+&lt;h4 id="சனறதழ-ஆணயம-certificate-authority">
+ சான்றிதழ் ஆணையம் (Certificate Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>இலக்கமுறைச் சான்றிதழ்களை வழங்கி, சேமித்து, மற்றும் குறியொப்பமிடும் சேவைகளை செய்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%ae%e0%ae%af-%e0%ae%95%e0%ae%b3%e0%ae%9e%e0%ae%9a%e0%ae%af%e0%ae%ae--%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae-central-repository">
+&lt;h4 id="மய-களஞசயம--கபபகம-central-repository">
+ மைய களஞ்சியம் / கோப்பகம் (Central Repository)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>திறவிகள் சேமிக்கப்பட்டு அட்டவணைப்படுத்தப்படும் பாதுகாப்பான இடம்;​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%ae%e0%ae%b2%e0%ae%a3%e0%ae%ae-%e0%ae%85%e0%ae%ae%e0%ae%aa%e0%ae%aa-certificate-management-system">
+&lt;h4 id="சனறதழ-மலணம-அமபப-certificate-management-system">
+ சான்றிதழ் மேலாண்மை அமைப்பு (Certificate Management System)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>சேமிக்கப்பட்ட சான்றிதழ்களுக்கான அணுகல் மற்றும் வழங்கப்பட வேண்டிய சான்றிதழ்களை வழங்குவது, சான்றிதழ் வாழ்நிலைச் சுழற்சி (Certificate Lifecycle) போன்றவற்றை நிர்வகிக்கும்&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%95%e0%ae%b3%e0%ae%95-certificate-policy">
+&lt;h4 id="சனறதழ-களக-certificate-policy">
+ சான்றிதழ் கொள்கை (Certificate Policy)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>பொதுத் திறவி உள்கட்டமைப்பின் நடைமுறைகள் தொடர்பான தேவைகளை குறிப்பிடும். பொதுத் திறவி உள்கட்டமைப்பின் நம்பகத்தன்மையை மூன்றாம் தரப்பினர் பகுப்பாய்வு செய்ய அனுமதிக்கிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;a href="/books/cybersecurity/pki/pki-components/#%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%ae--validation-authority">
+&lt;h4 id="சரபரததல-ஆணயம--validation-authority">
+ சரிபார்த்தல் ஆணையம் (Validation Authority)​ 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>தவறான சான்றிதழ்களின் பட்டியலைக் குறிப்பிடுவதன் மூலம் இலக்கமுறைச் சான்றிதழின் செல்லுபடியை சரிபார்க்கும் ஒரு அமைப்பாகும். இது இலக்கமுறைச் சான்றிதழ் நம்பகமான சான்றிதழ் ஆணையத்தால் வழங்கப்பட்டதா என்பதை உறுதிப்படுத்துகிறது.​&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>நம்பிக்கை சங்கிலி</title><link>/books/cybersecurity/pki/chain-of-trust/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/chain-of-trust/</guid><description>&lt;a href="/books/cybersecurity/pki/chain-of-trust/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%95-%e0%ae%9a%e0%ae%99%e0%ae%95%e0%ae%b2--chain-of-trust">
+&lt;h3 id="நமபகக-சஙகல--chain-of-trust">
+ நம்பிக்கை சங்கிலி / Chain of Trust 
+&lt;/h3>
+&lt;/a>&lt;p>நம்பிக்கையின் சங்கிலி பல பகுதிகளைக் கொண்டுள்ளது.&lt;/p>
+&lt;img src="/images/pki-ta/chain-of-trust-ta.svg">
+&lt;p>முதலில் ஒரு நம்பிக்கை நங்கூரம் (Trust Anchor). இது வேர் சான்றிதழ் ஆணையம் (Root Certifying Authority) என்றும் அழைக்கப்படுகிறது.&lt;/p>
+&lt;p>இரண்டாவதாக, ஒரு இடைநிலை சான்றிதழ் ஆணையம் (Intermediate CA). இதன் கட்டுப்பாட்டில் பல துணை இடைநிலை சான்றிதழ் ஆணையங்கள் (Sub CA) இருக்கலாம்.&lt;/p>
+&lt;p>இந்த இடைநிலை சான்றிதழ் ஆணையம் இறுதி அமைப்புகள் மற்றும் வேர் சான்றிதழ் ஆணையத்தின் இடையே ஒரு அரண் போல் செயல்படுகிறது.&lt;/p>
+&lt;p>இறுதியில் ஒரு வலைத்தளம், நிறுவனம் அல்லது நபர் போன்ற அமைப்புகளுக்கு வழங்கப்படும் இறுதி அமைப்புச் சான்றிதழ் (End Entity Certificate)&lt;/p></description></item><item><title>நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்</title><link>/books/cybersecurity/pki/certificate-store/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/certificate-store/</guid><description>&lt;a href="/books/cybersecurity/pki/certificate-store/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%95-%e0%ae%9a%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae--%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%9a%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%95%e0%ae%ae--trust-stores--certificate-stores">
+&lt;h3 id="நமபகக-சமபபகம--சனறதழ-சமபபகம--trust-stores--certificate-stores">
+ நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம் / Trust Stores / Certificate Stores 
+&lt;/h3>
+&lt;/a>&lt;p>நம்பிக்கை சேமிப்பகம் என்பது இயல்பாக நம்பப்படும் வேர் சான்றிதழ்களின் தொகுப்பாகும்&lt;/p>
+&lt;img src="/images/pki-ta/cert-manager.png" >
+&lt;p>இவை இயங்குதளம் மற்றும் வலை உலாவிகளை உருவாக்கும் நிறுவனங்களால் பராமரிக்கப்படுகின்றன.&lt;/p>
+&lt;img src="/images/pki-ta/certificate-stores.png" >
+&lt;a href="/books/cybersecurity/pki/certificate-store/#%e0%ae%87%e0%ae%a8%e0%ae%a4%e0%ae%af%e0%ae%b5%e0%ae%b2-%e0%ae%89%e0%ae%b0%e0%ae%ae%e0%ae%ae-%e0%ae%aa%e0%ae%b1%e0%ae%b1-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b3%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%86%e0%ae%a3%e0%ae%af%e0%ae%99%e0%ae%95%e0%ae%b3--licensed-certifying-authorities-in-india">
+&lt;h3 id="இநதயவல-உரமம-பறற-சனறளககம-ஆணயஙகள--licensed-certifying-authorities-in-india">
+ இந்தியாவில் உரிமம் பெற்ற சான்றளிக்கும் ஆணையங்கள் / Licensed Certifying Authorities in India 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/india-licensed-ca.png"></description></item><item><title>பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள்</title><link>/books/cybersecurity/pki/pki-capabilities/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/pki-capabilities/</guid><description>&lt;a href="/books/cybersecurity/pki/pki-capabilities/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%a4%e0%ae%b1%e0%ae%a9%e0%ae%95%e0%ae%b3--public-key-infrastructure-capabilities">
+&lt;h3 id="பதத-தறவ-உளகடடமபபன-தறனகள--public-key-infrastructure-capabilities">
+ பொதுத் திறவி உள்கட்டமைப்பின் திறன்கள் / Public Key Infrastructure Capabilities 
+&lt;/h3>
+&lt;/a>&lt;p>பொதுத் திறவி உள்கட்டமைப்பு &amp;ldquo;நம்பிக்கை சேவைகளை“ (Trust Services) வழங்குகிறது&lt;/p>
+&lt;img src="/images/pki-ta/trust-services-ta.svg">
+&lt;p>எளிதாக கூறுவதென்றால் நபர்கள் / கணினிகள் / நிறுவனங்களின் செயல்கள் அல்லது வெளியீடுகளை நம்ப உதவுகிறது&lt;/p>
+&lt;p>நம்பிக்கை சேவையின் நோக்கங்கள் பின்வரும் திறன்களின் அடிப்படையில் அமைகின்றன&lt;/p>
+&lt;img src="/images/pki-ta/pki-capabilities-ta.svg"></description></item><item><title>இலக்கமுறைக் குறியொப்ப சான்றிதழ் / Digital Signature Certificate​</title><link>/books/cybersecurity/pki/digital-signature-certificate/</link><pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/digital-signature-certificate/</guid><description>&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%aa%e0%ae%aa-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--digital-signature-certificate-types">
+&lt;h3 id="இலககமறக-கறயபப-சனறதழ-வககள--digital-signature-certificate-types">
+ இலக்கமுறைக் குறியொப்ப சான்றிதழ் வகைகள்​ / Digital Signature Certificate Types​ 
+&lt;/h3>
+&lt;/a>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>சான்றிதழ் வகை​&lt;/th>
+ &lt;th>உத்தரவாத நிலை​&lt;/th>
+ &lt;th>பொருந்தக்கூடிய சூழல்&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>வகுப்பு 1 ​சான்றிதழ்​ &lt;br> (Class 1 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​&lt;/td>
+ &lt;td>தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் குறைவாக இருக்கும் சூழல்களுக்கு ஒரு அடிப்படை நிலை உத்தரவாதத்தை வழங்குகிறது.​&lt;br> அதிக முக்கியத்துவம் வாய்ந்ததாக கருதப்படவில்லை.​&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>வகுப்பு 2 ​சான்றிதழ்​ &lt;br> (Class 2 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​&lt;/td>
+ &lt;td>தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் மிதமாக இருக்கும் சூழல்களுக்கு உத்தரவாதத்தை வழங்குகிறது.​&lt;br> இது கணிசமான பண மதிப்பு அல்லது மோசடி மறையிடர்கள் கொண்ட பரிவர்த்தனைகள்​ தீங்கிழைக்கும் அணுகல் வழியாக தனியார் தகவல்களை அணுகுவதற்கான சாத்தியக்கூறுகள் கணிசமாக இருக்கும் நிலைகளை உள்ளடக்கியது. ​&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>வகுப்பு 3 ​சான்றிதழ்​ &lt;br> (Class 3 Certificate)​&lt;/td>
+ &lt;td>வணிக நிறுவனங்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். &lt;br> ​இவை உயர் உத்தரவாத சான்றிதழ்கள் என்பதால், முதன்மையாக இணைய வர்த்தக பயன்பாடுகளுக்காக வழங்கப்படுகிறது. &lt;br> சான்றளிக்கும் அதிகாரிகளின் முன் நேரில் சென்று விண்ணப்பித்தால் மட்டுமே இவ்வகை வழங்கப்படும்.&lt;/td>
+ &lt;td>தரவுக்கு அச்சுறுத்தல்கள் அதிகமாக இருக்கும் அல்லது பாதுகாப்பு சேவைகளின் தோல்வியின் விளைவுகள் அதிகமாக இருக்கும் சூழல்களுக்கு இந்த நிலை பொருத்தமானது.​ &lt;br> இதில் மிக உயர்ந்த மதிப்பு பரிவர்த்தனைகள் அல்லது அதிக அளவு மோசடி மறையிடர்கள் இருக்கலாம்.​&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%87%e0%ae%b2%e0%ae%95%e0%ae%95%e0%ae%ae%e0%ae%b1%e0%ae%95-%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%aa%e0%ae%aa%e0%ae%ae-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%ae%e0%ae%9f%e0%ae%b2--%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--digital-signature-signing--verification">
+&lt;h3 id="இலககமறக-கறயபபம-ஒபபமடல--சரபரததல--digital-signature-signing--verification">
+ இலக்கமுறைக் குறியொப்பம் (ஒப்பமிடல் / சரிபார்த்தல்)​ / Digital Signature (Signing / Verification) 
+&lt;/h3>
+&lt;/a>&lt;img src="/images/pki-ta/digital-sign-verification-ta.svg">
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/digital-signature-certificate/#%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%85%e0%ae%9f%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%af%e0%ae%b2%e0%ae%a9-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%b1%e0%ae%a4--certificate-based-authentication">
+&lt;h3 id="சனறதழ-அடபபடயலன-சனறறத--certificate-based-authentication">
+ சான்றிதழ் அடிப்படையிலான சான்றுறுதி ​/ Certificate Based Authentication​ 
+&lt;/h3>
+&lt;/a>&lt;p>சான்றிதழ் அடிப்படையிலான சான்றுறுதி என்பது ஒரு பயனர், இயந்திரம் அல்லது சாதனத்தை அடையாளம் காண இலக்கமுறைச் சான்றிதழைப் பயன்படுத்துவதாகும். ​&lt;/p></description></item><item><title>போக்குவரத்து அடுக்கு​ பாதுகாப்புச் சான்றிதழ்​ / Transport Layer Security Certificate​​</title><link>/books/cybersecurity/pki/tls/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/tls/</guid><description>&lt;a href="/books/cybersecurity/pki/tls/#%e0%ae%aa%e0%ae%95%e0%ae%95%e0%ae%b5%e0%ae%b0%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%95%e0%ae%95-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%9a-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--transport-layer-security-certificate-types">
+&lt;h3 id="பககவரதத-அடகக-பதகபபச-சனறதழ-வககள--transport-layer-security-certificate-types">
+ போக்குவரத்து அடுக்கு பாதுகாப்புச் சான்றிதழ் வகைகள்​ / Transport Layer Security Certificate Types​ 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/pki/tls/#1-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--domain-validation">
+&lt;h4 id="1-களபபயர-சரபரததல--domain-validation">
+ 1. களப்பெயர் சரிபார்த்தல்​ / Domain validation 
+&lt;/h4>
+&lt;/a>&lt;p>குறைந்த அளவிலான உறுதி நிலையை அளிக்கிறது. இவ்வகைச் சான்றிதழ்கள் பெற எளிதானவை. வலைத்தளத்தின் களப்பெயர் மட்டுமே சரிபார்க்கப்படும்​. இச்சான்றிதழ்களைக் கொண்ட வலைத்தளங்களில் பாதுகாப்பான பூட்டு சின்னம் மட்டுமே இருக்கும். அந்த வலைத்தளத்தின் உரிமையாளர் பெயரோ அல்லது வணிக நிறுவன பெயரோ இருக்காது. ​எனவே, பாதுகாப்பான அடையாளம் இருந்தபோதிலும், பார்வையாளர்கள் வலைத்தளம் உண்மையில் அவர்கள் தேடும் வணிகத்திற்கு சொந்தமானதா என்பதை சரிபார்க்க எந்த வழியும் இல்லை.&lt;/p>
+&lt;img src="/images/pki-ta/tls-dv.png">
+&lt;br>
+&lt;a href="/books/cybersecurity/pki/tls/#2-%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9%e0%ae%ae-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--organization-validation">
+&lt;h4 id="2-நறவனம-சரபரததல--organization-validation">
+ 2. நிறுவனம் சரிபார்த்தல் ​/ Organization Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இதுவே மிகவும் பொதுவாக பயன்படுத்தப்படும் பாதுகாப்பு உறுதி நிலை​. இவ்வகைச் சான்றிதழ்கள் கொண்ட வலைத்தளங்கள் பாதுகாப்பான பூட்டு சின்னத்துடன் தங்கள் வணிகப் பெயரை உடன் கொண்டுள்ளன​. இந்த சான்றிதழ்கள் அதிக உத்தரவாதத்தை அளிப்பதால், இவை சான்றிதழ் ஆணையங்களின் சரியான ஆய்வுக்குப் பிறகுதான் வழங்கப்படுகின்றன​. இவ்வகைச் சான்றிதழ்கள் முக்கியமான வாடிக்கையாளர் தரவைக் கையாளும் நிறுவனங்களால் பயன்படுத்தப்படுகின்றன.&lt;/p></description></item><item><title>குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing Certificate</title><link>/books/cybersecurity/pki/code-signing/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/code-signing/</guid><description>&lt;a href="/books/cybersecurity/pki/code-signing/#%e0%ae%95%e0%ae%b1%e0%ae%af%e0%ae%9f-%e0%ae%92%e0%ae%aa%e0%ae%aa%e0%ae%ae%e0%ae%9f%e0%ae%b2-%e0%ae%9a%e0%ae%a9%e0%ae%b1%e0%ae%a4%e0%ae%b4--code-signing">
+&lt;h3 id="கறயட-ஒபபமடல-சனறதழ--code-signing">
+ குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing 
+&lt;/h3>
+&lt;/a>&lt;p>குறியீடு ஒப்பமிடல் என்பது மென்பொருள் (இயக்கக்கூடிய கோப்புகள் மற்றும் மூல குறியீடு) பதிப்பாளரை அடையாளப்படுத்த இலக்கமுறை முறையில் ஒப்பமிடுவது.​ மேலும், இது ஒப்பமிடப்பட்ட நேரத்திலிருந்து மென்பொருள் மாற்றப்படவில்லை அல்லது சிதைக்கப்படவில்லை என்பதற்கு உத்தரவாதம் அளிக்கிறது. இதனை சரிபார்க்க குறுக்க மதிப்புகளை பயன்படுத்துகிறது. ​குறியீடு ஒப்பமிடல் வழியாக மென்பொருள் அடையாளம் / சான்றுறுதி அளிக்கும் இம்முறையின் பாதுகாப்பு, ஒப்பமிடும் திறவிகளின் பாதுகாப்பைப் பொறுத்தது. இந்த அமைப்பின் நம்பகத்தன்மை மென்பொருள் வெளியீட்டாளர்கள் தங்கள் தனித் திறவிகளை பாதுகாப்பதை நம்பியுள்ளது​. எனவே, பாதுகாப்பான, சேதமடையாத, மறைப்பியல் வன்பொருள் சாதனங்களில் திறவிகளை சேமிப்பது மிகவும் பாதுகாப்பானது மற்றும் சிறந்த நடைமுறையாக கருதப்படுகிறது.​ இவ்வகை சாதனங்கள் வன்பொருள் பாதுகாப்பு தொகுதிகள் (Hardware Security Module – HSM) என அழைக்கப்படும்.​&lt;/p></description></item><item><title>நேர முத்திரையிடல் / Time Stamping</title><link>/books/cybersecurity/pki/time-stamping/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/time-stamping/</guid><description>&lt;a href="/books/cybersecurity/pki/time-stamping/#%e0%ae%a8%e0%ae%b0-%e0%ae%ae%e0%ae%a4%e0%ae%a4%e0%ae%b0%e0%ae%af%e0%ae%9f%e0%ae%b2--time-stamping">
+&lt;h3 id="நர-மததரயடல--time-stamping">
+ நேர முத்திரையிடல் / Time Stamping 
+&lt;/h3>
+&lt;/a>&lt;p>நேர முத்திரையிடல் என்பது ஒரு ஆவணத்தின் உருவாக்கம் மற்றும் மாற்றியமைக்கும் நேரங்களை பாதுகாப்பாக கண்காணிக்கும் செயல்முறையாகும். இவ்வாறு வழங்கப்படும் முத்திரை, நம்பகமான நேர முத்திரை (Trusted Time Stamp) என்று அழைக்கப்படும். இங்கே பாதுகாப்பு என்பது நேரம் பதிவு செய்யப்பட்டவுடன், அந்த ஆவணத்தின் உரிமையாளர் உள்பட எவரும் ஆவணத்தை மாற்ற முடியாது என்பதை உறுதிப்படுத்துவது. இலக்கமுறைக் குறியொப்பம் அல்லது குறியீடு குறியொப்பத்துடன் நம்பகமான நேர முத்திரையைச் சேர்ப்பது, அந்த ஒப்பமிடப்பட்ட தரவு, ஆவணம் அல்லது குறியீட்டுக்கு கூடுதல் நம்பகத்தன்மையை அளிப்பதுடன் பரிவர்த்தனை நடந்த நம்பகமான தேதி மற்றும் நேரத்தையும் வழங்குகிறது. ஒரு ஆவணம் அல்லது குறியீடு எந்த தேதி மற்றும் நேரத்தில் ஒப்பமிடப்பட்டுள்ளது என்பதை நம்பகமாக குறிப்பிடுவதற்கு ஒரு நம்பகமான நேர முத்திரையிடல் ஆணையம் (Trusted Time Stamping Authority) பயன்படுத்தப்படுகிறது.&lt;/p></description></item><item><title>மின்னஞ்சல் மறையாக்கம் / Email Encryption</title><link>/books/cybersecurity/pki/email-encryption/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/pki/email-encryption/</guid><description>&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%ae%e0%ae%a9%e0%ae%a9%e0%ae%9e%e0%ae%9a%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae--email-encryption">
+&lt;h3 id="மனனஞசல-மறயககம--email-encryption">
+ மின்னஞ்சல் மறையாக்கம் | Email Encryption 
+&lt;/h3>
+&lt;/a>&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%ae%e0%ae%a9%e0%ae%a9%e0%ae%9e%e0%ae%9a%e0%ae%b2-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--email-validation">
+&lt;h4 id="மனனஞசல-சரபரததல--email-validation">
+ மின்னஞ்சல் சரிபார்த்தல் / Email Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இந்த செயல்முறைக்கு சரியான மின்னஞ்சல் முகவரி மற்றும் களப்பெயர் சரிபார்த்தல் தேவைப்படுகிறது.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%a4%e0%ae%a9%e0%ae%a8%e0%ae%aa%e0%ae%b0--%e0%ae%aa%e0%ae%a3%e0%ae%af%e0%ae%b3%e0%ae%b0-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--individual-validation">
+&lt;h4 id="தனநபர--பணயளர-சரபரததல--individual-validation">
+ தனிநபர் / பணியாளர் சரிபார்த்தல் / Individual Validation 
+&lt;/h4>
+&lt;/a>&lt;p>இந்த செயல்முறை ஒவ்வொரு பணியாளரையும் தனித்தனியாக அடையாளம் காண்பதை நோக்கமாகக் கொண்டுள்ளது. இவ்வகைச் சான்றிதழ்களில் மின்னஞ்சல் முகவரியுடன் அதன் உரிமையாளர் பெயரும் இணைத்து வழங்கப்படும். இதனைப் பெற அரசாங்கத்தால் வழங்கப்பட்ட அடையாள அட்டை மற்றும் சரிபார்க்கப்பட்ட மின்னஞ்சல் முகவரி அவசியம் தேவை.&lt;/p>
+&lt;a href="/books/cybersecurity/pki/email-encryption/#%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9-%e0%ae%9a%e0%ae%b0%e0%ae%aa%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2--organization-validation">
+&lt;h4 id="நறவன-சரபரததல--organization-validation">
+ நிறுவன சரிபார்த்தல் / Organization Validation 
+&lt;/h4>
+&lt;/a>&lt;p>குறிப்பிட்ட பெயர் கொண்ட நிறுவனம் உள்ளது மற்றும் செயல்படுகிறது என்பதை சரிபார்ப்பது இந்த செயல்முறையின் நோக்கமாக உள்ளது. இந்த வழியில், S / MIME சான்றிதழைப் பெறுவதற்கான செயல்முறை ஒரு நிறுவன சரிபார்ப்பு (OV) TLS சான்றிதழைப் பெறும் வழியை நினைவூட்டுகிறது.&lt;/p></description></item></channel></rss>
