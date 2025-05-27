@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>மறைப்பியல் (Cryptography) on Cybervattam</title><link>/en/books/cybersecurity/cryptography/</link><description>Recent content in மறைப்பியல் (Cryptography) on Cybervattam</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 14 Nov 2018 19:02:50 -0700</lastBuildDate><atom:link href="/en/books/cybersecurity/cryptography/index.xml" rel="self" type="application/rss+xml"/><item><title>தகவல் பாதுகாப்பின் தூண்கள்</title><link>/en/books/cybersecurity/cryptography/cybersecurity-pillars/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/cybersecurity-pillars/</guid><description>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid பாதுகாப்பு முக்கோணம்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/security-triad-ta.svg" alt="பாதுகாப்பு முக்கோணம்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ பாதுகாப்பு முக்கோணம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;a href="/en/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="இரகசயததனம">
+ இரகசியத்தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை உறுதிப்படுத்துவது&lt;/p>
+&lt;a href="/en/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%a8%e0%ae%ae%e0%ae%aa%e0%ae%95%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="நமபகததனம">
+ நம்பகத்தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>தகவலை மாற்றவோ / சிதைக்கவோ முடியாது என்பதை உறுதிப்படுத்துவது.
+தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும்.
+மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.&lt;/p>
+&lt;a href="/en/books/cybersecurity/cryptography/cybersecurity-pillars/#%e0%ae%95%e0%ae%9f%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h3 id="கடககம-தனம">
+ கிடைக்கும் தன்மை 
+&lt;/h3>
+&lt;/a>&lt;p>அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.&lt;/p></description></item><item><title>மறைப்பியல் அறிமுகம்</title><link>/en/books/cybersecurity/cryptography/cryptography-introduction/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/cryptography-introduction/</guid><description>&lt;a href="/en/books/cybersecurity/cryptography/cryptography-introduction/#%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae">
+&lt;h3 id="மறபபயல-அறமகம">
+ மறைப்பியல் அறிமுகம் 
+&lt;/h3>
+&lt;/a>&lt;p>மறைப்பியல் என்பது மின் வெளியில்(Cyber Space) தகவலை எவ்வாறு மறைத்து பரிமாறி/சேமித்து, மீட்டெப்பது என்பது பற்றியதன் இயல் ஆகும்.
+இது மறையீட்டியல், குறியாக்கவியல் அல்லது கமுக்கவியல் என்றும் அழைக்கப்படுகிறது.
+இவ்வியல் கணிதவியல், கணினியியல் மற்றும் பொறியியல் துறைகளின் கூற்றுகளை ஒருசேர உபயோகிக்கும் கூட்டுத் துறையாக விளங்குகிறது.
+மின் வெளியில் தகவல் பரிமாற்றம் மற்றும் சேமிப்பின் பொழுது, அதன் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மையை காக்க உதவுகிறது&lt;/p>
+&lt;p>தகவலை பரிமாறும் / சேமிக்கும் முன்னர், அந்த தகவல் மறையாக்க தீர்வுநெறியின் (Encryption Algorithm) உதவியால், மறையாக்க திறவி (Encryption Key) கொண்டு, மறைக்குறியீடாக (Ciphertext) மாற்றப்படும். இச்செயல் மறையாக்கம் (Encryption) என்று அழைக்கப்படுகிறது&lt;/p></description></item><item><title>மறையாக்க வகைகள்</title><link>/en/books/cybersecurity/cryptography/encryption-types/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/encryption-types/</guid><description>&lt;a href="/en/books/cybersecurity/cryptography/encryption-types/#%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%95%e0%ae%b4%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%ae%e0%ae%a9%e0%ae%b1-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3%e0%ae%95-%e0%ae%aa%e0%ae%b0%e0%ae%95%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b1%e0%ae%a4-%e0%ae%87%e0%ae%b5-%e0%ae%95%e0%ae%b1%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%a4%e0%ae%a4-%e0%ae%b5%e0%ae%b0%e0%ae%b5%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%b2%e0%ae%ae">
+&lt;h4 id="மறயககம-கழகணம-மனற-வககளக-பரககபபடகறத-இவ-கறதத-அடதத-வரவக-கணலம">
+ மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம். 
+&lt;/h4>
+&lt;/a>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid மறையாக்க வகைகள்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/encryption-types-ta.svg" alt="மறையாக்க வகைகள்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ மறையாக்க வகைகள்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p></description></item><item><title>ஒற்றைத் திறவி மறையாக்கம்</title><link>/en/books/cybersecurity/cryptography/symmetric-key/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/symmetric-key/</guid><description>&lt;p>உதாரணமாக முகிலன் ஒரு இரகசிய தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று&lt;/p>
+&lt;p>தகவலை பரிமாறும் முன்னர், முகிலன் மற்றும் எழிலன் ஒரு இரகசிய சொற்றொடரை தேர்வு செய்வர். இந்த சொற்றொடர் வேறு யாருக்கும் தெரியாது /தெரியவும் கூடாது. இந்த சொற்றொடரை இரகசியத் திறவி என வைத்துக் கொள்வோம்&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid ஒற்றைத் திறவி மறையாக்கம்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/symmetric-key-ta.svg" alt="ஒற்றைத் திறவி மறையாக்கம்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ ஒற்றைத் திறவி மறையாக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>முகிலன் அந்த இரகசியத் திறவியை கொண்டு தன் தகவலை மறையாக்கம் செய்து, மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார்
+எழிலன் அதே இரகசியத் திறவியை கொண்டு மறைக்குறியீட்டை மறைநீக்கம் செய்து இயற்தகவலை பெறுவார்&lt;/p></description></item><item><title>இரட்டைத் திறவி மறையாக்கம்</title><link>/en/books/cybersecurity/cryptography/asymmetric-key/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/asymmetric-key/</guid><description>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid இரட்டைத் திறவி மறையாக்கம்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/asymmetric-key-ta-1.svg" alt="இரட்டைத் திறவி மறையாக்கம்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ இரட்டைத் திறவி மறையாக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>ஒவ்வொரு நபரிடமும் இரு திறவிகள் இருக்கும். இவை பொதுத் திறவி (Public Key) &amp;amp; தனித் திறவி (Private Key) என்று அழைக்கப்படும். இவை இரண்டும் துணைத் திறவிகள் (Key Pair) என்றும் அழைக்கப்படும். துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டது. ஒரு திறவியில் இருந்து மற்றொரு திறவியை தருவிக்க (Derive) / ஊகிக்க (Guess) முடியாது. பொதுத் திறவியை பொது வெளியில் (மின்னஞ்சல், வலைத்தளம், சமூக ஊடகம் வாயிலாக) பகிர்வர். தனித் திறவியை இரகசியமாக பாதுகாப்பர்.&lt;/p>
+&lt;p>ஒரு திறவியால் மறையாக்கம் (encryption) செய்த மறைக்குறியீட்டை (cipher text) அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் (decryption) செய்ய இயலும்&lt;/p></description></item><item><title>குறுக்கம்</title><link>/en/books/cybersecurity/cryptography/hashing/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/hashing/</guid><description>&lt;p>குறுக்கம் அல்லது குறுக்க செயல்கூறு (Hash Function) என்பது எந்த ஒரு தரவையும் ஒரு குறிப்பிட்ட நீளம் கொண்ட பதினாறெண்முறை எண்ணாக (Hexadecimal number) மாற்றும் கணித வழிமுறை. இதனை பயன்படுத்த திறவிகள் தேவையில்லை. உள்ளீட்டுத் தரவு எவ்வளவு நீளமாக, பெரிதாக அல்லது வெவ்வேறு வகைகளாக இருந்தாலும், ஒரு தீர்வுநெறி குறிப்பிட்ட நீளம் கொண்ட குறுக்க மதிப்புகளை மட்டுமே வெளிப்படுத்தும்&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid குறுக்கம்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/hashing-ta.svg" alt="குறுக்கம்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ குறுக்கம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>இந்த குறிப்பிட்ட நீளம் கொண்ட எண் வரிசைக்கு குறுக்க மதிப்பு (Hash Value) அல்லது செய்திச் சுருக்கம் (Message Digest) என்று பெயர். ஒரு சிறிய இடைவெளி வேறுபாடு கூட குறுக்க மதிப்பை மாற்றிவிடும். இதனால், குறுக்க மதிப்பு அதன் தரவின் கைரேகையை போன்று கருதப்படுகிறது. குறுக்க மதிப்பை மறைநீக்கி அதனை உருவாக்கிய இயற்தகவலை திரும்ப பெற இயலாது. இதனால், இம்முறை ஒரு வழி மறையாக்கம் (One Way Encryption) என்றும் அழைக்கப்படுகிறது&lt;/p></description></item><item><title>குறுக்க மரம்/மெர்கல் மரம்</title><link>/en/books/cybersecurity/cryptography/merkle-tree/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/merkle-tree/</guid><description>&lt;p>குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid குறுக்க மரம்/மெர்கல் மரம்">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/merkle-tree-ta.svg" alt="குறுக்க மரம்/மெர்கல் மரம்" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ குறுக்க மரம்/மெர்கல் மரம்
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.&lt;/p></description></item><item><title>பொதுத் திறவி மறைப்பியல் பண்புகள்</title><link>/en/books/cybersecurity/cryptography/public-key-cryptography-properties/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/public-key-cryptography-properties/</guid><description>&lt;a href="/en/books/cybersecurity/cryptography/public-key-cryptography-properties/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2---%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4%e0%ae%a4%e0%ae%a9%e0%ae%ae">
+&lt;h2 id="பதத-தறவ-மறபபயல---இரகசயததனம">
+ பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை 
+&lt;/h2>
+&lt;/a>&lt;p>
+
+
+
+
+
+&lt;figure class="figure img-fluid பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை">
+ 
+ 
+ &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/PKI-C-ta.svg" alt="பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை" class="w-100"/>
+ 
+
+ &lt;figcaption class="figure-caption text-center">
+ பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை
+ &lt;/figcaption>
+&lt;/figure>
+
+
+&lt;/p>
+&lt;p>உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டை மறைநீக்கம் செய்ய இயலாது என்பதால் எழிலனால் மட்டுமே அந்த தகவலை மறைநீக்கம் செய்ய முடியும்&lt;/p></description></item><item><title>மறைப்பியல் ஒப்பீடு</title><link>/en/books/cybersecurity/cryptography/crytography-comparison/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/crytography-comparison/</guid><description>&lt;a href="/en/books/cybersecurity/cryptography/crytography-comparison/#%e0%ae%87%e0%ae%b0%e0%ae%95%e0%ae%9a%e0%ae%af%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2">
+&lt;h1 id="இரகசயத-தறவ-மறபபயல">
+ இரகசியத் திறவி மறைப்பியல் 
+&lt;/h1>
+&lt;/a>&lt;ul>
+&lt;li>ஒற்றைத் திறவி மறைப்பியல் இரகசியத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது&lt;/li>
+&lt;li>மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்&lt;/li>
+&lt;li>இரகசியத்தன்மை பண்பை மட்டுமே அளிக்கிறது&lt;/li>
+&lt;li>பொதுவாக மறையாக்கம் / மறைநீக்கம் வேகமாக நிகழும்&lt;/li>
+&lt;li>திறவி மேலாண்மை சற்றே கடினமானது&lt;/li>
+&lt;li>இரகசியத் திறவி வெளியில் கசிந்தால் அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். இதனால் இரகசியத் திறவியை அனைத்து பயன்பாட்டாளர்களும் பாதுகாப்பாக வைக்க வேண்டும்.&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/crytography-comparison/#%e0%ae%aa%e0%ae%a4%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b2">
+&lt;h1 id="பதத-தறவ-மறபபயல">
+ பொதுத் திறவி மறைப்பியல் 
+&lt;/h1>
+&lt;/a>&lt;ul>
+&lt;li>இரட்டைத் திறவி மறைப்பியல் பொதுத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது&lt;/li>
+&lt;li>மறையாக்கம் செய்ய ஒரு திறவி மற்றும் மறைநீக்கம் செய்ய மற்றொரு திறவி என இரண்டு திறவிகள் பயன்படுத்தப்படும்&lt;/li>
+&lt;li>இரகசியத்தன்மை மற்றும் நம்பகத்தன்மை பண்பை அளிக்கிறது&lt;/li>
+&lt;li>மறையாக்கம் / மறைநீக்கம் சற்றே மெதுவாக நிகழும்&lt;/li>
+&lt;li>திறவி மேலாண்மை மிக சிக்கலானது&lt;/li>
+&lt;li>ஒரு திறவியால் மறையாக்கம் செய்த மறைக்குறியீட்டை அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் செய்ய இயலும்.&lt;/li>
+&lt;li>தனித் திறவி வெளியில் கசிந்தால் மட்டுமே அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். தனித்திறவியின் உரிமையாளர் மட்டுமே அதனை மிகவும் பாதுகாப்பாக வைக்க வேண்டும்&lt;/li>
+&lt;/ul></description></item><item><title>மறையாக்க பயன்பாடுகள்</title><link>/en/books/cybersecurity/cryptography/encryption-usecases/</link><pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate><guid>/en/books/cybersecurity/cryptography/encryption-usecases/</guid><description>&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%92%e0%ae%b1%e0%ae%b1%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h1 id="ஒறறத-தறவ-மறயககம">
+ ஒற்றைத் திறவி மறையாக்கம் 
+&lt;/h1>
+&lt;/a>&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1">
+&lt;h3 id="தரவநற">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>நவீன மறையாக்க தரப்பாடு (AES)&lt;/li>
+&lt;li>தரவு மறையாக்க தரப்பாடு (DES)&lt;/li>
+&lt;li>Two Fish / Blow Fish&lt;/li>
+&lt;li>RC4, RC5, RC6&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3">
+&lt;h4 id="பயனபடகள">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>நிலைவட்டு (HDD) மறையாக்கம்&lt;/li>
+&lt;li>திடநிலை சேமிப்பகம் (SSD) மறையாக்கம்&lt;/li>
+&lt;li>மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம்&lt;/li>
+&lt;li>மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%87%e0%ae%b0%e0%ae%9f%e0%ae%9f%e0%ae%a4-%e0%ae%a4%e0%ae%b1%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%af%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h2 id="இரடடத-தறவ-மறயககம">
+ இரட்டைத் திறவி மறையாக்கம் 
+&lt;/h2>
+&lt;/a>&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1-1">
+&lt;h3 id="தரவநற-1">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>Rivest Shamir Adleman (RSA)&lt;/li>
+&lt;li>Diffie-Hellman&lt;/li>
+&lt;li>இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA)&lt;/li>
+&lt;li>நீள்வட்ட வளைவு மறைப்பியல் (ECC)&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3-1">
+&lt;h4 id="பயனபடகள-1">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL)&lt;/li>
+&lt;li>இலக்கமுறைக் குறியொப்பம் (Digital Signature)&lt;/li>
+&lt;li>மெய்நிகர் தனியார் பிணையம் (VPN)&lt;/li>
+&lt;li>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%95%e0%ae%b1%e0%ae%95%e0%ae%95%e0%ae%ae">
+&lt;h2 id="கறககம">
+ குறுக்கம் 
+&lt;/h2>
+&lt;/a>&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%a4%e0%ae%b0%e0%ae%b5%e0%ae%a8%e0%ae%b1-2">
+&lt;h3 id="தரவநற-2">
+ தீர்வுநெறி 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>செய்திச் சுருக்கம் (MD2, MD4, MD5)&lt;/li>
+&lt;li>பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 &amp;amp; SHA-512)&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/cybersecurity/cryptography/encryption-usecases/#%e0%ae%aa%e0%ae%af%e0%ae%a9%e0%ae%aa%e0%ae%9f%e0%ae%95%e0%ae%b3-2">
+&lt;h4 id="பயனபடகள-2">
+ பயன்பாடுகள் 
+&lt;/h4>
+&lt;/a>&lt;ul>
+&lt;li>கடவுச்சொல் குறுக்கம் (Password Hash)&lt;/li>
+&lt;li>மென்பொருள் நம்பகத்தன்மை (Software Integrity)&lt;/li>
+&lt;li>கோப்பு நம்பகத்தன்மை (File Integrity)&lt;/li>
+&lt;li>கட்டச்சங்கிலி / தொடரேடு (Blockchain)&lt;/li>
+&lt;/ul></description></item></channel></rss>

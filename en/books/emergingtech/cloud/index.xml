@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>மேகக் கணிமை on Cybervattam</title><link>/en/books/emergingtech/cloud/</link><description>Recent content in மேகக் கணிமை on Cybervattam</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/en/books/emergingtech/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>மேகக் கணிமை</title><link>/en/books/emergingtech/cloud/introduction/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/introduction/</guid><description>&lt;a href="/en/books/emergingtech/cloud/introduction/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--%e0%ae%85%e0%ae%af%e0%ae%b2%e0%ae%95%e0%ae%a3%e0%ae%9a-%e0%ae%9a%e0%ae%b5--cloud-computing">
+&lt;h3 id="மகக-கணம--அயலகணச-சவ--cloud-computing">
+ மேகக் கணிமை / அயல்கணிச் சேவை / Cloud Computing 
+&lt;/h3>
+&lt;/a>&lt;p>2011-ஆம் ஆண்டு, அமெரிக்காவின் தேசிய தரநிலைகள் மற்றும் தொழில்நுட்ப நிறுவனம் (NIST) இவ்வாறு மேகக் கணிமைக்கு விளக்கம் கொடுத்தது.&lt;/p>
+&lt;p>&amp;ldquo;எங்கும் நிறைந்துள்ள, வசதியான, கணினி வளங்களின் (எ.கா., பிணையங்கள், சேவையகங்கள், சேமிப்பகங்கள், பயன்பாடுகள் மற்றும் சேவைகள்) வள திரள்விற்கு தேவைக்கேற்ப பிணைய அணுகலை வழங்கக்கூடிய ஒரு தொழில்நுட்ப முறை. இது குறைந்தபட்ச மேலாண்மையுடன், சேவையாளரிடம் நேரடித் தொடர்பு இன்றி விரைவாக வழங்கப்படும்.&lt;/p>
+&lt;p>மேகக் கணிமை 5 அத்தியாவசிய பண்புகள், 3 சேவை முறைகள் மற்றும் 4 பணியமர்த்தல் முறைகளை கொண்டுள்ளது.&lt;/p></description></item><item><title>மேகக் கணிமையின் அத்தியாவசிய பண்புகள்</title><link>/en/books/emergingtech/cloud/cloud-characteristics/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/cloud-characteristics/</guid><description>&lt;a href="/en/books/emergingtech/cloud/cloud-characteristics/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae%e0%ae%af%e0%ae%a9-%e0%ae%85%e0%ae%a4%e0%ae%a4%e0%ae%af%e0%ae%b5%e0%ae%9a%e0%ae%af-%e0%ae%aa%e0%ae%a3%e0%ae%aa%e0%ae%95%e0%ae%b3--cloud-computing-essential-characteristics">
+&lt;h2 id="மகக-கணமயன-அததயவசய-பணபகள--cloud-computing-essential-characteristics">
+ &lt;strong>மேகக் கணிமையின் அத்தியாவசிய பண்புகள் / Cloud Computing Essential Characteristics&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-characteristics-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/en/books/emergingtech/cloud/cloud-characteristics/#1-%e0%ae%aa%e0%ae%b0%e0%ae%a8%e0%ae%a4-%e0%ae%aa%e0%ae%a3%e0%ae%af-%e0%ae%85%e0%ae%a3%e0%ae%95%e0%ae%b2--broad-network-access">
+&lt;h4 id="1-பரநத-பணய-அணகல--broad-network-access">
+ 1. பரந்த பிணைய அணுகல் / Broad Network Access 
+&lt;/h4>
+&lt;/a>&lt;p>அனைத்து மேகக் கணிமை வளங்களும் நேரடி அணுகல் தேவை இல்லாமல் நிர்வகிக்க மற்றும் பயன்படுத்த ஒரு பிணையத்தின் வழியே கிடைக்கும். இந்த பிணையம் சேவையின் ஒரு பகுதியாக இருக்க வேண்டிய அவசியமில்லை. மேகக் கணிமை வளங்கள் எங்கிருந்தும் அணுகக்கூடியதாக இருக்க வேண்டும், ஆனால் அணுகல் கொள்கைகளால் அவை கட்டுப்படுத்தப்படலாம். இது தவிர, மேகக் கணிமை சேவையாளர்கள் பல்வேறு பகுதிகளில் உள்ள தங்கள் வளங்களுக்கு இடையே பாதுகாப்பான பிணைய இணைப்பை கொண்டிருக்க வேண்டும்.&lt;/p></description></item><item><title>மேகக் கணிமை சேவை முறைகள்</title><link>/en/books/emergingtech/cloud/cloud-service-models/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/cloud-service-models/</guid><description>&lt;a href="/en/books/emergingtech/cloud/cloud-service-models/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%9a%e0%ae%b5-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--cloud-service-models">
+&lt;h2 id="மகக-கணம-சவ-மறகள--cloud-service-models">
+ &lt;strong>மேகக் கணிமை சேவை முறைகள் / Cloud Service Models&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-service-model-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/en/books/emergingtech/cloud/cloud-service-models/#1-%e0%ae%9a%e0%ae%b5%e0%ae%af%e0%ae%95-%e0%ae%89%e0%ae%b3%e0%ae%95%e0%ae%9f%e0%ae%9f%e0%ae%ae%e0%ae%aa%e0%ae%aa--infrastructure-as-a-service-iaas">
+&lt;h4 id="1-சவயக-உளகடடமபப--infrastructure-as-a-service-iaas">
+ 1. சேவையாக உள்கட்டமைப்பு / Infrastructure as a Service (IaaS) 
+&lt;/h4>
+&lt;/a>&lt;p>மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். கக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.&lt;/p>
+&lt;a href="/en/books/emergingtech/cloud/cloud-service-models/#2-%e0%ae%9a%e0%ae%b5%e0%ae%af%e0%ae%95-%e0%ae%aa%e0%ae%a3%e0%ae%a4%e0%ae%a4%e0%ae%b3%e0%ae%ae--platform-as-a-service-paas">
+&lt;h4 id="2-சவயக-பணததளம--platform-as-a-service-paas">
+ 2. சேவையாக பணித்தளம் / Platform as a service (PaaS) 
+&lt;/h4>
+&lt;/a>&lt;p>மேகக் கணிமை சேவையாளர்கள் தரவுத்தளங்கள், பயன்பாட்டு தளங்கள், நிரலாக்கத் தளங்கள், இயக்க நேரச் சூழல் போன்ற தளங்களை உருவிலா நிலையில் பணித்தளமாக வழங்குகின்றனர்&lt;/p></description></item><item><title>மேகக் கணிமை பணியமர்த்தல் முறைகள்</title><link>/en/books/emergingtech/cloud/cloud-deployment-models/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/cloud-deployment-models/</guid><description>&lt;a href="/en/books/emergingtech/cloud/cloud-deployment-models/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%aa%e0%ae%a3%e0%ae%af%e0%ae%ae%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%b2-%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%b3--cloud-deployment-models">
+&lt;h2 id="மகக-கணம-பணயமரததல-மறகள--cloud-deployment-models">
+ &lt;strong>மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models&lt;/strong> 
+&lt;/h2>
+&lt;/a>&lt;br>
+&lt;img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+&lt;br>
+&lt;br>
+&lt;a href="/en/books/emergingtech/cloud/cloud-deployment-models/#1-%e0%ae%aa%e0%ae%a4-%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--public-cloud">
+&lt;h4 id="1-பத-மகக-கணம--public-cloud">
+ 1. பொது மேகக் கணிமை / Public Cloud 
+&lt;/h4>
+&lt;/a>&lt;p>மேகக்கணிமை உள்கட்டமைப்பு பொது மக்களுக்கு அல்லது பெரிய தொழில் நிறுவனங்களுக்கு வழங்கப்படுகிறது. இந்த உள்கட்டமைப்பு மேகக் கணிமை சேவையாளர்களுக்கு சொந்தமானது.&lt;/p>
+&lt;p>மேகக்கணிமை சேவைகளை யார் வேண்டுமானாலும் பெறலாம்&lt;/p>
+&lt;p>எடுத்துக்காட்டு&lt;/p>
+&lt;ul>
+&lt;li>அமேசான் வலை சேவைகள் / Amazon Web Services&lt;/li>
+&lt;li>மைக்ரோசாஃப்ட் அசூர் / Microsoft Azure&lt;/li>
+&lt;li>கூகுள் மேகக்கணிமை தளம் / Google Cloud Platform&lt;/li>
+&lt;/ul>
+&lt;a href="/en/books/emergingtech/cloud/cloud-deployment-models/#2-%e0%ae%a4%e0%ae%a9%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae--private-cloud">
+&lt;h4 id="2-தனயர-மகக-கணம--private-cloud">
+ 2. தனியார் மேகக் கணிமை / Private Cloud 
+&lt;/h4>
+&lt;/a>&lt;p>இவ்வகை மேகக்கணிமை உள்கட்டமைப்பு ஒரு நிறுவனத்திற்காக மட்டுமே இயக்கப்படுகிறது.&lt;/p></description></item><item><title>மேகக் கணிமை பாத்திரங்கள்</title><link>/en/books/emergingtech/cloud/cloud-roles/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/cloud-roles/</guid><description>&lt;a href="/en/books/emergingtech/cloud/cloud-roles/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae-%e0%ae%aa%e0%ae%a4%e0%ae%a4%e0%ae%b0%e0%ae%99%e0%ae%95%e0%ae%b3--cloud-computing-roles">
+&lt;h3 id="மகக-கணம-பததரஙகள--cloud-computing-roles">
+ மேகக் கணிமை பாத்திரங்கள் / Cloud Computing Roles 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளர்கள் / Cloud Provider
+&lt;ul>
+&lt;li>ஆர்வமுள்ள தரப்பினருக்கு மேகக்கணிமை சேவையை கிடைக்கச் செய்யும் பொறுப்பை ஏற்கும் நபர், அமைப்பு அல்லது நிறுவனம்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக் கணிமை நுகர்வோர் / வாடிக்கையாளர் / Cloud Consumer
+&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளரிடம் வணிக உறவைப் பராமரிக்கும் மற்றும் சேவையைப் பயன்படுத்தும் ஒரு நபர் அல்லது அமைப்பு
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை தரவுக்கடத்தி / Cloud Carrier
+&lt;ul>
+&lt;li>மேகக் கணிமை சேவையாளரிடமிருந்து நுகர்வோருக்கு மேகக் கணிமை சேவைகளின் இணைப்பு மற்றும் போக்குவரத்தை வழங்கும் ஒரு இடைத்தரகர்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை தரகர்கள் / Cloud Broker
+&lt;ul>
+&lt;li>மேகக்கணிமை சேவைகளின் பயன்பாடு, செயல்திறன் மற்றும் விநியோகத்தை நிர்வகிக்கும் மற்றும் மேகக்கணிமை சேவையாளர்கள்களுக்கும் நுகர்வோருக்கும் இடையிலான உறவு மேம்பாடு பேச்சுவார்த்தை நடத்தும் ஒரு நிறுவனம்
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>மேகக்கணிமை அணுகல் பாதுகாப்பு தரகர்கள் / Cloud Access Security Broker (CASB)
+&lt;ul>
+&lt;li>இவ்வகை மென்பொருள் மேகக் கனிமையை நோக்கி அனுப்பப்படும் தகவல்தொடர்புகளை இடைமறிக்கவும் அல்லது செயல்பாட்டை கண்காணிக்கவும், கொள்கைகளை செயல்படுத்தவும், பாதுகாப்பு சிக்கல்களைக் கண்டறிந்து தடுக்கவும் பயன்பாடு நிரலாக்க இடைமுகம் வழியாகவோ அல்லது நேரடியாக சேவையாக நுகரும் மென்பொருளுடன் இணைக்கின்றன. அவை பொதுவாக ஒரு நிறுவனத்தின் அனுமதிக்கப்பட்ட மற்றும் அனுமதிக்கப்படாத சேவைகளை (சேவையாக மென்பொருள்) நிர்வகிக்க பயன்படுத்தப்படுகின்றன.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>மேகக் கணிமையின் நன்மைகள்</title><link>/en/books/emergingtech/cloud/cloud-benefits/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/emergingtech/cloud/cloud-benefits/</guid><description>&lt;a href="/en/books/emergingtech/cloud/cloud-benefits/#%e0%ae%ae%e0%ae%95%e0%ae%95-%e0%ae%95%e0%ae%a3%e0%ae%ae%e0%ae%af%e0%ae%a9-%e0%ae%a8%e0%ae%a9%e0%ae%ae%e0%ae%95%e0%ae%b3">
+&lt;h3 id="மகக-கணமயன-நனமகள">
+ மேகக் கணிமையின் நன்மைகள் 
+&lt;/h3>
+&lt;/a>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>சேமிப்பு&lt;/strong> &lt;br>
+மேகக் கணிமை சேவையாளர்கள் வன்பொருள்களை வைத்திருப்பதால், நுகர்வோருக்கு மூலதன செலவினம் (CAPEX) செய்ய தேவையில்லை. நுகர்வோர், தங்கள் சந்தா அடிப்படையில் பயன்பாட்டிற்கு உண்டான கட்டணத்தை செலுத்த வேண்டும். இதனால் செயல்பாட்டு செலவினம் (OPEX) மட்டுமே உண்டு.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>கிடைக்கும் தன்மை&lt;/strong> &lt;br>
+மேகக் கணிமை சேவையாளர்கள் பெரும்பாலோர் தங்கள் சேவைகள் 99.995% நேரம் கிடைப்பதை உறுதி செய்கிறார்கள். அதாவது, ஒரு வருடத்தில் திட்டமிடப்படாத செயலறு நேரம் 25 நிமிடங்கள் மட்டுமே. பயனர்கள் எந்த நேரத்திலும் தேவைப்படும் பயன்பாடுகளை உபயோகிக்க முடியும்.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>அளவு மாற்றம் &amp;amp; நெகிழ்வுத்தன்மை&lt;/strong> &lt;br>
+மேகக் கணிமை உள் கட்டமைப்பிற்கு சிறந்த அளவு மாற்றும் &amp;amp; நெகிழ்வுத் தன்மையை வழங்குகிறது. இது ஒரு தனிப்பட்ட நிறுவனத்தின் பார்வையில் கற்பனை செய்ய முடியாத அளவாக இருக்கும். ஒரு நிறுவனம் மற்றும் அதன் ஊழியர்கள் தங்கள் நேரத்தை தகவல் தொழில்நுட்ப உள் கட்டமைப்பை நிர்வகிப்பதில் செலவிடுவதை விட தங்கள் தொழில் வளர்ச்சியில் கவனம் செலுத்த இயலும்.&lt;/p></description></item></channel></rss>

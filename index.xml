@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cybervattam</title><link>/</link><description>Recent content on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN)</title><link>/books/cybersecurity/icann-iana/icann-intro/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/icann-iana/icann-intro/</guid><description>&lt;a href="/books/cybersecurity/icann-iana/icann-intro/#%e0%ae%87%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%af-%e0%ae%aa%e0%ae%af%e0%ae%b0%e0%ae%95%e0%ae%b3-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%8e%e0%ae%a3%e0%ae%95%e0%ae%b3%e0%ae%95%e0%ae%95%e0%ae%a9-%e0%ae%87%e0%ae%a3%e0%ae%af-%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9%e0%ae%ae-internet-corporation-for-assigned-names-and-numbers">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>முகப்பு பக்கம் on Cybervattam</title><link>/</link><description>Recent content in முகப்பு பக்கம் on Cybervattam</description><generator>Hugo</generator><language>ta</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN)</title><link>/books/cybersecurity/icann-iana/icann-intro/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>/books/cybersecurity/icann-iana/icann-intro/</guid><description>&lt;a href="/books/cybersecurity/icann-iana/icann-intro/#%e0%ae%87%e0%ae%b0%e0%ae%a4%e0%ae%a4%e0%ae%af-%e0%ae%aa%e0%ae%af%e0%ae%b0%e0%ae%95%e0%ae%b3-%e0%ae%ae%e0%ae%b1%e0%ae%b1%e0%ae%ae-%e0%ae%8e%e0%ae%a3%e0%ae%95%e0%ae%b3%e0%ae%95%e0%ae%95%e0%ae%a9-%e0%ae%87%e0%ae%a3%e0%ae%af-%e0%ae%a8%e0%ae%b1%e0%ae%b5%e0%ae%a9%e0%ae%ae-internet-corporation-for-assigned-names-and-numbers">
 &lt;h3 id="இரததய-பயரகள-மறறம-எணகளககன-இணய-நறவனம-internet-corporation-for-assigned-names-and-numbers">
  இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (Internet Corporation for Assigned Names and Numbers) 
 &lt;/h3>
@@ -54,7 +54,7 @@
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/security-triad-ta.svg" alt="பாதுகாப்பு முக்கோணம்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/security-triad-ta.svg" alt="பாதுகாப்பு முக்கோணம்" class="w-100"/>
  
 
  
@@ -576,7 +576,7 @@
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/encryption-types-ta.svg" alt="மறையாக்க வகைகள்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/encryption-types-ta.svg" alt="மறையாக்க வகைகள்" class="w-100"/>
  
 
  
@@ -691,7 +691,7 @@
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/symmetric-key-ta.svg" alt="ஒற்றைத் திறவி மறையாக்கம்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/symmetric-key-ta.svg" alt="ஒற்றைத் திறவி மறையாக்கம்" class="w-100"/>
  
 
  
@@ -811,7 +811,7 @@
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/asymmetric-key-ta-1.svg" alt="இரட்டைத் திறவி மறையாக்கம்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/asymmetric-key-ta-1.svg" alt="இரட்டைத் திறவி மறையாக்கம்" class="w-100"/>
  
 
  
@@ -880,7 +880,7 @@
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/hashing-ta.svg" alt="குறுக்கம்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/hashing-ta.svg" alt="குறுக்கம்" class="w-100"/>
  
 
  
@@ -974,7 +974,7 @@ CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/merkle-tree-ta.svg" alt="குறுக்க மரம்/மெர்கல் மரம்" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/merkle-tree-ta.svg" alt="குறுக்க மரம்/மெர்கல் மரம்" class="w-100"/>
  
 
  
@@ -1082,7 +1082,7 @@ CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம
  
  
  
- &lt;img src="/books/cybersecurity/cryptography/images/cryptography-ta/PKI-C-ta.svg" alt="பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை" class="w-100"/>
+ &lt;img src="/ta/books/cybersecurity/cryptography/images/cryptography-ta/PKI-C-ta.svg" alt="பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை" class="w-100"/>
  
 
  

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>களப்பெயர் முறைமை (DNS) on Cybervattam</title><link>/en/books/cybersecurity/dns/</link><description>Recent content in களப்பெயர் முறைமை (DNS) on Cybervattam</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/en/books/cybersecurity/dns/index.xml" rel="self" type="application/rss+xml"/><item><title>களப்பெயர் முறைமை அறிமுகம்</title><link>/en/books/cybersecurity/dns/dns-introduction/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-introduction/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-introduction/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%85%e0%ae%b1%e0%ae%ae%e0%ae%95%e0%ae%ae--dns-introduction">
+&lt;h3 id="களபபயர-மறம-அறமகம--dns-introduction">
+ களப்பெயர் முறைமை அறிமுகம் / DNS Introduction 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை என்பது ஒரு கணினி சேவையகத்தில் இயங்கும் ஒரு சிறப்பு மென்பொருள் ஆகும். இது சேவையக பெயர்கள் மற்றும் அதனுடன் தொடர்புடைய இ.நெறி முகவரி ஆகியவற்றின் விவரங்களை இணைத்துக் கொண்டுள்ளது. இது நமது கைபேசியில் உள்ள தொடர்புகள் செயலி அல்லது தொலைபேசி எண் விவரப் புத்தகத்திற்கு மிகவும் ஒத்திருக்கிறது. இணையம் / அக வளங்களை அணுக உலாவிகள் / பயன்பாடுகளுக்கான களப்பெயர்களை இ.நெறி முகவரிகளுக்கு களப்பெயர் முறைமை மொழிபெயர்க்கிறது. களப்பெயர் முறைமை சேவையகங்கள் சிறப்பு மென்பொருளை இயக்குகின்றன மற்றும் பெயரைத் தீர்க்க சிறப்பு நெறிமுறைகளைப் பயன்படுத்தி தங்களுக்குள்ளே தொடர்பு கொள்கின்றன. தொடக்கத்திலிருந்தே பயணாளர் தரவுச்செய்தி நெறிமுறை (UDP) மற்றும் பரப்புகை கட்டுப்பாடு நெறிமுறை (TCP) துறை (Port) எண் 53-ஐ பயன்படுத்த களப்பெயர் முறைமை வடிவமைக்கப்பட்டுள்ளது, இயல்புநிலையில் UDP-யிலும் வழிமாற்றாக TCP-யிலும் செயல்படும்.&lt;/p></description></item><item><title>களப்பெயர் முறைமை படிநிலை</title><link>/en/books/cybersecurity/dns/dns-hierarchy/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-hierarchy/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-hierarchy/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%aa%e0%ae%9f%e0%ae%a8%e0%ae%b2--dns-hierarchy">
+&lt;h3 id="களபபயர-மறம-படநல--dns-hierarchy">
+ களப்பெயர் முறைமை படிநிலை / DNS Hierarchy 
+&lt;/h3>
+&lt;/a>&lt;a href="/en/books/cybersecurity/dns/dns-hierarchy/#%e0%ae%b5%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%b5%e0%ae%b4%e0%ae%99%e0%ae%95%e0%ae%a9--root-name-servers">
+&lt;h4 id="வர-களபபயர-வழஙகன--root-name-servers">
+ வேர் களப்பெயர் வழங்கன் / Root Name Servers 
+&lt;/h4>
+&lt;/a>&lt;p>தற்போது 13 வேர் பெயர் வழங்கன்கள் 13 தன்னாட்சி நிறுவனங்கள் மூலம் எவ்வழி பரப்பு திசைவித்தல் நெறிமுறையில் (Anycast Routing Protocol) இயக்கப்படுகிறது இவை ICANN நிறுவனத்தால் நிர்வகிக்கப்படுகின்றன. ஒரு வேர் வழங்கன், ஒரு சுழல்நிலை தீர்வியின் வினவலை ஏற்றுக்கொள்கிறது, அந்த களப்பெயர் விரிவாக்கம் அடிப்படையில், ஒரு மேல் நிலை களப்பெயர் வழங்கனை நோக்கி மடை மாற்றி விடையளிக்கும். &lt;a href="https://root-servers.org/">https://root-servers.org/&lt;/a>&lt;/p>
+&lt;p>களப்பெயர் முறைமையின் வேர் மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது. இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும். வேர் மண்டலத்தில் பாதுகாப்பான களப்பெயர் முறைமையை (DNSSEC) இயக்குவதற்கான திறவி ஒப்பமிடல் விழாவையும் இது செய்கிறது. செயல்பாட்டில் anycast இ.நெறி முகவரியைப் பயன்படுத்தி 13 வேர் சேவையகங்கள் உள்ளன. பிணையத்தில் உள்ள கணினிகள் ஒரு உயர் நிலை களத்தின் முகவரியை விரைவகத்தில் சேமிப்பதால், வேர் சேவையகங்கள் அடிக்கடி வினவப்படுவதில்லை. ஆனால் அவை இணைய கட்டமைப்பின் ஒரு முக்கிய அங்கமாகும். வேர் சேவையகங்களின் இயக்குனர்கள் பெரும்பாலும் தன்னாட்சி பெற்று இருப்பினும், அவர்கள் ஒருவருக்கொருவர் மற்றும் ICANN உடன் இணைந்து பணியாற்ற வேண்டும்&lt;/p></description></item><item><title>களப்பெயர் முறைமை வினவல் தீர்வு முறை</title><link>/en/books/cybersecurity/dns/dns-resolution-process/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-resolution-process/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-resolution-process/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%a9%e0%ae%b5%e0%ae%b2-%e0%ae%a4%e0%ae%b0%e0%ae%b5-%e0%ae%ae%e0%ae%b1--dns-query-resolution-process">
+&lt;h3 id="களபபயர-மறம-வனவல-தரவ-மற--dns-query-resolution-process">
+ களப்பெயர் முறைமை வினவல் தீர்வு முறை / DNS Query Resolution Process 
+&lt;/h3>
+&lt;/a>&lt;img src="images/dns-ta/dns-resolution-process-ta.svg"></description></item><item><title>களப்பெயர் முறைமை ஏடுகள்</title><link>/en/books/cybersecurity/dns/dns-records/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-records/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-records/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%8f%e0%ae%9f%e0%ae%95%e0%ae%b3--dns-records">
+&lt;h3 id="களபபயர-மறம-ஏடகள--dns-records">
+ களப்பெயர் முறைமை ஏடுகள் / DNS Records 
+&lt;/h3>
+&lt;/a>&lt;ul>
+&lt;li>&lt;strong>A ஏடு&lt;/strong> – இணைய நெறிமுறை பதிப்பு 4 (IPv4) முகவரி சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>AAAA ஏடு&lt;/strong> - இணைய நெறிமுறை பதிப்பு 6 (IPv6) முகவரி சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>CNAME ஏடு&lt;/strong> – மாற்று களப்பெயர் சேமிக்குமிடம், இந்த ஏடு இருந்தால் இ.நெறி முகவரி கொடுக்கப்படாது.&lt;/li>
+&lt;li>&lt;strong>MX ஏடு&lt;/strong> – இந்த களப்பெயர் நோக்கி வரும் மின்னஞ்சல்களை அதன் மின்னஞ்சல் சேவையகத்திற்க்கு மடை மாற்றும்&lt;/li>
+&lt;li>&lt;strong>TXT ஏடு&lt;/strong> – கள நிர்வாகி சில எழுத்துக் குறிப்புகளை சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>NS ஏடு&lt;/strong> – களத்தின் அதிகார்பபூர்வ களப்பெயர் வழங்கன் முகவரியை சேமிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>SOA ஏடு&lt;/strong> – கல நிர்வாகி குறித்த தகவல்களை சேமிக்குமிடம்.&lt;/li>
+&lt;li>&lt;strong>SRV ஏடு&lt;/strong> – குறிப்பிட்ட சேவைகளுக்கான துறை எண்ணை குறிக்குமிடம்&lt;/li>
+&lt;li>&lt;strong>PTR ஏடு&lt;/strong> – எதிர்திசை வினவலின் பொது, களப் பெயரை பதிலாக கொடுக்கும். இந்த ஏட்டில் இ.நெறி முகவரி தலைகீழாக சேமிக்கப்படும்&lt;/li>
+&lt;/ul>
+&lt;p>களப்பெயர் முறைமை பாதுகாப்பிற்கான பிரத்யேக ஏடுகள் (DNSSEC Specific Records)&lt;/p></description></item><item><title>களப்பெயர் முறைமை மண்டலங்கள்</title><link>/en/books/cybersecurity/dns/dns-zones/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-zones/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-zones/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%ae%e0%ae%a3%e0%ae%9f%e0%ae%b2%e0%ae%99%e0%ae%95%e0%ae%b3--dns-zones">
+&lt;h3 id="களபபயர-மறம-மணடலஙகள--dns-zones">
+ களப்பெயர் முறைமை மண்டலங்கள் / DNS Zones 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை மண்டலம் என்பது ஒரு குறிப்பிட்ட அமைப்பு அல்லது நிர்வாகியால் நிர்வகிக்கப்படும் களப்பெயர் வெளியின் ஒரு பகுதியாகும். களப்பெயர் முறைமை மண்டலம் பல துணை களப்பெயர்களை கொண்டிருக்கலாம் மற்றும் ஒரே சேவையகத்தில் பல மண்டலங்கள் இருக்கலாம். கட்டுப்பாடுகளை ஒப்படைக்க மண்டலங்கள் பயன்படுத்தப்படுகின்றன. களப்பெயர் முறைமை பதிவுகள் (மண்டல கோப்புகள்) அதிகாரப்பூர்வ களப்பெயர் வழங்கனில் இயக்கம் வழிமுறைகள். களப்பெயர் முறைமை பதிவுகள் தொடர் உரை கோப்புகளைக் கொண்டுள்ளன. இவை களப்பெயர் முறைமை தொடரியல் (DNS Syntax) என்று அழைக்கப்படும். இது களப்பெயர் முறைமை வழங்கன் செய்ய வேண்டிய வேலைகளுக்கு இடும் கட்டளைகளை கொண்ட எழுத்துச்சரம்.&lt;/p></description></item><item><title>களப்பெயர் முறைமை வகைகள்</title><link>/en/books/cybersecurity/dns/dns-types/</link><pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-types/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-types/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%95%e0%ae%95%e0%ae%b3--dns-types">
+&lt;h3 id="களபபயர-மறம-வககள--dns-types">
+ களப்பெயர் முறைமை வகைகள் / DNS Types 
+&lt;/h3>
+&lt;/a>&lt;a href="/en/books/cybersecurity/dns/dns-types/#%e0%ae%85%e0%ae%95-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--internal-dns">
+&lt;h4 id="அக-களபபயர-மறம--internal-dns">
+ அக களப்பெயர் முறைமை / Internal DNS 
+&lt;/h4>
+&lt;/a>&lt;p>ஒரு நிறுவன தனியார் பிணைபிற்குள் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை&lt;/p>
+&lt;a href="/en/books/cybersecurity/dns/dns-types/#%e0%ae%aa%e0%ae%b1-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--external-dns">
+&lt;h4 id="பற-களபபயர-மறம--external-dns">
+ புற களப்பெயர் முறைமை / External DNS 
+&lt;/h4>
+&lt;/a>&lt;p>இணையம் / பொது பிணையத்தில் தொடர்புகொள்ள கூடியி நிலையில் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை&lt;/p>
+&lt;a href="/en/books/cybersecurity/dns/dns-types/#%e0%ae%8e%e0%ae%a4%e0%ae%b0-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--reverse-dns">
+&lt;h4 id="எதர-களபபயர-மறம--reverse-dns">
+ எதிர் களப்பெயர் முறைமை / Reverse DNS 
+&lt;/h4>
+&lt;/a>&lt;p>இது ஒரு எதிர் திசை வினவல். ஒரு குறிப்பிட்ட இணைய நெறிமுறை முகவரியை கொண்ட சேவையகத்தின் பெயரை பதிலாக கொடுக்கும். களப்பெயர் முறைமையில், ஒரு களத்தின் PTR ஏடு அந்த களத்தின் சேவையக இ.நெறி முகவரியை தலைகீழாக மாற்றி arpa வடிவில் சேமித்து வைத்திருக்கும். எதிர்த்திசை வினவலின் பொது இந்த மதிப்பு பதிலாக வழங்கப்படும். பாதுகாப்பு நிகழ்வுகளை பதிவு செய்யும் மென்பொருள் மற்றும் மின்னஞ்சல் நுழைவாயில்கள் இந்த முறையை பயன்படுத்துகின்றன.&lt;/p></description></item><item><title>களப்பெயர் முறைமை பாதுகாப்பு</title><link>/en/books/cybersecurity/dns/dnssec/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dnssec/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dnssec/#%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa--dns-sec">
+&lt;h3 id="களபபயர-மறம-பதகபப--dns-sec">
+ களப்பெயர் முறைமை பாதுகாப்பு / DNS SEC 
+&lt;/h3>
+&lt;/a>&lt;p>களப்பெயர் முறைமை பாதுகாப்பின் நோக்கம் களப்பெயர் தரவுகள் மற்றும் அதன் மறைப்பியல் குறியொப்பங்களையும் சேர்த்து ஒரு பாதுகாப்பான களப்பெயர் முறைமையை உருவாக்குவது. தரவின் உரிமையாளர் அவரவர் தரவை ஒப்பமிடுவர்.&lt;/p>
+&lt;p>குறியொப்பம் சரிபார்த்தலை வசதிப்படுத்த, களப்பெயர் முறைமை பாதுகாப்பு சில புதிய ஏட்டு வகைகளை சேர்த்துள்ளது:
+RRSIG ஏடு – ஏட்டுத் தொகுப்பின் இலக்கமுறை குறியொப்பத்தை சேமிக்குமிடம்
+DNSKEY ஏடு – மறையாக்கத்தில் பயன்படுத்தப்படும் பொதுத் திறவியை சேமிக்குமிடம்.
+DS ஏடு – DNSKEY ஏட்டின் குறுக்க மதிப்பை சேமிக்குமிடம்
+NSEC and NSEC3 ஏடு – குறிப்பிட்ட களப்பெயர் முறைமை ஏடு இல்லை என வெளிப்படையாக தெரிவிக்கும் ஏடு
+CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம் தன் பெற்றோர் மண்டலத்தில் உள்ள DS ஏட்டைப் புதுப்பிக்க பயன்படுகிறது.&lt;/p></description></item><item><title>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல்</title><link>/en/books/cybersecurity/dns/dns-over-tls/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-over-tls/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-over-tls/#%e0%ae%aa%e0%ae%95%e0%ae%95%e0%ae%b5%e0%ae%b0%e0%ae%a4%e0%ae%a4-%e0%ae%85%e0%ae%9f%e0%ae%95%e0%ae%95-%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa-%e0%ae%ae%e0%ae%b2-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae-%e0%ae%b5%e0%ae%a9%e0%ae%b5%e0%ae%b2--dns-over-tls-dot">
+&lt;h3 id="பககவரதத-அடகக-பதகபப-மல-களபபயர-மறம-வனவல--dns-over-tls-dot">
+ போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் / DNS over TLS (DOT) 
+&lt;/h3>
+&lt;/a>&lt;p>போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து போக்குவரத்து அடுக்கு பாதுகாப்பு நெறிமுறை மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.&lt;/p>
+&lt;img src="images/dns-ta/dns-dot-ta.svg"></description></item><item><title>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை</title><link>/en/books/cybersecurity/dns/dns-over-https/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns-over-https/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns-over-https/#%e0%ae%aa%e0%ae%a4%e0%ae%95%e0%ae%aa%e0%ae%aa%e0%ae%a9-%e0%ae%ae%e0%ae%b5%e0%ae%b0-%e0%ae%aa%e0%ae%b0%e0%ae%ae%e0%ae%b1%e0%ae%b1-%e0%ae%a8%e0%ae%b1%e0%ae%ae%e0%ae%b1-%e0%ae%ae%e0%ae%b2-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--dns-over-https-doh">
+&lt;h3 id="பதகபபன-மவர-பரமறற-நறமற-மல-களபபயர-மறம--dns-over-https-doh">
+ பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை / DNS over HTTPS (DOH) 
+&lt;/h3>
+&lt;/a>&lt;p>பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS) மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.&lt;/p>
+&lt;img src="images/dns-ta/dns-doh-ta.svg"></description></item><item><title>மறக்கும் களப்பெயர் முறைமை</title><link>/en/books/cybersecurity/dns/odoh/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/odoh/</guid><description>&lt;a href="/en/books/cybersecurity/dns/odoh/#%e0%ae%ae%e0%ae%b1%e0%ae%95%e0%ae%95%e0%ae%ae-%e0%ae%95%e0%ae%b3%e0%ae%aa%e0%ae%aa%e0%ae%af%e0%ae%b0-%e0%ae%ae%e0%ae%b1%e0%ae%ae--oblivious-dns-odoh">
+&lt;h4 id="மறககம-களபபயர-மறம--oblivious-dns-odoh">
+ மறக்கும் களப்பெயர் முறைமை / Oblivious DNS (ODoH) 
+&lt;/h4>
+&lt;/a>&lt;p>மறக்கும் களப்பெயர் முறைமை என்பது IETF-ஆல் உருவாக்கப்பட்டு வரும் ஒரு வளர்ந்து வரும் நெறிமுறை ஆகும். இது பொதுத் திறவி மறைப்பியல், பிணைய பதிலி, இலக்கு தீர்வி ஆகியவற்றை களப்பெயர் முறைமை வினவல் தீர்வு முறையில் சேர்க்கிறது. இது பயனர்களுக்கும் சுழல்நிலை தீர்விகளுக்கு இடையில் ஒரு பாதுகாப்பு அரணாக செயல்படுகிறது. ஒரு பயனர் அவரவர் விருப்பப்படி ஒரு பதிலி மற்றும் இலக்கை தேர்வு செய்யலாம். இந்த இரண்டு கூறுகள் சேர்க்கப்படுவதால், எப்போதும் பயனர் மட்டுமே களப்பெயர் முறைமை வினவல் தீர்வு மற்றும் அவர் சொந்த இ.நெறி முகவரி இரண்டையும் காண முடியும் என்று உத்தரவாதம் அளிக்கிறது. இந்த நெறிமுறையின் நோக்கம் இறுதி பயனர் தனியுரிமையைப் பாதுகாப்பது, இணைய சேவை வழங்குநர்கள் அல்லது களப்பெயர் முறைமை வினவல் தீர்ப்பாளர்கள் அவர்களின் வாடிக்கையாளர்களால் கோரப்பட்ட / பார்வையிடப்பட்ட வலைத்தளத்தைப் காண முடியும் என்பதைத் தடுப்பது.&lt;/p></description></item><item><title>DNS 64 &amp; NAT 64</title><link>/en/books/cybersecurity/dns/dns64-nat64/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>/en/books/cybersecurity/dns/dns64-nat64/</guid><description>&lt;a href="/en/books/cybersecurity/dns/dns64-nat64/#dns-64--nat-64">
+&lt;h3 id="dns-64--nat-64">
+ DNS 64 &amp;amp; NAT 64 
+&lt;/h3>
+&lt;/a>&lt;p>DNS64 என்பது ஒரு களப்பெயர் வழங்கனிடம் ஒரு குறிப்பிட்ட களத்தின் AAAA ஏட்டைக் கோரும்போது, அங்கே A ஏடு மட்டுமே இருந்தால், A ஏடு தரவை AAAA ஏடு தரவாக இணைப்பாக்கும். (Synthesizes the AAAA records from the A records).&lt;/p>
+&lt;p>இணைப்பாக்கம் செய்யப்பட்ட முகவரியில் முதல் பகுதி ஒரு இ.நெறி ப6/இ.நெறி ப4 பெயர்ப்பியை குறிக்கும். அதன் இரண்டாம் பகுதி இ.நெறி ப4 முகவரியை உட்பொதிக்கும். இந்த பெயர்ப்பி பொதுவாக NAT64 வழங்கன் என்று அழைக்கப்படும்.&lt;/p>
+&lt;img src="images/dns-ta/dns64-nat64-ta.svg"></description></item></channel></rss>
