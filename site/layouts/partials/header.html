@@ -10,17 +10,15 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      {{ $booksSection := site.GetPage "section" "books" }}
+      {{ range $booksSection.Sections }}
         <li class="nav-item">
-          <a class="nav-link active" href="/books/cybersecurity">தகவல் பாதுகாப்பு</a>
+          <a class="nav-link active" href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/books/emergingtech">வளரும் தொழில்நுட்பங்கள்</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/books/aboutus">எங்களை பற்றி</a>
-        </li>
-        
+      {{ end }}
+      </ul>
         <!-- <li class="nav-item">
           <a class="nav-link active" href="/books/javascript">Javascript</a>
         </li>
@@ -37,7 +35,7 @@
         <li class="nav-item">
           <a class="nav-link active" href="/posts">Blog</a>
         </li> -->
-      </ul>
+      
 
       <ul class="navbar-nav secured">
         <!-- F -->
@@ -45,11 +43,15 @@
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
              {{$.Site.Home.Language.LanguageName}} 
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {{ range $.Site.Home.Translations }}
-          <li><a class="dropdown-item" href="#">{{ .Language.LanguageName }}</a></li>
+          <ul class="dropdown-menu" aria-labelledby="languageBtn">
+          {{ range $.Site.Home.Translations }}
+          <li>
+            <a class="dropdown-item" data-code={{.Language.Lang}} href="{{ if (ne .Language.Lang "ta") }}/{{ .Language.Lang }}{{ $.RelPermalink }} {{ else }}{{ substr $.RelPermalink 3 }}{{ end }}">
+              {{ .Language.LanguageName }}
+            </a>
+          </li>
           {{ end }}
-          </ul>
+        </ul>
         </li>
       </ul>
     </div>

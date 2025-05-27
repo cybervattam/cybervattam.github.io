@@ -15,11 +15,12 @@ getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']
 [Languages.en]
 weight = 0
 languagename = "English"
-
+contentDir = 'content.en'
 
 [Languages.ta]
 weight = 1
 languagename = "தமிழ்"
+contentDir = 'content.ta'
 
 
 # RSS, categories and tags disabled for an easy start
