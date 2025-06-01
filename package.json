@@ -70,8 +70,8 @@
   "dependencies": {
     "@recogito/recogito-js": "1.8.4",
     "easymde": "2.20.0",
-    "marked": "15.0.11",
-    "pdf2html": "3.3.0",
+    "marked": "15.0.12",
+    "pdf2html": "4.2.0",
     "qrious": "^4.0.2",
     "replace-in-file": "8.3.0"
   }
