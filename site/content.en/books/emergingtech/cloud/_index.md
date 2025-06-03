@@ -1,6 +1,6 @@
 ---
-title: 'மேகக் கணிமை'
-date: 2022-08-14
+title: 'Cloud Computing'
+date: 03-Jun-2025
 draft: false
 weight: 2
 ---

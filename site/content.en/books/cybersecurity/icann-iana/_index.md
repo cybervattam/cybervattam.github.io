@@ -1,5 +1,5 @@
 ---
-title: 'இணைய இருத்திய எண்கள் ஆணையம் (IANA)'
+title: 'ICANN & IANA'
 date: 2022-08-19
 draft: false
 weight: 1

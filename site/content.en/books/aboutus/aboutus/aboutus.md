@@ -1,10 +1,10 @@
 ---
-title: 'எங்களை பற்றி'
+title: 'About Us'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
 ---
 
-### எங்களை பற்றி
+### About us
 
-தகவல் தொழில்நுட்பத்தை அவரவர் தாய் மொழியில் பயில்வதற்கு தேவையான தரவுகளை உருவாக்குவதே இந்த தளத்தின் நோக்கம். தற்போது, ஆங்கிலம் மற்றும் தமிழில் தரவுகள் கிடைக்கின்றன. மற்ற மொழிகளிலும், இதனை கிடைக்கச் செய்வதில் மிகுந்த ஆர்வமாக உள்ளோம். நீங்கள், இதனை உங்கள் மொழியில் கிடைக்க உதவலாம்.
+The purpose of this site is to create the technical content in Indian languates to facilitate learning technology in respective native Indian language.

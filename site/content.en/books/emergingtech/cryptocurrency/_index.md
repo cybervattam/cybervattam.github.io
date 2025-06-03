@@ -1,6 +1,6 @@
 ---
-title: 'மறை நாணயங்கள் (Cryptocurrency)'
-date: 2018-11-14T19:02:50-07:00
+title: 'Cryptocurrency'
+date: 03-Jun-2025
 draft: false
 weight: 2
 ---

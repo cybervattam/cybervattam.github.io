@@ -4,11 +4,11 @@ weight: 1
 ---
 
 
-Hello...!!! Welcome to Cyber ​​Circle Site...!!! 
+Welcome to Cybervattam...!!! 
 
-The purpose of this site is to create the data needed to learn IT in their mother tongue.
+The purpose of this site is to create the technical content in Indian languates to facilitate learning technology in respective native Indian language.
 
-Currently, data is available in English and Tamil. We are very interested in making it available in other languages ​​as well.
+Currently, content is available in English and Tamil. We are very interested in making it available in other languages ​​as well.
 
 You can help make it available in your language.  
 
