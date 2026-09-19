@@ -1,57 +1,44 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top">
-  <div class="container-fluid">
-    <span class="navbar-brand">
-      <a class="h5" href="/"><img src="/images/cybervattam-logo.svg"></a>
-    </span>
+{{ $basePath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
 
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleDefault"
-      aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="site-header navbar navbar-expand-md navbar-light fixed-top">
+  <div class="container-fluid site-header__inner">
+    <a class="navbar-brand site-header__brand" href="{{ "/" | relURL }}" aria-label="Cybervattam home">
+      <img src="/images/cybervattam-logo.svg" alt="Cybervattam" />
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#siteNav"
+      aria-controls="siteNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-    
+    <div class="collapse navbar-collapse" id="siteNav">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-      {{ $booksSection := site.GetPage "section" "books" }}
-      {{ range $booksSection.Sections }}
+        {{ $booksSection := site.GetPage "section" "books" }}
+        {{ range $booksSection.Sections }}
         <li class="nav-item">
-          <a class="nav-link active" href="{{ .Permalink }}">{{ .Title }}</a>
+          <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
-      {{ end }}
+        {{ end }}
       </ul>
-        <!-- <li class="nav-item">
-          <a class="nav-link active" href="/books/javascript">Javascript</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/books/c">C</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="/practices/java">Java</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="books/cryptography">திருக்குறள்</a>
-        </li>
-        
-        <li class="nav-item">
-          <a class="nav-link active" href="/posts">Blog</a>
-        </li> -->
-      
 
-      <ul class="navbar-nav secured">
-        <!-- F -->
-        <li class="nav-item dropdown ">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-             {{ $.Site.Home.Language.Label }} 
+      <ul class="navbar-nav align-items-lg-center site-header__actions">
+        <li class="nav-item dropdown language-switcher">
+          <a class="nav-link dropdown-toggle" href="#" id="languageMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {{ .Site.Language.Label }}
           </a>
-          <ul class="dropdown-menu" aria-labelledby="languageBtn">
-          {{ range $.Site.Home.Translations }}
-          <li>
-            <a class="dropdown-item" data-code={{.Language.Lang}} href="{{ if (ne .Language.Lang "ta") }}/{{ .Language.Lang }}{{ $.RelPermalink }} {{ else }}{{ substr $.RelPermalink 3 }}{{ end }}">
-              {{ .Language.Label }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="languageMenu">
+            {{ range .Site.Home.AllTranslations }}
+            {{ $langHref := $basePath }}
+            {{ if ne .Language.Lang "en" }}
+              {{ $langHref = printf "/%s%s" .Language.Lang $basePath }}
+            {{ end }}
+            <li>
+              <a class="dropdown-item{{ if eq $.Site.Language.Lang .Language.Lang }} active{{ end }}" href="{{ $langHref | absURL }}">
+                {{ .Language.Label }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
         </li>
       </ul>
     </div>

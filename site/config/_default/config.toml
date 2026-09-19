@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Cybervattam"
-defaultContentLanguage = "ta"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 googleAnalytics = "G-PQ5VGSBFCH"
 
@@ -11,14 +12,34 @@ enableInlineShortcodes = true
 getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']
 
 [languages.en]
-weight = 0
+weight = 1
 label = "English"
 contentDir = 'content.en'
 
 [languages.ta]
-weight = 1
+weight = 2
 label = "தமிழ்"
 contentDir = 'content.ta'
+
+[languages.hi]
+weight = 3
+label = "हिन्दी"
+contentDir = 'content.hi'
+
+[languages.ml]
+weight = 4
+label = "മലയാളം"
+contentDir = 'content.ml'
+
+[languages.te]
+weight = 5
+label = "తెలుగు"
+contentDir = 'content.te'
+
+[languages.kn]
+weight = 6
+label = "ಕನ್ನಡ"
+contentDir = 'content.kn'
 
 
 # RSS, categories and tags disabled for an easy start

@@ -1,8 +1,103 @@
 
-// Google Fonts
-@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Malayalam:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap');
 
-// Typography Variables
-$font-family-sans-serif: Poppins Text,Helvetica Neue,Apple Color Emoji,sans-serif;
-$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !default;
+$font-family-sans-serif: 'Inter', 'Segoe UI', sans-serif;
+$font-family-monospace: 'SFMono-Regular', 'Menlo', 'Monaco', Consolas, 'Liberation Mono', monospace !default;
 $font-family-base: $font-family-sans-serif !default;
+
+:root {
+  --site-font-family: 'Inter', 'Segoe UI', sans-serif;
+  --site-body-font-size: 16px;
+  --site-line-height: 1.5;
+  --site-header-bg: #ffffff;
+  --site-accent: #21408a;
+  --site-surface: #f6f8fc;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--site-font-family);
+  font-size: var(--site-body-font-size);
+  line-height: var(--site-line-height);
+}
+
+html[lang='ta'],
+html[lang='hi'],
+html[lang='ml'],
+html[lang='te'],
+html[lang='kn'] {
+  --site-font-family: 'Noto Sans Tamil', 'Noto Sans Devanagari', 'Noto Sans Malayalam', 'Noto Sans Telugu', 'Noto Sans Kannada', sans-serif;
+  --site-body-font-size: 17px;
+  --site-line-height: 1.85;
+}
+
+html[lang='ta'] body,
+html[lang='hi'] body,
+html[lang='ml'] body,
+html[lang='te'] body,
+html[lang='kn'] body {
+  font-family: var(--site-font-family);
+  font-size: var(--site-body-font-size);
+  line-height: var(--site-line-height);
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.92);
+  border-bottom: 1px solid rgba(33, 64, 138, 0.08);
+}
+
+.site-header__inner {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+.site-header__brand img {
+  height: 42px;
+  width: auto;
+}
+
+.language-switcher .dropdown-menu {
+  min-width: 180px;
+}
+
+.translation-banner {
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(33, 64, 138, 0.12);
+  background: #f5f7ff;
+  border-radius: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.translation-banner p {
+  margin: 0;
+  color: #203a74;
+}
+
+.article-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-inline: 1rem;
+}
+
+.article-content p,
+.article-content li,
+.article-content blockquote {
+  font-size: 1em;
+}
+
+.article-nav {
+  max-width: 1000px;
+  width: min(100%, 1000px);
+  margin: 0 auto;
+}

@@ -7,4 +7,4 @@ weight: 2
 
 ### About us
 
-The purpose of this site is to create the technical content in Indian languates to facilitate learning technology in respective native Indian language.
+The purpose of this site is to create/share the technical content in Indian languages to facilitate learning technology in respective native Indian language.
