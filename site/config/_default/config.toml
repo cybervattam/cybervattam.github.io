@@ -1,25 +1,23 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
 title = "Cybervattam"
 defaultContentLanguage = "ta"
 
 googleAnalytics = "G-PQ5VGSBFCH"
 
 [security]
+allowContent = ['^text/.*$']
 enableInlineShortcodes = true
 [security.funcs]
 getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']
 
-[Languages]
-[Languages.en]
+[languages.en]
 weight = 0
-languagename = "English"
+label = "English"
 contentDir = 'content.en'
 
-[Languages.ta]
+[languages.ta]
 weight = 1
-languagename = "தமிழ்"
+label = "தமிழ்"
 contentDir = 'content.ta'
 
 

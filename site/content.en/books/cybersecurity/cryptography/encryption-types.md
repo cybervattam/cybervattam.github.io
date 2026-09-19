@@ -1,6 +1,6 @@
 ---
-title: 'மறையாக்க வகைகள்'
-date: 2018-11-14T19:02:50-07:00
+title: 'Encryption Types'
+date: 2025-06-15
 draft: false
 weight: 3
 extensions:
@@ -9,4 +9,4 @@ extensions:
 ---
 #### மறையாக்கம் கீழ்காணும் மூன்று வகைகளாக பிரிக்கப்படுகிறது. இவை குறித்து அடுத்து விரிவாக காணலாம்.
 
-![மறையாக்க வகைகள்](/images/cryptography-ta/encryption-types-ta.svg "மறையாக்க வகைகள்")
+![Encryption Types](/images/cryptography-ta/encryption-types-ta.svg "Encryption Types")

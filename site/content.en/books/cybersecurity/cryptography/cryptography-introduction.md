@@ -1,21 +1,13 @@
 ---
-title: 'மறைப்பியல் அறிமுகம்'
-date: 2018-11-14T19:02:50-07:00
+title: 'Cryptography Introduction'
+date: 2025-06-15
 draft: false
 weight: 2
 ---
 
 
 
-### மறைப்பியல் அறிமுகம்
+### Cryptography Introduction
 
-மறைப்பியல் என்பது மின் வெளியில்(Cyber Space) தகவலை எவ்வாறு மறைத்து பரிமாறி/சேமித்து, மீட்டெப்பது என்பது பற்றியதன் இயல் ஆகும்.
-இது மறையீட்டியல், குறியாக்கவியல் அல்லது கமுக்கவியல் என்றும் அழைக்கப்படுகிறது.
-இவ்வியல் கணிதவியல், கணினியியல் மற்றும் பொறியியல் துறைகளின் கூற்றுகளை ஒருசேர உபயோகிக்கும் கூட்டுத் துறையாக விளங்குகிறது.
-மின் வெளியில் தகவல் பரிமாற்றம் மற்றும் சேமிப்பின் பொழுது, அதன் இரகசியத்தன்மை மற்றும் நம்பகத்தன்மையை காக்க உதவுகிறது
-
-தகவலை பரிமாறும் / சேமிக்கும் முன்னர், அந்த தகவல் மறையாக்க தீர்வுநெறியின் (Encryption Algorithm) உதவியால், மறையாக்க திறவி (Encryption Key) கொண்டு, மறைக்குறியீடாக (Ciphertext) மாற்றப்படும். இச்செயல் மறையாக்கம் (Encryption) என்று அழைக்கப்படுகிறது
-
-தகவல் பரிமாற்றத்தின் பொழுது/சேமித்த நிலையில், மறைக்குறியீடுகளாக மட்டுமே காணப்படும். இதனால், மற்றவர்களால் உண்மையான தகவலை காண முடியாது
-
-தேவையான நேரத்தில், உரிய மறை நீக்க திறவி (Decryption Key) கொண்டு, மறை நீக்க தீர்வுநெறியின் (Decryption Algorithm) உதவியால், அது இயற்தகவலாக மாற்றப்படும். இச்செயல் மறைநீக்கம் (Decryption) என்று அழைக்கப்படுகிறது
+Cryptography is the science of sending, sharing & saving data in an encrypted format and retrieving it to its original form when needed in the cyberspace​. 
+Cryptography uses the principles of mathematics, computer sciences and engineering at once. ​Before sharing/saving the data, the data is converted into non readable format using encryption algorithm with the help of an encryption key. This process is called encryption and the output of the encryption process is called Ciphertext.​ While sharing/saving data, it is sent or stored in ciphertext format. Other people cannot see this information in original plain text format. When needed, the ciphertext is converted to original information using decryption algorithm with the help of a decryption key. This is process called decryption.​
