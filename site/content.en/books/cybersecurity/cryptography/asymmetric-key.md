@@ -1,5 +1,5 @@
 ---
-title: 'இரட்டைத் திறவி மறையாக்கம்'
+title: 'Asymmetric Key Encryption​'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 5
@@ -7,16 +7,14 @@ extensions:
     - katex
 ---
 
-![இரட்டைத் திறவி மறையாக்கம்](/images/cryptography-ta/asymmetric-key-ta-1.svg "இரட்டைத் திறவி மறையாக்கம்")
+![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-1.svg "Asymmetric Key Encryption​")
 
-ஒவ்வொரு நபரிடமும் இரு திறவிகள் இருக்கும். இவை பொதுத் திறவி (Public Key) & தனித் திறவி (Private Key) என்று அழைக்கப்படும். இவை இரண்டும் துணைத் திறவிகள் (Key Pair) என்றும் அழைக்கப்படும். துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டது. ஒரு திறவியில் இருந்து மற்றொரு திறவியை தருவிக்க (Derive) / ஊகிக்க (Guess) முடியாது. பொதுத் திறவியை பொது வெளியில் (மின்னஞ்சல், வலைத்தளம், சமூக ஊடகம் வாயிலாக) பகிர்வர். தனித் திறவியை இரகசியமாக பாதுகாப்பர்.
+Each person will have two keys each​. Public Key​ & Private Key​. This is called a ‘Key Pair’.
+​
 
+Key Pair is mathematically linked to each other​
+    You cannot guess or derive one key from the other key​. One key is used for encryption and only the other key from that key pair can be used for decryption.​ Public Key is shared in public space like internet, social media or email​. Private Key is confidential and hence kept very securely
 
-ஒரு திறவியால் மறையாக்கம் (encryption) செய்த மறைக்குறியீட்டை (cipher text) அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் (decryption) செய்ய இயலும்
+![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-2.svg "Asymmetric Key Encryption​")
 
-![இரட்டைத் திறவி மறையாக்கம்](/images/cryptography-ta/asymmetric-key-ta-2.svg "இரட்டைத் திறவி மறையாக்கம்")
-
-உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலன் தன் தனித் திறவி கொண்டு மறைநீக்கம் செய்து இயற்தகவலை பெறுவார். எழிலனின் துணைத் திறவிகள் கணித பண்புகளால் பிணைக்கப்பட்டதால், எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டிலிருந்து மறைநீக்கம் செய்ய இயலாது.
-
-
-பொதுத் திறவியை பகிர்ந்து மறையாக்கம்/மறைநீக்கம் செய்யப்படுவதால் இம்முறை பொதுத் திறவி மறைப்பியல் (Public Key Cryptography) என்றும் அழைக்கப்படுகிறது.
+Let us assume Sundar wants to send a secret message to Venkatesh​. Sundar will encrypt the message with Venkatesh’s Public Key and send the ciphertext to Venkatesh​. As the key pair is mathematically linked, only Venkatesh’s private key can decrypt the message. No other key can decrypt this message. Venkatesh will decrypt the message using his private key to retrieve the original information​. As two keys are used for encryption/decryption process, it is called asymmetric key encryption. It is also known as Public Key cryptography as the public key is shared to ensure secure communication.​

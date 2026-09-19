@@ -1,21 +1,22 @@
 ---
-title: 'தகவல் பாதுகாப்பின் தூண்கள்'
-date: 2018-11-14T19:02:50-07:00
+title: 'Security Pillars'
+date: 2025-06-15
 draft: false
 weight: 1
 extensions:
     - katex
 ---
 
-![பாதுகாப்பு முக்கோணம்](/images/cryptography-ta/security-triad-ta.svg "பாதுகாப்பு முக்கோணம்")
+![Security Triad](/images/cryptography-ta/security-triad-ta.svg "Security Triad")
 
-### இரகசியத்தன்மை
-அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை  உறுதிப்படுத்துவது
+### Confidentiality​
 
-### நம்பகத்தன்மை
-தகவலை மாற்றவோ / சிதைக்கவோ முடியாது என்பதை உறுதிப்படுத்துவது.
-தகவல் சரியானதாகவும், உண்மையானதாகவும், நம்பகமானதாகவும் இருக்க வேண்டும்.
-மறுப்பின்மை (Non-Repudiation) பண்புகளையும் கொண்டிருக்க வேண்டும்.
+Ensures only authorized users can access the information / data​
 
-### கிடைக்கும் தன்மை
-அங்கீகரிக்கப்பட்ட பயனர்களுக்கு பிணையங்கள் (network), சேவைகள் (services), இணைப்புகள் (connectivity), பயன்பாடுகள் (applications) மற்றும் தரவு (data) தேவைப்படும்போது சரியான நேரத்தில் நம்பகமாகக் கிடைப்பதை உறுதிப்படுத்துவது.
+### Integrity​
+
+Ensures information cannot be changed / damaged. Information should be correct, authentic & trustable.​
+
+### Availability​
+
+Ensures authorized users gets access to network, services, connectivity, applications and data when it is required and in a trusted way

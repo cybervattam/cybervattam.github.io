@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain'
-date: 03-Jun-2025
+date: 2025-06-03
 draft: false
 weight: 2
 ---

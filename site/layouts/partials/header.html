@@ -41,13 +41,13 @@
         <!-- F -->
         <li class="nav-item dropdown ">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-             {{$.Site.Home.Language.LanguageName}} 
+             {{ $.Site.Home.Language.Label }} 
           </a>
           <ul class="dropdown-menu" aria-labelledby="languageBtn">
           {{ range $.Site.Home.Translations }}
           <li>
             <a class="dropdown-item" data-code={{.Language.Lang}} href="{{ if (ne .Language.Lang "ta") }}/{{ .Language.Lang }}{{ $.RelPermalink }} {{ else }}{{ substr $.RelPermalink 3 }}{{ end }}">
-              {{ .Language.LanguageName }}
+              {{ .Language.Label }}
             </a>
           </li>
           {{ end }}
