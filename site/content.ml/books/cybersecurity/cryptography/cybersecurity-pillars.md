@@ -1,5 +1,5 @@
 ---
-title: 'Security Pillars'
+title: 'സുരക്ഷാ തൂണുകൾ'
 date: 2025-06-15
 draft: false
 weight: 1
@@ -7,16 +7,16 @@ extensions:
     - katex
 ---
 
-![Security Triad](/images/cryptography-ta/security-triad-ta.svg "Security Triad")
+![സുരക്ഷാ ത്രയം](/images/cryptography-ta/security-triad-ta.svg "സുരക്ഷാ ത്രയം")
 
-### Confidentiality​
+### രഹസ്യാത്മകത
 
-Ensures only authorized users can access the information / data​
+അധികാരമുള്ള ഉപയോക്താക്കൾക്ക് മാത്രമേ വിവരങ്ങളോ ഡാറ്റയോ ആക്സസ് ചെയ്യാനാകൂ എന്ന് ഉറപ്പാക്കുന്നു.
 
-### Integrity​
+### സമഗ്രത
 
-Ensures information cannot be changed / damaged. Information should be correct, authentic & trustable.​
+വിവരങ്ങൾ കണ്ടെത്താനാകാതെ മാറ്റുകയോ കേടുവരുത്തുകയോ തിരുത്തുകയോ ചെയ്യാൻ കഴിയില്ലെന്ന് ഉറപ്പാക്കുന്നു. വിവരങ്ങൾ ശരിയായതും ആധികാരികവും വിശ്വസനീയവുമായിരിക്കണം.
 
-### Availability​
+### ലഭ്യത
 
-Ensures authorized users gets access to network, services, connectivity, applications and data when it is required and in a trusted way
+അധികാരമുള്ള ഉപയോക്താക്കൾക്ക് ആവശ്യമായപ്പോൾ നെറ്റ്‌വർക്കുകൾ, സേവനങ്ങൾ, കണക്റ്റിവിറ്റി, ആപ്ലിക്കേഷനുകൾ, ഡാറ്റ എന്നിവ വിശ്വസനീയവും സുരക്ഷിതവുമായ രീതിയിൽ ലഭ്യമാകുമെന്ന് ഉറപ്പാക്കുന്നു.

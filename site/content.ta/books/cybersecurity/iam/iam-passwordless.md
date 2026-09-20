@@ -18,7 +18,7 @@ weight: 12
 #### __பொதுத் திறவி உள்கட்டமைப்பு அட்டை(PKI Card)__
  பொதுத் திறவி உள்கட்டமைப்பு என்பது வலைத்தளம் மற்றும் பயனர்கள் இடையே உள்ள தகவல் தொடர்புகளைப் பாதுகாக்கும் மறையாக்கம் மற்றும் சைபர் பாதுகாப்பு கட்டமைப்பாகும்.
 
- <img src="images/iam-ta/iam-pki-card.svg">
+ <img src="/images/ta/cybersecurity/iam/iam-pki-card.svg">
 
 <br>
 
@@ -26,7 +26,7 @@ weight: 12
  
  Fast Identity Online (FIDO) சான்றுறுதி என்பது பல பயனர் பெயர்கள் மற்றும் கடவுச்சொற்களைப் பயன்படுத்துவதைக் குறைப்பதற்காக பல நிறுவனங்கள் குழுவாக சேர்ந்து செய்த முன்முயற்சியாகும்.
 
- <img src="images/iam-ta/iam-fido.png">
+ <img src="/images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
@@ -36,4 +36,4 @@ weight: 12
 
  பாதுகாப்புத் திறவி என்பது விரலி போல் தோற்றமுடைய ஒரு சிறிய வன் சாதனமாகும். மேலும் இதை ஆதரிக்கும் தளங்களில் உங்கள் கடவுச்சொல்லுடன் கூடுதல் காரணியாக பயன்படுகிறது.
 
- <img src="images/iam-ta/iam-yubikey.jpg">
+ <img src="/images/shared/screenshots/iam-yubikey.jpg">

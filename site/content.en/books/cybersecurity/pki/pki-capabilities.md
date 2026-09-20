@@ -10,10 +10,10 @@ weight: 6
 
 Public Key Infrastructure provides trust services.
 
-<img src="/images/pki-ta/trust-services-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-trust-services.png">
 
 In simple terms, it helps establish trust in the actions or output of people, computers, and organizations.
 
 The objectives of trust services are based on the following capabilities.
 
-<img src="/images/pki-ta/pki-capabilities-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-capabilities.png">

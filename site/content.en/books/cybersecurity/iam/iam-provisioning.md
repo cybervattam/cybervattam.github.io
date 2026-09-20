@@ -15,4 +15,4 @@ Depending on the provisioning architecture, the identity role mapping can be sen
 
 The provisioning application can send authorization information, or the target application can perform authorization using the identity role mapping sent by the provisioning application.
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

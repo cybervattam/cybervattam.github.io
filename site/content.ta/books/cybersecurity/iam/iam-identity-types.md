@@ -12,7 +12,7 @@ weight: 2
 * வணிகம்-வணிகம் அடையாளங்கள்
 * வணிகம்-நுகர்வோர் அடையாளங்கள்
 
-<img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-type-of-identities-ta.svg" width=50%>
 
 #### வணிகம்-வணிகம் அடையாளங்கள் (B2B / Workforce Identity)
 ஒரு வணிக நிறுவனத்தின் செயல்பாட்டிற்கு தேவையான அடையாளங்கள் இந்த வகையின் கீழ் வரும். இவை சொந்த செயல்பாட்டிற்கோ அல்லது மற்ற நிறுவனத்துடன் வர்த்தகம் செய்ய உதவும் அடையாளங்கள். உதாரணமாக,

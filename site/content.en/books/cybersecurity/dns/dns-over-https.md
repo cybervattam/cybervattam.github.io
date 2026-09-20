@@ -11,4 +11,4 @@ DNS over HTTPS is a security protocol that encrypts DNS queries and sends them t
 
 The goal is to prevent third parties on the network path from seeing or modifying the DNS query and response data. This improves user privacy and protects the data during transit.
 
-<img src="images/dns-ta/dns-doh-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-doh.png">

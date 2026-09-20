@@ -1,15 +1,16 @@
 ---
-title: 'Symmetric Key Encryption​'
+title: 'സിമെട്രിക് കീ എൻക്രിപ്ഷൻ'
 date: 2025-06-15
 draft: false
 weight: 4
 extensions:
     - katex
-
 ---
 
-Let us assume Sundar wants to send a secret message to Venkatesh​. Before sharing the data, Sundar & Venkatesh will choose a random secret code. Let us call this as a Secret Key. No one else knows this secret key.​
+സുന്ദർ വെങ്കടേഷിന് ഒരു രഹസ്യ സന്ദേശം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നുവെന്ന് കരുതുക. ഡാറ്റ പങ്കിടുന്നതിന് മുമ്പ് സുന്ദറും വെങ്കടേഷും ഒരു യാദൃച്ഛിക രഹസ്യ കോഡ് അംഗീകരിക്കുന്നു. ഇതിനെ സീക്രട്ട് കീ എന്ന് വിളിക്കാം. മറ്റാർക്കും ഈ സീക്രട്ട് കീ അറിയില്ല.
 
-![Symmetric Key Encryption​](/images/cryptography-ta/symmetric-key-ta.svg "Symmetric Key Encryption​")
+![സിമെട്രിക് കീ എൻക്രിപ്ഷൻ](/images/cryptography-ta/symmetric-key-ta.svg "സിമെട്രിക് കീ എൻക്രിപ്ഷൻ")
 
-Sundar will encrypt the message with the encryption chosen and will send the cipher text to Venkatesh​. Venkatesh will use the same secret key to decrypt the ciphertext and retrieve the original message.​ As the same key is used for encryption & decryption, it is called Symmetric Key encryption. It is also known as Secret Key Cryptography.
+സുന്ദർ തിരഞ്ഞെടുത്ത എൻക്രിപ്ഷൻ അൽഗോരിതം ഉപയോഗിച്ച് സന്ദേശം എൻക്രിപ്റ്റ് ചെയ്ത് വെങ്കടേഷിന് സൈഫർടെക്സ്റ്റ് അയയ്ക്കുന്നു. വെങ്കടേഷ് അതേ സീക്രട്ട് കീ ഉപയോഗിച്ച് സൈഫർടെക്സ്റ്റ് ഡീക്രിപ്റ്റ് ചെയ്ത് യഥാർത്ഥ സന്ദേശം വീണ്ടെടുക്കുന്നു.
+
+എൻക്രിപ്ഷനും ഡീക്രിപ്ഷനും ഒരേ കീ ഉപയോഗിക്കുന്നതിനാൽ ഇതിനെ സിമെട്രിക് കീ എൻക്രിപ്ഷൻ എന്ന് വിളിക്കുന്നു. സീക്രട്ട് കീ ക്രിപ്റ്റോഗ്രഫി എന്നും ഇത് അറിയപ്പെടുന്നു.

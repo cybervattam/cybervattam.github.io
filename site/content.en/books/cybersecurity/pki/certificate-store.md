@@ -9,14 +9,14 @@ weight: 5
 
  A trust store is a collection of root certificates that are trusted by default.
 
-<img src="/images/pki-ta/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" >
 
 
 These stores are maintained by operating system and web browser vendors.
 
-<img src="/images/pki-ta/certificate-stores.png" >
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
 
 
 ### Licensed Certifying Authorities in India
 
-<img src="/images/pki-ta/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png">

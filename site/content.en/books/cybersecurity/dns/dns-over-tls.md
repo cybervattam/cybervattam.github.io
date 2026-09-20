@@ -11,4 +11,4 @@ DNS over TLS is a security protocol that encrypts DNS queries and sends the DNS 
 
 The goal is to prevent eavesdropping or tampering in transit by an attacker on the network path. This ensures that DNS queries and responses are protected while traveling through public or untrusted networks.
 
-<img src="images/dns-ta/dns-dot-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-dot.png">

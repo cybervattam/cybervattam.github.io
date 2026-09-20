@@ -8,7 +8,7 @@ weight: 2
 
 ### இணைய இருத்திய எண்கள் ஆணையம் (Internet Assigned Numbers Authority)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
 இணைய இருத்திய எண்கள் ஆணையம் என்பது உலகளாவிய களப்பெயர்கள், எண் வளங்கள் மற்றும் நெறிமுறை இருத்தங்களை மேற்பார்வையிடும் ஒரு தரநிலை அமைப்பாகும்.
 
@@ -16,7 +16,7 @@ weight: 2
 
 இப்போது இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்ற சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனத்தால் நிர்வகிக்கப்படுகிறது. இவ்வாணையத்தின் செயல்பாடுகள்:
 
-#### * 1. __களப்பெயர் சேவைகள் / Domain Name Service__ 
+#### 1. __களப்பெயர் சேவைகள் / Domain Name Service__ 
 
 <br>
 
@@ -47,13 +47,13 @@ weight: 2
 
 <br>
 
-#### * 2. __எண் வளங்கள் / Number Resources__
+#### 2. __எண் வளங்கள் / Number Resources__
    - இணைய நெறிமுறை முகவரி (IP Addresses)
    - தன்னாட்சி அமைப்பு எண்கள் (Autonomous System Number)
 
 <br>
 
-#### * 3. __நெறிமுறை இருத்தம் (Protocol Assignments)__
+#### 3. __நெறிமுறை இருத்தம் (Protocol Assignments)__
 
 <br>
 

@@ -9,7 +9,7 @@ weight: 4
 
 The chain of trust consists of several parts.
 
-<img src="/images/pki-ta/chain-of-trust-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
 
 
 First, there is a trust anchor, also called the root certifying authority.
@@ -20,7 +20,7 @@ The intermediate certificate authority acts as a barrier between end entities an
 
 Finally, there is an end-entity certificate issued to a website, organization, or individual.
 
-<img src="/images/pki-ta/digital-certificate-chain-ta.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
 
 ### Chain of Trust Verification
 

@@ -8,7 +8,7 @@ weight: 2
 ## __Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

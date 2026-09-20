@@ -8,7 +8,7 @@ weight: 2
 ## __மேகக் கணிமையின் அத்தியாவசிய பண்புகள் / Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+<img src="/images/ta/emergingtech/cloud/cloud-characteristics-ta.svg">
 
 <br>
 <br>

@@ -5,7 +5,7 @@ draft: false
 weight: 3
 ---
 
-### <img src="images/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain
 
 <br>
 
@@ -20,7 +20,7 @@ weight: 3
     - பரிவர்த்தனை எண்ணி (Transaction Counter)
     - பரிவர்த்தனைகள் #1, #2, #3, ... ,#n
 
-<img src="images/blockchain-ta/blockchain-bitcoin-block-structure-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-block-structure-ta.svg" width=50%>
 <br>
 <br>
 
@@ -28,4 +28,4 @@ weight: 3
 
 <br>
 <br>
-<img src="images/blockchain-ta/blockchain-bitcoin-chain-sample-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-chain-sample-ta.svg" width=50%>

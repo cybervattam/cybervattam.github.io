@@ -1,5 +1,5 @@
 ---
-title: 'Asymmetric Key Encryption​'
+title: 'അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 5
@@ -7,14 +7,16 @@ extensions:
     - katex
 ---
 
-![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-1.svg "Asymmetric Key Encryption​")
+![അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ](/images/cryptography-ta/asymmetric-key-ta-1.svg "അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ")
 
-Each person will have two keys each​. Public Key​ & Private Key​. This is called a ‘Key Pair’.
-​
+ഓരോ വ്യക്തിക്കും രണ്ട് കീകൾ ഉണ്ടായിരിക്കും: ഒരു പബ്ലിക് കീയും ഒരു സ്വകാര്യ കീയും. ഈ ജോഡിയെ കീ ജോഡി എന്ന് വിളിക്കുന്നു.
 
-Key Pair is mathematically linked to each other​
-    You cannot guess or derive one key from the other key​. One key is used for encryption and only the other key from that key pair can be used for decryption.​ Public Key is shared in public space like internet, social media or email​. Private Key is confidential and hence kept very securely
+കീ ജോഡി ഗണിതശാസ്ത്രപരമായി പരസ്പരം ബന്ധിപ്പിച്ചിരിക്കുന്നു. ഒരു കീയിൽ നിന്ന് മറ്റൊന്ന് ഊഹിക്കാനോ കണ്ടെത്താനോ കഴിയില്ല. ഒരു കീ എൻക്രിപ്ഷനായി ഉപയോഗിക്കുന്നു; അതേ ജോഡിയിലെ പൊരുത്തമുള്ള കീ മാത്രമേ ഡീക്രിപ്ഷനായി ഉപയോഗിക്കാനാകൂ.
 
-![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-2.svg "Asymmetric Key Encryption​")
+ഇന്റർനെറ്റ്, സോഷ്യൽ മീഡിയ, ഇമെയിൽ തുടങ്ങിയ പൊതു ഇടങ്ങളിൽ പബ്ലിക് കീ പങ്കിടുന്നു. സ്വകാര്യ കീ രഹസ്യമായതിനാൽ അതീവ സുരക്ഷിതമായി സൂക്ഷിക്കുന്നു.
 
-Let us assume Sundar wants to send a secret message to Venkatesh​. Sundar will encrypt the message with Venkatesh’s Public Key and send the ciphertext to Venkatesh​. As the key pair is mathematically linked, only Venkatesh’s private key can decrypt the message. No other key can decrypt this message. Venkatesh will decrypt the message using his private key to retrieve the original information​. As two keys are used for encryption/decryption process, it is called asymmetric key encryption. It is also known as Public Key cryptography as the public key is shared to ensure secure communication.​
+![അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ](/images/cryptography-ta/asymmetric-key-ta-2.svg "അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ")
+
+സുന്ദർ വെങ്കടേഷിന് ഒരു രഹസ്യ സന്ദേശം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നുവെന്ന് കരുതുക. സുന്ദർ വെങ്കടേഷിന്റെ പബ്ലിക് കീ ഉപയോഗിച്ച് സന്ദേശം എൻക്രിപ്റ്റ് ചെയ്ത് സൈഫർടെക്സ്റ്റ് അയയ്ക്കുന്നു. കീ ജോഡി ഗണിതശാസ്ത്രപരമായി ബന്ധിപ്പിച്ചിരിക്കുന്നതിനാൽ വെങ്കടേഷിന്റെ സ്വകാര്യ കീയ്ക്ക് മാത്രമേ സന്ദേശം ഡീക്രിപ്റ്റ് ചെയ്യാനാകൂ. മറ്റൊരു കീ ഉപയോഗിച്ച് അത് ഡീക്രിപ്റ്റ് ചെയ്യാൻ കഴിയില്ല.
+
+വെങ്കടേഷ് തന്റെ സ്വകാര്യ കീ ഉപയോഗിച്ച് സന്ദേശം ഡീക്രിപ്റ്റ് ചെയ്ത് യഥാർത്ഥ വിവരം വീണ്ടെടുക്കുന്നു. എൻക്രിപ്ഷനും ഡീക്രിപ്ഷനും രണ്ട് വ്യത്യസ്ത കീകൾ ഉപയോഗിക്കുന്നതിനാലാണ് ഇതിനെ അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ എന്ന് വിളിക്കുന്നത്. സുരക്ഷിതമായ ആശയവിനിമയം ഉറപ്പാക്കാൻ പബ്ലിക് കീ പങ്കിടുന്നതിനാൽ ഇതിനെ പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി എന്നും വിളിക്കുന്നു.

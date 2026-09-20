@@ -5,9 +5,10 @@ draft: false
 weight: 11
 ---
 
+<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+
 ### Email Encryption
 
-#### Email Validation
 This process requires validation of a valid email address and domain.
 
 #### Individual Validation

@@ -9,7 +9,7 @@ weight: 4
 
 நம்பிக்கையின் சங்கிலி பல பகுதிகளைக் கொண்டுள்ளது. 
 
-<img src="/images/pki-ta/chain-of-trust-ta.svg">
+<img src="/images/ta/cybersecurity/pki/chain-of-trust-ta.svg">
 
 
 முதலில் ஒரு நம்பிக்கை நங்கூரம் (Trust Anchor). இது வேர் சான்றிதழ் ஆணையம் (Root Certifying Authority) என்றும் அழைக்கப்படுகிறது.
@@ -20,7 +20,7 @@ weight: 4
 
 இறுதியில் ஒரு வலைத்தளம், நிறுவனம் அல்லது நபர் போன்ற அமைப்புகளுக்கு வழங்கப்படும் இறுதி அமைப்புச் சான்றிதழ் (End Entity Certificate)
 
-<img src="/images/pki-ta/digital-certificate-chain-ta.png">
+<img src="/images/ta/cybersecurity/pki/digital-certificate-chain-ta.png">
 
 ### நம்பிக்கை சங்கிலி சரிபார்த்தல் / Chain of Trust Verification
 

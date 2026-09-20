@@ -2,12 +2,12 @@
 title: 'தகவல் பாதுகாப்பின் தூண்கள்'
 date: 2018-11-14T19:02:50-07:00
 draft: false
-weight: 1
+weight: 2
 extensions:
     - katex
 ---
 
-![பாதுகாப்பு முக்கோணம்](/images/cryptography-ta/security-triad-ta.svg "பாதுகாப்பு முக்கோணம்")
+![பாதுகாப்பு முக்கோணம்](/images/ta/cybersecurity/cryptography/security-triad-ta.svg "பாதுகாப்பு முக்கோணம்")
 
 ### இரகசியத்தன்மை
 அங்கீகரிக்கப்பட்ட நபர்கள் மட்டுமே குறிப்பிட்ட தகவலை அணுகுவதை  உறுதிப்படுத்துவது

@@ -8,7 +8,7 @@ weight: 1
 
 ### Internet Corporation for Assigned Names and Numbers (ICANN)
 
-<img src="images/logos/icann-logo.svg">
+<img src="images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

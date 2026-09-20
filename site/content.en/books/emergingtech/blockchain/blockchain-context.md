@@ -17,7 +17,7 @@ For example:
 
 This creates dependence on a third party. The third party or organization that records these transactions retains complete control over the data. There is no transparent permission to verify these transactions.
 
-<img src="images/blockchain-ta/blockchain-context-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-context.png" width=50%>
 
 Blockchain addresses these problems. It is built on a peer-to-peer network (P2P network).
 * Its design creates trust.

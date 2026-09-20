@@ -12,7 +12,7 @@ Identities can generally be divided into two categories.
 * Business-to-business identities
 * Business-to-consumer identities
 
-<img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
 
 #### Business-to-Business Identities (B2B / Workforce Identity)
 Identities required for the operation of a business organization fall into this category. They support internal operations or business transactions with other organizations. Examples include:

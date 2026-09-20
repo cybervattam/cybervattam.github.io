@@ -24,4 +24,4 @@ __நிகழ்வுகள்__ - கட்டச்சங்கிலிய�
 __உறுப்பினர்__ - அனுமதி கோரும் கட்டச்சங்கிலி பிணையத்தில், உறுப்பினர் சேவைகள் அடையாளங்களை சான்றுறுதியளிக்கிறது, அங்கீகரிக்கிறது மற்றும் நிர்வகிக்கிறது.
 
 
-<img src="images/blockchain-ta/blockchain-hyperledger-components-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-hyperledger-components-ta.svg" width=50%>

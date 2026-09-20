@@ -7,7 +7,7 @@ weight: 3
 
 ### DNS Query Resolution Process
 
-<img src="images/dns-ta/dns-resolution-process-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-resolution.png">
 
 When a client requests a domain name, the DNS query typically follows this process:
 

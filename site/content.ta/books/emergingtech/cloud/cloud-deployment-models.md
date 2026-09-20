@@ -7,7 +7,7 @@ weight: 4
 
 ## __மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models__
 <br>
-<img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+<img src="/images/ta/emergingtech/cloud/cloud-deployment-model-ta.svg">
 
 <br>
 <br>

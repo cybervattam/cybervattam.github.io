@@ -2,12 +2,12 @@
 title: 'Security Pillars'
 date: 2025-06-15
 draft: false
-weight: 1
+weight: 2
 extensions:
     - katex
 ---
 
-![Security Triad](/images/cryptography-ta/security-triad-ta.svg "Security Triad")
+![Security Triad](/images/en/cybersecurity/cryptography/security-triad.png "Security Triad")
 
 ### Confidentiality
 

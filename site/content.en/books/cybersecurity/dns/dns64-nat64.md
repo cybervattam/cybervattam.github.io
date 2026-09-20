@@ -11,4 +11,4 @@ DNS64 synthesizes IPv6 AAAA records from IPv4 A records when a domain has only I
 
 This NAT64 prefix is typically used by NAT64 gateways to translate IPv6 clients to IPv4 services when the destination only supports IPv4.
 
-<img src="images/dns-ta/dns64-nat64-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns64-nat64.png">

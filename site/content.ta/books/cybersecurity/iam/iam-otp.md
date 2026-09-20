@@ -18,7 +18,7 @@ HOTP தீர்வுநெறி ஒரு நிகழ்வை அடிப
 
 அடுத்த ஒரு முறை கடவுச்சொல்லை நீங்கள் உருவாக்கும் வரை முன்னர் உருவாக்கப்பட்ட ஒரு முறை கடவுச்சொல் செல்லுபடியாகும்.
 
-<img src="images/iam-ta/iam-hotp-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-hotp-ta.svg" width=25%>
 
 
 
@@ -30,4 +30,4 @@ TOTP தீர்வுநெறி நகரும் காரணியாக 
 
 ஒவ்வொரு கடவுச்சொல்லும் செல்லுபடியாகும் நேரத்தின் அளவு காலஅளவு (timestep) என்று அழைக்கப்படுகிறது.
 
-<img src="images/iam-ta/iam-totp-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-totp-ta.svg" width=25%>

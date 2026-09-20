@@ -13,5 +13,4 @@ weight: 0
 
 ஆங்கிலத்தில் உள்ளடக்கங்களை உருவாக்கி, அவற்றை நாங்கள் ஆதரிக்கும் அனைத்து மொழிகளிலும் கிடைக்கச் செய்வதன் மூலம் நீங்கள் உதவலாம்.
 
-இத்தளத்தில் உள்ள அனைத்துப் படைப்புகளும் [Creative Commons-Attribution-Noncommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) உரிமத்தின் கீழ் வழங்கப்படுகின்றன.. 
-  
+இத்தளத்தில் உள்ள அனைத்துப் படைப்புகளும் [Creative Commons-Attribution-Noncommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) உரிமத்தின் கீழ் வழங்கப்படுகின்றன.

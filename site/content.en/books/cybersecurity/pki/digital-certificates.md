@@ -7,7 +7,7 @@ weight: 2
 
 ### Digital Certificate
 
-<img src="/images/pki-ta/digital-certificate-sample.png">
+<img src="/images/shared/screenshots/digital-certificate-sample.png">
 
  A digital certificate can be considered an electronic identity document. It is also known as an X.509 certificate. A digital certificate establishes a relationship between a public key and its owner.
 
@@ -16,7 +16,7 @@ It is certified by a certificate authority and issued to the owner. The owner mu
 ### Digital Certificate Formats
 
 
-<img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
 
 #### PEM Format (Privacy-Enhanced Mail)
 This is the most common format for X.509 certificates, certificate signing requests, and cryptographic keys.

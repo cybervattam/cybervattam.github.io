@@ -1,10 +1,10 @@
 ---
-title: 'சான்றிதழ் அடிப்படையிலான சான்றுறுதி'
+title: 'സർട്ടിഫിക്കറ്റ് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ'
 date: 2022-08-18
 draft: false
 weight: 13
 ---
 
-### சான்றிதழ் அடிப்படையிலான சான்றுறுதி (Certificate Based Authentication)
+### സർട്ടിഫിക്കറ്റ് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ
 
 <img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%>

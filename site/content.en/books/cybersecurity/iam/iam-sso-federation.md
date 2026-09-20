@@ -7,7 +7,7 @@ weight: 14
 
 ### Single Sign-On / Federation (SSO/Federation)
 
-<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### Federation (Different Domains)
 Federation is a trust relationship between two systems or organizations.

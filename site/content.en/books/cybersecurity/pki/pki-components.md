@@ -7,7 +7,7 @@ weight: 3
 
 ### Public Key Infrastructure Components (PKI Components)
 
-<img src="/images/pki-ta/pki-components-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-components.png">
 
 * #### Registration Authority (RA)
     * Verifies the identities of people and organizations applying for certificates.

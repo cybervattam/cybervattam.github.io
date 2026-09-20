@@ -22,4 +22,4 @@ __Events__ - Generates notifications about significant activities in the blockch
 __Membership__ - In a permissioned blockchain network, membership services authenticate, authorize, and manage identities.
 
 
-<img src="images/blockchain-ta/blockchain-hyperledger-components-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>

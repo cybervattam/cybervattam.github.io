@@ -23,7 +23,7 @@ Examples include:
 - gTLDs: .com, .net, .org
 - ccTLDs: .in, .uk, .au
 
-<img src="images/dns-ta/dns-tld-ta.png">
+<img src="/images/en/cybersecurity/dns/dns-tld.png">
 
 #### Authoritative Name Servers
 

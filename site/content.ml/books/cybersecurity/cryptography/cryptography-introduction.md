@@ -1,13 +1,16 @@
 ---
-title: 'Cryptography Introduction'
+title: 'ക്രിപ്റ്റോഗ്രഫി ആമുഖം'
 date: 2025-06-15
 draft: false
 weight: 2
 ---
 
+### ക്രിപ്റ്റോഗ്രഫി ആമുഖം
 
+സൈബർസ്പേസിൽ ഡാറ്റ എൻക്രിപ്റ്റ് ചെയ്ത രൂപത്തിൽ അയയ്ക്കുകയും പങ്കിടുകയും സൂക്ഷിക്കുകയും ആവശ്യമായപ്പോൾ അതിന്റെ യഥാർത്ഥ രൂപത്തിലേക്ക് തിരികെ മാറ്റുകയും ചെയ്യുന്ന ശാസ്ത്രമാണ് ക്രിപ്റ്റോഗ്രഫി.
 
-### Cryptography Introduction
+ഇത് ഗണിതശാസ്ത്രം, കമ്പ്യൂട്ടർ സയൻസ്, എഞ്ചിനീയറിംഗ് എന്നിവ സംയോജിപ്പിക്കുന്നു. ഡാറ്റ പങ്കിടുകയോ സൂക്ഷിക്കുകയോ ചെയ്യുന്നതിന് മുമ്പ് എൻക്രിപ്ഷൻ കീയുടെ സഹായത്തോടെ ഒരു എൻക്രിപ്ഷൻ അൽഗോരിതം ഉപയോഗിച്ച് അത് വായിക്കാൻ കഴിയാത്ത രൂപത്തിലേക്ക് മാറ്റുന്നു. ഈ പ്രക്രിയയെ എൻക്രിപ്ഷൻ എന്നും ലഭിക്കുന്ന ഔട്ട്പുട്ടിനെ സൈഫർടെക്സ്റ്റ് എന്നും വിളിക്കുന്നു. കൈമാറ്റത്തിലോ സംഭരണത്തിലോ ഡാറ്റ സൈഫർടെക്സ്റ്റ് രൂപത്തിൽ സൂക്ഷിക്കുന്നതിനാൽ മറ്റുള്ളവർക്ക് യഥാർത്ഥ പ്ലെയിൻടെക്സ്റ്റ് വായിക്കാൻ കഴിയില്ല.
 
-Cryptography is the science of sending, sharing & saving data in an encrypted format and retrieving it to its original form when needed in the cyberspace​. 
-Cryptography uses the principles of mathematics, computer sciences and engineering at once. ​Before sharing/saving the data, the data is converted into non readable format using encryption algorithm with the help of an encryption key. This process is called encryption and the output of the encryption process is called Ciphertext.​ While sharing/saving data, it is sent or stored in ciphertext format. Other people cannot see this information in original plain text format. When needed, the ciphertext is converted to original information using decryption algorithm with the help of a decryption key. This is process called decryption.​
+ആവശ്യമായപ്പോൾ ഡീക്രിപ്ഷൻ കീ ഉപയോഗിച്ചുള്ള ഡീക്രിപ്ഷൻ അൽഗോരിതം വഴി സൈഫർടെക്സ്റ്റിനെ യഥാർത്ഥ വിവരമായി മാറ്റുന്നു. ഈ പ്രക്രിയയെ ഡീക്രിപ്ഷൻ എന്ന് വിളിക്കുന്നു.
+
+വിവരങ്ങളുടെ രഹസ്യാത്മകത, സമഗ്രത, ആധികാരികത എന്നിവ സംരക്ഷിക്കാനും നെറ്റ്‌വർക്കുകൾ, ആപ്ലിക്കേഷനുകൾ, ഉപകരണങ്ങൾ എന്നിവയ്ക്കിടയിലെ സുരക്ഷിത ആശയവിനിമയത്തെ പിന്തുണയ്ക്കാനും ക്രിപ്റ്റോഗ്രഫി സഹായിക്കുന്നു.

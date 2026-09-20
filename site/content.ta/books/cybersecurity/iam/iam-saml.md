@@ -12,4 +12,4 @@ weight: 14
 * ஆதரிக்கப்படும் இணைப்பு முறைகள் மற்றும் ஆதரிக்கப்படும் XML பண்பு வடிவங்கள்.
 இரு வழங்குநர்களும் ஒருவரையொருவர் பற்றிய இந்த விவரங்களை அறிந்தவுடன், அதற்கேற்ப தங்களை மாற்றி அமைத்துக் கொள்கிறார்கள்.
 
-<img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%>
+<img src="/images/ta/cybersecurity/iam/iam-saml-auth-process-ta.svg" width=70%>

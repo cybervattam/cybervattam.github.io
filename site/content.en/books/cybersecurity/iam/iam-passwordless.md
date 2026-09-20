@@ -18,7 +18,7 @@ The public key is provided to the website, application, browser, or other online
 #### __Public Key Infrastructure Card (PKI Card)__
 Public Key Infrastructure is a cryptographic and cybersecurity framework that protects communication between websites and users.
 
- <img src="images/iam-ta/iam-pki-card.svg">
+ <img src="images/shared/screenshots/iam-pki-card.svg">
 
 <br>
 
@@ -26,7 +26,7 @@ Public Key Infrastructure is a cryptographic and cybersecurity framework that pr
  
 Fast Identity Online (FIDO) authentication is an initiative created by a group of organizations to reduce reliance on multiple usernames and passwords.
 
- <img src="images/iam-ta/iam-fido.png">
+ <img src="images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
@@ -36,4 +36,4 @@ Fast Identity Online (FIDO) authentication is an initiative created by a group o
 
 A security key is a small hardware device that resembles a USB drive. On supported platforms, it can be used as an additional authentication factor alongside your password.
 
- <img src="images/iam-ta/iam-yubikey.jpg">
+ <img src="images/shared/screenshots/iam-yubikey.jpg">

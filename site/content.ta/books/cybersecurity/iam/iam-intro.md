@@ -18,6 +18,6 @@ Ensuring right entities have right access to right resources at the right time f
 * அணுகல் மேலாண்மை (access management)
 * சிறப்புரிமை அணுகல் மேலாண்மை (privileged access management)
 
-<img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-intro-ta.svg" width=50%>
 
 இந்த தலைப்புகள் ஒவ்வொன்றையும் விரிவாக காணலாம்.

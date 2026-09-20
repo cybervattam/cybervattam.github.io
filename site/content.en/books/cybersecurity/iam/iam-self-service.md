@@ -21,7 +21,7 @@ Self-service password management is a process or technology that allows users wh
 
 Self-service password management solutions perform password reset and account unlock operations by communicating directly with the user directory, such as Active Directory.
 
-<img src="images/iam-ta/iam-sspr-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-sspm.png" width=70%>
 
 <br>
 
@@ -32,7 +32,7 @@ Workflows allow business users and automated processes to request and approve ac
 
 These changes are implemented according to predefined Identity and Access Management rule sets.
 
-<img src="images/iam-ta/iam-ssam-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-ssar.png" width=70%>
 
 <br>
 <br>
@@ -44,4 +44,4 @@ These changes are implemented according to predefined Identity and Access Manage
 Self-service profile management is a process or technology that allows users to change their name, telephone number, address, photograph, and other profile details without contacting the help desk or support team.
 
 
-<img src="images/iam-ta/iam-sspm-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-sspc.png" width=70%>

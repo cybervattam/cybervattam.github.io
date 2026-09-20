@@ -19,10 +19,10 @@ Regardless of which channel a customer uses, such as a website, mobile applicati
 
 #### __CIAM Features__
 
-<img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 ### __CIAM Processes__
 
-<img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

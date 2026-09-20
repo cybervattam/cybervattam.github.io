@@ -22,6 +22,6 @@ Each DNS zone typically has two key pairs:
 - Zone Signing Key (ZSK)
 - Key Signing Key (KSK)
 
-<img src="images/dns-ta/dns-sec-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-sec.png">
 
 The zone owner signs a set of resource records using the zone signing private key. The public part of the zone signing key is published in the DNSKEY record so resolvers can retrieve it and validate the authenticity of the DNS data.

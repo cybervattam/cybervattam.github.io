@@ -5,9 +5,9 @@ draft: false
 weight: 10
 ---
 
+<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
 
-### __Authentication__
-__Verifying an identity__
+### __Authentication__ - __Verifying an identity__
 
 Authentication is the process of verifying a user's credentials, identifying the user, and granting access to a network resource.
 
@@ -19,8 +19,10 @@ It verifies the user's credentials.
 
 It takes place before authorization.
 
-### __Authorization__
-__Granting permissions to an identity__
+<br>
+<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
+
+### __Authorization__ - __Granting permissions to an identity__
 
 
 Authorization is the process of verifying the privileges or permissions that an authenticated user has to access system resources.

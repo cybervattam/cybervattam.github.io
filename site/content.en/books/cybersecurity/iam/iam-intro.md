@@ -16,6 +16,6 @@ IAM can generally be divided into four areas:
 * Access management
 * Privileged access management
 
-<img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-intro.png" width=50%>
 
 Each of these areas is covered in detail in the sections that follow.

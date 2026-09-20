@@ -8,7 +8,7 @@ weight: 2
 
 ### Internet Assigned Numbers Authority (IANA)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
 The Internet Assigned Numbers Authority is the organization responsible for coordinating global domain names, number resources, and protocol assignments.
 

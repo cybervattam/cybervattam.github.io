@@ -9,7 +9,7 @@ extensions:
 
 #### Encryption can be divided into three main types. These are discussed in more detail below.
 
-![Encryption Types](/images/cryptography-ta/encryption-types-ta.svg "Encryption Types")
+![Encryption Types](/images/en/cybersecurity/cryptography/encryption-types.png "Encryption Types")
 
 ### 1. Symmetric Encryption
 

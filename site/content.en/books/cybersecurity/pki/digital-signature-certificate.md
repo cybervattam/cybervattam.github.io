@@ -5,6 +5,8 @@ draft: false
 weight: 7
 ---
 
+<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+
 ### Digital Signature Certificate Types
 
 | Certificate Type | Assurance Level | Applicable Context |
@@ -17,7 +19,7 @@ weight: 7
 
 ### Digital Signature (Signing / Verification)
 
-<img src="/images/pki-ta/digital-sign-verification-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
 
 <br>
 
@@ -41,7 +43,7 @@ Certificate-based authentication is based on answers to four questions. If any a
 4. Has the user provided proof of possession of the certificate?
    - Has the user proved that they possess the private key associated with the certificate?
    
-<img src="/images/pki-ta/certificate-based-authentication-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
 
 <br>
 <br>

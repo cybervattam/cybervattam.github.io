@@ -11,4 +11,4 @@ Risk-based or adaptive authentication analyzes signals from multiple sources and
 
 Organizational policies define the action to be taken based on the calculated risk score.
 
-<img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

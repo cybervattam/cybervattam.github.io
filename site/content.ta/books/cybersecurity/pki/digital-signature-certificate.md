@@ -17,7 +17,7 @@ weight: 7
 
 ### இலக்கமுறைக் குறியொப்பம் (ஒப்பமிடல் / சரிபார்த்தல்)​ / Digital Signature (Signing / Verification)
 
-<img src="/images/pki-ta/digital-sign-verification-ta.svg">
+<img src="/images/ta/cybersecurity/pki/digital-sign-verification-ta.svg">
 
 <br>
 
@@ -41,7 +41,7 @@ weight: 7
 4. பயனர் சான்றிதழ் உடைமைக்கான ஆதாரத்தை வழங்கியதா?​
    - இந்த சான்றிதழுடன் தொடர்புடைய தனித் திறவி பயனர் தன்வசம் உள்ளதை நிரூபித்ததா?
    
-<img src="/images/pki-ta/certificate-based-authentication-ta.svg">
+<img src="/images/ta/cybersecurity/pki/certificate-based-authentication-ta.svg">
 
 <br>
 <br>

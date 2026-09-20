@@ -13,4 +13,4 @@ Zones are used to delegate control and organize DNS records. The DNS zone files 
 
 A zone file is generally a text-based configuration file containing resource records and directives that tell the DNS server how to respond to requests.
 
-<img src="images/dns-ta/dns-zones-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-zones.png">

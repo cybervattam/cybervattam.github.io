@@ -1,10 +1,10 @@
 ---
-title: 'பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை'
+title: 'ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിൻ ബ്ലോക്ക് ചേർക്കൽ പ്രക്രിയ'
 date: 2022-08-15
 draft: false
 weight: 4
 ---
 
-### பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை / Bitcoin blokchain block addition process
+### ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിൻ ബ്ലോക്ക് ചേർക്കൽ പ്രക്രിയ
 
 <img src="images/blockchain-ta/blockchain-bitcoin-block-addition-process-ta.svg" width=70%>

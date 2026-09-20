@@ -10,4 +10,4 @@ weight: 12
 
 நிறுவனக் கொள்கைகள் கணக்கிடப்பட்ட மறையிடர் மதிப்பெண் அடிப்படையில் எடுக்கப்பட வேண்டிய நடவடிக்கையை வரையறுக்கின்றன. 
 
-<img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-risk-based-auth-ta.svg" width=50%>
