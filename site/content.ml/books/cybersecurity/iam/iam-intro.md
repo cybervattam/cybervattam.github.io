@@ -16,6 +16,6 @@ IAM-നെ പൊതുവായി നാല് മേഖലകളായി ത
 * ആക്സസ് മാനേജ്മെന്റ്
 * പ്രിവിലേജ്ഡ് ആക്സസ് മാനേജ്മെന്റ്
 
-<img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-intro.png" width=50%>
 
 ഈ മേഖലകൾ ഓരോന്നും തുടർന്നുള്ള വിഭാഗങ്ങളിൽ വിശദമായി കാണാം.

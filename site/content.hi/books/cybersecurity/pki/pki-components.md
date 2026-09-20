@@ -7,7 +7,7 @@ weight: 3
 
 ### PKI के घटक / PKI Components
 
-<img src="/images/pki-ta/pki-components-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-components.png">
 
 * #### रजिस्ट्रेशन अथॉरिटी (Registration Authority)
     * यह सेवा उन व्यक्तियों और संस्थाओं की पहचान सत्यापित करती है जो प्रमाणपत्र के लिए आवेदन करते हैं।

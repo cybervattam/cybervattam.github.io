@@ -15,4 +15,4 @@ weight: 4
 
 प्रोविजनिंग एप्लिकेशन सत्यापन सूचना भी भेज सकता है, या लक्ष्य एप्लिकेशन स्वयं उन मैपिंगों के आधार पर अपने प्राधिकरण को सत्यापित कर सकता है।
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

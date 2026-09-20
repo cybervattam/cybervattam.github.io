@@ -5,7 +5,7 @@ draft: false
 weight: 3
 ---
 
-### <img src="images/logos/bitcoin-logo.svg" width=10%> ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിനിലെ ബ്ലോക്ക് ഘടന
+### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിനിലെ ബ്ലോക്ക് ഘടന
 
 <br>
 
@@ -20,7 +20,7 @@ weight: 3
     - ഇടപാട് കൗണ്ടർ
     - ഇടപാടുകൾ #1, #2, #3, ..., #n
 
-<img src="images/blockchain-ta/blockchain-bitcoin-block-structure-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
 <br>
 <br>
 
@@ -28,4 +28,4 @@ weight: 3
 
 <br>
 <br>
-<img src="images/blockchain-ta/blockchain-bitcoin-chain-sample-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>

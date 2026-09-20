@@ -8,7 +8,7 @@ weight: 2
 ## __ക്ലൗഡ് കമ്പ്യൂട്ടിംഗിന്റെ പ്രധാന സവിശേഷതകൾ__
 
 <br>
-<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

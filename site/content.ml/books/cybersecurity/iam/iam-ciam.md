@@ -19,10 +19,10 @@ weight: 8
 
 #### __CIAM സവിശേഷതകൾ__
 
-<img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 ### __CIAM പ്രക്രിയകൾ__
 
-<img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

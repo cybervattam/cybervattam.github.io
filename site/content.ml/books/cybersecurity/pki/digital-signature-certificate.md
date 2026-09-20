@@ -5,6 +5,8 @@ draft: false
 weight: 7
 ---
 
+<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+
 ### ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ് തരങ്ങൾ
 
 | സർട്ടിഫിക്കറ്റ് തരം | ഉറപ്പ് നില | അനുയോജ്യമായ സാഹചര്യം |
@@ -17,7 +19,7 @@ weight: 7
 
 ### ഡിജിറ്റൽ സിഗ്നേച്ചർ (ഒപ്പിടലും പരിശോധനയും)
 
-<img src="/images/pki-ta/digital-sign-verification-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
 
 <br>
 
@@ -40,7 +42,7 @@ weight: 7
 4. സർട്ടിഫിക്കറ്റ് കൈവശമുണ്ടെന്ന് ഉപയോക്താവ് തെളിയിച്ചിട്ടുണ്ടോ?
    - ബന്ധപ്പെട്ട സ്വകാര്യ കീ കൈവശമുണ്ടെന്ന് ഉപയോക്താവ് തെളിയിച്ചിട്ടുണ്ടോ?
 
-<img src="/images/pki-ta/certificate-based-authentication-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
 
 <br>
 <br>

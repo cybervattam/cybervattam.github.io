@@ -16,6 +16,6 @@ weight: 1
 * ప్రాప్యత నిర్వహణ (Access Management)
 * ప్రాధమిక ప్రాప్యత నిర్వహణ (Privileged Access Management)
 
-<img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-intro.png" width=50%>
 
 ఈ భాగాలను విడివిడిగా తెలుసుకోవడం వల్ల సంస్థలలో భద్రత, నియంత్రణ మరియు పాలనను బాగా నిర్వహించవచ్చును.

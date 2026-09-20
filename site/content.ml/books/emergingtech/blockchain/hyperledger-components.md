@@ -22,4 +22,4 @@ __ഇവന്റുകൾ__ - പുതിയ ബ്ലോക്ക് പോ�
 __മെമ്പർഷിപ്പ്__ - അനുമതിയുള്ള ബ്ലോക്ക്ചെയിൻ നെറ്റ്‌വർക്കിൽ മെമ്പർഷിപ്പ് സേവനങ്ങൾ ഐഡന്റിറ്റികളെ ഓതന്റിക്കേറ്റ് ചെയ്യുകയും ഓതറൈസ് ചെയ്യുകയും നിയന്ത്രിക്കുകയും ചെയ്യുന്നു.
 
 
-<img src="images/blockchain-ta/blockchain-hyperledger-components-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>

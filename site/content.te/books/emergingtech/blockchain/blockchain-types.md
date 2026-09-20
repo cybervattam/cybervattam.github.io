@@ -22,7 +22,7 @@ weight: 3
     - కన్సార్టియం బ్లాక్‌చైన్ (Consortium Blockchain)
         - ఎంపిక చేయబడిన నోడ్‌లు సంస్థకు మాత్రమే సంబంధించి పని చేస్తాయి
 
-<img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-types.png" width=50%>
 
 #### __పబ్లిక్ బ్లాక్‌చైన్ / Public Blockchains__
 
@@ -30,8 +30,8 @@ weight: 3
 
 చాలా సందర్భాల్లో అటువంటి వాలిడేటర్‌లకు ఆర్థిక ప్రోత్తనాలు ఇవ్వబడతాయి. (అయితే, ఇది ప్రూఫ్ ఆఫ్ వర్క్ (PoW) పని చేయాల్సిన అవసరం ఉంటుంది.)
 
-<img src="images/logos/bitcoin-logo.svg"> <br>
-<img src="images/logos/ethereum-logo.svg" width=20%>
+<img src="images/shared/logos/bitcoin-logo.svg"> <br>
+<img src="images/shared/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
@@ -43,8 +43,8 @@ weight: 3
 
 వాణిజ్య సంస్థలు ఖాతా నిక్షేపణ (accounting and record-keeping) సరైన మార్గంలో జరగాలని కోరుకుంటాయి; అదే సమయంలో స్వయంప్రతిపత్తి (autonomy) కూడా కావాలి; మరియు సున్నితమైన డేటా రక్షణ ఉండాలి. అందువల్ల సంస్థలు ప్రైవేట్ బ్లాక్‌చైన్‌ని ఇష్టపడతారు.
 
-<img src="images/logos/hyperledger-fabric-logo.svg" width=20%> <br>
-<img src="images/logos/quorum-logo.svg" width=20%>
+<img src="images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
+<img src="images/shared/logos/quorum-logo.svg" width=20%>
 
 <br>
 
@@ -52,5 +52,5 @@ weight: 3
 
 కన్సార్టియం బ్లాక్‌చైన్ అనేది పాక్షిక వికేంద్రీకరణం కలిగిన బ్లాక్‌చైన్. ఇందులో లావాదేవీలను యాక్సెస్ చేయడానికి, ప్రైవేట్ బ్లాక్‌చైన్‌లా అనుమతి అవసరం ఉంటుంది; కానీ ఈ గొలుసు అనేక సంస్థల నియంత్రణలో ఉంటుంది. డేటాను చదవడానికి మరియు కన్‌సెన్సస్ ప్రోటోకాల్‌ను అమలు చేయడానికి కొన్ని నోడ్స్ మాత్రమే అనుమతించబడతారు.
 
-<img src="images/logos/corda-logo.svg"> <br>
-<img src="images/logos/ripple-logo.svg" width=15%>
+<img src="images/shared/logos/corda-logo.svg"> <br>
+<img src="images/shared/logos/ripple-logo.svg" width=15%>

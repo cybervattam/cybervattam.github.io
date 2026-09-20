@@ -5,6 +5,6 @@ draft: false
 weight: 13
 ---
 
- ಪ್ರಮಾಣಪತ್ರ ಆಧಾರಿತ ದೃಢೀಕರಣ
+### ಪ್ರಮಾಣಪತ್ರ ಆಧಾರಿತ ದೃಢೀಕರಣ
 
-<img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

@@ -5,6 +5,8 @@ draft: false
 weight: 10
 ---
 
+<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
+
 ### __प्रमाणीकरण (Authentication)__
 __पहचान को सत्यापित करना__
 
@@ -17,6 +19,8 @@ __पहचान को सत्यापित करना__
 उपयोगकर्ता अपने दस्तावेजों/स्वीकृतताओं को सत्यापित करता है।
 
 यह प्राधिकरण से पहले होता है।
+
+<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
 
 ### __प्राधिकरण (Authorization)__
 __पहचान को अधिकार प्रदान करना__

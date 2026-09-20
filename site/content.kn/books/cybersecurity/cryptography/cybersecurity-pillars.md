@@ -2,12 +2,12 @@
 title: 'ಭದ್ರತೆಯ ಸ್ತಂಭಗಳು'
 date: 2025-06-15
 draft: false
-weight: 1
+weight: 2
 extensions:
     - katex
 ---
 
-![ಭದ್ರತಾ ತ್ರಯ](/images/cryptography-ta/security-triad-ta.svg "ಭದ್ರತಾ ತ್ರಯ")
+![ಭದ್ರತಾ ತ್ರಯ](/images/en/cybersecurity/cryptography/security-triad.png "ಭದ್ರತಾ ತ್ರಯ")
 
 ### ಗೌಪ್ಯತೆ​
 

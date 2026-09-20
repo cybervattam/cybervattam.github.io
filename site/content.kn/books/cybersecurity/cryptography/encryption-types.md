@@ -9,4 +9,4 @@ extensions:
 ---
 #### ಗೂಢಲಿಪೀಕರಣವನ್ನು ಕೆಳಗಿನ ಮೂರು ವಿಧಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಇವುಗಳ ಕುರಿತು ಮುಂದಿನ ಪುಟಗಳಲ್ಲಿ ವಿವರವಾಗಿ ನೋಡಬಹುದು.
 
-![Encryption Types](/images/cryptography-ta/encryption-types-ta.svg "Encryption Types")
+![Encryption Types](/images/en/cybersecurity/cryptography/encryption-types.png "Encryption Types")

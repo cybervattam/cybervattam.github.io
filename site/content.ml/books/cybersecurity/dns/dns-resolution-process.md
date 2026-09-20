@@ -7,7 +7,7 @@ weight: 3
 
 ### DNS അന്വേഷണ പരിഹാര പ്രക്രിയ
 
-<img src="images/dns-ta/dns-resolution-process-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-resolution.png">
 
 ഒരു ക്ലയന്റ് ഡൊമെയ്ൻ നാമം ആവശ്യപ്പെടുമ്പോൾ DNS അന്വേഷണം സാധാരണയായി ഈ ഘട്ടങ്ങളിലൂടെ കടന്നുപോകുന്നു:
 

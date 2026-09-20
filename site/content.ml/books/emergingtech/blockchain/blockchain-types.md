@@ -21,15 +21,15 @@ weight: 3
     - Consortium Blockchain
         - തിരഞ്ഞെടുത്ത നോഡുകൾ സ്ഥാപനത്തിന്റെ പേരിൽ ആശയവിനിമയം നടത്തുന്നു.
 
-<img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-types.png" width=50%>
 
 #### __പൊതു ബ്ലോക്ക്ചെയിനുകൾ__
 പൊതു ബ്ലോക്ക്ചെയിനിൽ ചേരുന്നതിന് നിയന്ത്രണമില്ല. ആർക്കും ഇടപാട് ലെഡ്ജർ പരിപാലിക്കാനും വാലിഡേറ്ററാകാനും കഴിയും; അതായത് കോൺസെൻസസ് പ്രോട്ടോക്കോളിൽ പങ്കെടുക്കാം.
 
 പലപ്പോഴും വാലിഡേറ്റർമാരെ സാമ്പത്തിക പ്രോത്സാഹനങ്ങളിലൂടെ പ്രേരിപ്പിക്കുന്നു. ഉദാഹരണത്തിന്, അവർ Proof of Work നിർവഹിക്കേണ്ടി വരാം.
 
-<img src="images/logos/bitcoin-logo.svg"> <br>
-<img src="images/logos/ethereum-logo.svg" width=20%>
+<img src="images/shared/logos/bitcoin-logo.svg"> <br>
+<img src="images/shared/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
@@ -40,13 +40,13 @@ weight: 3
 
 അക്കൗണ്ടിംഗും രേഖസംരക്ഷണവും ശരിയായി നടക്കുകയും അതേസമയം സ്വയംഭരണവും സെൻസിറ്റീവ് ഡാറ്റയുടെ സംരക്ഷണവും ഉറപ്പാക്കുകയും ചെയ്യണമെന്നാണ് ബിസിനസുകളുടെ ആഗ്രഹം. ഈ കാരണങ്ങളാൽ ബിസിനസുകൾ പലപ്പോഴും സ്വകാര്യ ബ്ലോക്ക്ചെയിനുകളാണ് തിരഞ്ഞെടുക്കുന്നത്.
 
-<img src="images/logos/hyperledger-fabric-logo.svg" width=20%> <br>
-<img src="images/logos/quorum-logo.svg" width=20%>
+<img src="images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
+<img src="images/shared/logos/quorum-logo.svg" width=20%>
 
 <br>
 
 #### __കൺസോർഷ്യം / ഫെഡറേറ്റഡ് ബ്ലോക്ക്ചെയിനുകൾ__
 കൺസോർഷ്യം ബ്ലോക്ക്ചെയിൻ അർധ-വികേന്ദ്രീകൃതമാണ്. സ്വകാര്യ ബ്ലോക്ക്ചെയിൻ പോലെ ഇതിലെ ബ്ലോക്കുകൾ ആക്സസ് ചെയ്യാൻ അനുമതി ആവശ്യമാണ്. എന്നാൽ ഈ ചെയിൻ നിരവധി സ്ഥാപനങ്ങളുടെ നിയന്ത്രണത്തിലാണ്; തിരഞ്ഞെടുത്ത പങ്കാളികൾക്ക് മാത്രമേ ഡാറ്റ വായിക്കാനും കോൺസെൻസസ് പ്രോട്ടോക്കോൾ പ്രവർത്തിപ്പിക്കാനും അനുമതിയുള്ളൂ.
 
-<img src="images/logos/corda-logo.svg"> <br>
-<img src="images/logos/ripple-logo.svg" width=15%>
+<img src="images/shared/logos/corda-logo.svg"> <br>
+<img src="images/shared/logos/ripple-logo.svg" width=15%>

@@ -7,4 +7,4 @@ weight: 13
 
 ### सर्टिफिकेट आधारित प्रमाणीकरण (Certificate Based Authentication)
 
-<img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

@@ -9,7 +9,7 @@ extensions:
 ---
 #### എൻക്രിപ്ഷനെ മൂന്ന് പ്രധാന തരങ്ങളായി വിഭജിക്കാം. അവ താഴെ വിശദമായി പരിചയപ്പെടുത്തുന്നു.
 
-![Encryption Types](/images/cryptography-ta/encryption-types-ta.svg "Encryption Types")
+![Encryption Types](/images/en/cybersecurity/cryptography/encryption-types.png "Encryption Types")
 
 ### 1. സിമെട്രിക് എൻക്രിപ്ഷൻ
 

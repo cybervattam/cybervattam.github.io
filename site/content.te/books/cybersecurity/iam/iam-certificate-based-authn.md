@@ -13,4 +13,4 @@ weight: 13
 
 సర్టిఫికెట్‌లు సాధారణంగా పబ్లిక్/ప్రైవేట్ కీ జంటతో కట్టుబడి ఉంటాయి. పబ్లిక్ కీ సర్వర్‌కి అందుబాటులో ఉంటుంది, అయితే ప్రైవేట్ కీ ఆ పరికరం లేదా వినియోగదారుడికి మాత్రమే ఉంటుంది.
 
-<img src="images/iam-ta/iam-certificate-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

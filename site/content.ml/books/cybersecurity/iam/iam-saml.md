@@ -16,4 +16,4 @@ XML അടിസ്ഥാനമാക്കിയുള്ള സിംഗിൾ
 
 ഇരുകക്ഷികൾക്കും പരസ്പര വിവരങ്ങൾ ലഭിച്ച ശേഷം അവ അതനുസരിച്ച് ക്രമീകരിക്കുന്നു.
 
-<img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>

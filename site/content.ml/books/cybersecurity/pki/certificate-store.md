@@ -9,12 +9,12 @@ weight: 5
 
 സ്ഥിരമായി വിശ്വസിക്കുന്ന റൂട്ട് സർട്ടിഫിക്കറ്റുകളുടെ ശേഖരമാണ് ട്രസ്റ്റ് സ്റ്റോർ.
 
-<img src="/images/pki-ta/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" >
 
 ഓപ്പറേറ്റിംഗ് സിസ്റ്റങ്ങളും വെബ് ബ്രൗസറുകളും നിർമ്മിക്കുന്ന കമ്പനികളാണ് ഇവ പരിപാലിക്കുന്നത്.
 
-<img src="/images/pki-ta/certificate-stores.png" >
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
 
 ### ഇന്ത്യയിലെ ലൈസൻസുള്ള സർട്ടിഫൈയിംഗ് അതോറിറ്റികൾ
 
-<img src="/images/pki-ta/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png">

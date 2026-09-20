@@ -7,13 +7,13 @@ weight: 2
 
 ### डिजिटल प्रमाणपत्र / Digital Certificate
 
-<img src="/images/pki-ta/digital-certificate-sample.png">
+<img src="/images/shared/screenshots/digital-certificate-sample.png">
 
 डिजिटल प्रमाणपत्र को एक इलेक्ट्रॉनिक पहचान दस्तावेज़ माना जा सकता है। इसे X.509 प्रमाणपत्र भी कहते हैं। डिजिटल प्रमाणपत्र सार्वजनिक कुंजी और उसके स्वामी के बीच संबंध स्थापित करता है, और यह Certificate Authority द्वारा सत्यापित होकर स्वामी को दिया जाता है। प्रमाणपत्र का स्वामी इसे सुरक्षित रूप से रखे, क्योंकि यह एक निश्चित अवधि तक मान्य होता है। इसका जीवनचक्र PKI द्वारा प्रबंधित किया जाता है।
 
 ### डिजिटल प्रमाणपत्र प्रारूप / Digital Certificate Formats
 
-<img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
 
 #### PEM format (Privacy Enhanced Mail) / पीईएम प्रारूप
 यह X.509 प्रमाणपत्रों, प्रमाणपत्र अनुरोधों और कुंजी-आधारित डेटा के लिए सबसे सामान्य प्रारूप है। अधिकांश CA Base64 ASCII में एन्कोडेड प्रमाणपत्र प्रदान करते हैं।
@@ -32,7 +32,7 @@ weight: 2
 CA अक्सर इस प्रारूप का उपयोग ग्राहकों को प्रमाणपत्र शृंखला प्रदान करने के लिए करते हैं।
 
 #### DER format – Distinguished Encoding Rule
-यह бинар रूप में एन्कोडेड X.509 प्रमाणपत्रों और निजी कुंजियों के लिए उपयोग किया जाने वाला प्रारूप है।
+यह द्विआधारी रूप में एन्कोडेड X.509 प्रमाणपत्रों और निजी कुंजियों के लिए उपयोग किया जाने वाला प्रारूप है।
 
 इस प्रारूप के फाइल प्रकार .der या .cer हो सकते हैं, और यह आमतौर पर Java environments में उपयोग किया जाता है।
 

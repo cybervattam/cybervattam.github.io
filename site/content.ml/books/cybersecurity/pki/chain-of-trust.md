@@ -9,7 +9,7 @@ weight: 4
 
 ട്രസ്റ്റ് ചെയിനിൽ നിരവധി ഘടകങ്ങളുണ്ട്.
 
-<img src="/images/pki-ta/chain-of-trust-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
 
 ആദ്യം ട്രസ്റ്റ് ആങ്കർ അഥവാ റൂട്ട് സർട്ടിഫൈയിംഗ് അതോറിറ്റി ഉണ്ട്.
 
@@ -19,7 +19,7 @@ weight: 4
 
 അവസാനം വെബ്‌സൈറ്റ്, സ്ഥാപനം, വ്യക്തി തുടങ്ങിയവയ്ക്ക് നൽകുന്ന എൻഡ്-എന്റിറ്റി സർട്ടിഫിക്കറ്റ് ഉണ്ടായിരിക്കും.
 
-<img src="/images/pki-ta/digital-certificate-chain-ta.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
 
 ### ട്രസ്റ്റ് ചെയിൻ പരിശോധന
 

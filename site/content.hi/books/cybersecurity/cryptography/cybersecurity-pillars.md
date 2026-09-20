@@ -2,12 +2,12 @@
 title: 'सुरक्षा के स्तंभ'
 date: 2025-06-15
 draft: false
-weight: 1
+weight: 2
 extensions:
     - katex
 ---
 
-![सुरक्षा त्रिकूट](/images/cryptography-ta/security-triad-ta.svg "सुरक्षा त्रिकूट")
+![सुरक्षा त्रिकूट](/images/en/cybersecurity/cryptography/security-triad.png "सुरक्षा त्रिकूट")
 
 ### गोपनीयता
 

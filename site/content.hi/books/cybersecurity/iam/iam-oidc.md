@@ -14,4 +14,4 @@ JWT एक मानक है जिसका उपयोग Identity Provider
 
 संचार शुरू करने से पहले, Relying Party और Identity Provider को metadata साझा करना पड़ता है। दोनों पक्षों को संभावित scopes पर सहमति देनी होती है। Identity Provider रelying party को एक Client Secret और Client ID प्रदान करता है, और relying party को endpoint URL साझा करना पड़ता है ताकि वह कोड और टोकन प्राप्त कर सके।
 
-<img src="images/iam-ta/iam-oidc-auth-process-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70%>

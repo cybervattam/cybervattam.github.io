@@ -23,4 +23,4 @@ __इवेंट्स__ - ब्लॉकचेन में महत्व�
 __सदस्यता__ - अनुमति-आधारित ब्लॉकचेन नेटवर्क में सदस्यता सेवाएँ पहचानों को प्रमाणित, अधिकृत और प्रबंधित करती हैं।
 
 
-<img src="images/blockchain-ta/blockchain-hyperledger-components-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>

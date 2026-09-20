@@ -7,7 +7,7 @@ weight: 2
 
 ### ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ്
 
-<img src="/images/pki-ta/digital-certificate-sample.png">
+<img src="/images/shared/screenshots/digital-certificate-sample.png">
 
 ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റിനെ ഇലക്ട്രോണിക് ഐഡന്റിറ്റി രേഖയായി കണക്കാക്കാം. X.509 സർട്ടിഫിക്കറ്റ് എന്നും ഇത് അറിയപ്പെടുന്നു. ഒരു പൊതു കീയും അതിന്റെ ഉടമയും തമ്മിലുള്ള ബന്ധം ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് സ്ഥാപിക്കുന്നു.
 
@@ -15,7 +15,7 @@ weight: 2
 
 ### ഡിജിറ്റൽ സർട്ടിഫിക്കറ്റ് ഫോർമാറ്റുകൾ
 
-<img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
 
 #### PEM ഫോർമാറ്റ് (Privacy-Enhanced Mail)
 X.509 സർട്ടിഫിക്കറ്റുകൾക്കും സർട്ടിഫിക്കറ്റ് സൈനിംഗ് അഭ്യർത്ഥനകൾക്കും ക്രിപ്റ്റോഗ്രാഫിക് കീകൾക്കുമുള്ള ഏറ്റവും സാധാരണ ഫോർമാറ്റാണിത്. സർട്ടിഫിക്കറ്റുകൾ സാധാരണയായി Base64 ASCII രൂപത്തിൽ എൻകോഡ് ചെയ്യുന്നു. ഫയൽ എക്സ്റ്റൻഷനുകൾ .pem, .crt, .cer, .key എന്നിവയാണ്.

@@ -17,4 +17,4 @@ SAML అనేది XML ఆధారిత SSO ప్రోటోకాల్. 
 
 రెండు వనరులు ఈ వివరాలను అంగీకరించిన తర్వాత, సరైన డేటా మార్పిడి మరియు ధృవీకరణ నిర్వహించబడుతుంది.
 
-<img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>

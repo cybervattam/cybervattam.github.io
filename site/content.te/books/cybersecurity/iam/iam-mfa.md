@@ -17,4 +17,4 @@ weight: 11
 
 ఈ కారకాలు కలిసినప్పుడు వినియోగదారుకు బలమైన ధృవీకరణ లభిస్తుంది.
 
-<img src="images/iam-ta/iam-mfa-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-mfa.png" width=50%>

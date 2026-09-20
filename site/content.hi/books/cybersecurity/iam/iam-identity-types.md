@@ -12,7 +12,7 @@ weight: 2
 * B2B पहचानें
 * B2C पहचानें
 
-<img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
 
 #### B2B पहचानें (B2B / Workforce Identity)
 ऐसी पहचानें जो किसी व्यवसाय संगठन के संचालन के लिए आवश्यक होती हैं, इस श्रेणी में आती हैं। इनमें आंतरिक संचालन या अन्य संस्थाओं के साथ व्यापार के लिए आवश्यक पहचानें शामिल होती हैं। उदाहरण:

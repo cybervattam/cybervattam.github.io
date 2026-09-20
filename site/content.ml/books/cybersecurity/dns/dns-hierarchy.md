@@ -21,7 +21,7 @@ anycast റൂട്ടിംഗ് ഉപയോഗിച്ച് ആഗോള�
 
 ജനറിക് ടോപ്പ്-ലെവൽ ഡൊമെയ്‌നുകൾ (gTLD: .com, .net), കൺട്രി-കോഡ് ടോപ്പ്-ലെവൽ ഡൊമെയ്‌നുകൾ (ccTLD: .in, .uk) എന്നിവ ഉദാഹരണങ്ങളാണ്.
 
-<img src="images/dns-ta/dns-tld-ta.png">
+<img src="/images/en/cybersecurity/dns/dns-tld.png">
 
 #### ഓതറിറ്റേറ്റീവ് നെയിം സെർവർ
 

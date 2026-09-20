@@ -18,6 +18,6 @@ Ensuring right entities have right access to right resources at the right time f
 * पहुंच प्रबंधन (Access Management)
 * विशेषाधिकार प्राप्त पहुंच प्रबंधन (Privileged Access Management)
 
-<img src="images/iam-ta/iam-intro-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-intro.png" width=50%>
 
 इनमें से प्रत्येक क्षेत्र को विस्तार से समझा जा सकता है।

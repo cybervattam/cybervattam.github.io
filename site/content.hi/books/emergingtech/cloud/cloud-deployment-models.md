@@ -7,7 +7,7 @@ weight: 4
 
 ## __क्लाउड कंप्यूटिंग परिनियोजन मॉडल / Cloud Deployment Models__
 <br>
-<img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-deployment-models.png">
 
 <br>
 <br>

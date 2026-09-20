@@ -7,7 +7,7 @@ weight: 3
 
 ### ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯದ ಘಟಕಗಳು (PKI Components)
 
-<img src="/images/pki-ta/pki-components-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-components.png">
 
 * #### ನೋಂದಣಿ ಅಧಿಕಾರಿಗಳು (Registration Authority)
     * ಪ್ರಮಾಣಪತ್ರಕ್ಕಾಗಿ ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ವ್ಯಕ್ತಿಗಳು ಮತ್ತು ಸಂಸ್ಥೆಗಳ ಗುರುತನ್ನು ಪರಿಶೀಲಿಸುವ ಸೇವೆಯನ್ನು ಒದಗಿಸುತ್ತಾರೆ.

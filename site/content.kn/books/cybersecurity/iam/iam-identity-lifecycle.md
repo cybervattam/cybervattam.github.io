@@ -5,23 +5,23 @@ draft: false
 weight: 3
 ---
 
- ಗುರುತಿನ ಜೀವನಚಕ್ರ (ಜಾಯ್ನರ್, ಮೂವರ್, ಲೀವರ್ - )
+### ಗುರುತಿನ ಜೀವನಚಕ್ರ (ಜಾಯ್ನರ್, ಮೂವರ್, ಲೀವರ್ - JML)
 
-<img src="images/iam-ta/iam-identity-lifecycle-ta.svg" width=50%>
-
-
-
- ಒಂದೇ ಜೀವನ ಚಕ್ರ - ಜಾಯ್ನರ್ / ಜಾಯ್ನರ್
-<img src="images/iam-ta/iam-joiner-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-identity-lifecycle.png" width=50%>
 
 
 
-
- ಒಂದೇ ಜೀವನ ಚಕ್ರ - ಮೂವರ್ಸ್ / ಮೂವರ್
-<img src="images/iam-ta/iam-mover-ta.svg" width=50%>
+#### ಗುರುತಿನ ಜೀವನಚಕ್ರ - ಜಾಯ್ನರ್
+<img src="images/en/cybersecurity/iam/iam-joiner.png" width=50%>
 
 
 
 
- ಗುರುತಿಸಬಹುದಾದ ಜೀವನ ಚಕ್ರ - ನಿರ್ಗಮನ / ಲೀವರ್
-<img src="images/iam-ta/iam-leaver-ta.svg" width=50%>
+#### ಗುರುತಿನ ಜೀವನಚಕ್ರ - ಮೂವರ್
+<img src="images/en/cybersecurity/iam/iam-mover.png" width=50%>
+
+
+
+
+#### ಗುರುತಿನ ಜೀವನಚಕ್ರ - ಲೀವರ್
+<img src="images/en/cybersecurity/iam/iam-leaver.png" width=50%>

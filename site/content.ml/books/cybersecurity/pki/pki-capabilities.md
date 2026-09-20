@@ -9,10 +9,10 @@ weight: 6
 
 പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ ട്രസ്റ്റ് സർവീസുകൾ നൽകുന്നു.
 
-<img src="/images/pki-ta/trust-services-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-trust-services.png">
 
 ലളിതമായി പറഞ്ഞാൽ, വ്യക്തികൾ, കമ്പ്യൂട്ടറുകൾ, സ്ഥാപനങ്ങൾ എന്നിവയുടെ പ്രവർത്തനങ്ങളിലും ഔട്ട്പുട്ടുകളിലും വിശ്വാസം സ്ഥാപിക്കാൻ ഇത് സഹായിക്കുന്നു.
 
 ട്രസ്റ്റ് സർവീസുകളുടെ ലക്ഷ്യങ്ങൾ താഴെപ്പറയുന്ന കഴിവുകളെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്.
 
-<img src="/images/pki-ta/pki-capabilities-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-capabilities.png">

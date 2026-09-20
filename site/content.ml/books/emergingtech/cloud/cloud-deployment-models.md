@@ -7,7 +7,7 @@ weight: 4
 
 ## __ക്ലൗഡ് വിന്യാസ മാതൃകകൾ__
 <br>
-<img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-deployment-models.png">
 
 <br>
 <br>

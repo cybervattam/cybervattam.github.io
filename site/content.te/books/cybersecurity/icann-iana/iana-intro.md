@@ -8,7 +8,7 @@ weight: 2
 
 ### ఇంటర్నెట్ అసైన్‌డ్ నంబర్స్ అథారిటీ (Internet Assigned Numbers Authority)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
 ఇంటర్నెట్ అసైన్‌డ్ నంబర్స్ అథారిటీ (IANA) ప్రపంచవ్యాప్తంగా ఉన్న డొమైన్ నేమ్‌లు, సంఖ్య వనరులు మరియు ప్రోటోకోల్ కేటాయింపులను పర్యవేక్షించే ఒక సాంప్రతాసhtubా సంస్థగా ఉంది.
 

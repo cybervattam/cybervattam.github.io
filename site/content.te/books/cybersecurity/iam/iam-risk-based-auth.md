@@ -11,4 +11,4 @@ weight: 12
 
 సంస్థ యొక్క భద్రతా విధానాలు ఈ లెక్కించిన రిస్క్ స్కోర్ ఆధారంగా అవసరమయ్యే చర్యను నిర్ణయిస్తాయి.
 
-<img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

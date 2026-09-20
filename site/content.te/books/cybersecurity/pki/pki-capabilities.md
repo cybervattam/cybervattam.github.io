@@ -9,12 +9,12 @@ weight: 6
 
 PKI ప్రధానంగా “ట్రస్ట్ సేవలు” (Trust Services)ను అందిస్తుంది.
 
-<img src="/images/pki-ta/trust-services-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-trust-services.png">
 
 సాధారణంగా PKI వ్యక్తులు, పరికరాలు మరియు సంస్థల చర్యలను నమ్మేందుకు సహాయపడుతుంది.
 
 ట్రస్ట్ సేవల యొక్క ముఖ్య లక్ష్యాలు ఈ క్రింది సామర్థ్యాల ఆధారంగా నిర్వచించబడతాయి:
 
-<img src="/images/pki-ta/pki-capabilities-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-capabilities.png">
 
 PKI ఈ సామర్థ్యాలతో క్రిప్టోగ్రాఫిక్ ఐడెంటిటీ, డిజిటల్ సిగ్నేచర్, ఎన్క్రిప్షన్, అకౌంటింగ్ మరియు ధృవీకరణను అందిస్తుంది.

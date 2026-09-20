@@ -7,7 +7,7 @@ weight: 2
 
 ### IANA (Internet Assigned Numbers Authority)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
 IANA एक मानक संगठन है जो वैश्विक डोमेन नाम, नंबर संसाधन और प्रोटोकॉल असाइनमेंट की निगरानी करता है।
 

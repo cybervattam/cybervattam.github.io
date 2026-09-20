@@ -8,7 +8,7 @@ weight: 1
 
 ### ఇంటర్నెట్ పేర్లు మరియు సంఖ్యల కోసం కార్పొరేషన్ (Internet Corporation for Assigned Names and Numbers)
 
-<img src="images/logos/icann-logo.svg">
+<img src="images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

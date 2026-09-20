@@ -15,4 +15,4 @@ OIDCలో ఒక అప్లికేషన్ ఉపయోగించవల�
 
 ముందుగా, రెండు పార్టీలూ ఒకే Metadata గురించి అర్థం చేసుకోవాలి. IDP, Relying Partyకి క్లయింట్ ID మరియు రహస్య సంకేతాన్ని అందిస్తుంది. తర్వాత అప్లికేషన్, token endpoint మరియు redirect URIలను ధృవీకరిస్తుంది.
 
-<img src="images/iam-ta/iam-oidc-auth-process-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70%>

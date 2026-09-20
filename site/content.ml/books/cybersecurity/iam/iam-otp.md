@@ -19,7 +19,7 @@ HOTP ഇവന്റ് അടിസ്ഥാനമാക്കിയുള്�
 
 അടുത്ത വൺ-ടൈം പാസ്‌വേഡ് സൃഷ്ടിക്കുന്നതുവരെ മുമ്പത്തെ പാസ്‌വേഡ് സാധുവായിരിക്കും.
 
-<img src="images/iam-ta/iam-hotp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-hotp.png" width=25%>
 
 #### __TOTP__
 
@@ -29,4 +29,4 @@ TOTP അൽഗോരിതം കൗണ്ടറിന് പകരം സമയ
 
 ഓരോ പാസ്‌വേഡും സാധുവായിരിക്കുന്ന സമയദൈർഘ്യത്തെ ടൈം സ്റ്റെപ്പ് എന്ന് വിളിക്കുന്നു.
 
-<img src="images/iam-ta/iam-totp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-totp.png" width=25%>

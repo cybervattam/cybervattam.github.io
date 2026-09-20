@@ -12,7 +12,7 @@ weight: 2
 * ವಣಿಕಮ್-ವಣಿಕಮ್ ಅಟೈಯಾಳಙ್ಕಳ್
 * ವಣಿಕಮ್-ನುಕರ್ವೋರ್ ಅಟೈಯಾಳಙ್ಕಳ್
 
-<img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
 
 #### ವಣಿಕಮ್-ವಣಿಕಮ್ ಅಟೈಯಾಳಙ್ಕಳ್ (B2B / Workforce Identity)
 ಒರು ವಣಿಕ ನಿರುವನತ್ತಿನ್ ಸೆಯಲ್ಪಾಟ್ಟಿರ್ಕು ತೇವೈಯಾನ ಅಟೈಯಾಳಙ್ಕಳ್ ಇನ್ತ ವಕೈಯಿನ್ ಕೀಳ್ ವರುಮ್. ಇವೈ ಸೊನ್ತ ಸೆಯಲ್ಪಾಟ್ಟಿರ್ಕೋ ಅಲ್ಲತು ಮರ್ರ ನಿರುವನತ್ತುಟನ್ ವರ್ತ್ತಕಮ್ ಸೆಯ್ಯ ಉತವುಮ್ ಅಟೈಯಾಳಙ್ಕಳ್. ಉತಾರಣಮಾಕ,

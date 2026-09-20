@@ -7,7 +7,7 @@ weight: 3
 
 ### పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ భాగాలు (PKI components)
 
-<img src="/images/pki-ta/pki-components-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-components.png">
 
 * #### రిజిస్టేషన్ అథారిటీ (Registration Authority)
     * సర్టిఫికెట్ కోసం దరఖాస్తు చేసే వ్యక్తులు మరియు సంస్థల గుర్తింపును ధృవీకరించే సేవ.

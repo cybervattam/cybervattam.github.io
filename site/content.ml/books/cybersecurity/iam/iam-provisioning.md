@@ -15,4 +15,4 @@ weight: 4
 
 പ്രൊവിഷനിംഗ് ആപ്ലിക്കേഷൻ ഓതറൈസേഷൻ വിവരങ്ങൾ അയയ്ക്കാം, അല്ലെങ്കിൽ അതിൽ നിന്ന് ലഭിക്കുന്ന ഐഡന്റിറ്റി റോൾ മാപ്പിംഗ് ഉപയോഗിച്ച് ടാർഗറ്റ് ആപ്ലിക്കേഷൻ ഓതറൈസേഷൻ നടത്താം.
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

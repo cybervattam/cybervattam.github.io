@@ -21,7 +21,7 @@ weight: 7
 
 ഉപയോക്തൃ ഡയറക്ടറിയുമായി, ഉദാഹരണത്തിന് Active Directoryയുമായി, നേരിട്ട് ആശയവിനിമയം നടത്തി പാസ്‌വേഡ് റീസെറ്റും അക്കൗണ്ട് അൺലോക്കും ചെയ്യുന്നു.
 
-<img src="images/iam-ta/iam-sspr-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-sspm.png" width=70%>
 
 <br>
 
@@ -33,7 +33,7 @@ weight: 7
 
 ഈ മാറ്റങ്ങൾ മുൻകൂട്ടി നിർവചിച്ച IAM നിയമ സെറ്റുകൾ അനുസരിച്ചാണ് നടപ്പാക്കുന്നത്.
 
-<img src="images/iam-ta/iam-ssam-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-ssar.png" width=70%>
 
 <br>
 <br>
@@ -43,4 +43,4 @@ weight: 7
 
 ഹെൽപ് ഡെസ്കിനെയോ പിന്തുണാ ടീമിനെയോ ബന്ധപ്പെടാതെ ഉപയോക്താക്കൾക്ക് പേര്, ഫോൺ നമ്പർ, വിലാസം, ചിത്രം തുടങ്ങിയ പ്രൊഫൈൽ വിവരങ്ങൾ മാറ്റാൻ അനുവദിക്കുന്ന പ്രക്രിയയാണ് സ്വയം സേവന പ്രൊഫൈൽ മാനേജ്മെന്റ്.
 
-<img src="images/iam-ta/iam-sspm-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-sspc.png" width=70%>

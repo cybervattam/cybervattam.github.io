@@ -7,7 +7,7 @@ weight: 2
 
 ### ಇಂಟರ್ನೆಟ್ ಅಸೈನ್‌ಡ್ ನಂಬರ್ಸ್ ಅಥಾರಿಟಿ (Internet Assigned Numbers Authority)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
 IANA ಜಾಗತಿಕ ಡೊಮೇನ್ ಹೆಸರುಗಳು, ಸಂಖ್ಯೆ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ಪ್ರೋಟೋಕಾಲ್ ನಿಯೋಜನೆಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವ ಮಾನದಂಡ ಸಂಸ್ಥೆಯಾಗಿದೆ. ಹಿಂದೆ ಇದು ಅಮೆರಿಕ ಸರ್ಕಾರದ ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿತ್ತು. ಈಗ IANA ಅನ್ನು Internet Corporation for Assigned Names and Numbers (ICANN) ಎಂಬ ಅಂತರರಾಷ್ಟ್ರೀಯ, ಲಾಭರಹಿತ ಸಾರ್ವಜನಿಕ ಹಿತಾಸಕ್ತಿ ಸಂಸ್ಥೆ ನಿರ್ವಹಿಸುತ್ತದೆ.
 

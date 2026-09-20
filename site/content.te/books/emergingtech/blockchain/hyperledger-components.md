@@ -22,4 +22,4 @@ __ఇవెంట్స్__ - బ్లాక్‌చైన్‌లో ము
 __మెంబర్స్__ - అనుమతి ఆధారిత బ్లాక్‌చైన్ నెట్‌వర్క్‌లో, సభ్యుల సేవలు గుర్తింపులను ధృవీకరిస్తుంది, ప్రామాణీకరిస్తుంది మరియు నిర్వహిస్తుంది.
 
 
-<img src="images/blockchain-ta/blockchain-hyperledger-components-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>

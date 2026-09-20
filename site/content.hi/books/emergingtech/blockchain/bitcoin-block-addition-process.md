@@ -7,4 +7,4 @@ weight: 4
 
 ### बिटकॉइन ब्लॉकचेन में ब्लॉक जोड़ने की प्रक्रिया / Bitcoin Blockchain Block Addition Process
 
-<img src="images/blockchain-ta/blockchain-bitcoin-block-addition-process-ta.svg" width=70%>
+<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-addition-process.png" width=70%>

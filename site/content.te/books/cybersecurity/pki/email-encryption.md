@@ -5,6 +5,8 @@ draft: false
 weight: 11
 ---
 
+<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+
 ### ఇమెయిల్ ఎన్క్రిప్షన్ | Email Encryption
 
 #### ఇమెయిల్ ధృవీకరణ / Email Validation

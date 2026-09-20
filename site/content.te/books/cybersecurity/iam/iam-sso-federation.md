@@ -7,7 +7,7 @@ weight: 14
 
 ### SSO / ఫెడరేషన్ (SSO / Federation)
 
-<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### ఫెడరేషన్ (విభిన్న డొమైన్లు)
 

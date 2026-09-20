@@ -7,7 +7,7 @@ weight: 1
 
 ### അസൈൻഡ് നെയിംസ് ആൻഡ് നമ്പേഴ്സിനായുള്ള ഇന്റർനെറ്റ് കോർപ്പറേഷൻ (ICANN)
 
-<img src="images/logos/icann-logo.svg">
+<img src="images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

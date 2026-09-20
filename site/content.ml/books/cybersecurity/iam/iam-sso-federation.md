@@ -7,7 +7,7 @@ weight: 14
 
 ### സിംഗിൾ സൈൻ-ഓൺ / ഫെഡറേഷൻ (SSO/Federation)
 
-<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### ഫെഡറേഷൻ (വ്യത്യസ്ത ഡൊമെയ്‌നുകൾ)
 

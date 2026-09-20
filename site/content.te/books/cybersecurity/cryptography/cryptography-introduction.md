@@ -2,7 +2,7 @@
 title: 'క్రిప్టోగ్రఫీ పరిచయం'
 date: 2025-06-15
 draft: false
-weight: 2
+weight: 1
 ---
 
 

@@ -8,7 +8,7 @@ weight: 2
 ## _ క్లౌడ్ కంప్యూటింగ్ యొక్క ముఖ్య లక్షణాలు _
 
 <br>
-<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

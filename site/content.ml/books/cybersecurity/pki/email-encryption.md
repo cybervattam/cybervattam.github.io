@@ -5,6 +5,8 @@ draft: false
 weight: 11
 ---
 
+<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+
 ### ഇമെയിൽ എൻക്രിപ്ഷൻ
 
 #### ഇമെയിൽ പരിശോധന

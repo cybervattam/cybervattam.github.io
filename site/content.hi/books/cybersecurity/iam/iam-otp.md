@@ -17,7 +17,7 @@ HOTP एल्गोरिद्म किसी घटना (event) पर आ
 
 जब तक अगला वन-टाइम पासवर्ड उत्पन्न नहीं हो जाता, तब तक पिछला उत्पन्न पासवर्ड मान्य रहता है।
 
-<img src="images/iam-ta/iam-hotp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-hotp.png" width=25%>
 
 #### __TOTP__
 (TOTP) time-based OTP यानी समय आधारित वन-टाइम पासवर्ड को दर्शाता है।
@@ -26,4 +26,4 @@ TOTP एल्गोरिद्म चलने वाले कारक क�
 
 हर पासवर्ड के वैध रहने की अवधि को टाइमस्टेप (timestep) कहा जाता है।
 
-<img src="images/iam-ta/iam-totp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-totp.png" width=25%>

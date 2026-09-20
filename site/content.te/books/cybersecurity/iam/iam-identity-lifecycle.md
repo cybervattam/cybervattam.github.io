@@ -9,22 +9,22 @@ weight: 3
 
 గుర్తింపు జీవితచక్రం అనేది ఒక వ్యక్తి లేదా ఖాతా సమూహం సంస్థలోకి ప్రవేశించడం, స్థానభ్రంశం చెందడం మరియు బయటకు వెళ్లడం వంటి దశల ద్వారా మార్పులను నిర్వహించే విధానం.
 
-<img src="images/iam-ta/iam-identity-lifecycle-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-identity-lifecycle.png" width=50%>
 
 #### గుర్తింపు జీవితచక్రం - జాయినర్ / Joiner
 
 కొత్త ఉద్యోగి లేదా కొత్త ఖాతా సంస్థలో చేర్చబడినప్పుడు, అవసరమైన గమ్యస్థానాలు, ప్రాప్యతలు మరియు రోల్‌లు కల్పించబడతాయి.
 
-<img src="images/iam-ta/iam-joiner-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-joiner.png" width=50%>
 
 #### గుర్తింపు జీవితచక్రం - మోవర్ / Mover
 
 వారు ఒక విభాగం, స్థానాన్ని లేదా అవసరాన్ని మార్చుకున్నప్పుడు వారి ప్రాప్యతలు, అప్లికేషన్‌లు మరియు బాధ్యతల ప్రకారం సర్దుబాటు చేయబడతాయి.
 
-<img src="images/iam-ta/iam-mover-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-mover.png" width=50%>
 
 #### గుర్తింపు జీవితచక్రం - లీవర్ / Leaver
 
 వ్యక్తి సంస్థ నుంచి నిష్క్రమించిన తర్వాత, ఖాతా అచేతనమైనది చేయబడుతుంది, ప్రాప్యతలు తీసివేయబడతాయి, మరియు భద్రతా నిబంధనలు పాటింపబడతాయి.
 
-<img src="images/iam-ta/iam-leaver-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-leaver.png" width=50%>

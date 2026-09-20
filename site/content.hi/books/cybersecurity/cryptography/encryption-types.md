@@ -9,4 +9,4 @@ extensions:
 ---
 #### एन्क्रिप्शन को मुख्य रूप से तीन प्रकारों में बाँटा जाता है। इन्हें आगे विस्तार से समझाया जाएगा।
 
-![एन्क्रिप्शन के प्रकार](/images/cryptography-ta/encryption-types-ta.svg "एन्क्रिप्शन के प्रकार")
+![एन्क्रिप्शन के प्रकार](/images/en/cybersecurity/cryptography/encryption-types.png "एन्क्रिप्शन के प्रकार")

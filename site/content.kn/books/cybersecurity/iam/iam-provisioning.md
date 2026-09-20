@@ -15,4 +15,4 @@ weight: 4
 
 ಅಙ್ಕೀಕಾರತ್ ತಕವಲ್ಕಳೈ ಅತಿಕಾರಮ್ ವಳಙ್ಕಲ್ ಪಯನ್ಪಾಟು ಅನುಪ್ಪಲಾಮ್ ಅಲ್ಲತು ಇಲಕ್ಕು ಪಯನ್ಪಾಟು ಅತಿಕಾರಮ್ ವಳಙ್ಕಲ್ ಪಯನ್ಪಾಟು ಅನುಪ್ಪಿಯ ಅಟೈಯಾಳ ಪಾತ್ತಿರ ವರೈವೈ ಕೊಣ್ಟು ತನ್ ಅಙ್ಕೀಕಾರಮ್ ಸೆಯ್ಯಪ್ಪಟಲಾಮ್.
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

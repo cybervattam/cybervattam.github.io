@@ -7,4 +7,4 @@ weight: 7
 
 ### लेखांकन विधियाँ
 
-<img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>

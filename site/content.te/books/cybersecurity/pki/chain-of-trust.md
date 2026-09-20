@@ -11,4 +11,4 @@ weight: 4
 
 సర్టిఫికెట్‌ను అనుమతించడానికి ముందే, దీన్ని జారీ చేసిన CA పైన నమ్మకం, గడువు మరియు రద్దు స్థితి పరిశీలించబడతాయి.
 
-<img src="/images/pki-ta/chain-of-trust-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">

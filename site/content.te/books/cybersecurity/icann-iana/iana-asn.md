@@ -9,15 +9,15 @@ weight: 3
 
 ఇంటర్నెట్ అసైన్‌డ్ నంబర్స్ అథారిటీ (IANA) ఇంటర్నెట్ సంఖ్య వనరులు, అంటే ఇంటర్నెట్ ప్రోటోకోల్ చిరునామా స్పేస్ మరియు ఆటోనోమస్ సిస్టం నంబర్‌లను కేటాయించే బాధ్యతను ప్రాంతీయ ఇంటర్నెట్ రిజిస్ట్రీలు (Regional Internet Registry)కు అప్పగిస్తుంది. ప్రస్తుతం ARIN, LACNIC, RIPE NCC, AFRINIC మరియు APNIC అనే 5 ప్రాంతీయ ఇంటర్నెట్ రిజిస్ట్రీలు పని చేస్తున్నాయి.
 
-<img src="images/rir-map.svg" width=50%>
+<img src="images/shared/screenshots/rir-map.svg" width=50%>
 
 <br>
 
-<img src="images/logos/arin-logo.svg" width=10%>
-<img src="images/logos/lacnic-logo.svg" width=10%>
-<img src="images/logos/ripe-ncc-logo.svg" width=10%>
-<img src="images/logos/afrinic-logo.svg" width=10%>
-<img src="images/logos/apnic-logo.svg">
+<img src="images/shared/logos/arin-logo.svg" width=10%>
+<img src="images/shared/logos/lacnic-logo.svg" width=10%>
+<img src="images/shared/logos/ripe-ncc-logo.svg" width=10%>
+<img src="images/shared/logos/afrinic-logo.svg" width=10%>
+<img src="images/shared/logos/apnic-logo.svg">
 
 
 
@@ -27,7 +27,7 @@ weight: 3
 
 <br>
 
-<img src="images/logos/irinn-logo.png" width=10%>
+<img src="images/shared/logos/irinn-logo.png" width=10%>
 
 <br>
 

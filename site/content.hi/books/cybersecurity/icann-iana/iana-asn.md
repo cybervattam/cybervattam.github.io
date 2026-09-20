@@ -9,15 +9,15 @@ weight: 3
 
 IANA इंटरनेट नंबर संसाधनों, जैसे IP पता स्पेस और ASN, का आवंटन RIR (Regional Internet Registry) को देता है। वर्तमान में ARIN, LACNIC, RIPE NCC, AFRINIC और APNIC — कुल 5 RIR काम करते हैं।
 
-<img src="images/rir-map.svg" width=50%>
+<img src="images/shared/screenshots/rir-map.svg" width=50%>
 
 <br>
 
-<img src="images/logos/arin-logo.svg" width=10%>
-<img src="images/logos/lacnic-logo.svg" width=10%>
-<img src="images/logos/ripe-ncc-logo.svg" width=10%>
-<img src="images/logos/afrinic-logo.svg" width=10%>
-<img src="images/logos/apnic-logo.svg">
+<img src="images/shared/logos/arin-logo.svg" width=10%>
+<img src="images/shared/logos/lacnic-logo.svg" width=10%>
+<img src="images/shared/logos/ripe-ncc-logo.svg" width=10%>
+<img src="images/shared/logos/afrinic-logo.svg" width=10%>
+<img src="images/shared/logos/apnic-logo.svg">
 
 RIR सीधे IP पता स्पेस और ASN का प्रबंधन कर सकते हैं, या फिर National Internet Registry को यह जिम्मेदारी सौंप सकते हैं।
 
@@ -25,7 +25,7 @@ RIR सीधे IP पता स्पेस और ASN का प्रबं�
 
 <br>
 
-<img src="images/logos/irinn-logo.png" width=10%>
+<img src="images/shared/logos/irinn-logo.png" width=10%>
 
 <br>
 

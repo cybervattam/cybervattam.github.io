@@ -5,7 +5,7 @@ draft: false
 weight: 8
 ---
 
- ಗ್ರಾಹಕ ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ / ಗ್ರಾಹಕ ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ
+### ಗ್ರಾಹಕ ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ
 
 ಗ್ರಾಹಕರ ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ ಒಂದು ವಿಶೇಷ ರೀತಿಯ ಸಂಸ್ಥೆಯಾಗಿದೆ.
 
@@ -17,12 +17,12 @@ weight: 8
 
 <br>
 
-ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆಯ  ಮೂಲ ಘಟಕಗಳು /  ZX7QXZ
+#### ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆಯ ಮೂಲ ಘಟಕಗಳು
 
-<img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
- ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆ ಪ್ರಕ್ರಿಯೆಗಳು /  processes
+#### ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆಯ ಪ್ರಕ್ರಿಯೆಗಳು
 
-<img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

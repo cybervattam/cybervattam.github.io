@@ -11,4 +11,4 @@ weight: 12
 
 संगठन की नीतियाँ इस गणना किए गए जोखिम स्कोर के आधार पर आवश्यक कार्रवाई को परिभाषित करती हैं।
 
-<img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

@@ -8,7 +8,7 @@ weight: 3
 ## __क्लाउड कंप्यूटिंग सेवा मॉडल / Cloud Service Models__
 
 <br>
-<img src="images/cloud-ta/cloud-service-model-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
@@ -46,7 +46,7 @@ weight: 3
 
 <br>
 
-<img src="images/cloud-ta/cloud-shared-responsibility-model-ta.svg" width=75%>
+<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
 
 <br>
 <br>
@@ -55,6 +55,6 @@ weight: 3
 
 <br>
 
-<img src="images/cloud-ta/cloud-service-providers.svg" width=50%>
+<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>

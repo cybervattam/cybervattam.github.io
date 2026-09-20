@@ -17,7 +17,7 @@ HOTP అనేది Hash-based Message Authentication Code OTP. ఇది ఒ�
 
 ప్రతి OTP సంచరణకు ఒక counter విలువ పెరుగుతుంది. ఒక OTPను సృష్టించిన తర్వాత, తర్వాత OTP ఉత్పత్తి అయ్యే వరకు మునుపటి OTP చెల్లుబాటు ఉంటుంది.
 
-<img src="images/iam-ta/iam-hotp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-hotp.png" width=25%>
 
 #### __TOTP__
 
@@ -25,4 +25,4 @@ TOTP అనేది Time-based OTP. ఇది counterకు బదులుగ�
 
 ప్రతి పాస్వర్డ్ చెల్లుబాటు అవడానికి ఎన్ని సెకన్లు అవసరమో ఆ వ్యవధిని timestep అంటారు.
 
-<img src="images/iam-ta/iam-totp-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-totp.png" width=25%>

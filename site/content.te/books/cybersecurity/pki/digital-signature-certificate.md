@@ -5,6 +5,8 @@ draft: false
 weight: 7
 ---
 
+<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+
 ### డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్ రకాలు / Digital Signature Certificate Types
 
 | సర్టిఫికేట్ రకం | హామీ స్థాయి | ప్రయోజనం చేసే సందర్భం |
@@ -17,7 +19,7 @@ weight: 7
 
 ### డిజిటల్ సిగ్నేచర్ (సంతకం / ధృవీకరణ) / Digital Signature (Signing / Verification)
 
-<img src="/images/pki-ta/digital-sign-verification-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
 
 <br>
 
@@ -38,7 +40,7 @@ weight: 7
 3. సర్టిఫికెట్ రద్దు చేయబడిందా?
 4. వినియోగదారుకు సంబంధిత ప్రైవేట్ కీ ఉందా?
 
-<img src="/images/pki-ta/certificate-based-authentication-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
 
 <br>
 <br>

@@ -21,15 +21,15 @@ weight: 3
     - कंसोर्टियम ब्लॉकचेन (Consortium Blockchain)
         - चयनित नोड किसी संस्था की ओर से संपर्क करता है।
 
-<img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-types.png" width=50%>
 
 #### __सार्वजनिक ब्लॉकचेन / Public Blockchains__
 सार्वजनिक ब्लॉकचेन में शामिल होने पर किसी के लिए कोई प्रतिबंध नहीं होता। कोई भी इसमें लेनदेन का लेखा रख सकता है और सत्यापनकर्ता (validator) बन सकता है, अर्थात consensus protocol में भाग ले सकता है।
 
 अक्सर ऐसे सत्यापनकर्ताओं को आर्थिक प्रोत्साहन दिए जाते हैं। हालांकि, उन्हें Proof of Work जैसी प्रक्रिया पूरी करनी पड़ सकती है।
 
-<img src="images/logos/bitcoin-logo.svg"> <br>
-<img src="images/logos/ethereum-logo.svg" width=20%>
+<img src="images/shared/logos/bitcoin-logo.svg"> <br>
+<img src="images/shared/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
@@ -40,13 +40,13 @@ weight: 3
 
 व्यवसाय चाहते हैं कि लेखांकन और रिकॉर्ड-रखने की प्रक्रिया सही ढंग से चले, साथ ही उन्हें स्वायत्तता मिले और उनका संवेदनशील डेटा सुरक्षित रहे। इन्हीं कारणों से व्यवसाय निजी ब्लॉकचेन का उपयोग करना पसंद करते हैं।
 
-<img src="images/logos/hyperledger-fabric-logo.svg" width=20%> <br>
-<img src="images/logos/quorum-logo.svg" width=20%>
+<img src="images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
+<img src="images/shared/logos/quorum-logo.svg" width=20%>
 
 <br>
 
 #### __कंसोर्टियम / फेडरेटेड ब्लॉकचेन / Consortium / Federated Blockchains__
 कंसोर्टियम ब्लॉकचेन एक अर्ध-विकेंद्रीकृत (semi-decentralized) ब्लॉकचेन होता है। इसमें मौजूद ब्लॉक तक पहुँचने के लिए निजी ब्लॉकचेन की तरह अनुमति आवश्यक होती है। लेकिन इस चेन का नियंत्रण कई संगठनों के पास होता है। डेटा पढ़ने और consensus protocol चलाने की अनुमति केवल कुछ चुनिंदा प्रतिभागियों को दी जाती है।
 
-<img src="images/logos/corda-logo.svg"> <br>
-<img src="images/logos/ripple-logo.svg" width=15%>
+<img src="images/shared/logos/corda-logo.svg"> <br>
+<img src="images/shared/logos/ripple-logo.svg" width=15%>

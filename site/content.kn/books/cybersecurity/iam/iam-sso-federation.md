@@ -7,7 +7,7 @@ weight: 14
 
 ### ಒರ್ರೈ ನುಳೈವು / ಕೂಟ್ಟಮೈತ್ತಲ್ (SSO/Federation)
 
-<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### ಕೂಟ್ಟಮೈತ್ತಲ್ (ವೆವ್ವೇರು ಕಳಙ್ಕಳ್)
 ಕೂಟ್ಟಮೈಪ್ಪು ಎನ್ಪತು ಇರು ಅಮೈಪ್ಪುಕಳುಕ್ಕು / ನಿರುವನಙ್ಕಳುಕ್ಕು ಇಟೈಯೇ ಇರುಕ್ಕುಮ್ ನಮ್ಪಿಕ್ಕೈ ಉರವು.

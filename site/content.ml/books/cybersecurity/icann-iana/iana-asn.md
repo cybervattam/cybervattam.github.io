@@ -9,15 +9,15 @@ weight: 3
 
 ഇന്റർനെറ്റ് അസൈൻഡ് നമ്പേഴ്സ് അതോറിറ്റി (IANA), IP വിലാസ പരിധിയും ഓട്ടോണമസ് സിസ്റ്റം നമ്പറുകളും (ASN) ഉൾപ്പെടെയുള്ള ഇന്റർനെറ്റ് നമ്പർ വിഭവങ്ങളുടെ വിനിയോഗ ചുമതല റീജിയണൽ ഇന്റർനെറ്റ് രജിസ്ട്രികൾക്ക് (RIRs) ഏൽപ്പിക്കുന്നു. നിലവിൽ ARIN, LACNIC, RIPE NCC, AFRINIC, APNIC എന്നീ അഞ്ച് RIR-കൾ പ്രവർത്തിക്കുന്നു.
 
-<img src="images/rir-map.svg" width=50%>
+<img src="images/shared/screenshots/rir-map.svg" width=50%>
 
 <br>
 
-<img src="images/logos/arin-logo.svg" width=10%>
-<img src="images/logos/lacnic-logo.svg" width=10%>
-<img src="images/logos/ripe-ncc-logo.svg" width=10%>
-<img src="images/logos/afrinic-logo.svg" width=10%>
-<img src="images/logos/apnic-logo.svg">
+<img src="images/shared/logos/arin-logo.svg" width=10%>
+<img src="images/shared/logos/lacnic-logo.svg" width=10%>
+<img src="images/shared/logos/ripe-ncc-logo.svg" width=10%>
+<img src="images/shared/logos/afrinic-logo.svg" width=10%>
+<img src="images/shared/logos/apnic-logo.svg">
 
 റീജിയണൽ ഇന്റർനെറ്റ് രജിസ്ട്രികൾക്ക് IP വിലാസ പരിധിയും ASN-കളും നേരിട്ട് നിയന്ത്രിക്കാം, അല്ലെങ്കിൽ ആ ചുമതല ഒരു നാഷണൽ ഇന്റർനെറ്റ് രജിസ്ട്രിക്ക് (NIR) ഏൽപ്പിക്കാം.
 
@@ -25,7 +25,7 @@ weight: 3
 
 <br>
 
-<img src="images/logos/irinn-logo.png" width=10%>
+<img src="images/shared/logos/irinn-logo.png" width=10%>
 
 <br>
 

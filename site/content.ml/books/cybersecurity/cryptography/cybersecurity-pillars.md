@@ -2,12 +2,12 @@
 title: 'സുരക്ഷാ തൂണുകൾ'
 date: 2025-06-15
 draft: false
-weight: 1
+weight: 2
 extensions:
     - katex
 ---
 
-![സുരക്ഷാ ത്രയം](/images/cryptography-ta/security-triad-ta.svg "സുരക്ഷാ ത്രയം")
+![സുരക്ഷാ ത്രയം](/images/en/cybersecurity/cryptography/security-triad.png "സുരക്ഷാ ത്രയം")
 
 ### രഹസ്യാത്മകത
 

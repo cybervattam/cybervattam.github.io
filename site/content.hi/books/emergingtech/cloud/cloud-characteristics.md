@@ -8,7 +8,7 @@ weight: 2
 ## __क्लाउड कंप्यूटिंग की आवश्यक विशेषताएँ / Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/cloud-ta/cloud-characteristics-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

@@ -20,7 +20,7 @@ weight: 2
 * కీ ఉపయోగం
 * వాస్తవికత మరియు పరిమితులు
 
-<img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
 
 #### PEM ఫార్మాట్ (Privacy Enhanced Mail)
 

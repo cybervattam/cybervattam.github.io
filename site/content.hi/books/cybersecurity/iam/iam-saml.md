@@ -14,4 +14,4 @@ SAML (Security Assertion Markup Language) XML पर आधारित एक �
 
 दोनों पक्ष एक-दूसरे के बारे में यह जानकारी जान लेने के बाद, अपने-अपने कॉन्फ़िगरेशन को उसी के अनुसार सेट करते हैं।
 
-<img src="images/iam-ta/iam-saml-auth-process-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>

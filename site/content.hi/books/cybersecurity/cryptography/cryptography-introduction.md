@@ -2,7 +2,7 @@
 title: 'क्रिप्टोग्राफी का परिचय'
 date: 2025-06-15
 draft: false
-weight: 2
+weight: 1
 ---
 
 

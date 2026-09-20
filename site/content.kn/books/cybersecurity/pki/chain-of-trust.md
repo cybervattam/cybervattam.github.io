@@ -9,7 +9,7 @@ weight: 4
 
 ವಿಶ್ವಾಸ ಸರಪಳಿಯನ್ನು ಹಲವಾರು ಹಂತಗಳಿಂದ ಕೂಡಿದ ಒಂದು ಜಾಲವೆಂದು ಹೇಳಬಹುದು.
 
-<img src="/images/pki-ta/chain-of-trust-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
 
 ಮೊದಲನೆಯದಾಗಿ, ವಿಶ್ವಾಸ_anchor (Trust Anchor). ಇದನ್ನು ಮೂಲ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಯೂ (Root Certifying Authority) ಎಂದು ಕರೆಯುತ್ತಾರೆ.
 
@@ -19,7 +19,7 @@ weight: 4
 
 ಕೊನೆಯಲ್ಲಿ, ವೆಬ್‌ಸೈಟ್, ಸಂಸ್ಥೆ ಅಥವಾ ವ್ಯಕ್ತಿಯಂತಹ ಅಂತಿಮ ವ್ಯವಸ್ಥೆಗೆ ನೀಡಲಾಗುವ ಅಂತಿಮ ಸಂಸ್ಥೆಯ ಪ್ರಮಾಣಪತ್ರ (End Entity Certificate) ಇರುತ್ತದೆ.
 
-<img src="/images/pki-ta/digital-certificate-chain-ta.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
 
 ### ವಿಶ್ವಾಸ ಸರಪಳಿ ಪರಿಶೀಲನೆ / Chain of Trust Verification
 
