@@ -1,5 +1,5 @@
 ---
-title: 'Cryptography Introduction'
+title: 'క్రిప్టోగ్రఫీ పరిచయం'
 date: 2025-06-15
 draft: false
 weight: 2
@@ -7,7 +7,7 @@ weight: 2
 
 
 
-### Cryptography Introduction
+### క్రిప్టోగ్రఫీ పరిచయం
 
-Cryptography is the science of sending, sharing & saving data in an encrypted format and retrieving it to its original form when needed in the cyberspace​. 
-Cryptography uses the principles of mathematics, computer sciences and engineering at once. ​Before sharing/saving the data, the data is converted into non readable format using encryption algorithm with the help of an encryption key. This process is called encryption and the output of the encryption process is called Ciphertext.​ While sharing/saving data, it is sent or stored in ciphertext format. Other people cannot see this information in original plain text format. When needed, the ciphertext is converted to original information using decryption algorithm with the help of a decryption key. This is process called decryption.​
+క్రిప్టోగ్రఫీ అనేది డేటాను ఎన్‌క్రిప్ట్ చేయబడిన రూపంలో పంపడం, పంచుకోవడం మరియు నిల్వ చేయడం, తర్వాత అవసరమైనప్పుడు దానిని అసలు రూపంలో పునరుద్ధరించే శాస్త్రం. 
+క్రిప్టోగ్రఫీ గణితం, కంప్యూటర్ సైన్స్ మరియు ఇంజినీరింగ్ సూత్రాలను ఏకం చేసి ఉపయోగిస్తుంది. డేటాను పంచుకోవాలంటే/నిల్వ చేయాలంటే, ముందుగా ఎన్‌క్రిప్షన్ అల్గోరిథం మరియు ఎన్‌క్రిప్షన్ కీ సహాయంతో డేటా చదవలేనివిధంగా మార్చబడుతుంది. దీనినే ఎన్‌క్రిప్షన్ అంటారు మరియు ఎన్‌క్రిప్షన్_OUTPUT‌ను సైఫర్‌టెక్స్ట్ (Ciphertext) అంటారు. డేటాను పంచుకోవడానికి/నిల్వ చేయడానికి ఇది సైఫర్‌టెక్స్ట్ రూపంలో పంపబడుతుంది లేదా నిల్వ చేయబడుతుంది. ఇతరులు అసలు సాధారణ బైట్స్/వచన రూపంలో ఆ సమాచారాన్ని చూడలేరు. అవసరం వచ్చినప్పుడు, సైఫర్‌టెక్స్ట్‌ను డీక్రిప్షన్ అల్గోరిథం మరియు డీక్రిప్షన్ కీ సహాయంతో అసలు సమాచారంగా మార్చబడుతుంది. దీనినే డీక్రిప్షన్ అంటారు.

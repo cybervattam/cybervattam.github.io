@@ -1,19 +1,20 @@
 ---
-title: 'ஒற்றை நுழைவு / கூட்டமைத்தல்'
+title: 'Single Sign-On / Federation'
 date: 2022-08-18
 draft: false
 weight: 14
 ---
 
-### ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation)
+### Single Sign-On / Federation (SSO/Federation)
 
 <img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
 
-#### கூட்டமைத்தல் (வெவ்வேறு களங்கள்)
-கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.
-பயனரின் நம்பிக்கைச்சான்று (User Credentials) எங்கே சேமிக்கப்படுகின்றன
-மேலும், மூன்றாம் தரப்பினர் அதனை பார்க்காமல் அந்த நம்பிக்கைச்சான்றுகளுக்கு எவ்வாறு சான்றுறுதி அளிப்பது என்பதைப் பற்றியது
+#### Federation (Different Domains)
+Federation is a trust relationship between two systems or organizations.
 
-#### ஒற்றை நுழைவு (ஒரே களத்தில் உள்ள பல பயன்பாடுகள்)
-அடையாள வழங்குநர் பக்கத்தில் ஒருமுறை மட்டுமே உள்நுழைந்து, ஒரு அமர்வைச் செயல்படுத்துவதன் மூலம் ஒரே களத்தில் உள்ள வெவ்வேறு பயன்பாடுகளை அங்கீகரிக்கவும் உள்நுழையவும் ஒற்றை உள்நுழைவு பயன்படுத்தப்படுகிறது.
-ஒற்றை வெளியேற்றம் செய்யவும் இது பயன்படுகிறது
+It defines where user credentials are stored and how those credentials can be used for authentication without exposing them to a third party.
+
+#### Single Sign-On (Multiple Applications in One Domain)
+Single sign-on allows users to authenticate and access different applications in the same domain by signing in once through the identity provider and establishing a session.
+
+It can also be used to provide single logout.

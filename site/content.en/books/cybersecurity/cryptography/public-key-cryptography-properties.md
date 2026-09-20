@@ -1,5 +1,5 @@
 ---
-title: 'பொதுத் திறவி மறைப்பியல் பண்புகள்'
+title: 'Properties of Public Key Cryptography'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 8
@@ -7,27 +7,22 @@ extensions:
     - katex
 ---
 
+## Public Key Cryptography - Confidentiality
 
-## பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை
+![Public Key Cryptography - Confidentiality](/images/cryptography-ta/PKI-C-ta.svg "Public Key Cryptography - Confidentiality")
 
-![பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை](/images/cryptography-ta/PKI-C-ta.svg "பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை")
+For example, suppose Gokul wants to send a message to Karthik. This message should remain visible only to them. Gokul encrypts the message using Karthik's public key and sends the ciphertext to him. Since only Karthik's private key can decrypt that ciphertext, the confidentiality of the message is preserved.
 
-உதாரணமாக முகிலன் ஒரு தகவலை எழிலனுக்கு அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. முகிலன் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை மறையாக்கம் செய்து மறைக்குறியீட்டை எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை தவிர வேறு எந்த திறவியாலும் மறைக்குறியீட்டை மறைநீக்கம் செய்ய இயலாது என்பதால் எழிலனால் மட்டுமே அந்த தகவலை மறைநீக்கம் செய்ய முடியும்
+## Public Key Cryptography - Integrity
 
-இதனால் தகவலின் இரகசியத்தன்மை பண்பு காக்கப்படுகிறது.
+![Public Key Cryptography - Integrity](/images/cryptography-ta/PKI-I-ta.svg "Public Key Cryptography - Integrity")
 
-## பொதுத் திறவி மறைப்பியல் - நம்பகத்தன்மை
+For example, suppose Gokul wants to send an official message to Karthik. Gokul signs the message with his private key and sends it to Karthik. Since only the sender's private key could have produced that signature, the recipient can verify the sender and the message integrity.
 
-![பொதுத் திறவி மறைப்பியல் - நம்பகத்தன்மை](/images/cryptography-ta/PKI-I-ta.svg "பொதுத் திறவி மறைப்பியல் - நம்பகத்தன்மை")
+This is equivalent to digital signing.
 
-உதாரணமாக முகிலன் எழிலனுக்கு அதிகாரபூர்வமாக ஒரு தகவலை அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். முகிலன் தனது தகவலை தன் தனித் திறவி கொண்டு மறையாக்கம் செய்து எழிலனுக்கு அனுப்புவார். அவர் தனித் திறவியால் மறையாக்கம் செய்த தகவலை பின்னர் தான் அனுப்பவில்லை என மறுக்க இயலாது. இது அந்த தகவலின் மீது கையொப்பம் இடுவதற்குச் சமம். உதாரணமாக முகிலன் எழிலனுக்கு அதிகாரபூர்வமாக ஒரு தகவலை அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். முகிலன் தனது தகவலை தன் தனித் திறவி கொண்டு மறையாக்கம் செய்து எழிலனுக்கு அனுப்புவார்.
+## Public Key Cryptography - Confidentiality & Integrity
 
-அவர் தனித் திறவியால் மறையாக்கம் செய்த தகவலை பின்னர் தான் அனுப்பவில்லை என மறுக்க இயலாது. இது அந்த தகவலின் மீது கையொப்பம் இடுவதற்குச் சமம்.
+![Public Key Cryptography - Confidentiality & Integrity](/images/cryptography-ta/PKI-CI-ta.svg "Public Key Cryptography - Confidentiality & Integrity")
 
-## பொதுத் திறவி மறைப்பியல் – இரகசியத்தன்மை & நம்பகத்தன்மை
-
-
-![பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை & நம்பகத்தன்மை](/images/cryptography-ta/PKI-CI-ta.svg "பொதுத் திறவி மறைப்பியல் - இரகசியத்தன்மை & நம்பகத்தன்மை")
-
-உதாரணமாக முகிலன் எழிலனுக்கு அதிகாரபூர்வமாக ஒரு தகவலை அனுப்ப விழைகிறார் என எடுத்துக் கொள்வோம். இந்த தகவல் இவர்கள் இருவருக்கு மட்டுமே தெரிய வேண்டிய ஒன்று. 
-முகிலன் தனது தகவலை தன் தனித் திறவி கொண்டு மறையாக்கம் செய்து அதனை மீண்டும் எழிலனின் பொதுத் திறவியை கொண்டு அந்த தகவலை இரட்டை மறையாக்கம் (Double encryption) செய்து இரட்டை மறைக்குறியீட்டை (Double Encrypted Ciphertext) எழிலனுக்கு அனுப்புவார். எழிலனின் தனித் திறவியை கொண்டு மறைக்குறியீடு #1-ஐ மீட்டெடுத்த பின்னர் முகிலனின் பொதுத் திறவியை கொண்டு மறைநீக்கம் செய்து இயற்தகவலை பெறுவார். முகிலனின் தனித் திறவி கொண்டு மறையாக்கம் செய்வதால் நம்பகத்தன்மையும் எழிலனின் பொதுத் திறவியை கொண்டு மறையாக்கம் செய்வதால் இரகசியத்தன்மையும் பேணப்படுகிறது.
+For example, suppose Gokul wants to send an official message to Karthik. The message should be readable only by them. Gokul first signs the message with his private key, then encrypts it again using Karthik's public key. This creates a double-encrypted ciphertext. Karthik first decrypts with his private key and then decrypts again using Gokul's public key. In this way, both the sender's authenticity and the confidentiality of the message are preserved.

@@ -1,24 +1,24 @@
 ---
-title: 'மேகக் கணிமை பாத்திரங்கள்'
+title: 'Cloud Computing Roles'
 date: 2022-08-14
 draft: false
 weight: 5
 ---
 
 
-### மேகக் கணிமை பாத்திரங்கள் / Cloud Computing Roles
+### Cloud Computing Roles
 
-* மேகக் கணிமை சேவையாளர்கள் / Cloud Provider
-    - ஆர்வமுள்ள தரப்பினருக்கு மேகக்கணிமை சேவையை கிடைக்கச் செய்யும் பொறுப்பை ஏற்கும் நபர், அமைப்பு அல்லது நிறுவனம்
+* Cloud Provider
+    - A person, organization, or company responsible for making cloud computing services available to interested parties.
 <br>
-* மேகக் கணிமை  நுகர்வோர் / வாடிக்கையாளர் / Cloud Consumer
-    - மேகக் கணிமை சேவையாளரிடம் வணிக உறவைப் பராமரிக்கும் மற்றும் சேவையைப் பயன்படுத்தும் ஒரு நபர் அல்லது அமைப்பு
+* Cloud Consumer / Customer
+    - A person or organization that maintains a business relationship with a cloud provider and uses its services.
 <br>
-* மேகக்கணிமை தரவுக்கடத்தி /  Cloud Carrier
-    - மேகக் கணிமை சேவையாளரிடமிருந்து நுகர்வோருக்கு மேகக் கணிமை சேவைகளின் இணைப்பு மற்றும் போக்குவரத்தை வழங்கும் ஒரு இடைத்தரகர்
+* Cloud Carrier
+    - An intermediary that provides connectivity and transport for cloud services from the provider to the consumer.
 <br>
-* மேகக்கணிமை தரகர்கள் / Cloud Broker
-    - மேகக்கணிமை சேவைகளின் பயன்பாடு, செயல்திறன் மற்றும் விநியோகத்தை நிர்வகிக்கும் மற்றும் மேகக்கணிமை சேவையாளர்கள்களுக்கும் நுகர்வோருக்கும் இடையிலான உறவு மேம்பாடு பேச்சுவார்த்தை நடத்தும் ஒரு நிறுவனம்
+* Cloud Broker
+    - An organization that manages the use, performance, and delivery of cloud services and negotiates relationships between cloud providers and consumers.
 <br>
-* மேகக்கணிமை அணுகல் பாதுகாப்பு தரகர்கள் / Cloud Access Security Broker (CASB)
-    - இவ்வகை மென்பொருள் மேகக் கனிமையை நோக்கி அனுப்பப்படும் தகவல்தொடர்புகளை இடைமறிக்கவும் அல்லது செயல்பாட்டை கண்காணிக்கவும், கொள்கைகளை செயல்படுத்தவும், பாதுகாப்பு சிக்கல்களைக் கண்டறிந்து தடுக்கவும் பயன்பாடு நிரலாக்க இடைமுகம்  வழியாகவோ அல்லது நேரடியாக சேவையாக நுகரும் மென்பொருளுடன் இணைக்கின்றன. அவை பொதுவாக ஒரு நிறுவனத்தின் அனுமதிக்கப்பட்ட மற்றும் அனுமதிக்கப்படாத சேவைகளை (சேவையாக மென்பொருள்) நிர்வகிக்க பயன்படுத்தப்படுகின்றன.
+* Cloud Access Security Broker (CASB)
+    - Software that connects through an API or directly to Software as a Service to intercept communications sent to the cloud, monitor activity, enforce policies, and detect and prevent security issues. CASBs are commonly used to manage an organization's approved and unapproved services.

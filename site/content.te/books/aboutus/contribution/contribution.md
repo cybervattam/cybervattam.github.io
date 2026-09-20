@@ -6,5 +6,4 @@ weight: 2
 ---
 
 
-
-You can help make it available in your native Indian language.
+దీన్ని మీ భారతీయ మాతృభాషలో అందుబాటులోకి తీసుకురావడానికి మీరు సహాయపడగలరు.

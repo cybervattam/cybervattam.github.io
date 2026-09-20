@@ -1,16 +1,16 @@
 ---
-title: 'அடையாள வரைவுகள்'
+title: 'Identity Mapping'
 date: 2022-08-18
 draft: false
 weight: 6
 ---
 
-### அடையாள வரைவுகள் மற்றும் அனாதை கணக்குகள் / Identity mapping & orphan accounts
+### Identity Mapping and Orphan Accounts
 
-* அடையாள வரைபடமானது பல்வேறு வடிவங்களில் பயன்பாடுகளில் உள்ள பல்வேறு கணக்குகளை மனிதவள அல்லது செயற்பாட்டு அடைவில் உள்ள ஒரு அதிகாரபூர்வ அடையாளத்துடன் இணைக்கும் ஒரு செயல் ஆகும்
-* அனாதை கணக்குகள் என்பது எந்தவொரு அதிகாரபூர்வமான அடையாளத்துடன் இணைக்கப்படாமல் பயன்பாடுகளில் உள்ள கணக்குகள்/அடையாளங்கள் ஆகும்.
-* அனாதை கணக்குகள் இரண்டு வகையான பாதுகாப்பு மறையிடர்களுக்கு வழிவகுக்கும்:
-    - கணக்கிண் உரிமையாளர் இல்லை /  பதவி விலகினால், அந்த கணக்கு தவறாக பயன்படுத்துவதன் மூலம் உயர்ந்த ஆபத்திற்கு வழிவகுக்கும். ஏனெனில் கணக்கின் வழக்கத்திற்கு மாறான பயன்பாட்டை இல்லாத கணக்கின் உரிமையாளரால் கண்டறிய இயலாது.
-    - அனாதை கணக்குகள் அவற்றின் உரிமையாளர் வெளியேறும்போது நம்பகமான முறையில் செயலிழக்க முடியாது. ஏனெனில் அந்த உரிமையாளருக்கு இந்த கணக்குடன் இணைப்பு இருக்காது.
+* Identity mapping is the process of linking accounts in applications, which may exist in different formats, to an authoritative identity in a human resources or operational directory.
+* Orphan accounts are application accounts or identities that are not linked to any authoritative identity.
+* Orphan accounts can create two types of security risk:
+    - If the account owner has left the organization, the account can be misused and create significant risk because unusual activity cannot be identified by an active owner.
+    - Orphan accounts cannot be reliably disabled when their owner leaves because the owner no longer has a connection to the account.
 
 <img src="images/iam-ta/iam-identity-map-ta.svg" width=70%>

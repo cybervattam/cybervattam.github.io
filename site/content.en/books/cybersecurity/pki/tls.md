@@ -1,53 +1,53 @@
 ---
-title: 'போக்குவரத்து அடுக்கு​ பாதுகாப்புச் சான்றிதழ்​ / Transport Layer Security Certificate​​'
+title: 'Transport Layer Security Certificates'
 date: 2022-08-12
 draft: false
 weight: 8
 ---
 
-### போக்குவரத்து அடுக்கு பாதுகாப்புச் சான்றிதழ் வகைகள்​ / Transport Layer Security Certificate Types​
+### Transport Layer Security Certificate Types
 
-#### 1. களப்பெயர் சரிபார்த்தல்​ / Domain validation
-குறைந்த அளவிலான உறுதி நிலையை அளிக்கிறது. இவ்வகைச் சான்றிதழ்கள் பெற எளிதானவை. வலைத்தளத்தின் களப்பெயர் மட்டுமே சரிபார்க்கப்படும்​. இச்சான்றிதழ்களைக் கொண்ட வலைத்தளங்களில் பாதுகாப்பான பூட்டு சின்னம் மட்டுமே இருக்கும். அந்த வலைத்தளத்தின் உரிமையாளர் பெயரோ அல்லது  வணிக நிறுவன பெயரோ இருக்காது. ​எனவே, பாதுகாப்பான அடையாளம் இருந்தபோதிலும், பார்வையாளர்கள் வலைத்தளம் உண்மையில் அவர்கள் தேடும் வணிகத்திற்கு சொந்தமானதா என்பதை சரிபார்க்க எந்த வழியும் இல்லை. 
+#### 1. Domain Validation (DV)
+Provides a low level of assurance and is easy to obtain. Only the website's domain is validated. Websites with these certificates display a secure lock icon, but not the owner's or business organization's name. Therefore, despite the secure connection, visitors have no way to verify that the website actually belongs to the business they are looking for.
 
 <img src="/images/pki-ta/tls-dv.png">
 <br>
 
-#### 2. நிறுவனம் சரிபார்த்தல் ​/ Organization Validation
-இதுவே மிகவும் பொதுவாக பயன்படுத்தப்படும் பாதுகாப்பு உறுதி நிலை​. இவ்வகைச் சான்றிதழ்கள் கொண்ட வலைத்தளங்கள் பாதுகாப்பான பூட்டு சின்னத்துடன் தங்கள் வணிகப் பெயரை உடன் கொண்டுள்ளன​. இந்த சான்றிதழ்கள் அதிக உத்தரவாதத்தை அளிப்பதால், இவை சான்றிதழ் ஆணையங்களின் சரியான ஆய்வுக்குப் பிறகுதான் வழங்கப்படுகின்றன​. இவ்வகைச் சான்றிதழ்கள் முக்கியமான வாடிக்கையாளர் தரவைக் கையாளும் நிறுவனங்களால் பயன்படுத்தப்படுகின்றன.
+#### 2. Organization Validation (OV)
+This is the most commonly used assurance level. Websites with these certificates display their business name along with a secure lock icon. Because these certificates provide greater assurance, they are issued only after appropriate review by certificate authorities. They are used by organizations that handle sensitive customer data.
 
 <img src="/images/pki-ta/tls-ov.png">
 
 <br>
 
-#### 3. விரிவாக்கப்பட்ட சரிபார்த்தல் ​/ Extended Validation
-இவ்வகைச் சான்றிதழ்கள் மிக உயர்ந்த பாதுகாப்பு உறுதி நிலை வழங்குகின்றன மேலும் இவற்றைப் பெறுவது கடினம். விரிவாக்கப்பட்ட சரிபார்த்தல் சான்றிதழைப் பெற விரும்பும் நிறுவனம் சான்றிதழ் ஆணையத்தால் கடுமையான சோதனைக்கு உட்படுத்தப்படும். இதில் வணிகத்தின் இயல்பான இருப்பிடம், துறை போன்றவற்றை சரிபார்க்கிறது.​ இவ்வகைச் சான்றிதழ் கொண்ட வலைத்தளங்கள் அவற்றின் நிறுவன பெயர், நாட்டின் குறியீடு மற்றும் பாதுகாப்பான பூட்டு சின்னம் பச்சை நிறத்தில் காண்பிக்கப்படும். ​
+#### 3. Extended Validation (EV)
+These certificates provide the highest level of assurance and are difficult to obtain. An organization applying for an Extended Validation certificate undergoes rigorous examination by the certificate authority, including verification of its physical location and industry. Websites with these certificates display the organization name, country code, and a green secure lock icon.
 
 <img src="/images/pki-ta/tls-ev.png">
 
-#### 4. ஒற்றை களப்பெயர் சான்றிதழ்கள் (Single Domain Certificates)​
+#### 4. Single-Domain Certificates
 
-சான்றிதழில் குறிப்பிடப்பட்ட ஒற்றை களப்பெயரை பாதுகாக்கிறது​. இவ்வகைச் சான்றிதழ் களப்பெயர் (Domain Name) மற்றும் உள்களப்பெயர்களுக்கும் (Sub Domain Name) வழங்கப்படும். எ.கா. www.google.com, mail.google.com​
+Protects a single domain specified in the certificate. This type of certificate can be issued for a domain name or subdomain name, such as www.google.com or mail.google.com.
 
 <img src="/images/pki-ta/tls-sdc.png">
 
 <br>
 
-#### 5. பல களப்பெயர் சான்றிதழ்கள் (Multi-Domain Certificates) ​
-இவ்வகைச் சான்றிதழ்கள் பொருள் மாற்று பெயர் சான்றிதழ்கள் (Subject Alternative Name Certificates) / ஒருங்கிணைந்த தகவல் தொடர்பு சான்றிதழ்கள் (Unified Communications Certificates) என்றும் அறியப்படுகிறது​. சில சேவையக சூழல்கள் பல சான்றிதழ்களை நிறுவ அனுமதிக்காது, இந்த சிக்கலை தீர்க்க இவ்வகைச் சான்றிதழ்கள் எளிதான மற்றும் செலவு குறைந்த தீர்வாகும்​. இவ்வகைச் சான்றிதழ்கள் அனைத்து சரிபார்த்தல் முறையிலும் வழங்கப்படும்​. 250 மாற்று களப்பெயர்கள் வரை ஒரு சான்றிதழில் இணைக்க முடியும்.​ இந்த சான்றிதழ்கள் செயல்படுவதற்கு முன்பு அனைத்து மாற்று பெயர்களுக்கும் களப்பெயர் சரிபார்த்தல் வெற்றிகரமாக முடிந்திருக்க வேண்டும்.​
+#### 5. Multi-Domain Certificates
+These certificates are also known as Subject Alternative Name (SAN) certificates or Unified Communications Certificates. Some server environments do not allow multiple certificates to be installed, making these certificates a simple and cost-effective solution. They are available with all validation methods, and up to 250 alternative domain names can be included in one certificate. Domain validation must successfully complete for all alternative names before the certificate becomes active.
 
 <img src="/images/pki-ta/tls-mdc.png">
 
 <br>
 
-#### 6. வரம்பிலா களப்பெயர் சான்றிதழ்கள் (Wildcard Certificates)​
-ஒரே களப்பெயரில் முடியும் பல உள்களங்களை கொண்டுள்ள வணிக நிறுவனங்கள் மத்தியில் இவ்வகைச் சான்றிதழ்கள் மிகவும் பிரபலம். உருவாக்கத்தின் போது நட்சத்திர குறியை (*) பயன்படுத்தி, நிறுவனத்தின் பொதுவான பெயரை “*.domain.com” என்ற வடிவில் குறித்து வழங்கப்படும்.​ “*” என்பது ஒரு வரம்பிலா தன்மையைக் குறிக்கும் சின்னம். இந்த சின்னம் “domain.com” என்ற களப்பெயர் கொண்டு முடியும் அனைத்து உள்களங்களையும் குறிக்கும். இதனால் அனைத்து உள்களங்களையும் பாதுகாக்கிறது​. இவ்வகைச் சான்றிதழ்கள் நிறுவனம் சரிபார்த்தல் மற்றும் விரிவாக்கப்பட்ட சரிபார்த்தல் முறையில் மட்டுமே வழங்கப்படும்​
+#### 6. Wildcard Certificates
+These certificates are popular among organizations with multiple subdomains ending in the same domain. During creation, an asterisk (*) is used in the common name, such as *.domain.com. The asterisk represents a wildcard and covers all subdomains ending in domain.com. These certificates are available only through Organization Validation and Extended Validation.
 
 <img src="/images/pki-ta/tls-wildcard.png">
 
 <br>
 
-#### 7. வரம்பிலா பல களப்பெயர் சான்றிதழ்கள் (Wildcard Multi-Domain Certificates) ​
-இவ்வகைச் சான்றிதழ்கள் சிக்கலான வலை-உள்கட்டமைப்பு கொண்ட நிறுவனங்களுக்கு பயன்படுத்தப்படுகின்றன.​ இந்த சான்றிதழ்கள் விற்பனையாளரைப் பொறுத்து ஒரு சான்றிதழில் 250 களங்கள் வரை பாதுகாக்கும்.​ பொதுவான பெயர் முழு தகுதி வாய்ந்த களப்பெயராக இருக்க வேண்டும் (www.domain.com)​. உங்கள் மாற்று களப்பெயர்களின் பட்டியல் முழு தகுதி வாய்ந்த களப்பெயராக (www1.domain.com), வரம்பிலா களப்பெயர் (*.domain.com) அல்லது இரண்டின் கலவையாகவும் இருக்கலாம்​.
+#### 7. Wildcard Multi-Domain Certificates
+These certificates are used by organizations with complex web infrastructure. Depending on the vendor, one certificate can protect up to 250 domains. The common name must be a fully qualified domain name, such as www.domain.com. The list of alternative domain names can contain fully qualified names such as www1.domain.com, wildcard names such as *.domain.com, or a combination of both.
 
 <img src="/images/pki-ta/tls-wildcard-mdc.png">

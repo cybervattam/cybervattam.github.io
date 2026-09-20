@@ -1,22 +1,22 @@
 ---
-title: 'ஓரு முறை கடவுச்சொல்'
+title: 'One-Time Password'
 date: 2022-08-18
 draft: false
 weight: 12
 ---
 
-### __ஓரு முறை கடவுச்சொல் / One time password (OTP)__
-குறுக்க தீர்வுநெறிகள் ஒரு முறை கடவுச்சொல்லை உருவாக்க பயன்படுத்தப்படுகின்றன. இதற்கு தீர்வுநெறிகள் இரண்டு உள்ளீடுகளைப் பயன்படுத்துகின்றன: விதை மற்றும் நகரும் காரணி.
+### __One-Time Password (OTP)__
+Hashing algorithms are used to generate one-time passwords. These algorithms use two inputs: a seed and a moving factor.
 
-விதை என்பது ஒரு நிலையான மதிப்பு (இரகசியத் திறவி). இந்த இரகசியத் திறவி நீங்கள் சான்றுறுதி சேவையகத்தில் புதிய கணக்கை நிறுவும் போது உருவாக்கப்படும். நகரும் காரணியின் அடிப்படையில், HOTP & TOTP என இரண்டு வகையான ஒரு முறை கடவுச்சொற்கள் கிடைக்கின்றன.
+The seed is a fixed value, or secret key. This secret key is generated when a new account is enrolled with the authentication server. Based on the moving factor, there are two types of one-time passwords: HOTP and TOTP.
 
 #### __HOTP__
 
-Hash-based Message Authentication Code OTP (HOTP) எனும் குறுக்கம் சார்ந்த செய்தி நம்பத்தகுமைக் குறியீட்டு ஒரு முறை கடவுச்சொல்லை குறிக்கிறது.
+HOTP stands for Hash-based Message Authentication Code One-Time Password.
  
-HOTP தீர்வுநெறி ஒரு நிகழ்வை அடிப்படையாக கொண்டது. ஒரு முறை கடவுச்சொல்லை உருவாக்க நகரும் காரணியாக ஒரு எண்ணியை (counter) பயன்படுத்துகிறது. இங்கே நிகழ்வு என்பது எண்ணியின் இலக்க நகர்வாகும்.
+The HOTP algorithm is event-based. It uses a counter as the moving factor to generate a one-time password. In this case, an event is an increment of the counter.
 
-அடுத்த ஒரு முறை கடவுச்சொல்லை நீங்கள் உருவாக்கும் வரை முன்னர் உருவாக்கப்பட்ட ஒரு முறை கடவுச்சொல் செல்லுபடியாகும்.
+The previously generated one-time password remains valid until the next one-time password is generated.
 
 <img src="images/iam-ta/iam-hotp-ta.svg" width=25%>
 
@@ -24,10 +24,10 @@ HOTP தீர்வுநெறி ஒரு நிகழ்வை அடிப
 
 #### __TOTP__
 
-(TOTP) என்பது time-based OTP எனும் நேரம் சார்ந்த ஒரு முறை கடவுச்சொல்லை குறிக்கிறது. 
+(TOTP) stands for Time-Based One-Time Password.
 
-TOTP தீர்வுநெறி நகரும் காரணியாக எண்ணிக்கு பதிலாக நேரத்தை அடிப்படையாகக் கொண்டது. 
+The TOTP algorithm uses time instead of a counter as the moving factor.
 
-ஒவ்வொரு கடவுச்சொல்லும் செல்லுபடியாகும் நேரத்தின் அளவு காலஅளவு (timestep) என்று அழைக்கப்படுகிறது.
+The length of time for which each password remains valid is called the time step.
 
 <img src="images/iam-ta/iam-totp-ta.svg" width=25%>

@@ -1,13 +1,14 @@
 ---
-title: 'மறையிடர் அடிப்படியிலான சான்றுறுதி'
+title: 'Risk-Based Authentication'
 date: 2022-08-18
 draft: false
 weight: 12
 ---
 
-### மறையிடர் அடிப்படியிலான சான்றுறுதி / தகவமைச் சான்றுறுதி (Risk-based authentication/Adaptive authentication)
-மறையிடர் அடிப்படியிலான / தகவமைச் சான்றுறுதி என்பது பல்வேறு ஆதாரங்களில் இருந்து கிடைக்கும் சமிக்ஞைகளை பகுப்பாய்வு செய்து ஒரு குறிப்பிட்ட அமர்வுக்கு மறையிடர்  மதிப்பெண்ணை கணக்கிடுகிறது.
+### Risk-Based Authentication / Adaptive Authentication
 
-நிறுவனக் கொள்கைகள் கணக்கிடப்பட்ட மறையிடர் மதிப்பெண் அடிப்படையில் எடுக்கப்பட வேண்டிய நடவடிக்கையை வரையறுக்கின்றன. 
+Risk-based or adaptive authentication analyzes signals from multiple sources and calculates a risk score for a specific session.
+
+Organizational policies define the action to be taken based on the calculated risk score.
 
 <img src="images/iam-ta/iam-risk-based-auth-ta.svg" width=50%>

@@ -1,5 +1,5 @@
 ---
-title: 'மேகக் கணிமை'
+title: 'Cloud Computing'
 date: 2022-08-14
 draft: false
 weight: 1
@@ -7,10 +7,10 @@ weight: 1
 
 
 
-### மேகக் கணிமை / அயல்கணிச் சேவை / Cloud Computing
+### Cloud Computing
 
-2011-ஆம் ஆண்டு, அமெரிக்காவின் தேசிய தரநிலைகள் மற்றும் தொழில்நுட்ப நிறுவனம் (NIST) இவ்வாறு மேகக் கணிமைக்கு விளக்கம் கொடுத்தது.
+In 2011, the United States National Institute of Standards and Technology (NIST) defined cloud computing as follows:
 
-"எங்கும் நிறைந்துள்ள, வசதியான, கணினி வளங்களின் (எ.கா., பிணையங்கள், சேவையகங்கள், சேமிப்பகங்கள், பயன்பாடுகள் மற்றும் சேவைகள்) வள திரள்விற்கு தேவைக்கேற்ப பிணைய அணுகலை வழங்கக்கூடிய ஒரு தொழில்நுட்ப முறை. இது குறைந்தபட்ச மேலாண்மையுடன், சேவையாளரிடம் நேரடித் தொடர்பு இன்றி விரைவாக வழங்கப்படும். 
+"A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources, such as networks, servers, storage, applications, and services, that can be rapidly provisioned and released with minimal management effort or service-provider interaction."
 
-மேகக் கணிமை 5 அத்தியாவசிய பண்புகள், 3 சேவை முறைகள் மற்றும் 4 பணியமர்த்தல் முறைகளை கொண்டுள்ளது.
+Cloud computing has five essential characteristics, three service models, and four deployment models.

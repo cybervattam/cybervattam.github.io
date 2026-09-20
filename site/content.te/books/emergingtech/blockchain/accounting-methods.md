@@ -1,10 +1,10 @@
 ---
-title: 'கணக்கியல் முறைகள்'
+title: 'అకౌంటింగ్ పద్ధతులు'
 date: 2022-08-15
 draft: false
 weight: 7
 ---
 
-### கணக்கியல் முறைகள்
+### అకౌంటింగ్ పద్ధతులు
 
 <img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%>

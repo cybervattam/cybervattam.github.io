@@ -1,11 +1,16 @@
 ---
-title: 'களப்பெயர் முறைமை மண்டலங்கள்'
+title: 'DNS Zones'
 date: 2022-08-12
 draft: false
-weight: 4
+weight: 5
 ---
 
-### களப்பெயர் முறைமை மண்டலங்கள் / DNS Zones
-களப்பெயர் முறைமை மண்டலம் என்பது ஒரு குறிப்பிட்ட அமைப்பு அல்லது நிர்வாகியால் நிர்வகிக்கப்படும் களப்பெயர் வெளியின் ஒரு பகுதியாகும். களப்பெயர் முறைமை மண்டலம் பல துணை களப்பெயர்களை கொண்டிருக்கலாம் மற்றும் ஒரே சேவையகத்தில் பல மண்டலங்கள் இருக்கலாம். கட்டுப்பாடுகளை ஒப்படைக்க மண்டலங்கள் பயன்படுத்தப்படுகின்றன. களப்பெயர் முறைமை பதிவுகள் (மண்டல கோப்புகள்) அதிகாரப்பூர்வ களப்பெயர் வழங்கனில் இயக்கம் வழிமுறைகள். களப்பெயர் முறைமை பதிவுகள் தொடர் உரை கோப்புகளைக் கொண்டுள்ளன. இவை களப்பெயர் முறைமை தொடரியல் (DNS Syntax) என்று அழைக்கப்படும். இது களப்பெயர் முறைமை வழங்கன் செய்ய வேண்டிய வேலைகளுக்கு இடும் கட்டளைகளை கொண்ட எழுத்துச்சரம்.
+### DNS Zones
+
+A DNS zone is a portion of the DNS namespace administered by a specific organization or administrator. A zone can contain multiple subdomains and a single server may host multiple zones.
+
+Zones are used to delegate control and organize DNS records. The DNS zone files are stored on authoritative name servers and contain records in the DNS syntax format used by the name server software.
+
+A zone file is generally a text-based configuration file containing resource records and directives that tell the DNS server how to respond to requests.
 
 <img src="images/dns-ta/dns-zones-ta.svg">

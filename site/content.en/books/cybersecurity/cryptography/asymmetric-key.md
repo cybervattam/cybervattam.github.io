@@ -1,5 +1,5 @@
 ---
-title: 'Asymmetric Key Encryption​'
+title: 'Asymmetric Key Encryption'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 5
@@ -7,14 +7,16 @@ extensions:
     - katex
 ---
 
-![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-1.svg "Asymmetric Key Encryption​")
+![Asymmetric Key Encryption](/images/cryptography-ta/asymmetric-key-ta-1.svg "Asymmetric Key Encryption")
 
-Each person will have two keys each​. Public Key​ & Private Key​. This is called a ‘Key Pair’.
-​
+Each person has two keys: a public key and a private key. This pair is called a key pair.
 
-Key Pair is mathematically linked to each other​
-    You cannot guess or derive one key from the other key​. One key is used for encryption and only the other key from that key pair can be used for decryption.​ Public Key is shared in public space like internet, social media or email​. Private Key is confidential and hence kept very securely
+A key pair is mathematically linked. You cannot guess or derive one key from the other. One key is used for encryption, and only the matching key from that pair can be used for decryption.
 
-![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-2.svg "Asymmetric Key Encryption​")
+The public key is shared in public spaces such as the internet, social media, or email. The private key is confidential and therefore kept extremely securely.
 
-Let us assume Sundar wants to send a secret message to Venkatesh​. Sundar will encrypt the message with Venkatesh’s Public Key and send the ciphertext to Venkatesh​. As the key pair is mathematically linked, only Venkatesh’s private key can decrypt the message. No other key can decrypt this message. Venkatesh will decrypt the message using his private key to retrieve the original information​. As two keys are used for encryption/decryption process, it is called asymmetric key encryption. It is also known as Public Key cryptography as the public key is shared to ensure secure communication.​
+![Asymmetric Key Encryption](/images/cryptography-ta/asymmetric-key-ta-2.svg "Asymmetric Key Encryption")
+
+Let us assume Sundar wants to send a secret message to Venkatesh. Sundar will encrypt the message using Venkatesh's public key and send the ciphertext to Venkatesh. Because the key pair is mathematically linked, only Venkatesh's private key can decrypt the message. No other key can decrypt it.
+
+Venkatesh decrypts the message using his private key to retrieve the original information. Because two different keys are used in the encryption and decryption process, this is called asymmetric key encryption. It is also known as public key cryptography, since the public key is shared to ensure secure communication.

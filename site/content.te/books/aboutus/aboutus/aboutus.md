@@ -5,6 +5,6 @@ draft: false
 weight: 2
 ---
 
-### About us
+### మా గురించి
 
-The purpose of this site is to create the technical content in Indian languates to facilitate learning technology in respective native Indian language.
+భారతీయ భాషల్లో సాంకేతిక విషయాలను రూపొందించడం ఈ సైట్ యొక్క ఉద్దేశ్యం; తద్వారా, ఎవరికి వారు తమ మాతృభాషలోనే సాంకేతికతను సులభంగా నేర్చుకునేలా చేయడం దీని లక్ష్యం.

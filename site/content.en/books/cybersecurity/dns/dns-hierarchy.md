@@ -1,37 +1,42 @@
 ---
-title: 'களப்பெயர் முறைமை படிநிலை'
+title: 'DNS Hierarchy'
 date: 2022-08-12
 draft: false
 weight: 2
 ---
 
+### DNS Hierarchy
 
-### களப்பெயர் முறைமை படிநிலை / DNS Hierarchy
+#### Root Name Servers
 
-#### வேர் களப்பெயர் வழங்கன் / Root Name Servers
-தற்போது 13 வேர் பெயர் வழங்கன்கள் 13 தன்னாட்சி நிறுவனங்கள் மூலம் எவ்வழி பரப்பு திசைவித்தல் நெறிமுறையில் (Anycast Routing Protocol) இயக்கப்படுகிறது இவை ICANN நிறுவனத்தால் நிர்வகிக்கப்படுகின்றன. ஒரு வேர் வழங்கன், ஒரு சுழல்நிலை தீர்வியின் வினவலை ஏற்றுக்கொள்கிறது, அந்த களப்பெயர் விரிவாக்கம் அடிப்படையில், ஒரு மேல் நிலை களப்பெயர் வழங்கனை நோக்கி மடை மாற்றி விடையளிக்கும். https://root-servers.org/ 
+There are currently 13 root name servers distributed globally using anycast routing and managed by ICANN. These root servers are the top of the DNS hierarchy and are queried when a recursive resolver needs to find the authoritative server for a requested domain.
 
-களப்பெயர் முறைமையின் வேர்  மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது. இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும். வேர் மண்டலத்தில் பாதுகாப்பான களப்பெயர் முறைமையை (DNSSEC) இயக்குவதற்கான திறவி ஒப்பமிடல் விழாவையும் இது செய்கிறது. செயல்பாட்டில் anycast இ.நெறி முகவரியைப் பயன்படுத்தி 13 வேர் சேவையகங்கள் உள்ளன. பிணையத்தில் உள்ள கணினிகள் ஒரு உயர் நிலை களத்தின் முகவரியை விரைவகத்தில்  சேமிப்பதால், வேர் சேவையகங்கள் அடிக்கடி வினவப்படுவதில்லை. ஆனால் அவை இணைய கட்டமைப்பின் ஒரு முக்கிய அங்கமாகும். வேர் சேவையகங்களின் இயக்குனர்கள் பெரும்பாலும் தன்னாட்சி பெற்று இருப்பினும், அவர்கள் ஒருவருக்கொருவர் மற்றும் ICANN உடன் இணைந்து பணியாற்ற வேண்டும்
+The root zone contains the top-level DNS data and provides the starting point for name resolution across the internet. The operators of root servers, registry organizations, and ICANN coordinate to maintain the health and security of the root zone.
 
-#### மேல் நிலை களப்பெயர் வழங்கன் / Top Level Domain Name Servers
-ஒரு மேல் நிலை களப்பெயர் வழங்கன், குறிப்பிட்ட களப்பெயர் விரிவாக்கத்துடன் முடிவடையும் அனைத்து களப்பெயர்களின் தகவலைப் பராமரிக்கிறது. இவை அந்தந்த மேல் நிலை களப்பெயரை தொடங்கிய நிறுவனங்கள் மற்றும் மேல் நிலை களப்பெயர் பதிவாளர்களால் இயக்கப்படுகின்றன. பொது மேல்நிலை களப்பெயர் (gTLD- .com, .net), நாட்டு குறியீடு மேல்நிலை களப்பெயர் (ccTLD- .in, .uk)
+DNSSEC support and trust anchors are associated with the root zone. The root servers are critical to internet stability, even though client systems usually cache the address information of higher-level servers.
+
+#### Top-Level Domain (TLD) Name Servers
+
+A TLD name server maintains information for all domains that end with a specific top-level domain, such as .com, .net, .org, or a country code such as .in or .uk. These servers are operated by registry organizations responsible for the respective TLD.
+
+Examples include:
+- gTLDs: .com, .net, .org
+- ccTLDs: .in, .uk, .au
 
 <img src="images/dns-ta/dns-tld-ta.png">
 
-#### அதிகாரப்பூர்வ களப்பெயர் வழங்கன் / Authoritative Name Server
-குறிப்பிட்ட பெயர் கொண்ட களத்தின் தகவல்களைக் கொண்டுள்ளது. A ஏட்டில் காணப்படும் களத்தின் இ.நெறி முகவரியை வழங்குகிறது. CNAME ஏடு இருந்தால் மாற்று களப்பெயரை வழங்குகிறது
+#### Authoritative Name Servers
 
+An authoritative name server stores the official records for a given domain. It provides the IP address for A records, the alias information for CNAME records, and other domain-related details associated with the zone.
 
-#### சுழல்நிலை தீர்விகள் / Recursive Resolvers
-ஒரு களப்பெயர் வினவலில் இது முதல் நிறுத்தமாகும். இது கிளையன் (Client) மற்றும் களப்பெயர் வழங்கன் இடையில் ஒரு இடைத்தரகராக செயல்படுகிறது. ஒரு வினவலின் பதிலாக மாற்று களப்பெயரை பெற்றால், அந்த மாற்று பெயருக்கு ஒரு புதிய சுழல்நிலை களப்பெயர் வினவலைத் (Recursive DNS Query) தொடங்கும். சுழல்நிலை தீர்விகள் பெரும்பாலும் இணைய சேவை நிறுவனங்களால் வழங்கப்படும். இவையல்லாமல், சில பொது நிறுவனங்களும் சுழல்நிலை தீர்வி சேவைகளை வழங்குகின்றன.
+#### Recursive Resolvers
 
-| நிறுவனங்கள் | சுழல்நிலை தீர்விகள் இ.நெறி முகவரி |
-| ---------- | ------------------------------ |
+A recursive resolver is the first stop in a DNS query from a client. It acts as an intermediary between the client and authoritative DNS servers. If the recursive resolver receives a referral, it starts a new recursive query for the referenced domain.
+
+Recursive resolvers are commonly provided by ISPs or public DNS providers. Some organizations also run their own recursive resolvers.
+
+| Provider | Resolver IP Addresses |
+| -------- | -------------------- |
 | Google | 8.8.8.8 & 8.8.4.4 |
-| Cloudflare | 1.1.1.1 & 1.0.0.1 | 
-| Opendns | 208.67.222.222 & 208.67.220.220 |
-
-
-
-
-
+| Cloudflare | 1.1.1.1 & 1.0.0.1 |
+| OpenDNS | 208.67.222.222 & 208.67.220.220 |

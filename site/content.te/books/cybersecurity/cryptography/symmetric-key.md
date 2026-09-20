@@ -1,5 +1,5 @@
 ---
-title: 'Symmetric Key Encryption​'
+title: 'సిమెట్రిక్ కీ ఎన్‌క్రిప్షన్'
 date: 2025-06-15
 draft: false
 weight: 4
@@ -8,8 +8,8 @@ extensions:
 
 ---
 
-Let us assume Sundar wants to send a secret message to Venkatesh​. Before sharing the data, Sundar & Venkatesh will choose a random secret code. Let us call this as a Secret Key. No one else knows this secret key.​
+సుందర్ వేంకటేశ్‌కు ఒక రహస్య సందేశం పంపాలనుకుంటున్నాడని అనుకుందాం. డేటాను పంచుకునే ముందు, సుందర్ మరియు వేంకటేశ్ ఒక యాదృచ్చిక రహస్య కోడ్‌ను ఎంచుకుంటారు. దీనిని సీక్రెట్ కీ అంటారు. ఇతర ఎవరూ ఈ కీని తెలియరు.
 
 ![Symmetric Key Encryption​](/images/cryptography-ta/symmetric-key-ta.svg "Symmetric Key Encryption​")
 
-Sundar will encrypt the message with the encryption chosen and will send the cipher text to Venkatesh​. Venkatesh will use the same secret key to decrypt the ciphertext and retrieve the original message.​ As the same key is used for encryption & decryption, it is called Symmetric Key encryption. It is also known as Secret Key Cryptography.
+సుందర్ సందేశాన్ని ఎంచుకున్న అల్గోరిథంతో ఎన్‌క్రిప్ట్ చేసి, సైఫర్‌టెక్స్ట్‌ను వేంకటేశ్‌కు పంపిస్తాడు. వేంకటేశ్ అదే సీక్రెట్ కీని ఉపయోగించి సైఫర్‌టెక్స్ట్‌ను డీక్రిప్ట్ చేసి అసలు సందేశాన్ని తిరిగి పొందుతాడు. ఎన్‌క్రిప్షన్ మరియు డీక్రిప్షన్ రెండింటిలో ఒకే కీ ఉపయోగించబడటం వల్ల దీనిని సిమెట్రిక్ కీ ఎన్‌క్రిప్షన్ అంటారు. దీనిని సీక్రెట్ కీ క్రిప్టోగ్రఫీ also అంటారు.

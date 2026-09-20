@@ -1,10 +1,10 @@
 ---
-title: 'ಕಣಕ್ಕಿಯಲ್ ಮುರೈಕಳ್'
+title: 'ಲೆಕ್ಕಪರಿಶೋಧನಾ ವಿಧಾನಗಳು'
 date: 2022-08-15
 draft: false
 weight: 7
 ---
 
-### ಕಣಕ್ಕಿಯಲ್ ಮುರೈಕಳ್
+### ಲೆಕ್ಕಪರಿಶೋಧನಾ ವಿಧಾನಗಳು
 
 <img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%>

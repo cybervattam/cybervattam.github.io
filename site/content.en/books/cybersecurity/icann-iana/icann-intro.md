@@ -1,12 +1,12 @@
 ---
-title: 'இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN)'
+title: 'Internet Corporation for Assigned Names and Numbers (ICANN)'
 date: 2022-08-19
 draft: false
 weight: 1
 ---
 
 
-### இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (Internet Corporation for Assigned Names and Numbers)
+### Internet Corporation for Assigned Names and Numbers (ICANN)
 
 <img src="images/logos/icann-logo.svg">
 
@@ -14,11 +14,11 @@ weight: 1
 <br>
 
 
-__யார் இவர்கள்?__
-   * இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்பது 1988-ஆம் ஆண்டு தொடங்கப்பட்ட ஒரு சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனம். நிலையான, பாதுகாப்பான மற்றும் ஒருங்கிணைந்த உலகளாவிய இணையத்தை உறுதிப்படுத்த உதவுவதே இந்நிறுவனத்தின் நோக்கம்.
+__Who are they?__
+   * The Internet Corporation for Assigned Names and Numbers (ICANN) is an international nonprofit public-benefit organization established in 1998. Its mission is to help ensure a stable, secure, and unified global internet.
 
-__ஏன் இவர்கள் தேவை?__
-   * இணையத்தில் மற்றொரு அமைப்பை (நபர், நிறுவனம், சேவையகம்) தொடர்புகொள்ள, உங்கள் சாதனத்தில் (கணினி/திறன் பேசி) ஒரு முகவரியை (ஒரு பெயர் அல்லது எண்ணை) உள்ளீடு செய்ய வேண்டும். அந்த முகவரி தனிப்பட்டதாக இருக்க வேண்டும்; அப்பொழுது தான் கணினிகள் ஒன்றையொன்று எங்கு உள்ளது என்பதை கண்டுபிடிக்க இயலும். உலகெங்கிலும் உள்ள இந்த தனித்துவமான அடையாளங்காட்டிகளை ஒருங்கிணைக்கவும் ஆதரிக்கவும் இந்நிறுவனம் உதவுகிறது.
+__Why is ICANN needed?__
+   * To communicate with another entity on the internet, such as a person, organization, or server, a device must use an address represented by a name or number. That address must be unique so computers can locate one another. ICANN helps coordinate and support these unique identifiers around the world.
 
-__இந்நிறுவனத்தின் பொறுப்பு என்ன?__
-   * இணையத்தின் செயல்பாட்டு நிலைத்தன்மையைப் பாதுகாத்தல்; போட்டியை ஊக்குவித்தல்; உலகளாவிய இணைய சமூகங்களின் பரந்த பிரதிநிதித்துவத்தை அடைதல்; மற்றும் கீழிருந்து மேல் செல்லும், கருத்து இணக்கம் அடிப்படையிலான செயல்முறைகள் மூலம் இணையத்தின் பணிக்கு பொருத்தமான கொள்கையை உருவாக்குதல். தொழில்நுட்ப ரீதியாக சொல்வதென்றால், இந்நிறுவனம், இணைய இருத்திய எண்கள் ஆணையத்தின் (IANA) செயல்பாடுகளை ஒருங்கிணைக்க உதவுகிறது.
+__What is ICANN responsible for?__
+   * ICANN helps preserve the operational stability of the internet, promote competition, support broad representation of global internet communities, and develop policies relevant to the internet's mission through bottom-up, consensus-based processes. Technically, ICANN also helps coordinate the functions of the Internet Assigned Numbers Authority (IANA).

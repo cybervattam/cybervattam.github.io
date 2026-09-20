@@ -9,14 +9,14 @@ extensions:
 
 ![Security Triad](/images/cryptography-ta/security-triad-ta.svg "Security Triad")
 
-### Confidentiality​
+### Confidentiality
 
-Ensures only authorized users can access the information / data​
+Ensures only authorized users can access the information or data.
 
-### Integrity​
+### Integrity
 
-Ensures information cannot be changed / damaged. Information should be correct, authentic & trustable.​
+Ensures information cannot be changed, damaged, or altered without detection. Information should be correct, authentic, and trustworthy.
 
-### Availability​
+### Availability
 
-Ensures authorized users gets access to network, services, connectivity, applications and data when it is required and in a trusted way
+Ensures authorized users can access networks, services, connectivity, applications, and data whenever needed, in a trusted and reliable manner.

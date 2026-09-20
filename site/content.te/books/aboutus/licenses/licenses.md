@@ -5,4 +5,4 @@ draft: false
 weight: 2
 ---
 
-All works on this site are provided under the [Creative Commons-Attribution-Noncommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  (CC-BY-NC-SA 4.0) license.
+ఈ సైట్‌లోని రచనలన్నీ [Creative Commons-Attribution-Noncommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) లైసెన్స్ కింద అందించబడ్డాయి.

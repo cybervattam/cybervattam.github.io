@@ -1,32 +1,32 @@
 ---
-title: 'சான்றுறுதி & அதிகாரம் வழங்கல்'
+title: 'Authentication & Authorization'
 date: 2022-08-18
 draft: false
 weight: 10
 ---
 
 
-### __சான்றுறுதி (Authentication)__
-__அடையாளத்தை உறுதி செய்வது__
+### __Authentication__
+__Verifying an identity__
 
-சான்றுறுதி என்பது பயனரின் விவரங்களைச் சரிபார்த்து பயனரை அடையாளம் கண்டு ஒரு இணைய வளத்திற்கு அணுகலை வழங்கும் செயல்முறையாகும்
+Authentication is the process of verifying a user's credentials, identifying the user, and granting access to a network resource.
 
-ஒரு அடையாளத்தால் கோரப்படும் ஒரு பண்பு / தரவுத் துண்டின் உண்மையை உறுதிப்படுத்துவதன் மூலம் சரிபார்ப்பு செய்யப்படுகிறது
+Verification is performed by confirming the validity of an attribute or piece of data claimed by an identity.
 
-எ.கா., பயனர் பெயர் & கடவுச்சொல், உயிரளவைத் தரவு, அரசு வழங்கிய அடையாள அட்டை
+Examples include a username and password, biometric data, or a government-issued identity card.
 
-பயனர்கள் நம்பிக்கைச்சான்றுகளை சரிபார்க்கிறது
+It verifies the user's credentials.
 
-அங்கீகாரம் / அதிகாரம் வழங்கும் முன் நிகழும்
+It takes place before authorization.
 
-### __அதிகாரம் வழங்கல் (Authorization)__
-__அடையாளத்திற்கு உரிமை நல்குதல்__
+### __Authorization__
+__Granting permissions to an identity__
 
 
-அங்கீகாரம் / அதிகாரம் வழங்கல்  என்பது சான்றுறுதி அளிக்கப்பட்ட பயனரின் சிறப்புரிமைகள் அல்லது அமைப்பின் வளங்களை அணுகுவதற்கான அனுமதிகளை சரிபார்க்கும் செயல்முறையாகும்
+Authorization is the process of verifying the privileges or permissions that an authenticated user has to access system resources.
 
-அடையாள வழங்குநர் போன்ற அதிகாரப்பூர்வமான அமைப்பில் பயனருக்கு வழங்கப்பட்டஅதிகாரம் /  சிறப்புரிமைகளை சரிபார்ப்பதன் மூலம் செய்யப்படுகிறது
+It is performed by checking the permissions or privileges granted to the user by an authoritative system, such as an identity provider.
 
-குறிப்பிட்ட வளங்களுக்கான பயனர்களின் அதிகாரம் / அனுமதிகளை சரிபார்க்கிறது
+It verifies the user's permissions for specific resources.
 
-சான்றுறுதி முடிந்த பிறகு நிகழும்
+It takes place after authentication is complete.

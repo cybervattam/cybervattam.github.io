@@ -1,26 +1,25 @@
 ---
-title: 'களப்பெயர் முறைமை ஏடுகள்'
+title: 'DNS Records'
 date: 2022-08-12
 draft: false
 weight: 4
 ---
 
-### களப்பெயர் முறைமை ஏடுகள் / DNS Records
+### DNS Records
 
-- __A ஏடு__ – இணைய நெறிமுறை பதிப்பு 4 (IPv4) முகவரி சேமிக்குமிடம் 
-- __AAAA ஏடு__ - இணைய நெறிமுறை பதிப்பு 6 (IPv6) முகவரி சேமிக்குமிடம்
-- __CNAME ஏடு__ – மாற்று களப்பெயர் சேமிக்குமிடம், இந்த ஏடு இருந்தால் இ.நெறி முகவரி கொடுக்கப்படாது.
-- __MX ஏடு__ – இந்த களப்பெயர் நோக்கி வரும் மின்னஞ்சல்களை அதன் மின்னஞ்சல் சேவையகத்திற்க்கு மடை மாற்றும்
-- __TXT ஏடு__ – கள நிர்வாகி சில எழுத்துக் குறிப்புகளை சேமிக்குமிடம்
-- __NS ஏடு__ – களத்தின் அதிகார்பபூர்வ களப்பெயர் வழங்கன் முகவரியை சேமிக்குமிடம்
-- __SOA ஏடு__ – கல நிர்வாகி குறித்த தகவல்களை சேமிக்குமிடம்.
-- __SRV ஏடு__ – குறிப்பிட்ட சேவைகளுக்கான துறை எண்ணை குறிக்குமிடம்
-- __PTR ஏடு__ – எதிர்திசை வினவலின் பொது, களப் பெயரை பதிலாக கொடுக்கும். இந்த ஏட்டில் இ.நெறி முகவரி தலைகீழாக சேமிக்கப்படும்
+- __A Record__ – Stores the IPv4 address for a domain.
+- __AAAA Record__ – Stores the IPv6 address for a domain.
+- __CNAME Record__ – Stores an alias name. If a CNAME is present, an IP address is not directly returned.
+- __MX Record__ – Redirects email for a domain to the appropriate mail server.
+- __TXT Record__ – Stores textual information used by administrators or services.
+- __NS Record__ – Stores the authoritative name server for a domain.
+- __SOA Record__ – Stores administrative information about the zone.
+- __SRV Record__ – Identifies the port and host for a specific service.
+- __PTR Record__ – Used for reverse lookups. It maps an IP address back to a hostname.
 
-களப்பெயர் முறைமை பாதுகாப்பிற்கான பிரத்யேக ஏடுகள் (DNSSEC Specific Records)
-- __RRSIG ஏடு__ – ஏட்டுத் தொகுப்பின் இலக்கமுறை குறியொப்பத்தை சேமிக்குமிடம்
-- __DNSKEY ஏடு__ – மறையாக்கத்தில் பயன்படுத்தப்படும் பொதுத் திறவியை சேமிக்குமிடம்.
-- __DS ஏடு – DNSKEY__ ஏட்டின் குறுக்க மதிப்பை சேமிக்குமிடம்
-- __NSEC and NSEC3 ஏடு__ – குறிப்பிட்ட களப்பெயர் முறைமை ஏடு இல்லை என வெளிப்படையாக தெரிவிக்கும் ஏடு
-- __CDNSKEY and CDS ஏடு__ – ஒரு குழந்தை மண்டலம் தன் பெற்றோர் மண்டலத்தில் உள்ள DS ஏட்டைப் புதுப்பிக்க பயன்படுகிறது.
-
+DNSSEC-specific records:
+- __RRSIG Record__ – Stores digital signatures for a set of DNS records.
+- __DNSKEY Record__ – Stores the public key used in DNSSEC.
+- __DS Record__ – Stores the hash of the DNSKEY record for delegation.
+- __NSEC and NSEC3 Records__ – Explicitly show that a record does not exist.
+- __CDNSKEY and CDS Records__ – Used to update DS records in a child zone from the parent zone.

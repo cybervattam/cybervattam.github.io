@@ -1,15 +1,14 @@
 ---
-title: 'DNS 64 & NAT 64'
+title: 'DNS64 & NAT64'
 date: 2022-08-14
 draft: false
 weight: 11
 ---
 
+### DNS64 & NAT64
 
-### DNS 64 & NAT 64
+DNS64 synthesizes IPv6 AAAA records from IPv4 A records when a domain has only IPv4 content. This is done by generating an IPv6 address that embeds the IPv4 address in the second portion of the address, while the first portion is a special IPv6 prefix used for NAT64 translation.
 
-DNS64 என்பது ஒரு களப்பெயர் வழங்கனிடம் ஒரு குறிப்பிட்ட களத்தின் AAAA ஏட்டைக் கோரும்போது, அங்கே A ஏடு மட்டுமே இருந்தால், A ஏடு தரவை AAAA ஏடு தரவாக இணைப்பாக்கும். (Synthesizes the AAAA records from the A records).
-
-இணைப்பாக்கம் செய்யப்பட்ட முகவரியில் முதல் பகுதி ஒரு இ.நெறி ப6/இ.நெறி ப4 பெயர்ப்பியை குறிக்கும். அதன் இரண்டாம் பகுதி இ.நெறி ப4 முகவரியை உட்பொதிக்கும். இந்த பெயர்ப்பி பொதுவாக NAT64 வழங்கன் என்று அழைக்கப்படும்.
+This NAT64 prefix is typically used by NAT64 gateways to translate IPv6 clients to IPv4 services when the destination only supports IPv4.
 
 <img src="images/dns-ta/dns64-nat64-ta.svg">

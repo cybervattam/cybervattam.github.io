@@ -1,5 +1,5 @@
 ---
-title: 'Security Pillars'
+title: 'సెక్యూరిటీ స్థంభాలు'
 date: 2025-06-15
 draft: false
 weight: 1
@@ -9,14 +9,14 @@ extensions:
 
 ![Security Triad](/images/cryptography-ta/security-triad-ta.svg "Security Triad")
 
-### Confidentiality​
+### గోప్యత​
 
-Ensures only authorized users can access the information / data​
+అధికారిక వినియోగదారులు మాత్రమే సమాచారాన్ని/డేటాను యాక్సెస్ చేయగలరని నిర్ధారిస్తుంది.
 
-### Integrity​
+### సమగ్రత​
 
-Ensures information cannot be changed / damaged. Information should be correct, authentic & trustable.​
+సమాచారం మార్చబడకూడదు లేదా నాశనం కాకూడదు. సమాచారం సరైనది, నిజమైనది మరియు నమ్మదగినది అయి ఉండాలి.
 
-### Availability​
+### లభ్యత​
 
-Ensures authorized users gets access to network, services, connectivity, applications and data when it is required and in a trusted way
+అవసరమైనప్పుడు మరియు విశ్వసనీయమైన మార్గంలో అధికారిక వినియోగదారులకు నెట్‌వర్క్, సేవలు, కనెక్టివిటీ, అప్లికేషన్‌లు మరియు డేటాకు ప్రాప్యతను అందిస్తుంది.

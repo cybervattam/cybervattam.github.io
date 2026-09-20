@@ -5,9 +5,12 @@ draft: false
 weight: 2
 ---
 
-
-
 ### Cryptography Introduction
 
-Cryptography is the science of sending, sharing & saving data in an encrypted format and retrieving it to its original form when needed in the cyberspace​. 
-Cryptography uses the principles of mathematics, computer sciences and engineering at once. ​Before sharing/saving the data, the data is converted into non readable format using encryption algorithm with the help of an encryption key. This process is called encryption and the output of the encryption process is called Ciphertext.​ While sharing/saving data, it is sent or stored in ciphertext format. Other people cannot see this information in original plain text format. When needed, the ciphertext is converted to original information using decryption algorithm with the help of a decryption key. This is process called decryption.​
+Cryptography is the science of sending, sharing, and storing data in an encrypted format and retrieving it back to its original form when needed in cyberspace.
+
+It combines mathematics, computer science, and engineering. Before data is shared or stored, it is converted into a non-readable format using an encryption algorithm with the help of an encryption key. This process is called encryption, and the output is called ciphertext. While in transit or at rest, the data is kept in ciphertext form, so others cannot read the original plaintext.
+
+When needed, the ciphertext is converted back to the original information using a decryption algorithm with a decryption key. This process is called decryption.
+
+Cryptography helps protect confidentiality, integrity, and authenticity of information, and it supports secure communication across networks, applications, and devices.

@@ -5,18 +5,16 @@ draft: false
 weight: 5
 ---
 
-### ನಮ್ಪಿಕ್ಕೈ ಸೇಮಿಪ್ಪಕಮ್ / ಸಾನ್ರಿತಳ್ ಸೇಮಿಪ್ಪಕಮ್ / Trust Stores / Certificate Stores
+### ವಿಶ್ವಾಸ ಸಂಗ್ರಹ / ಪ್ರಮಾಣಪತ್ರ ಸಂಗ್ರಹ / Trust Stores / Certificate Stores
 
-ನಮ್ಪಿಕ್ಕೈ ಸೇಮಿಪ್ಪಕಮ್ ಎನ್ಪತು ಇಯಲ್ಪಾಕ ನಮ್ಪಪ್ಪಟುಮ್ ವೇರ್ ಸಾನ್ರಿತಳ್ಕಳಿನ್ ತೊಕುಪ್ಪಾಕುಮ್
+ವಿಶ್ವಾಸ ಸಂಗ್ರಹವು ಸ್ವಯಂಪ್ರಕೃತಿ ಅಥವಾ ನೈಸರ್ಗಿಕವಾಗಿ ವಿಶ್ವಾಸಗೊಳ್ಳಬಹುದಾದ ಮೂಲ ಪ್ರಮಾಣಪತ್ರಗಳ ಒಂದು ಗುಂಪಾಗಿರುತ್ತದೆ.
 
 <img src="/images/pki-ta/cert-manager.png" >
 
-
-ಇವೈ ಇಯಙ್ಕುತಳಮ್ ಮರ್ರುಮ್ ವಲೈ ಉಲಾವಿಕಳೈ ಉರುವಾಕ್ಕುಮ್ ನಿರುವನಙ್ಕಳಾಲ್ ಪರಾಮರಿಕ್ಕಪ್ಪಟುಕಿನ್ರನ.
+ಇವುಗಳನ್ನು ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂಗಳು ಮತ್ತು ವೆಬ್‌ಬ್ರೌಸರ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಸಂಸ್ಥೆಗಳು ನಿರ್ವಹಿಸುತ್ತವೆ.
 
 <img src="/images/pki-ta/certificate-stores.png" >
 
-
-### ಇನ್ತಿಯಾವಿಲ್ ಉರಿಮಮ್ ಪೆರ್ರ ಸಾನ್ರಳಿಕ್ಕುಮ್ ಆಣೈಯಙ್ಕಳ್ / Licensed Certifying Authorities in India
+### ಭಾರತದಲ್ಲಿ ಪರವಾನಗಿ ಹೊಂದಿರುವ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಗಳು / Licensed Certifying Authorities in India
 
 <img src="/images/pki-ta/india-licensed-ca.png">

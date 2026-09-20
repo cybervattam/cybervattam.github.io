@@ -1,52 +1,52 @@
 ---
-title: 'கட்டச்சங்கிலி வகைகள்'
+title: 'Blockchain Types'
 date: 2022-08-15
 draft: false
 weight: 3
 ---
 
-### __கட்டச்சங்கிலி வகைகள்__
+### __Blockchain Types__
 
-கட்டச்சங்கிலி பிணைய இணைப்பு முறை மற்றும் அனுமதி கோரல் ஆகியவற்றை அடிப்படையாக கொண்டு வகுக்கப்படுகின்றன. 
-* அனுமதி கோரல்: 
-    - அனுமதி கோரும் கட்டச்சங்கிலி (Permissioned Blockchain)
-        - கணுக்கள் / நிறுவனங்களுக்கு முன் அனுமதி / வெவ்வேறு பாத்திர பொறுப்புகளை கட்டச்சங்கிலியின் இயக்குனர் வழங்குவார்.
-    - அனுமதி கோரா கட்டச்சங்கிலி (Permissionless Blockchain)
-        - முன் அனுமதி தேவையில்லை
-        - எவரும் சேரலாம்
+Blockchains are classified based on their network topology and permission model.
+* Permission model:
+    - Permissioned Blockchain
+        - The blockchain operator grants nodes or organizations prior permission and different roles.
+    - Permissionless Blockchain
+        - No prior permission is required.
+        - Anyone can join.
         
-* பிணைய இணைப்பு முறை:
-    - பரவலாக்கப்பட்ட கட்டச்சங்கிலி (Distributed Blockchain)
-        - அனைத்து கணுக்களும் இணையானவை
-    - கூட்டமைப்பு கட்டச்சங்கிலி (Consortium Blockchain)
-        - தேர்ந்தெடுக்கப்பட்ட ஒரு கணு நிறுவனத்தின் சார்பில் தொடர்புகொள்ளும்
+* Network topology:
+    - Distributed Blockchain
+        - All nodes are peers.
+    - Consortium Blockchain
+        - Selected nodes communicate on behalf of the organization.
 
 <img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
 
-#### __பொது கட்டச்சங்கிலி / Public Blockchains__
-பொது கட்டச்சங்கிலியில் இணைய யாருக்கும் எந்தத் தடையும் இல்லை. யாரும் இதில் வரவு-செலவு கணக்கை வைத்துக் கொள்ளலாம்; சரி-பார்ப்பவராக (validator) ஆகலாம். (அதாவது,கருத்து இணக்க நெறிமுறையில் பங்கு கொள்ளலாம்.) 
+#### __Public Blockchains__
+There is no restriction on joining a public blockchain. Anyone can maintain a transaction ledger and become a validator, meaning they can participate in the consensus protocol.
 
-பல நேரங்களில், இவ்வாறு வரும் சரி-பார்ப்பவர்களை பொருள் ஊக்கம் (economic incentives) கொடுத்து, அவர்களைப் பயன்படுத்திக் கொள்வது உண்டு. (ஆனால், அவர்கள் உழைப்புக்குச் சான்று (Proof of Work) என்ற பணியைச் செய்ய வேண்டி இருக்கும்.)
+In many cases, validators are encouraged through economic incentives. For example, they may be required to perform Proof of Work.
 
 <img src="images/logos/bitcoin-logo.svg"> <br>
 <img src="images/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
-#### __தனியார் கட்டச்சங்கிலி / Private Blockchains__
-தனியார் கட்டச்சங்கிலிப் பயன்படுத்த அனுமதி (permission) தேவை. இதில் சேருவதற்கு முதலில் கணினி பிணைய நிர்வகாகியிடம் (network administrators) இருந்து அழைப்பு வர வேண்டும். அதன் பிறகு, பயனர் ஆவதிலும், தரவுகள் சரி பார்ப்பவராக ஆவதிலும் கூட பல கட்டுப்பாடுகள் இருக்கும். பல்வேறு பாத்திர பொறுப்புகள் உங்களுக்கு அளிக்கப்படும்
+#### __Private Blockchains__
+Permission is required to use a private blockchain. To join, a participant must first receive an invitation from the network administrators. There may also be several restrictions on becoming a user or validator, and participants may receive different roles.
 
-இந்த வகையான கட்டச்சங்கிலி, தொழில் நிறுவனங்களுக்கும், ஏனைய குழுமங்களுக்கும் பொருத்தமானதாக இருக்கும். ஏனெனில், பொது கட்டச்சங்கிலியில், அதிகாரம் அனைவருக்கும் பரவலாக்கப் பட்டுள்ளது, இது தொழில் நிறுவனங்களுக்கு ஏற்புடையது அல்ல. 
+This type of blockchain is suitable for businesses and other organizations because authority is distributed among everyone on a public blockchain, which is not appropriate for many businesses.
 
-தொழில் நிறுவனங்கள் விரும்புவது கணக்கு வைப்பு (accounting and record-keeping) செவ்வனே நடக்க வேண்டும்; அதே நேரத்தில், தன்னாளுமையும் (autonomy) வேண்டும்; மற்றும், தங்களுடைய மறைமுகத் தரவுகளும் (sensitive data) காக்கப்பட வேண்டும். இவ்வாறான காரணங்களால் தொழில் நிறுவனங்கள் தனியார் கட்டச்சங்கிலியையே பயன் படுத்த விரும்புகின்றன.
+Businesses want accounting and record-keeping to work correctly while retaining autonomy and protecting sensitive data. For these reasons, businesses often prefer private blockchains.
 
 <img src="images/logos/hyperledger-fabric-logo.svg" width=20%> <br>
 <img src="images/logos/quorum-logo.svg" width=20%>
 
 <br>
 
-#### __கூட்டமைப்புக் கட்டச்சங்கிலி Consortium / Federated Blockchains__
-கூட்டமைப்புக் கட்டச்சங்கிலி என்பது சில விழுக்காடு பரலவலாக்கப்பட்ட (semi-decentralized) கட்டச்சங்கிலியாகும். இதில் உள்ள கட்டங்களை அணுக, தனியார் கட்டச்சங்கிலியைப் போல, அனுமதி (permission) வாங்க வேண்டி இருக்கும். ஆனால், இந்தச் சங்கிலி பல குழுமங்களின் கட்டுப் பாட்டில் இருக்கும். தரவுகளை படிப்பதிலும், கருத்து இணக்க நெறிமுறை (consensus protocol) செயலாற்றுவதிலும் ஒரு சிலரே அனுமதிக்கப்படுவர்.
+#### __Consortium / Federated Blockchains__
+A consortium blockchain is semi-decentralized. Like a private blockchain, permission is required to access its blocks. However, the chain is controlled by several organizations, and only selected participants are allowed to read data and operate the consensus protocol.
 
 <img src="images/logos/corda-logo.svg"> <br>
 <img src="images/logos/ripple-logo.svg" width=15%>

@@ -1,5 +1,5 @@
 ---
-title: 'Asymmetric Key Encryption​'
+title: 'అసిమెట్రిక్ కీ ఎన్‌క్రిప్షన్'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 5
@@ -9,12 +9,12 @@ extensions:
 
 ![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-1.svg "Asymmetric Key Encryption​")
 
-Each person will have two keys each​. Public Key​ & Private Key​. This is called a ‘Key Pair’.
+ప్రతి వ్యక్తికి రెండు కీలు ఉంటాయి: పబ్లిక్ కీ మరియు ప్రైవేట్ కీ. వీటిని 'కీ పేజ్' (Key Pair) అంటారు.
 ​
 
-Key Pair is mathematically linked to each other​
-    You cannot guess or derive one key from the other key​. One key is used for encryption and only the other key from that key pair can be used for decryption.​ Public Key is shared in public space like internet, social media or email​. Private Key is confidential and hence kept very securely
+కీ పేజ్ గణితశాస్త్రపరంగా పరస్పరం లింక్ అయి ఉంటుంది.
+    ఒక కీ నుండి మరొక కీని ఊహించడం లేదా తీసేయడం సాధ్యం కాదు. ఎన్‌క్రిప్షన్ కోసం ఒక కీ ఉపయోగించబడుతుంది మరియు డీక్రిప్షన్ కోసం మాత్రమే ఆ కీ పేజ్ నుండి మరొక కీ మాత్రమే ఉపయోగించబడుతుంది. పబ్లిక్ కీ ఇంటర్నెట్, సోషల్ మీడియా లేదా ఇమెయిల్ వంటి పబ్లిక్ ప్రదేశాల్లో షేర్ చేయబడుతుంది. ప్రైవేట్ కీ గోప్యమైనది, కనుక చాలా సురక్షితంగా ఉంచబడుతుంది.
 
 ![Asymmetric Key Encryption​](/images/cryptography-ta/asymmetric-key-ta-2.svg "Asymmetric Key Encryption​")
 
-Let us assume Sundar wants to send a secret message to Venkatesh​. Sundar will encrypt the message with Venkatesh’s Public Key and send the ciphertext to Venkatesh​. As the key pair is mathematically linked, only Venkatesh’s private key can decrypt the message. No other key can decrypt this message. Venkatesh will decrypt the message using his private key to retrieve the original information​. As two keys are used for encryption/decryption process, it is called asymmetric key encryption. It is also known as Public Key cryptography as the public key is shared to ensure secure communication.​
+సుందర్ వేంకటేశ్‌కి రహస్య సందేశం పంపాలనుకుంటున్నాడని అనుకుందాం. సుందర్ సందేశాన్ని వేంకటేశ్‌ యొక్క పబ్లిక్ కీతో ఎన్‌క్రిప్ట్ చేసి, సైఫర్‌టెక్స్ట్‌ను వేంకటేశ్‌కి పంపిస్తాడు. కీ పేజ్ గణితశాస్త్రపరంగా లింక్ అయినందున, ఆ సందేశాన్ని కేవలం వేంకటేశ్‌ యొక్క ప్రైవేట్ కీ మాత్రమే డీక్రిప్ట్ చేయగలదు. ఇతర ఎలాంటి కీతోనూ ఈ సందేశాన్ని డీక్రిప్ట్ చేయలేము. వేంకటేశ్ తన ప్రైవేట్ కీని ఉపయోగించి సందేశాన్ని డీక్రిప్ట్ చేసి అసలు సమాచారాన్ని తిరిగి పొందుతాడు. ఎన్‌క్రిప్షన్/డీక్రిప్షన్ ప్రక్రియలో రెండు కీలు ఉపయోగించబడటం వల్ల దీనిని ఆసిమెట్రిక్ కీ ఎన్‌క్రిప్షన్ అంటారు. పబ్లిక్ కీని పంచుకోవడం వల్ల సురక్షిత సమాచార మార్పిడికి సహాయపడటం కారణంగా దీనిని పబ్లిక్ కీ క్రిప్టోగ్రఫీ అంటారు.

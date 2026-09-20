@@ -1,69 +1,69 @@
 ---
-title: 'இலக்கமுறைக் குறியொப்ப சான்றிதழ் / Digital Signature Certificate​'
+title: 'Digital Signature Certificate'
 date: 2022-08-05
 draft: false
 weight: 7
 ---
 
-### இலக்கமுறைக் குறியொப்ப சான்றிதழ் வகைகள்​ / Digital Signature Certificate Types​
+### Digital Signature Certificate Types
 
-| சான்றிதழ் வகை​                           | உத்தரவாத நிலை​           | பொருந்தக்கூடிய  சூழல்  |
+| Certificate Type | Assurance Level | Applicable Context |
 | -------------                           |------------| -----|
-| வகுப்பு 1 ​சான்றிதழ்​ <br> (Class 1 Certificate)​  | வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். <br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​ | தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் குறைவாக இருக்கும் சூழல்களுக்கு ஒரு அடிப்படை நிலை உத்தரவாதத்தை வழங்குகிறது.​<br> அதிக முக்கியத்துவம் வாய்ந்ததாக கருதப்படவில்லை.​ |
-| வகுப்பு 2 ​சான்றிதழ்​ <br> (Class 2 Certificate)​  | வணிக நிறுவன நபர்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். <br> சந்தாதாரர் வழங்கிய விண்ணப்பத்தில் உள்ள தகவல்கள், நன்கு அங்கீகரிக்கப்பட்ட நுகர்வோர் தரவுத்தளங்களில் உள்ள தகவலுடன் முரண்படவில்லை என்பதை இந்த சான்றிதழ்கள் உறுதிப்படுத்தும்.​ | தரவு கசிவு மறையிடர் மற்றும் விளைவுகள் மிதமாக  இருக்கும் சூழல்களுக்கு உத்தரவாதத்தை வழங்குகிறது.​<br> இது கணிசமான பண மதிப்பு அல்லது மோசடி மறையிடர்கள் கொண்ட பரிவர்த்தனைகள்​ தீங்கிழைக்கும் அணுகல் வழியாக  தனியார் தகவல்களை அணுகுவதற்கான சாத்தியக்கூறுகள் கணிசமாக இருக்கும் நிலைகளை உள்ளடக்கியது. ​|
-| வகுப்பு 3 ​சான்றிதழ்​ <br> (Class 3 Certificate)​  | வணிக நிறுவனங்கள் மற்றும் தனி நபர்கள் பயன்படுத்துவதற்கு வழங்கப்படும். <br> ​இவை உயர் உத்தரவாத சான்றிதழ்கள் என்பதால், முதன்மையாக இணைய வர்த்தக பயன்பாடுகளுக்காக வழங்கப்படுகிறது. <br> சான்றளிக்கும் அதிகாரிகளின் முன் நேரில் சென்று விண்ணப்பித்தால் மட்டுமே இவ்வகை வழங்கப்படும். | தரவுக்கு அச்சுறுத்தல்கள் அதிகமாக இருக்கும் அல்லது பாதுகாப்பு சேவைகளின் தோல்வியின் விளைவுகள் அதிகமாக இருக்கும் சூழல்களுக்கு இந்த நிலை பொருத்தமானது.​ <br> இதில் மிக உயர்ந்த மதிப்பு பரிவர்த்தனைகள் அல்லது அதிக அளவு மோசடி மறையிடர்கள் இருக்கலாம்.​ |
+| Class 1 Certificate | Issued for use by business personnel and individuals. <br> Confirms that the information in the subscriber's application does not conflict with information in recognized consumer databases. | Provides a basic level of assurance for situations where the risk and impact of data compromise are low. <br> Not considered suitable for high-value transactions. |
+| Class 2 Certificate | Issued for use by business personnel and individuals. <br> Confirms that the information in the subscriber's application does not conflict with information in recognized consumer databases. | Provides assurance for situations where the risk and impact of data compromise are moderate. <br> Includes transactions involving significant monetary value or fraud risk, and situations where malicious access to private information is a significant concern. |
+| Class 3 Certificate | Issued for use by businesses and individuals. <br> These are high-assurance certificates intended primarily for e-commerce applications. <br> They are issued only after the applicant applies in person before the certifying authority. | Suitable for situations where threats to data or the consequences of security-service failure are high. <br> This may include very high-value transactions or a high level of fraud risk. |
 
 <br>
 
-### இலக்கமுறைக் குறியொப்பம் (ஒப்பமிடல் / சரிபார்த்தல்)​ / Digital Signature (Signing / Verification)
+### Digital Signature (Signing / Verification)
 
 <img src="/images/pki-ta/digital-sign-verification-ta.svg">
 
 <br>
 
-### சான்றிதழ் அடிப்படையிலான சான்றுறுதி ​/ Certificate Based Authentication​
+### Certificate-Based Authentication
 
-சான்றிதழ் அடிப்படையிலான சான்றுறுதி என்பது ஒரு பயனர், இயந்திரம் அல்லது சாதனத்தை அடையாளம் காண இலக்கமுறைச் சான்றிதழைப் பயன்படுத்துவதாகும். ​
+Certificate-based authentication uses a digital certificate to identify a user, machine, or device.
 
-எந்த ஒரு வளம் (Resource), பிணையம் (Network) அல்லது பயன்பாடு / செயலி (Application) போன்றவற்றுக்கான அனுமதி வழங்குவதற்கு முன் சான்றுறுதி செய்யப்படுகிறது.​
+Authentication is performed before access is granted to a resource, network, or application.
 
-மனித அடையாளத்தை பொறுத்தவரை, இது மற்ற சான்றுறுதி முறைகளான கடவுச்சொல் (Passwords),  உயிரளவை (Biometrics) மற்றும் ஒரு முறை கடவுச்சொற்கள் (OTP) போன்றவற்றுடன் சேர்த்துப் பயன்படுத்தப்படுகிறது.​
+For human identities, it is used together with other authentication methods such as passwords, biometrics, and one-time passwords (OTP).
 
-இச்சான்றுறுதி முறையின் தனித்துவம் என்னவென்றால், மனித பயனர்களுக்கு மட்டுமே வேலை செய்யும் சில தீர்வுகளைப் போலல்லாமல், அனைத்து வகை பயனர்களுக்கும் ஒரே சான்றுறுதி தீர்வாக இம்முறையை பயன்படுத்தப்படலாம்.
+The distinctive feature of this method is that it can serve as a single authentication solution for all types of users, unlike some solutions that work only for human users.
 
-சான்றிதழ் அடிப்படையிலான சான்றுறுதி நான்கு கேள்விகளுக்கான பதிலின் அடிப்படையில் அமையும். இவற்றில் ஒரு கேள்விக்கு தோல்வியான பதில் கிடைக்கப் பெற்றாலும், சான்றுறுதி தோல்வியுற்று அனுமதி மறுக்கப்படும்.​
-1. சான்றிதழ் நம்பகமான சான்றிதழ் ஆணையத்தால் வழங்கப்பட்டுள்ளதா?​
-   - இடைநிலை மற்றும் வேர் சான்றிதழ் ஆணையம் நம்பப்படுகிறதா? <br>
-2. சான்றிதழ் காலாவதி நிலை என்ன?​
-   - சான்றிதழ் வழங்கிய மற்றும் காலாவதி தேதி என்ன? <br>
-3. சான்றிதழ் திரும்பப்பெற பட்டதா?​
-   - இந்த சான்றிதழ் எந்த காரணத்திற்காகவும் திரும்பப்பெற பட்டதா?​ <br>
-4. பயனர் சான்றிதழ் உடைமைக்கான ஆதாரத்தை வழங்கியதா?​
-   - இந்த சான்றிதழுடன் தொடர்புடைய தனித் திறவி பயனர் தன்வசம் உள்ளதை நிரூபித்ததா?
+Certificate-based authentication is based on answers to four questions. If any answer fails, authentication fails and access is denied.
+1. Was the certificate issued by a trusted certificate authority?
+   - Are the intermediate and root certificate authorities trusted? <br>
+2. What is the certificate's expiration status?
+   - What are the certificate's issue and expiration dates? <br>
+3. Has the certificate been revoked?
+   - Has the certificate been revoked for any reason? <br>
+4. Has the user provided proof of possession of the certificate?
+   - Has the user proved that they possess the private key associated with the certificate?
    
 <img src="/images/pki-ta/certificate-based-authentication-ta.svg">
 
 <br>
 <br>
 
-### திறன் அட்டை உள்நுழைவு & சான்றுறுதி / Smart Card Logon & Authentication
+### Smart Card Logon and Authentication
 
-* திறன் அட்டை உள்நுழைவு என்பது சான்றிதழ் அடிப்படையிலான சான்றுறுதியின் ஒரு வகை.​
-* திறன் அட்டை என்பது திரை மற்றும் விசைப்பலகை அற்ற ஒரு சிறிய கணினி. இது ஒரு நுண்செயலி (Microprocessor), சில நினைவகம் மற்றும் சில பயன்பாடுகளை ஒருங்கிணைத்து உருவாக்கப்படுகிறது. ​
-* அட்டைக்குள்ளேயே மறையாக்கம், மறைநீக்கம், ஒப்பமிடல் மற்றும் செய்திச் சுருக்கும் / குறுக்க மதிப்பு, துணைத் திறவிகள் உருவாக்கம் போன்ற மறைப்பியல் செயல்பாடுகளைச் (Crypto Processing) செய்ய வல்லது​
-* இவை ISO/IEC 7810 ID-1, 7816 & 14443 தரநிலைகளுடன் இணங்கும் ஒருங்கிணைந்த மின்சுற்று (Integrated Circuit) கொண்ட ஒரு அட்டை​
-* இவை தனித் திறவிகள், இலக்கமுறைச் சான்றிதழ்கள், கணக்கு எண்கள், கடவுச்சொற்கள் அல்லது தனிப்பட்ட தகவல் போன்ற அதிக மதிப்புமிக்க தகவலைச் சேமிக்க பாதுகாப்பான இடமாகும்​
-* தனித் திறவி எப்போதும் பாதுகாப்பான வகையில் திறன் அட்டையில் இருக்கும்.​
-* பொதுத் திறவியும், இலக்கமுறைச் சான்றிதழும் மட்டுமே பகிர அனுமதிக்கப்படும்.
+* Smart card logon is a type of certificate-based authentication.
+* A smart card is a small computer without a screen or keyboard. It combines a microprocessor, memory, and applications.
+* It can perform cryptographic operations such as encryption, decryption, signing, hashing, and key-pair generation within the card.
+* It is an integrated-circuit card that complies with ISO/IEC 7810 ID-1, 7816, and 14443 standards.
+* It provides a secure place to store valuable information such as private keys, digital certificates, account numbers, passwords, and personal information.
+* The private key always remains securely stored on the smart card.
+* Only the public key and digital certificate may be shared.
 
-### திறன் அட்டை சான்றுறுதி பயன்பாடுகள் / Smart Card Logon Usecases
+### Smart Card Logon Use Cases
 
-* தேசிய அடையாளம்​
-  - தேசிய அடையாள அட்டை​
-  - மின்னணு கடவுச்சீட்டு​
-  - ஓட்டுனர் உரிமம்​
-  - மருத்துவக் காப்பீடு அட்டை​
-  - இலக்கமுறைக் குறியொப்பம்​
+* National identity
+   - National identity cards
+   - Electronic passports
+   - Driver's licenses
+   - Health insurance cards
+   - Digital signatures
 
 <img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
 
@@ -72,20 +72,20 @@ weight: 7
 Image Credit: https://medium.com/gupta-siddhant/
 <br>
 
-* நிறுவனம் / பல்கலைக்கழகம் அடையாள அட்டை​
-  - பாதுகாப்பான பயனர் உள்நுழைவு மற்றும் சான்றுறுதி (கணினி, பிணையம், செயலி, மின்னஞ்சல்)​
-  - இலக்கமுறைச் சான்றிதழ்கள், அறிமுகச்சான்று மற்றும் கடவுச்சொல் சேமித்தல்​
-  - முக்கிய தரவுகள் மறையாக்கம்​
-  - உயிரளவை (Biometrics) சேமித்தல்.​
-  - கட்டிடம், அறைகள் மற்றும் வாகன நிறுத்தம் அனுமதி​
-  - வருகைப்பதிவு (Attendance), நேரப்பதிவு (Time Logging)​
+* Organization or university identity cards
+   - Secure user logon and authentication for computers, networks, applications, and email
+   - Storage of digital certificates, credentials, and passwords
+   - Encryption of sensitive data
+   - Storage of biometrics
+   - Access to buildings, rooms, and parking areas
+   - Attendance and time logging
 
 <br>
 
-* வர்த்தக பயன்பாடுகள்​
-  - வங்கி (பற்று / கடன் அட்டைகள்) மற்றும் செலுத்தம் சேவைகள்​
-  - பாதுகாப்பான வணிகம்-வணிகம் (B2B) மற்றும் வணிகம்-வாடிக்கையாளர் (B2C) இணைய வர்த்தகம் பரிவர்த்தனைகள்​
-  - வாடிக்கையாளர் விசுவாசம் மற்றும் தள்ளுபடி சேவைகள்​
-  - பயணச்சீட்டு / நுழைவுச்சீட்டு விற்பனை​
-  - வாகன நிறுத்த கட்டணம் மற்றும் சுங்கவரி வசூல்​
-  - பாதுகாப்பான கைபேசி சந்தாதாரர் அடையாள தொகுதி மற்றும் சான்றுறுதி​
+* Commercial applications
+   - Banking, including debit and credit cards, and payment services
+   - Secure business-to-business (B2B) and business-to-consumer (B2C) e-commerce transactions
+   - Customer loyalty and discount services
+   - Ticket and admission pass sales
+   - Parking payments and toll collection
+   - Secure Subscriber Identity Module (SIM) and authentication
