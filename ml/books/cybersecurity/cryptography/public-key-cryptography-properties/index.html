@@ -1,0 +1,59 @@
+<!doctype html><html lang=ml><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><base href=/><title>Cybervattam</title><link rel=icon type=image/png sizes=16x16 href=/images/shared/branding/favicon.png><link rel=manifest href=/images/site.webmanifest><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css integrity=sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET crossorigin=anonymous></head><body><nav class="site-header navbar navbar-expand-md navbar-light fixed-top"><div class="container-fluid site-header__inner"><a class="navbar-brand site-header__brand" href=/ aria-label="Cybervattam home"><img src=/images/shared/branding/Cybervattam-logo.png alt=Cybervattam>
+</a><button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#siteNav aria-controls=siteNav aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" id=siteNav><ul class="navbar-nav me-auto mb-2 mb-lg-0"><li class=nav-item><a class=nav-link href=/ml/books/cybersecurity/>സൈബർസുരക്ഷ</a></li><li class=nav-item><a class=nav-link href=/ml/books/emergingtech/>ഉയരുന്ന സാങ്കേതികവിദ്യകൾ</a></li><li class=nav-item><a class=nav-link href=/ml/books/aboutus/>ഞങ്ങളെക്കുറിച്ച്</a></li></ul><ul class="navbar-nav align-items-lg-center site-header__actions"><li class="nav-item dropdown language-switcher"><a class="nav-link dropdown-toggle" href=# id=languageMenu role=button data-bs-toggle=dropdown aria-expanded=false>മലയാളം</a><ul class="dropdown-menu dropdown-menu-end" aria-labelledby=languageMenu><li><a class=dropdown-item href=/books/cybersecurity/cryptography/public-key-cryptography-properties/>English</a></li><li><a class=dropdown-item href=/ta/books/cybersecurity/cryptography/public-key-cryptography-properties/>தமிழ்</a></li><li><a class=dropdown-item href=/hi/books/cybersecurity/cryptography/public-key-cryptography-properties/>हिन्दी</a></li><li><a class="dropdown-item active" href=/ml/books/cybersecurity/cryptography/public-key-cryptography-properties/>മലയാളം</a></li><li><a class=dropdown-item href=/te/books/cybersecurity/cryptography/public-key-cryptography-properties/>తెలుగు</a></li><li><a class=dropdown-item href=/kn/books/cybersecurity/cryptography/public-key-cryptography-properties/>ಕನ್ನಡ</a></li></ul></li></ul></div></div></nav><main class="container-fluid mt-5 w-100 h-100"><div class="row py-5 w-100 h-100" id=main-container><nav class="navbar border-1 border-bottom article-nav"><div class="row w-100 align-items-center"><div class="col-4 text-start"><a href=/ml/books/cybersecurity/cryptography/merkle-tree>ഹാഷ് ട്രീ / മെർക്കിൾ ട്രീ</a></div><div class="col-4 mb-2 text-center"><a class=text-dark href=/ml/books/cybersecurity/cryptography>ക്രിപ്റോഗ്രഫി</a><h4>പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫിയുടെ സവിശേഷതകൾ</h4></div><div class="col-4 text-end"><a href=/ml/books/cybersecurity/cryptography/crytography-comparison>ക്രിപ്റ്റോഗ്രഫി താരതമ്യം</a></div></div></nav><main id=content class="pt-3 article-content"><a href=/ml/books/cybersecurity/cryptography/public-key-cryptography-properties/#%e0%b4%aa%e0%b4%ac%e0%b4%b2%e0%b4%95-%e0%b4%95-%e0%b4%95%e0%b4%b0%e0%b4%aa%e0%b4%b1%e0%b4%b1%e0%b4%97%e0%b4%b0%e0%b4%ab---%e0%b4%b0%e0%b4%b9%e0%b4%b8%e0%b4%af%e0%b4%a4%e0%b4%ae%e0%b4%95%e0%b4%a4><h2 id=പബലക-ക-കരപററഗരഫ---രഹസയതമകത>പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകത</h2></a><p><figure class="figure img-fluid പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകത"><img src=/images/en/cybersecurity/cryptography/pki-c.png alt="പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകത" class=w-100><figcaption class="figure-caption text-center">പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകത</figcaption></figure></p><p>ഉദാഹരണത്തിന്, ഗോകുൽ കാർത്തിക്കിന് ഒരു സന്ദേശം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നുവെന്ന് കരുതുക. ഈ സന്ദേശം ഇവർ രണ്ടുപേർക്ക് മാത്രമേ കാണാനാകൂ. ഗോകുൽ കാർത്തിക്കിന്റെ പബ്ലിക് കീ ഉപയോഗിച്ച് സന്ദേശം എൻക്രിപ്റ്റ് ചെയ്ത് സൈഫർടെക്സ്റ്റ് അയയ്ക്കുന്നു. കാർത്തിക്കിന്റെ സ്വകാര്യ കീയ്ക്ക് മാത്രമേ ആ സൈഫർടെക്സ്റ്റ് ഡീക്രിപ്റ്റ് ചെയ്യാനാകൂ എന്നതിനാൽ സന്ദേശത്തിന്റെ രഹസ്യാത്മകത സംരക്ഷിക്കപ്പെടുന്നു.</p><a href=/ml/books/cybersecurity/cryptography/public-key-cryptography-properties/#%e0%b4%aa%e0%b4%ac%e0%b4%b2%e0%b4%95-%e0%b4%95-%e0%b4%95%e0%b4%b0%e0%b4%aa%e0%b4%b1%e0%b4%b1%e0%b4%97%e0%b4%b0%e0%b4%ab---%e0%b4%b8%e0%b4%ae%e0%b4%97%e0%b4%b0%e0%b4%a4><h2 id=പബലക-ക-കരപററഗരഫ---സമഗരത>പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - സമഗ്രത</h2></a><p><figure class="figure img-fluid പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - സമഗ്രത"><img src=/images/en/cybersecurity/cryptography/pki-i.png alt="പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - സമഗ്രത" class=w-100><figcaption class="figure-caption text-center">പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - സമഗ്രത</figcaption></figure></p><p>ഗോകുൽ കാർത്തിക്കിന് ഒരു ഔദ്യോഗിക സന്ദേശം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നുവെന്ന് കരുതുക. ഗോകുൽ തന്റെ സ്വകാര്യ കീ ഉപയോഗിച്ച് സന്ദേശത്തിൽ ഒപ്പിട്ട് കാർത്തിക്കിന് അയയ്ക്കുന്നു. അയച്ചയാളുടെ സ്വകാര്യ കീ ഉപയോഗിച്ചേ ആ ഒപ്പ് സൃഷ്ടിക്കാനാകൂ എന്നതിനാൽ, സ്വീകർത്താവിന് അയച്ചയാളെയും സന്ദേശത്തിന്റെ സമഗ്രതയും പരിശോധിക്കാം.</p><p>ഇത് ഡിജിറ്റൽ ഒപ്പിടലിന് തുല്യമാണ്.</p><a href=/ml/books/cybersecurity/cryptography/public-key-cryptography-properties/#%e0%b4%aa%e0%b4%ac%e0%b4%b2%e0%b4%95-%e0%b4%95-%e0%b4%95%e0%b4%b0%e0%b4%aa%e0%b4%b1%e0%b4%b1%e0%b4%97%e0%b4%b0%e0%b4%ab---%e0%b4%b0%e0%b4%b9%e0%b4%b8%e0%b4%af%e0%b4%a4%e0%b4%ae%e0%b4%95%e0%b4%a4%e0%b4%af-%e0%b4%b8%e0%b4%ae%e0%b4%97%e0%b4%b0%e0%b4%a4%e0%b4%af><h2 id=പബലക-ക-കരപററഗരഫ---രഹസയതമകതയ-സമഗരതയ>പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകതയും സമഗ്രതയും</h2></a><p><figure class="figure img-fluid പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകതയും സമഗ്രതയും"><img src=/images/en/cybersecurity/cryptography/pki-ci.png alt="പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകതയും സമഗ്രതയും" class=w-100><figcaption class="figure-caption text-center">പബ്ലിക് കീ ക്രിപ്റ്റോഗ്രഫി - രഹസ്യാത്മകതയും സമഗ്രതയും</figcaption></figure></p><p>ഗോകുൽ കാർത്തിക്കിന് ഒരു ഔദ്യോഗിക സന്ദേശം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നുവെന്ന് കരുതുക. സന്ദേശം ഇവർ രണ്ടുപേർക്ക് മാത്രമേ വായിക്കാനാകൂ. ആദ്യം ഗോകുൽ തന്റെ സ്വകാര്യ കീ ഉപയോഗിച്ച് സന്ദേശത്തിൽ ഒപ്പിടുന്നു; തുടർന്ന് കാർത്തിക്കിന്റെ പബ്ലിക് കീ ഉപയോഗിച്ച് അത് വീണ്ടും എൻക്രിപ്റ്റ് ചെയ്യുന്നു. ഇതിലൂടെ ഡബിൾ-എൻക്രിപ്റ്റഡ് സൈഫർടെക്സ്റ്റ് സൃഷ്ടിക്കുന്നു. കാർത്തിക് ആദ്യം തന്റെ സ്വകാര്യ കീ ഉപയോഗിച്ച് ഡീക്രിപ്റ്റ് ചെയ്യുകയും പിന്നീട് ഗോകുലിന്റെ പബ്ലിക് കീ ഉപയോഗിച്ച് വീണ്ടും ഡീക്രിപ്റ്റ് ചെയ്യുകയും ചെയ്യുന്നു. ഇങ്ങനെ അയച്ചയാളുടെ ആധികാരികതയും സന്ദേശത്തിന്റെ രഹസ്യാത്മകതയും സംരക്ഷിക്കപ്പെടുന്നു.</p></main><div class="modal fade" id=noteModel tabindex=-1 aria-labelledby=noteModelLabel aria-hidden=true><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title id=noteModelLabel>Note</h5><button type=button class=btn-close data-bs-dismiss=modal aria-label=Close></button></div><div class=modal-body><div class=mb-3><textarea class=form-control id=noteText rows=3></textarea></div></div><div class=modal-footer><button type=button class="btn btn-secondary" data-bs-dismiss=modal>Close</button>
+<button type=button class="btn btn-primary">Save changes</button></div></div></div></div></div></main><div class="modal fade" id=exampleModal tabindex=-1 aria-labelledby=exampleModalLabel aria-hidden=true><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title id=exampleModalLabel>Confimation</h5><button type=button class=btn-close data-bs-dismiss=modal aria-label=Close></button></div><div class=modal-body>Are you sure you want to delete ?</div><div class=modal-footer><button type=button class="btn btn-secondary" data-bs-dismiss=modal>No</button>
+<button type=button class="btn btn-primary">Yes</button></div></div></div></div><div aria-live=polite aria-atomic=true><div class="toast-container position-absolute top-0 start-0 p-5 mt-5" id=toast-container></div></div><script src=https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js integrity=sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p crossorigin=anonymous></script><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js integrity=sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT crossorigin=anonymous></script><script type=module>
+    import renderMathInElement from "https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.mjs";
+
+    const onRender = () => {
+      renderMathInElement(document.getElementById('main-container'), {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false,
+          macros:{"\\f":"#1f(#2)"}
+        });
+    };
+    document.addEventListener('onrender', function (e) { 
+
+      onRender();
+      
+
+        
+        
+
+         
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+     }, false);
+
+     
+     
+     onRender();
+        
+        
+</script><script type=text/javascript src=/js/chapter.js></script></body></html>
