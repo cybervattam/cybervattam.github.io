@@ -15,4 +15,4 @@ weight: 4
 
 அங்கீகாரத் தகவல்களை அதிகாரம் வழங்கல் பயன்பாடு அனுப்பலாம் அல்லது இலக்கு பயன்பாடு அதிகாரம் வழங்கல் பயன்பாடு அனுப்பிய அடையாள பாத்திர வரைவை கொண்டு தன் அங்கீகாரம் செய்யப்படலாம்.
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="/images/ta/cybersecurity/iam/iam-provisioning-ta.svg" width=70%>

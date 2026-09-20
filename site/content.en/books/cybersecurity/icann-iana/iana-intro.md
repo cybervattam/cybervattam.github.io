@@ -1,73 +1,73 @@
 ---
-title: 'இணைய இருத்திய எண்கள் ஆணையம் (IANA)'
+title: 'Internet Assigned Numbers Authority (IANA)'
 date: 2022-08-19
 draft: false
 weight: 2
 ---
 
 
-### இணைய இருத்திய எண்கள் ஆணையம் (Internet Assigned Numbers Authority)
+### Internet Assigned Numbers Authority (IANA)
 
-<img src="images/logos/iana-logo.svg" width=20%>
+<img src="images/shared/logos/iana-logo.svg" width=20%>
 
-இணைய இருத்திய எண்கள் ஆணையம் என்பது உலகளாவிய களப்பெயர்கள், எண் வளங்கள் மற்றும் நெறிமுறை இருத்தங்களை மேற்பார்வையிடும் ஒரு தரநிலை அமைப்பாகும்.
+The Internet Assigned Numbers Authority is the organization responsible for coordinating global domain names, number resources, and protocol assignments.
 
-இந்த ஆணையம் அமெரிக்க அரசாங்கத்தின் கட்டுப்பாட்டில் இருந்தது. இணையம் பல நாடுகளால் பரவலாக ஏற்றுக்கொள்ளப்பட்டதால், இந்த ஆணையத்தை ஒரே நாடு நிர்வகிக்கக்கூடாது என்று முடிவு செய்யப்பட்டது.
+The authority was originally administered under the control of the United States government. As the internet became widely adopted around the world, it was decided that these functions should not be managed by a single country.
 
-இப்போது இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (ICANN) என்ற சர்வதேச இலாப நோக்கற்ற பொது நன்மை நிறுவனத்தால் நிர்வகிக்கப்படுகிறது. இவ்வாணையத்தின் செயல்பாடுகள்:
+Today, these functions are managed by the Internet Corporation for Assigned Names and Numbers (ICANN), an international nonprofit public-benefit organization. The authority's functions include:
 
-#### * 1. __களப்பெயர் சேவைகள் / Domain Name Service__ 
-
-<br>
-
-   - __1.1 களப்பெயர் முறைமை வேர் மண்டலம் மேலாண்மை மற்றும் திறவி ஒப்பமிடல் விழா (DNS Root Zone Management & Key Signing Ceremony)__
-      - களப்பெயர் முறைமையின் வேர்  மண்டல தரவை நிர்வகிக்கிறது. இது களப்பெயர் முறைமை மரத்தில் வரிசைக்கு மேலே உள்ளது. 
-      - இந்த பணியில் உயர் நிலை களப்பெயர் தரவு பதிவாளர்கள், வேர் களப்பெயர் சேவையகங்களை இயக்கம் அமைப்புகள் மற்றும் ICANN இன் கொள்கை உருவாக்கும் குழு ஆகியவற்றுடன் தொடர்புகொள்வது அடங்கும்.
-      - வேர் மண்டலத்தில் பாதுகாப்பான களப்பெயர் முறைமையை (DNSSEC) இயக்குவதற்கான திறவி ஒப்பமிடல் விழாவையும் இது செய்கிறது
-      - செயல்பாட்டில் anycast இ.நெறி முகவரியைப் பயன்படுத்தி 13 வேர் சேவையகங்கள் உள்ளன
-      - பிணையத்தில் உள்ள கணினிகள் ஒரு உயர் நிலை களத்தின் முகவரியை விரைவகத்தில்  சேமிப்பதால், வேர் சேவையகங்கள் அடிக்கடி வினவப்படுவதில்லை. ஆனால் அவை இணைய கட்டமைப்பின் ஒரு முக்கிய அங்கமாகும்
-      - வேர் சேவையகங்களின் இயக்குனர்கள் பெரும்பாலும் தன்னாட்சி பெற்று இருப்பினும், அவர்கள் ஒருவருக்கொருவர் மற்றும் ICANN உடன் இணைந்து பணியாற்ற வேண்டும் https://root-servers.org/ 
+#### * 1. __Domain Name Services__
 
 <br>
 
-   - __1.2 மேல் நிலை களப்பெயர்களின் தரவுத்தளம் (Database of Top Level Domains)__
-      - வேர் மண்டல தரவுத்தளம் .com போன்ற பொது உயர் நிலை களம் (gTLD) மற்றும் .uk போன்ற நாட்டு குறியீடு களம் (ccTLD) உள்ளிட்ட உயர்மட்ட களங்களின் பிரதிநிதித்துவ விவரங்களை (Delegation Details) குறிக்கிறது. 
-      - களப்பெயர் முறைமையின் வேர் மண்டலத்தின் மேலாளராக, வகுக்கப்பட்ட கொள்கைகள் மற்றும் நடைமுறைகளுக்கு ஏற்ப இந்த பிரதிநிதிகளை ஒருங்கிணைப்பது இணைய இருத்திய எண்கள் ஆணையத்தின் பொறுப்பு.
+   - __1.1 DNS Root Zone Management and Key Signing Ceremony__
+      - IANA manages the root zone data, which is at the top of the DNS hierarchy.
+      - This work involves coordinating with top-level domain registries, root server operator organizations, and ICANN's policy-making bodies.
+      - IANA also conducts the key signing ceremony used to operate DNSSEC for the root zone.
+      - The root service is provided by 13 root server identities using anycast IP addressing.
+      - Root servers are not queried frequently because computers cache the addresses of top-level domain servers, but they remain a critical part of the internet infrastructure.
+      - Root server operators are largely independent, but they must coordinate with one another and with ICANN: https://root-servers.org/
 
 <br>
 
-   - __1.3 .int பதிவகம் (registry)__
-      - ஒரு குறிப்பிட்ட நாட்டு அளவிலான மேல் நிலை களப்பெயரில் இயற்கையாக பொருந்தாத சர்வதேச நிறுவனங்கள், சர்வதேச அமைப்புகளின் பயன்பாட்டிற்காக வடிவமைக்கப்பட்டதே .int மேல் நிலை களப்பெயர். எடுத்துக்காட்டாக, உலக சுகாதார அமைப்புக்கு who.int என்ற களப்பெயர் பயன்படுத்தப்படுகிறது
+   - __1.2 Database of Top-Level Domains__
+      - The root zone database contains delegation details for top-level domains, including generic top-level domains (gTLDs) such as .com and country-code top-level domains (ccTLDs) such as .uk.
+      - As the manager of the DNS root zone, IANA coordinates these delegations according to established policies and procedures.
 
 <br>
 
-   - __1.4 .arpa பதிவகம் (registry)__
-      - .arpa களம், இ.நெறி முகவரிகளின் தலைகீழ் குறிப்பு வடிவம் இணைத்தல் மற்றும் ENUM தொலைபேசி எண் இணைத்தல் விநியோகம் போன்ற இணைய நெறிமுறைகளால் உள் தொடர்புகளுக்கு  பயன்படுத்தப்படுகிறது. 
-      - .arpa வுக்கான கொள்கை பொறுப்பைக் கொண்ட இணைய கட்டிடக்கலை வாரியத்துடன் நெருங்கிய தொடர்பில் இந்த களத்தை இணைய இருத்திய எண்கள் ஆணையம் நிர்வகிக்கிறது.
+   - __1.3 .int Registry__
+      - The .int top-level domain is intended for international organizations that do not naturally fit within a country-code top-level domain. For example, the World Health Organization uses the domain who.int.
 
 <br>
 
-#### * 2. __எண் வளங்கள் / Number Resources__
-   - இணைய நெறிமுறை முகவரி (IP Addresses)
-   - தன்னாட்சி அமைப்பு எண்கள் (Autonomous System Number)
+   - __1.4 .arpa Registry__
+      - The .arpa domain is used for internet infrastructure functions such as reverse mapping of IP addresses and ENUM telephone number mapping.
+      - IANA manages this domain in close coordination with the Internet Architecture Board, which has policy responsibility for .arpa.
 
 <br>
 
-#### * 3. __நெறிமுறை இருத்தம் (Protocol Assignments)__
+#### * 2. __Number Resources__
+   - IP addresses
+   - Autonomous System Numbers
 
 <br>
 
-   - __3.1 நெறிமுறை பதிவகம் (Protocol Registry)__
-      - பல்வேறு இணைய நெறிமுறைகளில் உள்ள பல குறியீடுகளையும் எண்களையும் பராமரிக்கும் பொறுப்பு இணைய இருத்திய எண்கள் ஆணையத்தின் வசம் உள்ளது. இந்த சேவையை, இணைய பொறியியல் பணிக்குழு (Internet Engineering Task Force - IETF) உடன் இணைந்து அவர்கள் வழங்குகிறார்கள்.
-      - இணைய இருத்திய எண்கள் ஆணையத்தால் நிர்வகிக்கப்படும் நெறிமுறைகளின் பட்டியல் https://www.iana.org/protocols  என்ற முகவரியில் கிடைக்கிறது. 
-      - நெறிமுறை பதிவகத்தின் ஒரு பகுதியாக, இணைய இருத்திய எண்கள் ஆணையம் பல்வேறு நெறிமுறைகளின் துறைமுக எண்களை நிர்வகிக்கிறது மற்றும் நன்கு அறியப்பட்ட துறைமுகங்கள் மற்றும் பதிவு செய்யப்பட்ட துறைமுக வரம்புகளின் அதிகாரப்பூர்வ பட்டியலை பராமரிக்கிறது. 
-         - நன்கு அறியப்பட்ட துறைமுக எண்கள் (0 முதல் 1023 வரை)
-         - பதிவு செய்யப்பட்ட துறைமுக எண்கள் (1024 முதல் 49151 வரை)
-         - மாறும் அல்லது தனியார் துறைமுக எண்கள் (49152 முதல் 65535 வரை)
+#### * 3. __Protocol Assignments__
 
 <br>
 
-   - __3.2 நேர மண்டல தரவுத்தளம் (Time Zone Database)__
-      - நேர மண்டல தரவுத்தளம் (பெரும்பாலும் tz அல்லது zoneinfo என அழைக்கப்படுகிறது) உலகெங்கிலும் உள்ள பல பிரதிநிதி இடங்களுக்கான உள்ளூர் நேர வரலாற்றைக் குறிக்கும் குறியீடு மற்றும் தரவுகளைக் கொண்டுள்ளது. 
-      - அரசியல் அமைப்புகளால் நேர மண்டல எல்லைகள் மாற்றம், உலகளாவிய நேர ஒருங்கிணைப்பு (UTC) நேரம் தள்ளி அமைத்தல் மற்றும் பகல் நேர சேமிப்பு நேரம் (Daylight Savings Time) விதிகள் ஆகியவற்றில் செய்யப்பட்ட மாற்றங்களை பிரதிபலிக்க இது அவ்வப்போது புதுப்பிக்கப்படுகிறது. 
-      - நேர மண்டலங்களின் அதிகாரப்பூர்வ பட்டியல் https://www.iana.org/time-zones இல் வெளியிடப்பட்டுள்ளது
+   - __3.1 Protocol Registry__
+      - IANA maintains many of the codes and numbers used by internet protocols in coordination with the Internet Engineering Task Force (IETF).
+      - The protocols managed by IANA are listed at https://www.iana.org/protocols.
+      - As part of the protocol registry, IANA manages port numbers and maintains the official list of well-known and registered port ranges:
+         - Well-known port numbers (0 to 1023)
+         - Registered port numbers (1024 to 49151)
+         - Dynamic or private port numbers (49152 to 65535)
+
+<br>
+
+   - __3.2 Time Zone Database__
+      - The time zone database, commonly called tz or zoneinfo, contains code and data describing local time histories for representative locations around the world.
+      - It is updated periodically to reflect changes made by political authorities to time zone boundaries, UTC offsets, and daylight saving time rules.
+      - The official list of time zones is published at https://www.iana.org/time-zones.

@@ -1,5 +1,5 @@
 ---
-title: 'மறைப்பியல் ஒப்பீடு'
+title: 'Cryptography Comparison'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 9
@@ -7,20 +7,23 @@ extensions:
     - katex
 ---
 
-# இரகசியத் திறவி மறைப்பியல் 
+# Symmetric Key Cryptography
 
-- ஒற்றைத் திறவி மறைப்பியல் இரகசியத் திறவி மறைப்பியல் என்றும்  அறியப்படுகிறது 
-- மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்மறையாக்கம் மற்றும் மறைநீக்கம் செய்ய ஒரே திறவி பயன்படுத்தப்படும்
-- இரகசியத்தன்மை பண்பை மட்டுமே அளிக்கிறது
-- பொதுவாக மறையாக்கம் / மறைநீக்கம் வேகமாக நிகழும்
-- திறவி மேலாண்மை சற்றே கடினமானது
-- இரகசியத் திறவி வெளியில் கசிந்தால் அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். இதனால் இரகசியத் திறவியை அனைத்து பயன்பாட்டாளர்களும் பாதுகாப்பாக வைக்க வேண்டும். 
+- Also known as secret key cryptography.
+- A single key is used for both encryption and decryption.
+- Provides confidentiality only.
+- Usually faster for encryption and decryption.
+- Key management is relatively difficult.
+- If the secret key is exposed, anyone who gets it can decrypt the data.
+- Therefore, the secret key must be protected carefully by all users.
 
-# பொதுத் திறவி மறைப்பியல்
-- இரட்டைத் திறவி மறைப்பியல் பொதுத் திறவி மறைப்பியல் என்றும் அறியப்படுகிறது
-- மறையாக்கம் செய்ய ஒரு திறவி மற்றும் மறைநீக்கம் செய்ய மற்றொரு திறவி என இரண்டு திறவிகள் பயன்படுத்தப்படும்
-- இரகசியத்தன்மை மற்றும் நம்பகத்தன்மை பண்பை அளிக்கிறது
-- மறையாக்கம் / மறைநீக்கம் சற்றே மெதுவாக நிகழும்
-- திறவி மேலாண்மை மிக சிக்கலானது
-- ஒரு திறவியால் மறையாக்கம் செய்த மறைக்குறியீட்டை அதன் துணைத் திறவியால் மட்டுமே மறைநீக்கம் செய்ய இயலும்.
-- தனித் திறவி வெளியில் கசிந்தால் மட்டுமே அதைக்கொண்டு யார் வேண்டுமானாலும் மறைநீக்கம் செய்ய இயலும். தனித்திறவியின் உரிமையாளர் மட்டுமே அதனை மிகவும் பாதுகாப்பாக வைக்க வேண்டும்
+# Asymmetric Key Cryptography
+
+- Also known as public key cryptography.
+- Two keys are used: one key for encryption and a different key for decryption.
+- Provides confidentiality and authenticity.
+- Encryption and decryption are usually slower.
+- Key management is more complex.
+- A message encrypted with one key can only be decrypted by its matching key pair.
+- If the private key is exposed, anyone with it may decrypt the protected data.
+- The private key owner must keep the private key extremely secure.

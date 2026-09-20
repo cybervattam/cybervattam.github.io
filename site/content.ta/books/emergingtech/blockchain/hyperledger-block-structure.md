@@ -30,5 +30,5 @@ weight: 5
 
  <br>
 
-<img src="images/blockchain-ta/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%>
 

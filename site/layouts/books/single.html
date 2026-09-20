@@ -1,7 +1,7 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
 
-  <nav class="navbar border-1 border-bottom">
-  <div class="row w-100">
+  <nav class="navbar border-1 border-bottom article-nav">
+  <div class="row w-100 align-items-center">
     <div class="col-4 text-start">
       {{if .NextInSection}}<a href="{{strings.TrimRight "/" .NextInSection.Permalink}}">{{.NextInSection.Title}}</a>{{end}}
     </div>
@@ -16,7 +16,19 @@
   </div>
 </nav>
 
-<main id="content" class="pt-3">
+{{ if and (ne .Site.Language.Lang "en") (not .IsTranslated) }}
+  {{ $fallbackPath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
+  {{ $contributeURL := "/books/aboutus/contribution/" }}
+  <div class="translation-banner" role="status" aria-live="polite">
+    <p>
+      {{ i18n "translationMissing" }}
+      <a href="{{ $contributeURL }}">{{ i18n "contributeTranslation" }}</a>?
+    </p>
+    <a class="btn btn-primary btn-sm" href="{{ $fallbackPath | absURL }}">{{ i18n "readInEnglish" }}</a>
+  </div>
+{{ end }}
+
+<main id="content" class="pt-3 article-content">
   {{- .Content -}}
 </main>
 {{ if eq $.Page.IsPage true }}

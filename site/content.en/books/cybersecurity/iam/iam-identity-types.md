@@ -1,37 +1,37 @@
 ---
-title: 'அடையாள வகைகள்'
+title: 'Identity Types'
 date: 2022-08-18
 draft: false
 weight: 2
 ---
 
-### அடையாள வகைகள் / Identity Types
+### Identity Types
 
-அடையாளங்களை பொதுவாக இரண்டு வகைகளாக பிரிக்கலாம். 
+Identities can generally be divided into two categories.
 
-* வணிகம்-வணிகம் அடையாளங்கள்
-* வணிகம்-நுகர்வோர் அடையாளங்கள்
+* Business-to-business identities
+* Business-to-consumer identities
 
-<img src="images/iam-ta/iam-type-of-identities-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
 
-#### வணிகம்-வணிகம் அடையாளங்கள் (B2B / Workforce Identity)
-ஒரு வணிக நிறுவனத்தின் செயல்பாட்டிற்கு தேவையான அடையாளங்கள் இந்த வகையின் கீழ் வரும். இவை சொந்த செயல்பாட்டிற்கோ அல்லது மற்ற நிறுவனத்துடன் வர்த்தகம் செய்ய உதவும் அடையாளங்கள். உதாரணமாக,
+#### Business-to-Business Identities (B2B / Workforce Identity)
+Identities required for the operation of a business organization fall into this category. They support internal operations or business transactions with other organizations. Examples include:
 
-* பணியாளர்கள் மற்றும் ஒப்பந்ததாரர்கள் (Employees/Contractors)
-* நிரல்கள் மற்றும் பயன்பாடுகள் (Applications/Programs)
-* பயன்பாட்டு நிரலாக்க இடைமுகம் / சேவைகள் (API/Services)
-* மேசைக்கணினிகள், மடிக்கணினிகள், அச்சுப்பொறிகள், வருடுபொறிகள் (Desktop/Laptop)
-* சேவையகம்  & பிணைய சாதனங்கள் (Servers & Network Devices)
+* Employees and contractors
+* Programs and applications
+* Application programming interfaces and services (APIs/Services)
+* Desktop computers, laptops, printers, and scanners
+* Servers and network devices
 
-அடையாளம் மற்றும் அணுகல் மேலாண்மை அமைப்பில் நிர்வகிக்கப்படுகிறது.
+These identities are managed by an Identity and Access Management (IAM) system.
 
 
-#### வணிகம்-நுகர்வோர் அடையாளங்கள் (B2C / Consumer or Customer Idenity)
-ஒரு வணிக நிறுவனத்தின் தங்கள் நுகர்வோருக்கு சேவை வழங்க தேவையான அடையாளங்கள் இந்த வகையின் கீழ் வரும். உதாரணமாக,
+#### Business-to-Consumer Identities (B2C / Consumer or Customer Identity)
+Identities required by a business organization to provide services to its consumers fall into this category. Examples include:
 
-* நுகர்வோர் & வாடிக்கையாளர்
-* திறன் மகிழுந்து (Smart Car)
-* திறன் கடிகாரம் (Smart Watch)
-* மெய்நிகர் நிலவுகை தலையணி ஒலி/ஒளி வாங்கி (VR/AR Headset)
+* Consumers and customers
+* Smart cars
+* Smart watches
+* Virtual reality and augmented reality headsets (VR/AR headsets)
 
-நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை அமைப்பில் நிர்வகிக்கப்படுகிறது.
+These identities are managed by a Consumer Identity and Access Management (CIAM) system.

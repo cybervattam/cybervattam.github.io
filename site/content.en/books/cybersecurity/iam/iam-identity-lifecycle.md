@@ -1,27 +1,27 @@
 ---
-title: 'அடையாள வாழ்நிலைச் சுழற்சி'
+title: 'Identity Lifecycle'
 date: 2022-08-18
 draft: false
 weight: 3
 ---
 
-### அடையாள வாழ்நிலைச் சுழற்சி / Identity Lifecycle (Joiner, Mover, Leaver - JML)
+### Identity Lifecycle (Joiner, Mover, Leaver - JML)
 
-<img src="images/iam-ta/iam-identity-lifecycle-ta.svg" width=50%>
-
-
-
-#### அடையாள வாழ்நிலைச் சுழற்சி - இணைபவர் / Joiner
-<img src="images/iam-ta/iam-joiner-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-identity-lifecycle.png" width=50%>
 
 
 
-
-#### அடையாள வாழ்நிலைச் சுழற்சி - நகர்பவர் / Mover
-<img src="images/iam-ta/iam-mover-ta.svg" width=50%>
+#### Identity Lifecycle - Joiner
+<img src="images/en/cybersecurity/iam/iam-joiner.png" width=50%>
 
 
 
 
-#### அடையாள வாழ்நிலைச் சுழற்சி - வெளியேறுபவர் / Leaver
-<img src="images/iam-ta/iam-leaver-ta.svg" width=50%>
+#### Identity Lifecycle - Mover
+<img src="images/en/cybersecurity/iam/iam-mover.png" width=50%>
+
+
+
+
+#### Identity Lifecycle - Leaver
+<img src="images/en/cybersecurity/iam/iam-leaver.png" width=50%>

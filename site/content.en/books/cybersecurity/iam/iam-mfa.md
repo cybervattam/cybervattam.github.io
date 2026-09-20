@@ -1,12 +1,12 @@
 ---
-title: 'பல காரணி சான்றுறுதி'
+title: 'Multifactor Authentication'
 date: 2022-08-18
 draft: false
 weight: 11
 ---
 
-### பல காரணி சான்றுறுதி (Multifactor Authentication)
+### Multifactor Authentication (MFA)
 
-பல காரணி சான்றுறுதி என்பது ஒரு பயனரின் அடையாளத்தை உறுதி செய்ய ஒன்றுக்கும் மேலான காரணிகளை பயன்படுத்த நிர்பந்திக்கும் ஒரு பாதுகாப்பு முறை. இம்முறை, இரண்டு அல்லது அதற்கும் மேலான தொடர்பில்லாத காரணிகளை சரிபார்த்த பின்னர் ஒரு அடையாளத்திற்கு சான்றுறுதி அளிக்கும். இதற்கு பயன்படும் சில காரணிகளை கீழே காணலாம்.
+Multifactor Authentication (MFA) is a security method that requires more than one factor to verify a user's identity. It authenticates an identity only after verifying two or more independent factors. Some of the factors used for this purpose are shown below.
 
-<img src="images/iam-ta/iam-mfa-ta.svg" width=50%>
+<img src="images/en/cybersecurity/iam/iam-mfa.png" width=50%>

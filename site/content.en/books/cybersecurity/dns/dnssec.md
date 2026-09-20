@@ -1,27 +1,27 @@
 ---
-title: 'களப்பெயர் முறைமை பாதுகாப்பு'
+title: 'DNS Security Extensions (DNSSEC)'
 date: 2022-08-14
 draft: false
 weight: 7
 ---
 
+### DNS Security / DNSSEC
 
-### களப்பெயர் முறைமை பாதுகாப்பு / DNS SEC
+The goal of DNS security is to create a trusted DNS system by combining DNS data with cryptographic signatures.
 
-களப்பெயர் முறைமை பாதுகாப்பின் நோக்கம் களப்பெயர் தரவுகள் மற்றும் அதன் மறைப்பியல் குறியொப்பங்களையும் சேர்த்து ஒரு பாதுகாப்பான களப்பெயர் முறைமையை உருவாக்குவது. தரவின் உரிமையாளர் அவரவர் தரவை ஒப்பமிடுவர். 
+A zone owner signs the data in the zone using a private key. Consumers can verify the authenticity of the DNS data using the corresponding public key.
 
-குறியொப்பம் சரிபார்த்தலை வசதிப்படுத்த, களப்பெயர் முறைமை பாதுகாப்பு சில புதிய ஏட்டு வகைகளை சேர்த்துள்ளது:
-RRSIG ஏடு – ஏட்டுத் தொகுப்பின் இலக்கமுறை குறியொப்பத்தை சேமிக்குமிடம்
-DNSKEY ஏடு – மறையாக்கத்தில் பயன்படுத்தப்படும் பொதுத் திறவியை சேமிக்குமிடம்.
-DS ஏடு – DNSKEY ஏட்டின் குறுக்க மதிப்பை சேமிக்குமிடம்
-NSEC and NSEC3 ஏடு – குறிப்பிட்ட களப்பெயர் முறைமை ஏடு இல்லை என வெளிப்படையாக தெரிவிக்கும் ஏடு
-CDNSKEY and CDS ஏடு – ஒரு குழந்தை மண்டலம் தன் பெற்றோர் மண்டலத்தில் உள்ள DS ஏட்டைப் புதுப்பிக்க பயன்படுகிறது.
+To support signing and verification, DNSSEC adds several record types:
+- __RRSIG Record__ – Stores digital signatures for a set of DNS records.
+- __DNSKEY Record__ – Stores the public key used for verification.
+- __DS Record__ – Stores the hash of the DNSKEY record for delegation.
+- __NSEC and NSEC3 Records__ – Explicitly prove that a DNS record does not exist.
+- __CDNSKEY and CDS Records__ – Used by a child zone to update its DS record in the parent zone.
 
-ஒவ்வொரு களப்பெயர் முறைமை மண்டலமும் இரண்டு துணைத் திறவிகளை கொண்டிருக்கும். 
-- மண்டலம் ஒப்பமிடல் துணைத் திறவிகள்(Zone Signing Key – ZSK). 
-- திறவி ஒப்பமிடல் துணைத் திறவிகள் (Key Signing Key – KSK). 
+Each DNS zone typically has two key pairs:
+- Zone Signing Key (ZSK)
+- Key Signing Key (KSK)
 
+<img src="/images/en/cybersecurity/dns/dns-sec.png">
 
-<img src="images/dns-ta/dns-sec-ta.svg">
-
-மண்டல உரிமையாளர் மண்டலத்தில் ஒரு வள ஏட்டுத் தொகுப்பை (RRset) பயன்படுத்தி, மண்டலம் ஒப்பமிடல் தனித்திறவியைப் பயன்படுத்தி அந்த தரவின் இலக்கமுறை குறியொப்பங்களை (RRSig) உருவாக்குகிறார். மண்டலம் ஒப்பமிடல் பொதுத்திறவி DNSKEY ஏட்டில் எவரும் மீட்டெடுக்க மண்டலத்திலேயே வெளியிடப்படுகிறது. மண்டலத்தில் தரவைப் பார்க்கும் சுழல்நிலை தீர்விகள், மண்டலத்தின் பொதுத் திறவியையும் மீட்டெடுக்கிறது, இது களப்பெயர் முறைமை தரவின் நம்பகத்தன்மையை சரிபார்க்க பயன்படுத்துகிறது.
+The zone owner signs a set of resource records using the zone signing private key. The public part of the zone signing key is published in the DNSKEY record so resolvers can retrieve it and validate the authenticity of the DNS data.

@@ -1,21 +1,22 @@
 ---
-title: 'கட்டச்சங்கிலி அறிமுகம்'
+title: 'Blockchain Introduction'
 date: 2022-08-15
 draft: false
 weight: 1
 ---
 
-### கட்டச்சங்கிலி அறிமுகம்
-கட்டச்சங்கிலி / தொடரேடு என்பது இணையர் பிணையத்தில் (P2P network) இருக்கும் பல்வேறு கணினிகளில் உள்ள ஒரு பரவலாக்கப்பட்ட பேரேடு (Distributed Ledger). அனைத்து கணினிகளும் அதே பேரேடு நகலைக் கொண்டிருக்கும். 
+### Blockchain Introduction
 
-இலக்கமுறைச் சொத்துக்களைக் (Digital Assets) கண்காணிக்க உதுவும் இந்த தொழில்நுட்பம் கணினிகளின் நினைவகத்தில் இயங்குகின்ற செயல்பாடுகளாக உள்ளன
+A blockchain, or distributed ledger, is a ledger shared across different computers in a peer-to-peer network (P2P network). Every computer has the same copy of the ledger.
 
-உதாரணமாக, ஒரு பரிவர்த்தனை பதிவேட்டை எடுத்துக்கொள்வோம். பதிவேட்டில் பல பக்கங்கள் இருக்கும். ஒவ்வொரு பக்கத்திலும் பல பரிவர்த்தனைகளின் பதிவுகள் இருக்கும். மேலும் ஒவ்வொரு பக்கத்திலும், பக்கத்தின் எண் குறிக்கப்பட்டிருக்கும்.
+This technology helps track digital assets and operates as software running in computer memory.
 
-பக்கத்தின் எண்களை கொண்டு, பரிவர்த்தனை பதிவுகளை நாம் எளிதில் காணலாம். ஒரு பக்கம் தொலைந்தாலோ அல்லது மாற்றப்பட்டாலோ அதனை எளிதில் கண்டுபிடிக்க இயலும். 
+For example, consider a transaction ledger. A ledger contains many pages, and each page contains records of several transactions. Each page also has a page number.
 
-இங்கே, பதிவேடு என்பது கட்டச்சங்கிலி, பதிவேட்டின் ஒரு பக்கம் என்பது ஒரு கட்டம், பக்கங்களில் உள்ள பதிவுகள் பரிவர்த்தனைகளை குறிக்கும்.
+The page numbers make it easy to find transaction records. If a page is lost or changed, it can be detected easily.
 
-<img src="images/blockchain-ta/blockchain-intro-ta.svg" width=50%>
+In this analogy, the ledger is the blockchain, a page in the ledger is a block, and the records on the pages represent transactions.
 
-கட்டச்சங்கிலியின் பங்கேற்பாளர் (இணையர்) ஒவ்வொருவரும் அதே பேரேடு நகலைக் கொண்டுள்ளதால் தரவைப் பதிவு செய்வதற்கு நம்பகமான மூன்றாம் தரப்பினரை (வங்கி, அரசு) சார்ந்து இருக்கும் நிலையை கட்டச்சங்கிலி நீக்குகிறது.
+<img src="images/en/emergingtech/blockchain/blockchain-intro.png" width=50%>
+
+Because every blockchain participant, or peer, has the same copy of the ledger, blockchain removes the need to depend on a trusted third party, such as a bank or government, to record data.

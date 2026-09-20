@@ -1,43 +1,44 @@
 ---
-title: 'இலக்கமுறைச் சான்றிதழ்'
+title: 'Digital Certificate'
 date: 2022-08-05
 draft: false
 weight: 2
 ---
 
-### இலக்கமுறைச் சான்றிதழ் / Digital Certificate
+### Digital Certificate
 
-<img src="/images/pki-ta/digital-certificate-sample.png">
+<img src="/images/shared/screenshots/digital-certificate-sample.png">
 
-இலக்கமுறைச் சான்றிதழை ஒரு மின்னணு அடையாள ஆவணமாகக் கருதலாம். இவை X.509 சான்றிதழ் என்றும் அறியப்படுகிறது. இலக்கமுறைச் சான்றிதழ் என்பது ஒரு பொதுத் திறவி மற்றும் அதன் உரிமையாளர் இடையில் ஒரு தொடர்பை ஏற்படுத்த வழிவகுக்கிறது
-சான்றிதழ் ஆணையத்தால் சான்றளிக்கப்பட்டு உரிமையாளருக்கு வழங்கப்படுகிறது. உரிமையாளர் முடிந்தவரை இலக்கமுறை சான்றிதழை பாதுகாப்பாக வைக்க வேண்டும். ஒரு குறிப்பிட்ட காலம் வரை மட்டுமே செல்லுபடியாகும். இதன் வாழ்க்கைச் சுழற்சியை பொதுத் திறவி உள்கட்டமைப்பு நிர்வகிக்கிறது.
+ A digital certificate can be considered an electronic identity document. It is also known as an X.509 certificate. A digital certificate establishes a relationship between a public key and its owner.
 
-### இலக்கமுறைச் சான்றிதழ் வடிவங்கள் / Digital Certificate Formats
+It is certified by a certificate authority and issued to the owner. The owner must keep the digital certificate secure. It is valid only for a specific period, and its lifecycle is managed by public key infrastructure.
+
+### Digital Certificate Formats
 
 
-<img src="/images/pki-ta/digital-certificate-formats-ta.svg">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
 
-#### PEM format (Privacy Enhanced Mail) / தனியுரிமை மேம்படுத்தப்பட்ட அஞ்சல்
-இவ்வடிவம் X.509 சான்றிதழ்கள், சான்றிதழ் ஒப்பமிடல் கோரிக்கைகள் மற்றும் மறைப்பியல் திறவிகளுக்கான மிகவும் பொதுவான வடிவமாகும்.
-பெரும்பாலான சான்றிதழ் ஆணையங்கள் அடிப்படை 64 ஆஸ்கி முறையில் குறியாக்கம் செய்யப்பட்ட சான்றிதழ்களை வழங்குகின்றன
-இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .pem, .crt, .cer, or .key என முடியும். 
-.pem வகையில் ஒரே கோப்பில் இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் மற்றும் தனித் திறவியை சேமிக்க முடியும்.
-இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் ஆகியவற்றை தனியாக .crt or .cer என்ற வடிவிலும் சேமிக்க முடியும். தனித் திறவியை .key என்ற வடிவில் சேமிக்க முடியும்
+#### PEM Format (Privacy-Enhanced Mail)
+This is the most common format for X.509 certificates, certificate signing requests, and cryptographic keys.
+Most certificate authorities provide certificates encoded in Base64 ASCII format.
+Certificate files in this format may use the .pem, .crt, .cer, or .key extensions.
+A .pem file can store the end-entity certificate, the authority certificate, and the private key in a single file.
+The end-entity and authority certificates can also be stored separately as .crt or .cer files, while the private key can be stored as a .key file.
 
-#### PKCS #7 format (Public Key Cryptography Standard / பொதுத் திறவி மறைப்பியல் தரநிலை)
-இந்த வடிவத்தில் சான்றிதழ்கள் மற்றும் சான்றிதழ் சங்கிலிகளை மட்டுமே சேமிக்க முடியும். தனித் திறவியை சேமிக்க இயலாது.
-இந்த வடிவச் சான்றிதழ் அடிப்படை 64 ஆஸ்கி முறையில் குறியாக்கம் செய்யப்பட்டவை
-இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .p7b or .p7c என முடியும்.
-பயனர்களுக்கு சான்றிதழ் சங்கிலிகளை வழங்க இந்த வடிவமைப்பை வழக்கமாக சான்றிதழ் ஆணையங்கள் பயன்படுத்துகின்றன. 
+#### PKCS #7 Format (Public-Key Cryptography Standard)
+This format can store certificates and certificate chains, but it cannot store private keys.
+Certificates in this format are encoded in Base64 ASCII format.
+Certificate files in this format may use the .p7b or .p7c extensions.
+Certificate authorities commonly use this format to provide certificate chains to users.
 
-#### DER format – (Distinguished Encoding Rule / தனித்துவமான குறியீட்டு விதிகள்)
-இது இருமமுறையில் குறியாக்கம் செய்யப்பட்ட X.509 சான்றிதழ்கள் மற்றும் தனித் திறவிகளுக்கான வடிவம்.
-இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .der அல்லது .cer என முடியும்.
-பொதுவாக ஜாவா சூழல்களில் பயன்படுத்தப்படுகிறது
+#### DER Format (Distinguished Encoding Rules)
+This is a binary encoding format for X.509 certificates and private keys.
+Certificate files in this format may use the .der or .cer extensions.
+It is commonly used in Java environments.
 
-#### PFX format (PKCS #12) (Personal Information Exchange / தனிப்பட்ட தகவல் பரிமாற்றம்)
-இந்த வடிவச் சான்றிதழ்கள் இருமமுறையில் குறியாக்கம் செய்யப்பட்டவை. PFX என்ற சொல் PKCS #12 உடன் மாறி மாறி பயன்படுத்தப்படுகிறது.
-இந்த வடிவத்தில், கடவுச்சொல் பாதுகாப்புடன், ஒரே கோப்பில் இறுதி அமைப்புச் சான்றிதழ், ஆணையத்தின் சான்றிதழ் மற்றும் தனித் திறவியை சேமிக்க முடியும்
-இந்த வடிவச் சான்றிதழ் கோப்பு வகைகள் .pfx அல்லது .p12 என முடியும்.
-இந்த வடிவச் சான்றிதழ்கள் முக்கியமாக விண்டோஸ் இயங்குதளத்தில் பயன்படுத்தப்படுகிறது
+#### PFX Format (PKCS #12, Personal Information Exchange)
+Certificates in this format use binary encoding. The term PFX is used interchangeably with PKCS #12.
+This format can store the end-entity certificate, the authority certificate, and the private key in a single password-protected file.
+Certificate files in this format may use the .pfx or .p12 extensions.
+This format is used primarily on the Windows platform.
 

@@ -1,20 +1,28 @@
 ---
-title: 'களப்பெயர் முறைமை வகைகள்'
+title: 'DNS Types'
 date: 2022-08-12
 draft: false
 weight: 6
 ---
 
-### களப்பெயர் முறைமை வகைகள் / DNS Types
+### DNS Types
 
-#### அக களப்பெயர் முறைமை / Internal DNS
-ஒரு நிறுவன தனியார் பிணைபிற்குள் உள்ள சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை
+#### Internal DNS
 
-#### புற களப்பெயர் முறைமை / External DNS
-இணையம் / பொது பிணையத்தில் தொடர்புகொள்ள கூடியி நிலையில் உள்ள  சேவையகங்கள் மற்றும் அதன் இணைய நெறிமுறை முகவரியின் தொடர்பை கொண்டுள்ள உள்நோக்கு களப்பெயர் முறைமை
+Internal DNS is used within an organization to map private servers and services to internal IP addresses.
 
-#### எதிர் களப்பெயர் முறைமை / Reverse DNS
-இது ஒரு எதிர் திசை வினவல். ஒரு குறிப்பிட்ட இணைய நெறிமுறை முகவரியை கொண்ட சேவையகத்தின் பெயரை பதிலாக கொடுக்கும். களப்பெயர் முறைமையில், ஒரு களத்தின் PTR ஏடு அந்த களத்தின் சேவையக இ.நெறி முகவரியை தலைகீழாக மாற்றி arpa வடிவில் சேமித்து வைத்திருக்கும். எதிர்த்திசை வினவலின் பொது இந்த மதிப்பு பதிலாக வழங்கப்படும். பாதுகாப்பு நிகழ்வுகளை பதிவு செய்யும் மென்பொருள் மற்றும் மின்னஞ்சல் நுழைவாயில்கள் இந்த முறையை பயன்படுத்துகின்றன.
+#### External DNS
 
-#### மாறு களப்பெயர் முறைமை / Dynamic DNS
-ஒரு களத்தின் இ.நெறி முகவரி நிலையாக இல்லாமல் அடிக்கடி மாறிக்கொண்டே இருக்கும் சூழலில், அந்த களத்தின் இ.நெறி முகவரியை தானியக்கமாக புதுப்பிக்க, இம்முறை பயன்படுகிறது. மைக்ரோசாப்ட் செயற்படு கோப்பகத்தில் (Microsoft Active Directory) இது ஒரு முக்கிய அங்கம். கள கட்டுப்பாட்டாளர் அந்த களத்தில் கிடைக்கப் பெறும் சேவைகளை களப்பெயர் முறைமையில் பதிந்து வைக்கும். இதனை மற்ற கணினிகள் பயன்படுத்துகின்றன. 
+External DNS is used for servers and services that are reachable from the public internet and maps them to public IP addresses.
+
+#### Reverse DNS
+
+Reverse DNS is a reverse lookup that resolves a given IP address back to its hostname. In DNS, the PTR record stores this mapping in reverse form, usually under the in-addr.arpa or ip6.arpa domain.
+
+This is commonly used by security systems, email gateways, and network monitoring tools.
+
+#### Dynamic DNS
+
+Dynamic DNS is used when the IP address of a domain changes frequently and needs to be updated automatically. It is an important part of Microsoft Active Directory and similar environments.
+
+The domain administrator updates the DNS records for that zone, and other systems use that information to find the relevant services automatically.

@@ -8,7 +8,7 @@ weight: 3
 ## __மேகக் கணிமை சேவை முறைகள் / Cloud Service Models__
 
 <br>
-<img src="images/cloud-ta/cloud-service-model-ta.svg">
+<img src="/images/ta/emergingtech/cloud/cloud-service-model-ta.svg">
 <br>
 <br>
 
@@ -46,7 +46,7 @@ weight: 3
 
 <br>
 
-<img src="images/cloud-ta/cloud-shared-responsibility-model-ta.svg" width=75%>
+<img src="/images/ta/emergingtech/cloud/cloud-shared-responsibility-model-ta.svg" width=75%>
 
 <br>
 <br>
@@ -55,6 +55,6 @@ weight: 3
 
 <br>
 
-<img src="images/cloud-ta/cloud-service-providers.svg" width=50%>
+<img src="/images/ta/emergingtech/cloud/cloud-service-providers.svg" width=50%>
 
 <br>

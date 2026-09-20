@@ -19,10 +19,10 @@ weight: 8
 
 #### __நுகர்வோர் அடையாள அமைப்பின் தோற்றக் கூறுகள் / CIAM features__
 
-<img src="images/iam-ta/iam-ciam-features-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-ciam-features-ta.svg" width=25%>
 
 <br>
 
 ### __நுகர்வோர் அடையாள அமைப்பின் செயல்முறைகள் / CIAM processes__
 
-<img src="images/iam-ta/iam-ciam-processes-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-ciam-processes-ta.svg" width=50%>

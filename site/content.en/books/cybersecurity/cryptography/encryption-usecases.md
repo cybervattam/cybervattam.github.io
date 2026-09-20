@@ -1,5 +1,5 @@
 ---
-title: 'மறையாக்க பயன்பாடுகள்'
+title: 'Encryption Use Cases'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 10
@@ -7,44 +7,42 @@ extensions:
     - katex
 ---
 
+# Symmetric Key Encryption
 
-# ஒற்றைத் திறவி மறையாக்கம்
-
-### தீர்வுநெறி
-- நவீன மறையாக்க தரப்பாடு (AES)
-- தரவு மறையாக்க தரப்பாடு  (DES)
-- Two Fish / Blow Fish
+### Algorithms
+- Advanced Encryption Standard (AES)
+- Data Encryption Standard (DES)
+- TwoFish / BlowFish
 - RC4, RC5, RC6
 
-#### பயன்பாடுகள்
-- நிலைவட்டு (HDD) மறையாக்கம்
-- திடநிலை சேமிப்பகம் (SSD) மறையாக்கம்
-- மேகக் கணிமை சேமிப்பகம் (Cloud Storage) மறையாக்கம்
-- மெய்நிகர் சேமிப்பகம் (Virtual Storage) மறையாக்கம்
+#### Use cases
+- Hard disk (HDD) encryption
+- Solid-state drive (SSD) encryption
+- Cloud storage encryption
+- Virtual storage encryption
 
-## இரட்டைத் திறவி மறையாக்கம்
+## Asymmetric Key Encryption
 
-### தீர்வுநெறி
+### Algorithms
 - Rivest Shamir Adleman (RSA)
 - Diffie-Hellman
-- இலக்கமுறைக் குறியொப்ப தீர்வுநெறி (DSA)
-- நீள்வட்ட வளைவு மறைப்பியல் (ECC)
+- Digital Signature Algorithm (DSA)
+- Elliptic Curve Cryptography (ECC)
 
-#### பயன்பாடுகள்
+#### Use cases
+- Transport Layer Security (TLS/SSL)
+- Digital signatures
+- Virtual Private Networks (VPN)
+- Secure Hypertext Transfer Protocol (HTTPS)
 
-- போக்குவரத்து அடுக்கு பாதுகாப்பு (TLS/SSL)
-- இலக்கமுறைக் குறியொப்பம் (Digital Signature)
-- மெய்நிகர் தனியார் பிணையம் (VPN)
-- பாதுகாப்பான மீவுரை பரிமாற்ற நெறிமுறை (HTTPS)
+## Hashing
 
-## குறுக்கம்
+### Algorithms
+- Message Digest (MD2, MD4, MD5)
+- Secure Hash Algorithm (SHA-1, SHA-256, SHA-384, SHA-512)
 
-### தீர்வுநெறி
-- செய்திச் சுருக்கம்  (MD2, MD4, MD5)
-- பாதுகாப்பான குறுக்க தீர்வுநெறி (SHA-1, SHA-256, SHA384 & SHA-512)
-
-#### பயன்பாடுகள்
-- கடவுச்சொல் குறுக்கம் (Password Hash)
-- மென்பொருள் நம்பகத்தன்மை (Software Integrity)
-- கோப்பு நம்பகத்தன்மை (File Integrity)
-- கட்டச்சங்கிலி / தொடரேடு (Blockchain)
+#### Use cases
+- Password hashing
+- Software integrity verification
+- File integrity verification
+- Blockchain

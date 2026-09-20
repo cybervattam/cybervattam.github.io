@@ -1,45 +1,45 @@
 ---
-title: 'மேகக் கணிமை பணியமர்த்தல் முறைகள்'
+title: 'Cloud Deployment Models'
 date: 2022-08-14
 draft: false
 weight: 4
 ---
 
-## __மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models__
+## __Cloud Deployment Models__
 <br>
-<img src="images/cloud-ta/cloud-deployment-model-ta.svg">
+<img src="images/en/emergingtech/cloud/cloud-deployment-models.png">
 
 <br>
 <br>
 
-#### 1. பொது மேகக் கணிமை / Public Cloud
-மேகக்கணிமை உள்கட்டமைப்பு பொது மக்களுக்கு அல்லது பெரிய தொழில் நிறுவனங்களுக்கு வழங்கப்படுகிறது. இந்த உள்கட்டமைப்பு மேகக் கணிமை சேவையாளர்களுக்கு சொந்தமானது.
+#### 1. Public Cloud
+Cloud infrastructure is provided to the general public or large business organizations. The infrastructure is owned by cloud providers.
 
-மேகக்கணிமை சேவைகளை யார் வேண்டுமானாலும் பெறலாம் 
+Anyone can obtain cloud services.
 
-எடுத்துக்காட்டு
-* அமேசான் வலை சேவைகள் / Amazon Web Services
-* மைக்ரோசாஃப்ட் அசூர் / Microsoft Azure
-* கூகுள் மேகக்கணிமை தளம் / Google Cloud Platform
+Examples:
+* Amazon Web Services
+* Microsoft Azure
+* Google Cloud Platform
 
 
-#### 2. தனியார் மேகக் கணிமை / Private Cloud
+#### 2. Private Cloud
 
-இவ்வகை மேகக்கணிமை உள்கட்டமைப்பு ஒரு நிறுவனத்திற்காக மட்டுமே இயக்கப்படுகிறது. 
+This type of cloud infrastructure is operated exclusively for one organization.
 
-இது நிறுவனத்தால் அல்லது மூன்றாம் தரப்பினரால் நிர்வகிக்கப்படலாம் மற்றும் நிறுவன வளாகத்தின் உள்ளே அல்லது நிறுவன வளாகத்திற்கு வெளியே இருக்கலாம்
+It may be managed by the organization or a third party and may be located on or off the organization's premises.
 
-எடுத்துக்காட்டு:
+Examples:
 * Rackspace
 * VMware vCloud
 * Azure Stack
 * IBM Cloud Private
 
-#### 3. கலப்பு மேகக் கணிமை / Hybrid Cloud
+#### 3. Hybrid Cloud
 
-இவ்வகை மேகக்கணிமை உள்கட்டமைப்பு என்பது இரண்டு அல்லது அதற்கு மேற்பட்ட பணியமர்த்தல் முறைகளின் (தனியார், சமூகம் அல்லது பொது) கலவையாக. ஒரே நிறுவனத்தால் இயக்கப்படுகிறது. இவை தரநிலை அல்லது தனியுரிமை தொழில்நுட்பத்தால் பிணைக்கப்பட்டு, தரவு மற்றும் பயன்பாட்டு பெயர்வுத்திறனை செயல்படுத்துகின்றன. மேகக் கணிமை சேவையாளருடன் நேரடியாக இணைக்கப்பட்ட மேகக்கணிமை அல்லாத தரவு மையத்தை விவரிக்க கலப்பு மேகக்கணிமை பொதுவாகப் பயன்படுத்தப்படுகிறது.
+This type of cloud infrastructure combines two or more deployment models, such as private, community, or public cloud, and is operated as a single entity. The environments are connected by standardized or proprietary technology to enable data and application portability. Hybrid cloud commonly describes a non-cloud data center connected directly to a cloud provider.
 
 
-#### 4. சமூக மேகக் கணிமை / Community Cloud
+#### 4. Community Cloud
 
-தொழில்நுட்ப கண்ணோட்டத்தில், சமூக மேகக்கணிமை என்பது குறிப்பிட்ட வாடிக்கையாளர்கள் மட்டுமே அணுகக்கூடிய பகிரப்பட்ட மேகக்கணிமை தளமாகும். மேகக்கணிமை உள்கட்டமைப்பு குறிப்பிட்ட நிறுவனங்களால் பல்குத்தகைத் தன்மையுடன் பகிரப்படுகிறது. இவை பணி, பாதுகாப்பு தேவைகள், கொள்கை அல்லது இணக்க கருத்துகளைப் பகிர்ந்துகொள்ளும் ஒரு குறிப்பிட்ட சமூகத்தை ஆதரிக்கிறது. இது ஒரு நிறுவனத்தால் அல்லது மூன்றாம் தரப்பினரால் நிர்வகிக்கப்படலாம் மற்றும் நிறுவன வளாகத்தின் உள்ளே அல்லது நிறுவன வளாகத்திற்கு வெளியே இருக்கலாம். எடுத்துக்காட்டு., அரசு மேகக்கணிமை (Gov Cloud)
+From a technical perspective, a community cloud is a shared cloud platform accessible only to specific customers. The cloud infrastructure is shared by specific organizations using multitenancy. It supports a community that shares mission, security requirements, policy, or compliance concerns. It may be managed by an organization or a third party and may be located on or off the organization's premises. An example is a government cloud (GovCloud).

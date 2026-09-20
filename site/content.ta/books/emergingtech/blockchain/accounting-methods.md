@@ -7,4 +7,4 @@ weight: 7
 
 ### கணக்கியல் முறைகள்
 
-<img src="images/blockchain-ta/blockchain-accounting-methods-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-accounting-methods-ta.svg" width=50%>

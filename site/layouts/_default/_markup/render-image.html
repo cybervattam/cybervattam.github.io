@@ -1,4 +1,20 @@
-{{ $image := (printf "%s%s" .Page.File.Dir (.Destination | safeURL )) }}
+{{ $destination := .Destination | safeURL }}
+{{ if hasPrefix $destination "/" }}
+{{ $static_image := (printf "static%s" $destination) }}
+{{ $content_image := (printf "content.%s/%s%s" .Page.Language.Lang .Page.File.Dir (strings.TrimPrefix $destination "/")) }}
+{{ $localized_content_image := (printf "content.%s/%s%s" .Page.Language.Lang .Page.File.Dir ((replaceRE (printf "^/images/%s/" .Page.Language.Lang) "/images/" $destination) | strings.TrimPrefix "/") ) }}
+{{ if or (fileExists $static_image) (fileExists $content_image) (fileExists $localized_content_image) }}
+<figure class="figure img-fluid {{ with .Title }}{{ . }}{{ end }}">
+  <img src="{{ $destination | absURL }}" alt="{{ .Text }}" class="w-100"/>
+  <figcaption class="figure-caption text-center">
+    {{ .Text }}
+  </figcaption>
+</figure>
+{{ else }}
+{{ errorf "Failed to image %q at %q" $destination .Page.File }}
+{{ end }}
+{{ else }}
+{{ $image := (printf "%s%s" .Page.File.Dir $destination) }}
 {{ $localizedimage := (printf "%s%s%s" .Page.Language.Lang "/" $image ) }}
 {{ $image_file_path := (printf "content.%s/%s" .Page.Language.Lang $image ) }}
 
@@ -24,4 +40,5 @@
 
 {{ else }}
 {{ errorf "Failed to image %q at %q" $image .Page.File }}
+{{ end }}
 {{ end }}

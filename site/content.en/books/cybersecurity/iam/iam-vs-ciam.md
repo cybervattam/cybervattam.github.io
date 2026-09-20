@@ -1,12 +1,12 @@
 ---
-title: 'வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு'
+title: 'IAM vs CIAM Comparison'
 date: 2022-08-18
 draft: false
 weight: 9
 ---
 
-### வணிக/நுகர்வோர் அடையாள அமைப்பு ஒப்பீடு (IAM vs CIAM comparison)
+### IAM vs CIAM Comparison
 
-| __வணிக அடையாள அமைப்பு__ | __நுகர்வோர் அடையாள அமைப்பு__ |
+| __IAM__ | __CIAM__ |
 | ----------------------- | -------------------------- |
-| இன்றைய நிறுவனங்களில் காணப்படும் ஆயிரக்கணக்கான அடையாளங்களைக் கையாள வடிவமைக்கப்பட்டுள்ளன. <br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்றங்களை கையாளும் திறன் குறைவாக உள்ளது. <br> வணிகம்-வணிகம் அமைப்பிற்கு ஏற்றது. <br> ஒரு பயனருக்கு ஒற்றை அடையாளம் மட்டுமே இருக்கும். <br> ஊழியர்கள் அல்லது ஒப்பந்தக்காரர்களுக்காக நிறுவனத்தால் அடையாளங்கள் உருவாக்கப்படுகின்றன. <br> வணிக பயன்பாடுகளுக்கான கடுமையான பாதுகாப்புக் கொள்கைகளுடன் சான்றுறுதி மற்றும் அங்கீகாரத்திற்காக முதன்மையாகப் பயன்படுத்தப்படுகிறது. | ஒரு நிறுவனத்தின் இலட்சக்கணக்கான வாடிக்கையாளர்கள் அல்லது நுகர்வோருக்கு ஆதரவளிக்கும் வகையில் வடிவமைக்கப்பட்டுள்ளன. <br> சான்றுறுதி மற்றும் அங்கீகார கோரிக்கைகளில் ஏற்படும் திடீர் ஏற்ற இறக்கங்களைக் கையாளும் வகையில் கட்டமைக்கப்பட்டுள்ளன. <br> வணிகம்-நுகர்வோர் அமைப்பிற்கு ஏற்றது. <br> நுகர்வோர் பல அடையாளங்களைக் கொண்டிருக்கலாம். <br> அடையாளங்கள் சுயமாக பதிவு செய்யப்படுகின்றன மற்றும் வாடிக்கையாளர்களால் நிர்வகிக்கப்படுகின்றன. <br> இறுதி பயனர் எங்கே இருந்தாலும் அல்லது அவர்கள் என்ன சாதனத்தைப் பயன்படுத்தினாலும் ஒரு நிலையான உள்நுழைவு அனுபவத்தை வழங்குகிறது. <br> சமூக ஊடக வழி சான்றுறுதியை ஆதரிக்கிறது. <br> இசைவு மேலாண்மையை செயல்படுத்துகிறது. <br> தனிப்பயனாக்கப்பட்ட பயனர் அனுபவத்தை உருவாக்க நிறுவனங்களை அனுமதிக்கிறது | 
+| Designed to manage the thousands of identities found in modern organizations. <br> Has limited ability to handle sudden spikes in authentication and authorization requests. <br> Suited to business-to-business environments. <br> Each user generally has a single identity. <br> Identities are created by the organization for employees or contractors. <br> Primarily used for authentication and authorization with strict security policies for business applications. | Designed to support millions of customers or consumers of an organization. <br> Built to handle sudden fluctuations in authentication and authorization requests. <br> Suited to business-to-consumer environments. <br> Consumers may have multiple identities. <br> Identities are self-registered and managed by customers. <br> Provides a consistent sign-in experience regardless of where the end user is or which device they use. <br> Supports social login. <br> Enables consent management. <br> Allows organizations to create personalized user experiences. |

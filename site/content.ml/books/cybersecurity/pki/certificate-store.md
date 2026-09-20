@@ -1,0 +1,20 @@
+---
+title: 'ട്രസ്റ്റ് സ്റ്റോറുകൾ / സർട്ടിഫിക്കറ്റ് സ്റ്റോറുകൾ'
+date: 2022-08-05
+draft: false
+weight: 5
+---
+
+### ട്രസ്റ്റ് സ്റ്റോറുകൾ / സർട്ടിഫിക്കറ്റ് സ്റ്റോറുകൾ
+
+സ്ഥിരമായി വിശ്വസിക്കുന്ന റൂട്ട് സർട്ടിഫിക്കറ്റുകളുടെ ശേഖരമാണ് ട്രസ്റ്റ് സ്റ്റോർ.
+
+<img src="/images/shared/screenshots/cert-manager.png" >
+
+ഓപ്പറേറ്റിംഗ് സിസ്റ്റങ്ങളും വെബ് ബ്രൗസറുകളും നിർമ്മിക്കുന്ന കമ്പനികളാണ് ഇവ പരിപാലിക്കുന്നത്.
+
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
+
+### ഇന്ത്യയിലെ ലൈസൻസുള്ള സർട്ടിഫൈയിംഗ് അതോറിറ്റികൾ
+
+<img src="/images/shared/screenshots/india-licensed-ca.png">

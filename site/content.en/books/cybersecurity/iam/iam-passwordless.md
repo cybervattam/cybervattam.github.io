@@ -1,39 +1,39 @@
 ---
-title: 'கடவுச்சொல்லற்ற சான்றுறுதி'
+title: 'Passwordless Authentication'
 date: 2022-08-18
 draft: false
 weight: 12
 ---
 
 
-### கடவுச்சொல்லற்ற சான்றுறுதி (Password-less authentication)
+### Passwordless Authentication
 
-கடவுச்சொல்லற்ற சான்றுறுதி என்பது பல காரணி சான்றுறுதியின் ஒரு வகை ஆகும். இங்கே பலவீனமான கடவுச்சொற்கள் காரணிக்கு மாற்றாக கைரேகை அல்லது இரகசியக் குறியீடு போன்ற மிகவும் பாதுகாப்பான சான்றுறுதி காரணிகள் பயன்படுத்தப்படுகின்றன. கடவுச்சொல்லற்ற சான்றுறுதி இலக்கமுறைச் சான்றிதழ்கள் சான்றுறுதியின் கொள்கைகளான மறைப்பியல் துணைத்திறவிகளை நம்பியுள்ளது. (தனித்திறவி மற்றும் பொதுத்திறவி)
+Passwordless authentication is a type of multifactor authentication. Instead of the weak password factor, it uses stronger authentication factors such as a fingerprint or a secret PIN. Passwordless authentication relies on the cryptographic key-pair principles used by digital certificates: a private key and a public key.
 
-ஒரு பாதுகாப்பான கணக்கை உருவாக்க விரும்பும் ஒரு தனிநபர் ஒரு தனித்திறவி மற்றும் பொதுத்திறவி அடங்கிய துணைத்திறவிகளை உருவாக்க ஒரு கருவியை (எ. கா. திறன்பேசி செயலி, உலாவி நீட்டிப்பு) பயன்படுத்துகிறார். தனித்திறவி பயனரின் சாதனத்தின் உள்ளேயே சேமிக்கப்பட்டு மற்றும் கைரேகை, பின் அல்லது குரல் அறிதல்  போன்ற காரணியுடன் இணைக்கப்பட்டுள்ளது, மேலும் இந்த சைகைகளை செய்வதன்மூலம் மட்டுமே அதை அணுக முடியும்.
+An individual who wants to create a secure account uses a tool, such as a mobile application or browser extension, to generate a key pair consisting of a private key and a public key. The private key is stored on the user's device and is bound to a factor such as a fingerprint, PIN, or voice recognition. It can be accessed only after the user provides that factor.
 
-பயனர் கணக்கு வைத்திருக்க விரும்பும் இணையதளம், பயன்பாடு, உலாவி அல்லது பிற நிகழ்நிலைச் சேவைகளுக்கு பொதுத்திறவி வழங்கப்படுகிறது.
+The public key is provided to the website, application, browser, or other online service where the user wants to maintain an account.
 
 
-#### __பொதுத் திறவி உள்கட்டமைப்பு அட்டை(PKI Card)__
- பொதுத் திறவி உள்கட்டமைப்பு என்பது வலைத்தளம் மற்றும் பயனர்கள் இடையே உள்ள தகவல் தொடர்புகளைப் பாதுகாக்கும் மறையாக்கம் மற்றும் சைபர் பாதுகாப்பு கட்டமைப்பாகும்.
+#### __Public Key Infrastructure Card (PKI Card)__
+Public Key Infrastructure is a cryptographic and cybersecurity framework that protects communication between websites and users.
 
- <img src="images/iam-ta/iam-pki-card.svg">
+ <img src="images/shared/screenshots/iam-pki-card.svg">
 
 <br>
 
-#### __Fast Identity Online (FIDO)__ 
+#### __Fast Identity Online (FIDO)__
  
- Fast Identity Online (FIDO) சான்றுறுதி என்பது பல பயனர் பெயர்கள் மற்றும் கடவுச்சொற்களைப் பயன்படுத்துவதைக் குறைப்பதற்காக பல நிறுவனங்கள் குழுவாக சேர்ந்து செய்த முன்முயற்சியாகும்.
+Fast Identity Online (FIDO) authentication is an initiative created by a group of organizations to reduce reliance on multiple usernames and passwords.
 
- <img src="images/iam-ta/iam-fido.png">
+ <img src="images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
 <br>
 
- #### __Yubikey__
+#### __YubiKey__
 
- பாதுகாப்புத் திறவி என்பது விரலி போல் தோற்றமுடைய ஒரு சிறிய வன் சாதனமாகும். மேலும் இதை ஆதரிக்கும் தளங்களில் உங்கள் கடவுச்சொல்லுடன் கூடுதல் காரணியாக பயன்படுகிறது.
+A security key is a small hardware device that resembles a USB drive. On supported platforms, it can be used as an additional authentication factor alongside your password.
 
- <img src="images/iam-ta/iam-yubikey.jpg">
+ <img src="images/shared/screenshots/iam-yubikey.jpg">

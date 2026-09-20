@@ -1,37 +1,37 @@
 ---
-title: 'மேகக் கணிமையின் நன்மைகள்'
+title: 'Cloud Computing Benefits'
 date: 2022-08-14
 draft: false
 weight: 5
 ---
 
-### மேகக் கணிமையின் நன்மைகள்
+### Cloud Computing Benefits
 
-1. __சேமிப்பு__ <br>
-மேகக் கணிமை சேவையாளர்கள் வன்பொருள்களை வைத்திருப்பதால், நுகர்வோருக்கு மூலதன செலவினம் (CAPEX) செய்ய தேவையில்லை. நுகர்வோர், தங்கள் சந்தா அடிப்படையில் பயன்பாட்டிற்கு உண்டான கட்டணத்தை செலுத்த வேண்டும். இதனால் செயல்பாட்டு செலவினம் (OPEX) மட்டுமே உண்டு.
+1. __Cost Savings__ <br>
+Cloud providers own and maintain the hardware, so consumers do not need to make capital expenditures (CAPEX). Consumers pay for usage based on their subscription, resulting primarily in operating expenses (OPEX).
 
-2. __கிடைக்கும் தன்மை__ <br>
-மேகக் கணிமை சேவையாளர்கள் பெரும்பாலோர் தங்கள் சேவைகள் 99.995% நேரம் கிடைப்பதை உறுதி செய்கிறார்கள். அதாவது, ஒரு வருடத்தில் திட்டமிடப்படாத செயலறு நேரம் 25 நிமிடங்கள் மட்டுமே. பயனர்கள் எந்த நேரத்திலும் தேவைப்படும் பயன்பாடுகளை உபயோகிக்க முடியும்.
+2. __Availability__ <br>
+Most cloud providers ensure that their services are available 99.995% of the time. This means only about 25 minutes of unplanned downtime per year. Users can access the applications they need at any time.
 
-3. __அளவு மாற்றம் & நெகிழ்வுத்தன்மை__ <br>
-மேகக் கணிமை உள் கட்டமைப்பிற்கு சிறந்த அளவு மாற்றும் & நெகிழ்வுத் தன்மையை வழங்குகிறது. இது ஒரு தனிப்பட்ட நிறுவனத்தின் பார்வையில் கற்பனை செய்ய முடியாத அளவாக இருக்கும். ஒரு நிறுவனம் மற்றும் அதன் ஊழியர்கள் தங்கள் நேரத்தை தகவல் தொழில்நுட்ப உள் கட்டமைப்பை நிர்வகிப்பதில் செலவிடுவதை  விட தங்கள் தொழில் வளர்ச்சியில் கவனம் செலுத்த இயலும்.
+3. __Scalability and Flexibility__ <br>
+Cloud computing provides excellent scalability and flexibility for infrastructure, often at a scale that would be impractical for an individual organization. Organizations and their employees can focus on business growth instead of spending their time managing IT infrastructure.
 
-4. __உயர் பாதுகாப்பு__ <br>
-மேகக் கணிமை செயல்பாடுகளின் அளவு காரணமாக, சேவையாளர்கள் தரவு மையம், வன்பொருள், பிணையம், சேமிப்பக பாதுகாப்பு என பல்வேறு மட்டங்களில் பாதுகாப்பை கவனமாக கண்காணிக்கின்றன. சிறிய நிறுவனங்கள் அல்லது தனிநபர்கள் கூட எந்தவொரு சேவையாளரிடம் இருந்து மேகக் கணிமை சேவைகளை பயன்படுத்தும் போது பெரிய நிறுவனங்கள் பெறும் அதே அளவிலான பாதுகாப்பைப் பெறுகிறார்கள்.
-
-
-5. __தானியக்க மென்பொருள் புதுப்பிப்புகள்__ <br>
-சேவையாக பணித்தளம், மென்பொருள் போன்ற சொந்த சேவைகளைப் பயன்படுத்தும் போது, சேவையாளர்கள் பயன்பாடுகளை புதுப்பிக்கப்பட்ட நிலையில் வைப்பார்கள். நுகர்வோர் புதுப்பிப்புகள் பற்றி கவலைப்பட வேண்டியதில்லை, அவர்கள் நிரலாக்கம் அல்லது பயன்பாடுகள் நுகர்வில்  கவனம் செலுத்தலாம் 
+4. __High Security__ <br>
+Because of the scale of cloud operations, providers carefully monitor security at multiple levels, including data centers, hardware, networks, and storage. Small organizations and individuals can receive the same level of security available to large organizations when they use cloud services from a provider.
 
 
-6. __எளிய நகரும் தன்மை__ <br>
-மேகத்தின் எங்கும் நிறைந்த தன்மை, ஊழியர்களை தொலைவிலிருந்து இணைக்க அனுமதிக்கும் நிறுவனங்களின் வேலையை  எளிதாக்குகிறது. திறன்பேசிகள், மடிக்கணினி போன்ற நிறுவனத்திற்கு அல்லது ஊழியர்களுக்கு சொந்தமான சாதனங்கள் வழியாக அணுகலை பெறலாம். எங்கிருந்தும் தகவல்களுக்கு அணுகலை வழங்குவதன் மூலம் சிறந்த வேலை-வாழ்க்கை சமநிலையை அளிக்கிறது.
+5. __Automatic Software Updates__ <br>
+When using provider-managed services such as Platform as a Service and Software as a Service, providers keep applications up to date. Consumers do not need to worry about updates and can focus on development or using the applications.
 
-7. __தரவு இழப்பு தடுப்பு__ <br>
-பல்வேறு சாதனங்களில் இருந்து தகவல்களை அணுகவேண்டிய தேவை காரணமாக, அனைத்து தகவல்களையும் மேகக் கணிமையில் மையமாக சேமித்தல் அவசியம். இது இணைய இணைப்பு கொண்ட எந்தவொரு கணினியிலிருந்தும் பாதுகாப்பாகவும் எளிதாகவும் அணுகக்கூடியதாக உள்ளது. நீங்கள் எந்த தரவையும் இழக்காமல் இழந்த / திருடப்பட்ட சாதனத்தில் தரவை அழிக்கலாம்.
 
-8. __பேரிடர் மீட்பு__ <br>
-மேகக்கணிமை சேவையாளர்கள் இயற்கை பேரழிவுகள் முதல் மின் தடைகள் வரை பல்வேறு வகையான அவசரகால சூழ்நிலைகளுக்கு தயாராக உள்ளனர். வேறொரு வட்டாரத்தில் உங்கள் காப்பு சூழலைக் கொண்டிருப்பது மூலமாக பேரிடரில் இருந்து விரைவாக மீளவும் வணிகத்திற்கு பாதிப்பைக் குறைக்கவும் உதவுகிறது.
+6. __Easy Mobility__ <br>
+The ubiquity of the cloud makes it easier for organizations to connect employees remotely. Access can be provided through organization-owned or employee-owned devices such as smartphones and laptops. Access to information from anywhere can support a better work-life balance.
 
-9. __கரிவளி நீக்கம்__ <br>
-மேகக்கணிமை சேவையாளர்கள் செயல்பாடுகளுக்கு அதிக புதுப்பிக்கத்தகு ஆற்றலை பெறுகிறார்கள். மேகத்தைப் பயன்படுத்துவது சுற்றுச்சூழலுக்கு உகந்தது மற்றும் ஆன்-க்ரோமிநெட்வொர்க்குகளில் கார்பன் தடத்தை குறைவாக விளைவிக்கிறது. தொலைநிலை அணுகல் காரணமாக, அலுவலகம் தொடர்பான உமிழ்வுகளுக்கு பயணம் குறைக்கிறது
+7. __Data Loss Prevention__ <br>
+Because information may need to be accessed from multiple devices, storing it centrally in the cloud is useful. It can be accessed securely and easily from any computer with an internet connection. Data can also be erased from a lost or stolen device without losing the original data.
+
+8. __Disaster Recovery__ <br>
+Cloud providers prepare for many emergency situations, from natural disasters to power outages. Maintaining a backup environment in another region helps organizations recover quickly from a disaster and reduce its impact on the business.
+
+9. __Carbon Reduction__ <br>
+Cloud providers increasingly use renewable energy for their operations. Using the cloud can be more environmentally friendly and produce a smaller carbon footprint than on-premises networks. Remote access also reduces travel and office-related emissions.

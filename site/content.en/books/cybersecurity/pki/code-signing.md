@@ -1,29 +1,32 @@
 ---
-title: 'குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing Certificate'
+title: 'Code Signing Certificate'
 date: 2022-08-12
 draft: false
 weight: 9
 ---
 
-### குறியீடு ஒப்பமிடல் சான்றிதழ் / Code Signing
+<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
 
-குறியீடு ஒப்பமிடல் என்பது மென்பொருள் (இயக்கக்கூடிய கோப்புகள் மற்றும் மூல குறியீடு) பதிப்பாளரை அடையாளப்படுத்த இலக்கமுறை முறையில் ஒப்பமிடுவது.​ மேலும், இது ஒப்பமிடப்பட்ட நேரத்திலிருந்து மென்பொருள் மாற்றப்படவில்லை அல்லது சிதைக்கப்படவில்லை என்பதற்கு உத்தரவாதம் அளிக்கிறது. இதனை சரிபார்க்க குறுக்க மதிப்புகளை பயன்படுத்துகிறது. ​குறியீடு ஒப்பமிடல் வழியாக மென்பொருள் அடையாளம் / சான்றுறுதி அளிக்கும் இம்முறையின் பாதுகாப்பு,  ஒப்பமிடும் திறவிகளின் பாதுகாப்பைப் பொறுத்தது. இந்த அமைப்பின் நம்பகத்தன்மை மென்பொருள் வெளியீட்டாளர்கள் தங்கள் தனித் திறவிகளை பாதுகாப்பதை நம்பியுள்ளது​. எனவே, பாதுகாப்பான, சேதமடையாத, மறைப்பியல் வன்பொருள் சாதனங்களில் திறவிகளை சேமிப்பது மிகவும் பாதுகாப்பானது மற்றும் சிறந்த நடைமுறையாக கருதப்படுகிறது.​ இவ்வகை சாதனங்கள் வன்பொருள் பாதுகாப்பு தொகுதிகள் (Hardware Security Module – HSM) என அழைக்கப்படும்.​
+### Code Signing
 
-### குறியீடு ஒப்பமிடல் சான்றிதழ் வகைகள் / Code Signing Certificate Types 
+Code signing is the digital signing of software, including executable files and source code, to identify the publisher. It also provides assurance that the software has not been modified or corrupted since it was signed. Hash values are used for verification. The security of this method of identifying and authenticating software depends on protecting the signing keys. The trustworthiness of the system depends on software publishers protecting their private keys. Therefore, storing keys in secure, tamper-resistant cryptographic hardware devices is considered a security best practice. These devices are called Hardware Security Modules (HSMs).
+
+### Code Signing Certificate Types
 <br>
 
-#### நிலையான குறியீடு ஒப்பமிடல் சான்றிதழ்கள் / Standard Code Signing Certificates
-அதிக பதிவிறக்கங்கள் மற்றும் குறைந்தபட்ச பிழை அறிக்கைகள் ஆகியவற்றின் அடிப்படையில் வெளியீட்டாளர் ஒரு நற்பெயரை உருவாக்கும் வரை மைக்ரோசாஃப்ட் ஸ்மார்ட்ஸ்கிரீன் எச்சரிக்கைகள் அந்த வெளியீட்டாளரின் குறியீடுகள் / செயலிகளுக்கு தொடர்ந்து காண்பிக்கப்படும். குறியீட்டை நம்பலாம் என்ற உறுதிப்பாட்டை இது அளிக்காது. மூலக் குறியீடு ஒரு குறிப்பிட்ட தனித் திறவியால் ஒப்பமிடப்பட்டது என்பதை பொதுத் திறவி உள்கட்டமைப்பு வழியாக உறுதிசெய்கிறது. 
-குறியீடு ஒப்பத்தை அங்கீகரிக்கப் பயன்படுத்தப்படும் பொதுத் திறவி / சான்றிதழ், நம்பகமான வேர் சான்றிதழ் ஆணையத்தோடு இணைந்திருக்க வேண்டும். இதனை நம்பிக்கைச் சங்கிலி மூலம் சரிபார்க்கலாம்.
+#### Standard Code Signing Certificates
+Microsoft SmartScreen warnings continue to appear for a publisher's code or applications until the publisher builds a reputation through high download counts and few error reports. This does not guarantee that the code is trustworthy. It confirms through public key infrastructure that the code was signed with a specific private key.
 
-<img src="images/pki-ta/standard-cs-ta.png">
+The public key or certificate used to validate the code signature must chain to a trusted root certificate authority. This can be verified through the chain of trust.
 
-#### விரிவாக்கப்பட்ட சரிபார்த்தல் குறியீடு ஒப்பமிடல் சான்றிதழ்கள் / Extended Validated Code Signing Certificates
+<img src="images/en/cybersecurity/pki/pki-standard-code-signing.png">
 
-நீட்டிக்கப்பட்ட சரிபார்ப்புக் குறியீடு கையொப்பமிடல் சான்றிதழ்கள், வெளியீட்டாளரின் அடையாளத்தை முழுமையாக சரிபார்த்த பின்னர் வழங்கப்படுகிறது. விரிவாக்கப்பட்ட சரிபார்த்தல் குறியீடு சான்றிதழால் ஒப்பமிடப்பட்ட மென்பொருளை / குறியீட்டை ஸ்மார்ட்ஸ்கிரீன் சரிபார்க்கும் போது அந்த வெளியீட்டாளருக்கு எந்த முன் நற்பெயர் இல்லாவிட்டாலும் உடனடியாக நற்பெயரை நிறுவ முடியும். குறியீட்டை நம்பலாம் என்ற உறுதிப்பாட்டை இது அளிக்காது. மூலக் குறியீடு ஒரு குறிப்பிட்ட தனித் திறவியால் ஒப்பமிடப்பட்டது என்பதை பொதுத் திறவி உள்கட்டமைப்பு வழியாக உறுதிசெய்கிறது.
+#### Extended Validation Code Signing Certificates
 
-<img src="images/pki-ta/ev-cs-ta.png">   
+Extended Validation code signing certificates are issued after fully verifying the publisher's identity. When SmartScreen checks software or code signed with an Extended Validation certificate, the publisher can establish reputation immediately even without a prior reputation. This does not guarantee that the code is trustworthy. It confirms through public key infrastructure that the code was signed with a specific private key.
 
-### குறியீடு ஒப்பமிடல் / சரிபார்த்தல் | Code Signing / Verification
+<img src="images/en/cybersecurity/pki/pki-ev-code-signing.png">   
 
-<img src="images/pki-ta/code-signing-verification-ta.svg">
+### Code Signing / Verification
+
+<img src="images/en/cybersecurity/pki/pki-code-signing-verification-process.png">

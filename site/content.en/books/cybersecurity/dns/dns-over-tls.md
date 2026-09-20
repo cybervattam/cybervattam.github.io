@@ -1,13 +1,14 @@
 ---
-title: 'போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல்'
+title: 'DNS over TLS (DoT)'
 date: 2022-08-14
 draft: false
 weight: 8
 ---
 
+### DNS over TLS (DoT)
 
-### போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் / DNS over TLS (DOT)
+DNS over TLS is a security protocol that encrypts DNS queries and sends the DNS data from the client to the recursive resolver over TLS.
 
-போக்குவரத்து அடுக்கு பாதுகாப்பு மேல் களப்பெயர் முறைமை வினவல் என்பது ஒரு பாதுகாப்பு நெறிமுறை. இது களப்பெயர் முறைமை வினவல்களை மறையாக்கம் செய்து போக்குவரத்து அடுக்கு பாதுகாப்பு நெறிமுறை மேல் அந்த வினவல் தரவுகளை கிளையனிலிருந்து சுழல்நிலை தீர்விகளுக்கு பாதுகாப்பாக அனுப்பும். இதன் நோக்கம் தகவல் பரிமாற்றத்தின் பொது இடை வருவோர் அந்த தகவலை ஒட்டுக்கேட்பதை தடுத்தல் மற்றும் தகவலை மாற்ற / சிதைக்க முடியாதவாறு பாதுகாத்தல்.
+The goal is to prevent eavesdropping or tampering in transit by an attacker on the network path. This ensures that DNS queries and responses are protected while traveling through public or untrusted networks.
 
-<img src="images/dns-ta/dns-dot-ta.svg">
+<img src="/images/en/cybersecurity/dns/dns-dot.png">

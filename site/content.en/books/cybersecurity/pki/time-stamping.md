@@ -1,25 +1,27 @@
 ---
-title: 'நேர முத்திரையிடல் / Time Stamping'
+title: 'Time Stamping'
 date: 2022-08-12
 draft: false
 weight: 10
 ---
 
-### நேர முத்திரையிடல் / Time Stamping
+<img src="images/en/cybersecurity/pki/pki-time-stamping-icon.png">
 
-நேர முத்திரையிடல் என்பது ஒரு ஆவணத்தின் உருவாக்கம் மற்றும் மாற்றியமைக்கும் நேரங்களை பாதுகாப்பாக கண்காணிக்கும் செயல்முறையாகும். இவ்வாறு வழங்கப்படும் முத்திரை, நம்பகமான நேர முத்திரை (Trusted Time Stamp) என்று அழைக்கப்படும். இங்கே பாதுகாப்பு என்பது நேரம் பதிவு செய்யப்பட்டவுடன், அந்த ஆவணத்தின் உரிமையாளர் உள்பட எவரும் ஆவணத்தை மாற்ற முடியாது என்பதை உறுதிப்படுத்துவது. இலக்கமுறைக் குறியொப்பம் அல்லது குறியீடு குறியொப்பத்துடன் நம்பகமான நேர முத்திரையைச் சேர்ப்பது, அந்த ஒப்பமிடப்பட்ட தரவு, ஆவணம் அல்லது குறியீட்டுக்கு கூடுதல் நம்பகத்தன்மையை அளிப்பதுடன் பரிவர்த்தனை நடந்த நம்பகமான தேதி மற்றும் நேரத்தையும் வழங்குகிறது. ஒரு ஆவணம் அல்லது குறியீடு எந்த தேதி மற்றும் நேரத்தில் ஒப்பமிடப்பட்டுள்ளது என்பதை நம்பகமாக குறிப்பிடுவதற்கு ஒரு நம்பகமான நேர முத்திரையிடல் ஆணையம் (Trusted Time Stamping Authority) பயன்படுத்தப்படுகிறது. 
+### Time Stamping
 
-<img src="images/pki-ta/time-stamping-sample.png">
+Time stamping is the process of securely recording when a document was created or modified. The resulting stamp is called a trusted time stamp. Security in this context means ensuring that once the time is recorded, no one, including the document owner, can alter the document. Adding a trusted time stamp to a digital signature or code signature provides additional trust in the signed data, document, or code and establishes the trusted date and time of the transaction. A Trusted Time Stamping Authority is used to reliably indicate when a document or piece of code was signed.
 
-நேர முத்திரை இன்றி இடப்படும் குறியொப்பம், அதன் அடிப்படை சான்றிதழுடன் காலவதியாகும். ஒப்பமிடும் பொழுது நேர முத்திரை செய்வதால், ஒப்பமிட பயன்படுத்தப்பட்ட சான்றிதழ் காலாவதி ஆன பின்னரும் அந்த ஒப்பம் செல்லுபடியாகும். நம்பகமான நேர முத்திரையுடன் கூடிய ஆவணங்கள் மற்றும் குறியீட்டைப் பெறுபவர்கள், அந்த ஆவணம் அல்லது குறியீடு எப்பொழுது ஒப்பமிடப்பட்டது என்பதை சரிபார்க்க முடியும், அத்துடன் நேர முத்திரையில் உறுதிசெய்யப்பட்ட தேதி / நேரத்திற்குப் பிறகு ஆவணம் அல்லது குறியீடு மாற்றப்படவில்லை என்பதையும் சரிபார்க்கலாம். நேர முத்திரையை ஒரு ஆவணத்திற்கு தனியாக பெறலாம் அல்லது ஒப்பமிடும் பொழுது சேர்த்துப் பெறலாம். ஒப்பமிடும் பொழுது நேர முத்திரை ஆணையம் குறிப்பிடப்பட்டால், ஒப்பம் நேர முத்திரை ஆணையத்திற்கு அனுப்பப்படும். அவர்கள், அந்த ஒப்பத்துடன், நேரம், தேதி மற்றும்  தங்களது ஒப்பத்தையும் இணைத்து  அனுப்புவர். இந்த மொத்த ஒப்பமும், ஆவணத்துடன் இணைத்து ஒப்பமிடப்பட்ட ஆவணம் உருவாக்கப்படும்.
+<img src="images/shared/screenshots/timestamping-sample.png">
 
-### நேர முத்திரையிடல் செயல்முறை / Time Stamping Process 
+Without a time stamp, a signature expires along with its underlying certificate. Adding a time stamp when signing keeps the signature valid even after the certificate used for signing expires. Recipients of documents and code with trusted time stamps can verify when the document or code was signed and that it was not changed after the date and time confirmed by the time stamp. A time stamp can be obtained separately for a document or added during signing. If a time-stamping authority is specified during signing, the signature is sent to that authority. The authority returns the signature with the time, date, and its own signature attached. Combining this signed response with the document creates the signed document.
 
-<img src="images/pki-ta/time-stamping-process-ta.svg">
+### Time Stamping Process
 
-இந்திய நிலையான நேரம் (IST) நேர மண்டலத்திற்கான அதிகாரப்பூர்வ நேரச் சேவையகம் தேசிய இயற்பியல் ஆய்வகத்தால் நிர்வகிக்கப்படுகிறது. இந்தியாவில் செயல்படும் அனைத்து சான்றிதழ் மற்றும் நேர முத்திரை ஆணையங்கள் இந்த நேரச் சேவையகத்துடன் தங்கள் அதிகாரப்பூர்வ நேர சேவையகத்தின் நேரத்தை ஒத்திசைப்பது சான்றளிக்கும் ஆணையங்களின் கட்டுப்பாட்டாளரால் கட்டாயமாக்கப்பட்டுள்ளது
+<img src="images/en/cybersecurity/pki/pki-time-stamping-process.png">
 
-#### பிரபலமான இலவச நேர முத்திரை சேவை வழங்குநர்கள்
+The official time server for the Indian Standard Time (IST) zone is managed by the National Physical Laboratory. The Controller of Certifying Authorities requires all certificate and time-stamping authorities operating in India to synchronize their official time servers with this time server.
+
+#### Popular Free Time-Stamping Service Providers
 - http://rfc3161timestamp.globalsign.com/advanced
 - http://timestamp.sectigo.com
 - http://timestamp.digicert.com

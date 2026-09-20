@@ -7,7 +7,7 @@ weight: 3
 
 ### பொதுத் திறவி உள்கட்டமைப்பின் கூறுகள் (PKI components)
 
-<img src="/images/pki-ta/pki-components-ta.svg">
+<img src="/images/ta/cybersecurity/pki/pki-components-ta.svg">
 
 * #### பதிவு ஆணையம் (Registration Authority)​
     * சான்றிதழ் கோரி விண்ணப்பிக்கும் நபர்கள் மற்றும் நிறுவனங்களின் அடையாளத்தை சரிபார்க்கும் சேவையை செய்கிறது.​

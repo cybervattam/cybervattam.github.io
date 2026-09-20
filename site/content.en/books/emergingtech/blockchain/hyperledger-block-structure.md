@@ -1,34 +1,34 @@
 ---
-title: 'ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்'
+title: 'Hyperledger Block Structure'
 date: 2022-08-15
 draft: false
 weight: 5
 ---
 
-### ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blokchain block structure
+### Hyperledger Blockchain Block Structure
 
-* கட்டத்தின் தலைப்பு (Block Header)
-    - கட்டத்தின் எண்
-    - தரவுக் குறுக்க மதிப்பு
-    - முந்தைய கட்டத்தின் குறுக்க மதிப்பு
-
-<br>
-
-* கட்டத்தின் தரவு (Block Data)
-    - தலைப்பு
-    - குறியொப்பம்
-    - முன்மொழிவு
-    - துலங்கல்
-    - மேற்குறிப்பு
+* Block Header
+    - Block number
+    - Data hash
+    - Hash of the previous block
 
 <br>
 
-* மீத்தரவு (Metadata)
-    - கட்டத்தை உருவாக்கியவரின் சான்றிதழ் மற்றும் குறியொப்பம்
-    - கட்டத்தை உறுதி செய்பவர் ஒவ்வொரு பரிவர்த்தனையையும் சரிபார்த்து சேர்க்கும் சரியான / தவறான பரிவர்த்தனை குறிகாட்டி
-    - இந்தக் கட்டம் உட்பட ஒட்டுமொத்த நிலை புதுப்பிப்புகளின் குறுக்க மதிப்பு
+* Block Data
+    - Header
+    - Signature
+    - Proposal
+    - Response
+    - Reference
+
+<br>
+
+* Metadata
+    - Certificate and signature of the block creator
+    - Valid or invalid transaction indicator added by the block confirmer after verifying each transaction
+    - Hash of the overall state updates, including this block
 
  <br>
 
-<img src="images/blockchain-ta/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%>
+<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
 

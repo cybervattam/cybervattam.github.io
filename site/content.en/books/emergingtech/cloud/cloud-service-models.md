@@ -1,60 +1,60 @@
 ---
-title: 'மேகக் கணிமை சேவை முறைகள்'
+title: 'Cloud Service Models'
 date: 2022-08-14
 draft: false
 weight: 3
 ---
 
-## __மேகக் கணிமை சேவை முறைகள் / Cloud Service Models__
+## __Cloud Service Models__
 
 <br>
-<img src="images/cloud-ta/cloud-service-model-ta.svg">
-<br>
-<br>
-
-#### 1. சேவையாக உள்கட்டமைப்பு / Infrastructure as a Service (IaaS)
-மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். கக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.
-
-
-#### 2. சேவையாக பணித்தளம் / Platform as a service (PaaS)
-மேகக் கணிமை சேவையாளர்கள் தரவுத்தளங்கள், பயன்பாட்டு தளங்கள், நிரலாக்கத் தளங்கள், இயக்க நேரச் சூழல் போன்ற தளங்களை உருவிலா நிலையில் பணித்தளமாக வழங்குகின்றனர்
-
-எடுத்துக்காட்டு:
-* பைத்தான், PHP அல்லது பிற மூலக்குறியீட்டை இயக்குவதற்கான இடம் 
-* சேவையாக தரவுத்தளம் (Database as a Service)
-* சேவையாக தரவுகிடங்கு (Datawarehousee as a Service)
-* சேவையாக சேமிப்பகம் (Data Storage as a Service)
-* சேவையாக இயந்திர கற்றல் (Machine Learing as a Service)
-
-முக்கிய வேறுபாடு என்னவென்றால், நீங்கள் அடிப்படையில் உள்ள  சேவையகங்கள், பிணையங்கள் அல்லது பிற உள்கட்டமைப்பை நிர்வகிக்க மாட்டீர்கள்.
-
-#### 3. சேவையாக மென்பொருள் / Software as a Service (SaaS)
-
-மேகக் கணிமை சேவையாளர்கள் நிர்வகிக்கப்பட்டு வழங்கப்படும் முழு பயன்பாடு. இணைய உலாவி, மொபைல் பயன்பாடு அல்லது இலகுரக கிளையன் பயன்பாடு மூலம் நுகர்வோர் இதை அணுகலாம். 
-
-தனிப்பயனாக்கம் / உள்ளமைவு கிடைக்கக்கூடும். அம்சங்கள் அல்லது திறன்களை மாற்ற முடியாது.
-
-எடுத்துக்காட்டு: 
-* நெட்ஃபிக்ஸ்,
-* பிரைம் வீடியோ
-* ஜிமெயில்
-* யூடியூப் 
-* ஜூம்
-* மைக்ரோசாப்ட் 365 போன்ற சேவைகள்
-
-## __மேகக் கணிமை பொறுப்பு பகிர்வு முறை  / Cloud Shared Responsiblity Model__
-
-<br>
-
-<img src="images/cloud-ta/cloud-shared-responsibility-model-ta.svg" width=75%>
-
+<img src="images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
-## __மேகக் கணிமை சேவையாளர்கள் / Cloud Service Providers__
+#### 1. Infrastructure as a Service (IaaS)
+Cloud providers manage basic computing infrastructure such as virtualized computing, networking, and storage, and provide access to a resource pool. Cloud consumers can install different operating systems and applications on top of it according to their needs.
+
+
+#### 2. Platform as a Service (PaaS)
+Cloud providers deliver platforms such as databases, application platforms, programming platforms, and runtime environments in an abstracted form.
+
+Examples:
+* An environment for running Python, PHP, or other source code
+* Database as a Service
+* Data Warehouse as a Service
+* Data Storage as a Service
+* Machine Learning as a Service
+
+The key difference is that you do not manage the underlying servers, networks, or other infrastructure.
+
+#### 3. Software as a Service (SaaS)
+
+This is a complete application managed and delivered by a cloud provider. Consumers can access it through a web browser, mobile application, or lightweight client application.
+
+Customization or configuration may be available, but the features and capabilities cannot be changed.
+
+Examples:
+* Netflix
+* Prime Video
+* Gmail
+* YouTube
+* Zoom
+* Microsoft 365
+
+## __Cloud Shared Responsibility Model__
 
 <br>
 
-<img src="images/cloud-ta/cloud-service-providers.svg" width=50%>
+<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=50%>
+
+<br>
+<br>
+
+## __Cloud Service Providers__
+
+<br>
+
+<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>

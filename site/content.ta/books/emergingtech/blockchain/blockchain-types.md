@@ -21,15 +21,15 @@ weight: 3
     - கூட்டமைப்பு கட்டச்சங்கிலி (Consortium Blockchain)
         - தேர்ந்தெடுக்கப்பட்ட ஒரு கணு நிறுவனத்தின் சார்பில் தொடர்புகொள்ளும்
 
-<img src="images/blockchain-ta/blockchain-types-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-types-ta.svg" width=50%>
 
 #### __பொது கட்டச்சங்கிலி / Public Blockchains__
 பொது கட்டச்சங்கிலியில் இணைய யாருக்கும் எந்தத் தடையும் இல்லை. யாரும் இதில் வரவு-செலவு கணக்கை வைத்துக் கொள்ளலாம்; சரி-பார்ப்பவராக (validator) ஆகலாம். (அதாவது,கருத்து இணக்க நெறிமுறையில் பங்கு கொள்ளலாம்.) 
 
 பல நேரங்களில், இவ்வாறு வரும் சரி-பார்ப்பவர்களை பொருள் ஊக்கம் (economic incentives) கொடுத்து, அவர்களைப் பயன்படுத்திக் கொள்வது உண்டு. (ஆனால், அவர்கள் உழைப்புக்குச் சான்று (Proof of Work) என்ற பணியைச் செய்ய வேண்டி இருக்கும்.)
 
-<img src="images/logos/bitcoin-logo.svg"> <br>
-<img src="images/logos/ethereum-logo.svg" width=20%>
+<img src="/images/shared/logos/bitcoin-logo.svg"> <br>
+<img src="/images/shared/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
@@ -40,13 +40,13 @@ weight: 3
 
 தொழில் நிறுவனங்கள் விரும்புவது கணக்கு வைப்பு (accounting and record-keeping) செவ்வனே நடக்க வேண்டும்; அதே நேரத்தில், தன்னாளுமையும் (autonomy) வேண்டும்; மற்றும், தங்களுடைய மறைமுகத் தரவுகளும் (sensitive data) காக்கப்பட வேண்டும். இவ்வாறான காரணங்களால் தொழில் நிறுவனங்கள் தனியார் கட்டச்சங்கிலியையே பயன் படுத்த விரும்புகின்றன.
 
-<img src="images/logos/hyperledger-fabric-logo.svg" width=20%> <br>
-<img src="images/logos/quorum-logo.svg" width=20%>
+<img src="/images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
+<img src="/images/shared/logos/quorum-logo.svg" width=20%>
 
 <br>
 
 #### __கூட்டமைப்புக் கட்டச்சங்கிலி Consortium / Federated Blockchains__
 கூட்டமைப்புக் கட்டச்சங்கிலி என்பது சில விழுக்காடு பரலவலாக்கப்பட்ட (semi-decentralized) கட்டச்சங்கிலியாகும். இதில் உள்ள கட்டங்களை அணுக, தனியார் கட்டச்சங்கிலியைப் போல, அனுமதி (permission) வாங்க வேண்டி இருக்கும். ஆனால், இந்தச் சங்கிலி பல குழுமங்களின் கட்டுப் பாட்டில் இருக்கும். தரவுகளை படிப்பதிலும், கருத்து இணக்க நெறிமுறை (consensus protocol) செயலாற்றுவதிலும் ஒரு சிலரே அனுமதிக்கப்படுவர்.
 
-<img src="images/logos/corda-logo.svg"> <br>
-<img src="images/logos/ripple-logo.svg" width=15%>
+<img src="/images/shared/logos/corda-logo.svg"> <br>
+<img src="/images/shared/logos/ripple-logo.svg" width=15%>

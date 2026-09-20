@@ -1,13 +1,14 @@
 ---
-title: 'குறுக்க மரம்/மெர்கல் மரம்'
+title: 'Hash Tree / Merkle Tree'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 7
 extensions:
     - katex
 ---
-குறுக்க மரம் அல்லது மெர்க்கல் மரம் என்பது ஒரு மர வடிவம் கொண்ட தொகுப்பு. இதில் ஒவ்வொரு இலை கணுவும் தரவுத் தொகுதியின் குறுக்க மதிப்பால் குறிக்கப்படும், மேலும் ஒவ்வொரு இலை அல்லாத கணுவும் அதன் குழந்தை கணுவின் குறுக்க மதிப்பால் குறிக்கப்படும்.
 
-![குறுக்க மரம்/மெர்கல் மரம்](/images/cryptography-ta/merkle-tree-ta.svg "குறுக்க மரம்/மெர்கல் மரம்")
+A Merkle tree, also called a hash tree, is a tree-like structure in which each leaf node is represented by the hash of a data block, and each non-leaf node is represented by the hash of its child nodes.
 
-குறுக்க மரம் என்ற கருவை ரால்ப் மெர்க்கல் 1979 ஆண்டில் காப்புரிமை பெற்றார். இதனால், அவரின் பெயரில் மெர்கல் மரம் என்று அழைக்கப்படுகிறது. இவர் பொது திறவி மறைப்பியலைக் கண்டுபிடித்தவர்களில் ஒருவர். மறைப்பியல் குறுக்கத்தின் கண்டுபிடிப்பாளர்.
+![Merkle Tree](/images/en/cybersecurity/cryptography/merkle-tree.png "Merkle Tree")
+
+The concept of a Merkle tree was patented by Ralph Merkle in 1979. Because of this, it is named after him. He was also one of the pioneers of public-key cryptography and the inventor of cryptographic hashing.

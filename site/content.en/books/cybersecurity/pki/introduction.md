@@ -1,5 +1,5 @@
 ---
-title: 'பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்'
+title: 'Public Key Infrastructure Introduction'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 1
@@ -7,16 +7,16 @@ weight: 1
 
 
 
-### பொதுத் திறவி உள்கட்டமைப்பு அறிமுகம்
+### Public Key Infrastructure Introduction
 
-பொதுத் திறவி உள்கட்டமைப்பு என்பது வன்பொருள் (Hardware), மென்பொருள் (Software), கொள்கைகள் (Policies) நடைமுறைகள் (procedures), மக்கள் (People), பாத்திரங்கள் (Roles) ஆகியவற்றின் தொகுப்பாகும்.​​
+Public Key Infrastructure (PKI) is a collection of hardware, software, policies, procedures, people, and roles.
 
-இந்த தொகுப்பு இலக்கமுறைச் சான்றிதழ்களை (Digital Certificates) உருவாக்க, நிர்வகிக்க, விநியோகிக்க, பயன்படுத்த, சேமிக்க, சரிபார்க்க, திரும்பப்பெற மற்றும் சான்றிதழ் வாழ்நிலைச் சுழற்சியை (Certificate Lifecycle) நிர்வகிக்க பயன்படுகிறது.​​
+This collection is used to create, manage, distribute, use, store, validate, and revoke digital certificates, and to manage their lifecycle.
 
-இது தகவல் பரிமாற்றம் செய்யும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், அனுப்பப்படும் தகவல்களை சரிபார்க்கவும் பாதுகாப்பான உள்கட்டமைப்பை வழங்குகிறது.​
+It provides secure infrastructure for verifying the identities of parties exchanging information and validating the information being sent.
 
-பொதுத் திறவி உள்கட்டமைப்பின் நோக்கம் இணைய பரிவர்த்தனைகள், இணைய வங்கி மற்றும் மின்னஞ்சல் போன்ற மின்னணு பரிமாற்றத்  தகவலின் பாதுகாப்பை எளிதாக்குவதாகும்​
+The purpose of PKI is to facilitate the security of electronically exchanged information, such as internet transactions, online banking, and email.
 
-​எளிமையான கடவுச்சொல் வழி சான்றுறுதி (Authentication) மட்டுமே போதாத நிலையில், கடுமையான சான்றுறுதி தேவைப்படும் நடவடிக்கைகளில் ஈடுபடும் தரப்பினரின் அடையாளத்தை உறுதிப்படுத்தவும், பரிமாற்றப்படும் தகவல்களை சரிபார்க்கவும் இது பயன்படுகிறது.​
+When simple password-based authentication is insufficient, PKI is used to verify the identities of parties involved in activities requiring strong authentication and to validate exchanged information.
 
-​பொதுத் திறவி உள்கட்டமைப்பு இலக்கமுறைச் சான்றிதழ்களை உருவாக்குகிறது, இது ஒரு குறிப்பிட்ட பொதுத் திறவியை ஒரு குறிப்பிட்ட நபர்/நிறுவனத்துடன் இணைக்கிறது, இந்த சான்றிதழ்களை ஒரு மைய களஞ்சியத்தில் பாதுகாப்பாக சேமித்து, ஒரு குறிப்பிட்ட நபர்/நிறுவனத்திற்கு சொந்தமானது என்பதை சரிபார்க்கப் பயன்படுகிறது​
+PKI creates digital certificates that bind a specific public key to a specific person or organization. These certificates are stored securely in a central repository and used to verify that the key belongs to that person or organization.

@@ -1,18 +1,18 @@
 ---
-title: 'அதிகாரம் வழங்கல்'
+title: 'Provisioning'
 date: 2022-08-18
 draft: false
 weight: 4
 ---
 
-### அதிகாரம் வழங்கல் (Provisioning)
+### Provisioning
 
-அதிகாரம் வழங்கல் என்பது ஒரு தானியங்கி அல்லது அரை தானியங்கி முறையில் செயல்படும் பயனர் கணக்குகளை உருவாக்குதல், இந்த கணக்குகளுக்கான பாத்திரங்கள் மற்றும் அனுமதிகளை ஒதுக்குதல் மற்றும் நிர்வகித்தல் ஆகியவற்றை உள்ளடக்கிய ஒரு செயல்முறையாகும்.
+Provisioning is the process of automatically or semi-automatically creating user accounts and assigning and managing roles and permissions for those accounts.
 
-அதிகாரம் வழங்கல் பயன்பாடு, அதிகாரப்பூர்வ அடையாள அமைப்பிலிருந்து பயனர் தகவலைப் படிக்கும், பயன்பாட்டு தகவலிலிருந்து பயன்பாட்டுப் பாத்திரங்களைப் படிக்கும். பின்னர், நிறுவனக் கொள்கைகளின் அடிப்படையில் அடையாள பாத்திர வரைவை (identity role mapping) உருவாக்கும்.
+The provisioning application reads user information from the authoritative identity system and application roles from the application data. It then creates an identity role mapping based on organizational policies.
 
-வழங்கல் கட்டமைப்பு வகையின் அடிப்படையில் இலக்கு பயன்பாட்டிற்கு அடையாள பாத்திர வரைவை அனுப்பலாம்.
+Depending on the provisioning architecture, the identity role mapping can be sent to the target application.
 
-அங்கீகாரத் தகவல்களை அதிகாரம் வழங்கல் பயன்பாடு அனுப்பலாம் அல்லது இலக்கு பயன்பாடு அதிகாரம் வழங்கல் பயன்பாடு அனுப்பிய அடையாள பாத்திர வரைவை கொண்டு தன் அங்கீகாரம் செய்யப்படலாம்.
+The provisioning application can send authorization information, or the target application can perform authorization using the identity role mapping sent by the provisioning application.
 
-<img src="images/iam-ta/iam-provisioning-ta.svg" width=70%>
+<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

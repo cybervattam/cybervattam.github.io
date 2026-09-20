@@ -1,26 +1,26 @@
 ---
-title: 'அதிகாரம் வழங்கல் வகைகள்'
+title: 'Provisioning Types'
 date: 2022-08-18
 draft: false
 weight: 4
 ---
 
-### அதிகாரம் வழங்கல் வகைகள் / Provisioning Types
+### Provisioning Types
 
-#### விருப்புரிமை அதிகாரம் வழங்கல் /  Discretionary access provisioning
-    * பெரும்பாலும் சிறிய முதல் நடுத்தர அளவிலான நிறுவனங்களில் பயன்படுத்தப்படும், இந்த அணுகுமுறை எந்த பயன்பாடுகள் மற்றும் தரவுகளை பயனர்கள் அணுக முடியும் என்பதை முடிவு செய்ய ஒரு பிணைய நிர்வாகியை அனுமதிக்கிறது..
-
-
-#### சுயசேவை அதிகாரம் வழங்கல் / Self-service access provisioning
-    * பொதுவாக, இந்த அணுகுமுறை ஒரு நிர்வாகியின் பணிச்சுமையை குறைக்க உதவுகிறது. இது பயனர்கள் ஒரு கணக்கைகோருதல் மற்றும் சுய-மேலாண்மை கடவுச்சொற்களை கோருதல் போன்ற வழங்கல் செயல்முறையின் சில அம்சங்களில் பங்கேற்க உதவுகிறது.
+#### Discretionary Access Provisioning
+    * Commonly used in small to medium-sized organizations, this approach allows a network administrator to decide which applications and data users can access.
 
 
-#### பணிப்பாய்வு அடிப்படையிலான கணக்கு வழங்குதல் / Workflow based account provisioning
-    * ஒரு பயன்பாடு அல்லது தரவுக்கான பயனர் அணுக அதிகாரம் வழங்குவதற்கு முன், நியமிக்கப்பட்ட ஒப்புதல் அளிப்பவர்களிடமிருந்து ஒப்புதல் தேவை. உதாரணமாக, நிதி மேலாண்மை அமைப்பை அணுக அதிகாரம் வழங்குவதற்கு முன், அந்நிறுவனத்தின் தலைமை நிதி அதிகாரி ஒப்புதல் தேவைப்படும்.
+#### Self-Service Access Provisioning
+    * This approach generally helps reduce an administrator's workload. It allows users to participate in some parts of the provisioning process, such as requesting an account and requesting self-managed password resets.
+
+
+#### Workflow-Based Account Provisioning
+    * Approval from designated approvers is required before a user is granted access to an application or data. For example, the organization's chief financial officer may need to approve access to a financial management system.
 
 
 
-#### தானியங்கு கணக்கு வழங்குதல் / Automated account provisioning
-    * ஒவ்வொரு கணக்கும் ஒரு மையப்படுத்தப்பட்ட மேலாண்மை பயன்பாட்டு இடைமுகம் மூலம் ஒரே முறையில் சேர்க்கப்படுகிறது.
-    * இது பயனர் நம்பிக்கைச்சான்றுகளைச் சேர்ப்பது மற்றும் நிர்வகிப்பது போன்ற செயல்முறையை ஒழுங்குபடுத்துகிறது மற்றும் குறிப்பிட்ட பயன்பாடுகள் மற்றும் தரவு ஆதாரங்களை யார் அணுகுகிறார்கள் என்பதைக் கண்காணிக்க நிர்வாகிகளுக்கு மிகவும் துல்லியமான வழியை வழங்குகிறது.
-    * வழங்கல் மற்றும் அடையாள மேலாண்மை செயல்முறைகள் ஒரே மாதிரியாக இருந்தாலும், பல்வேறு பயனர்களிடையே (எ.கா. நோயாளிகள், மருத்துவர்கள், வாடிக்கையாளர்கள் மற்றும் கூட்டாளர்கள்) வழங்கல் அளவு மற்றும் வகை பெரிதும் வேறுபடுகிறது
+#### Automated Account Provisioning
+    * Each account is added consistently through a centralized management application interface.
+    * This streamlines the process of adding and managing user credentials and gives administrators a more accurate way to track who has access to specific applications and data sources.
+    * Although provisioning and identity management processes may be similar, the scale and type of provisioning can vary significantly among different users, such as patients, doctors, customers, and partners.

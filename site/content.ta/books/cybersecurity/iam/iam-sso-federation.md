@@ -7,7 +7,7 @@ weight: 14
 
 ### ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation)
 
-<img src="images/iam-ta/iam-sso-protocols-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-sso-protocols-ta.svg" width=25%>
 
 #### கூட்டமைத்தல் (வெவ்வேறு களங்கள்)
 கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.
