@@ -13,7 +13,7 @@ weight: 5
 
 इनका प्रबंधन ऑपरेटिंग सिस्टम और वेब ब्राउज़र बनाने वाली कंपनियों द्वारा किया जाता है।
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png">
+<img src="/images/hi/cybersecurity/pki/pki-certificate-stores.png">
 
 ### भारत में लाइसेंस प्राप्त प्रमाणपत्र प्राधिकरण / Licensed Certifying Authorities in India
 

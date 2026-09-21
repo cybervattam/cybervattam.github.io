@@ -5,7 +5,7 @@ draft: false
 weight: 9
 ---
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="images/hi/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### कोड साइनिंग / Code Signing
 
@@ -31,4 +31,4 @@ EV कोड साइनिंग प्रमाणपत्र तब जा�
 
 ### कोड साइनिंग / सत्यापन | Code Signing / Verification
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-verification-process.png">
+<img src="images/hi/cybersecurity/pki/pki-code-signing-verification-process.png">

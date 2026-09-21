@@ -5,7 +5,7 @@ draft: false
 weight: 8
 ---
 
-<img src="images/en/cybersecurity/pki/pki-tls-icon.png">
+<img src="images/hi/cybersecurity/pki/pki-tls-icon.png">
 
 ### TLS प्रमाणपत्र प्रकार / Transport Layer Security Certificate Types
 

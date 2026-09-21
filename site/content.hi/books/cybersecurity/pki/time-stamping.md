@@ -5,7 +5,7 @@ draft: false
 weight: 10
 ---
 
-<img src="images/en/cybersecurity/pki/pki-time-stamping-icon.png">
+<img src="images/hi/cybersecurity/pki/pki-time-stamping-icon.png">
 
 ### टाइम स्टैंपिंग / Time Stamping
 
@@ -19,7 +19,7 @@ weight: 10
 
 ### टाइम स्टैंपिंग प्रक्रिया / Time Stamping Process
 
-<img src="images/en/cybersecurity/pki/pki-time-stamping-process.png">
+<img src="images/hi/cybersecurity/pki/pki-time-stamping-process.png">
 
 भारत में Indian Standard Time (IST) के लिए आधिकारिक समय सेवा राष्ट्रीय भौतिक प्रयोगशाला द्वारा प्रबंधित की जाती है। भारत में कार्यरत सभी प्रमाणपत्र और टाइम स्टैंपिंग प्राधिकरणों पर यह अनिवार्य है कि वे अपने आधिकारिक समय सर्वर का समय इस समय सर्वर के साथ समन्वित रखें।
 
