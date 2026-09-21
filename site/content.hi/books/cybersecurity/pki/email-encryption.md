@@ -5,7 +5,7 @@ draft: false
 weight: 11
 ---
 
-<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+<img src="images/hi/cybersecurity/pki/pki-email-encryption-icon.png">
 
 ### ईमेल एन्क्रिप्शन / Email Encryption
 

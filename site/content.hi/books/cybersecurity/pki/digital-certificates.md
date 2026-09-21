@@ -13,7 +13,7 @@ weight: 2
 
 ### डिजिटल प्रमाणपत्र प्रारूप / Digital Certificate Formats
 
-<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-formats.png">
 
 #### PEM format (Privacy Enhanced Mail) / पीईएम प्रारूप
 यह X.509 प्रमाणपत्रों, प्रमाणपत्र अनुरोधों और कुंजी-आधारित डेटा के लिए सबसे सामान्य प्रारूप है। अधिकांश CA Base64 ASCII में एन्कोडेड प्रमाणपत्र प्रदान करते हैं।

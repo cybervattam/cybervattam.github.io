@@ -7,7 +7,7 @@ extensions:
     - katex
 ---
 
-![सुरक्षा त्रिकूट](/images/en/cybersecurity/cryptography/security-triad.png "सुरक्षा त्रिकूट")
+![सुरक्षा त्रिकूट](/images/hi/cybersecurity/cryptography/security-triad.png "सुरक्षा त्रिकूट")
 
 ### गोपनीयता
 

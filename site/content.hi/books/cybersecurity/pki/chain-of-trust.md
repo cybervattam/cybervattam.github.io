@@ -9,7 +9,7 @@ weight: 4
 
 ट्रस्ट चेन में कई घटक होते हैं।
 
-<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
+<img src="/images/hi/cybersecurity/pki/pki-chain-of-trust.png">
 
 सबसे पहले एक ट्रस्ट एंकर (Trust Anchor) होता है, जिसे रूट सर्टिफिकेटिंग अथॉरिटी (Root Certifying Authority) भी कहा जाता है।
 
@@ -19,7 +19,7 @@ weight: 4
 
 अंत में, किसी वेबसाइट, संगठन या व्यक्ति जैसे एंटिटी को दिया गया एंड-एंटिटी प्रमाणपत्र (End Entity Certificate) मिलता है।
 
-<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-chain.png">
 
 ### ट्रस्ट चेन सत्यापन / Chain of Trust Verification
 
