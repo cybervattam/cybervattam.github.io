@@ -14,3 +14,7 @@ weight: 2
 | [पब्लिक की इंफ्रास्ट्रक्चर (PKI)](/books/cybersecurity/pki/) | 2021-07-11 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
 | [ब्लॉकचेन](/books/emergingtech/blockchain/) | 2021-06-20 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
 | [क्लाउड कंप्यूटिंग](/books/emergingtech/cloud/) | 2021-07-18 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
+| [क्लाउड सुरक्षा](/books/cybersecurity/cloudsecurity/) | 2026-09-21 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
+| [डिजिटल एसेट्स](/books/emergingtech/digitalassets/) | 2026-09-21 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
+| [IPv6](/books/emergingtech/ipv6/) | 2026-09-21 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |
+| [जीरो ट्रस्ट](/books/cybersecurity/zerotrust/) | 2026-09-21 | [वेंकटेश जम्बुलिंगम](https://www.linkedin.com/in/vjambulingam/) |

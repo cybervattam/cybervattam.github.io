@@ -14,3 +14,7 @@ weight: 2
 | [పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)](/books/cybersecurity/pki/) | 2021-07-11 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
 | [బ్లాక్‌చైన్](/books/emergingtech/blockchain/) | 2021-06-20 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
 | [క్లౌడ్ కంప్యూటింగ్](/books/emergingtech/cloud/) | 2021-07-18 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
+| [క్లౌడ్ భద్రత](/books/cybersecurity/cloudsecurity/) | 2026-09-21 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
+| [డిజిటల్ ఆస్తులు](/books/emergingtech/digitalassets/) | 2026-09-21 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
+| [IPv6](/books/emergingtech/ipv6/) | 2026-09-21 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |
+| [జీరో ట్రస్ట్](/books/cybersecurity/zerotrust/) | 2026-09-21 | [వెంకటేష్  జంబులింగం](https://www.linkedin.com/in/vjambulingam/) |

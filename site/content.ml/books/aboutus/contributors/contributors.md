@@ -14,3 +14,7 @@ weight: 2
 | [പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)](/books/cybersecurity/pki/) | 2021-07-11 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
 | [ബ്ളോക്ക്ചെയിൻ](/books/emergingtech/blockchain/) | 2021-06-20 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
 | [ക്ലൗഡ് കമ്പ്യൂട്ടിംഗ്](/books/emergingtech/cloud/) | 2021-07-18 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
+| [ക്ലൗഡ് സുരക്ഷ](/books/cybersecurity/cloudsecurity/) | 2026-09-21 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
+| [ഡിജിറ്റൽ ആസ്തികൾ](/books/emergingtech/digitalassets/) | 2026-09-21 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
+| [IPv6](/books/emergingtech/ipv6/) | 2026-09-21 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |
+| [സീറോ ട്രസ്റ്റ്](/books/cybersecurity/zerotrust/) | 2026-09-21 | [വെങ്കിടേഷ്  ജംബുലിംഗം](https://www.linkedin.com/in/vjambulingam/) |

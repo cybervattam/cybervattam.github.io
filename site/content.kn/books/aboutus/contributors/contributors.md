@@ -14,3 +14,7 @@ weight: 2
 | [ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)](/books/cybersecurity/pki/) | 2021-07-11 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
 | [ಬ್ಲಾಕ್‌ಚೈನ್](/books/emergingtech/blockchain/) | 2021-06-20 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
 | [ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್](/books/emergingtech/cloud/) | 2021-07-18 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
+| [ಕ್ಲೌಡ್ ಭದ್ರತೆ](/books/cybersecurity/cloudsecurity/) | 2026-09-21 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
+| [ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳು](/books/emergingtech/digitalassets/) | 2026-09-21 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
+| [IPv6](/books/emergingtech/ipv6/) | 2026-09-21 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
+| [ಝೀರೋ ಟ್ರಸ್ಟ್](/books/cybersecurity/zerotrust/) | 2026-09-21 | [ವೆಂಕಟೇಶ್ ಜಂಬುಲಿಂಗಂ](https://www.linkedin.com/in/vjambulingam/) |
