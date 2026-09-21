@@ -14,3 +14,7 @@ weight: 2
 | [பொதுத் திறவி உள்கட்டமைப்பு (Public Key Infrastructure PKI)](books/cybersecurity/pki/) | 2021-07-11 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
 | [கட்டச்சங்கிலி (Blockchain)](books/emergingtech/blockchain/) | 2021-06-20 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
 | [மேகக் கணிமை (Cloud Computing)](books/emergingtech/cloud/) | 2021-07-18 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
+| [கிளவுட் பாதுகாப்பு](books/cybersecurity/cloudsecurity/) | 2026-09-21 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
+| [டிஜிட்டல் சொத்துகள்](books/emergingtech/digitalassets/) | 2026-09-21 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
+| [IPv6](books/emergingtech/ipv6/) | 2026-09-21 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
+| [ஜீரோ டிரஸ்ட்](books/cybersecurity/zerotrust/) | 2026-09-21 | [வெங்கடேஷ் ஜெம்புலிங்கம்](https://www.linkedin.com/in/vjambulingam/) |
