@@ -9,3 +9,36 @@ other = "contribute a translation"
 
 [translationMissing]
 other = "This article is not yet available in your language. Would you like to read it in English, or"
+
+[navHome]
+other = "Home"
+[navAbout]
+other = "About"
+[books]
+other = "Library"
+[libraries]
+other = "Libraries"
+[about]
+other = "About"
+[contribute]
+other = "Contribute"
+[team]
+other = "Our Team"
+[license]
+other = "Shared knowledge"
+[languages]
+other = "Languages"
+[languageLead]
+other = "Technical knowledge should feel natural in the language you think in."
+[browseBooks]
+other = "Browse the library"
+[explore]
+other = "Explore the library"
+[topics]
+other = "Learn at your own pace"
+[lessons]
+other = "lessons"
+[topicCount]
+other = "Topics"
+[footerTagline]
+other = "Technology. In your language."

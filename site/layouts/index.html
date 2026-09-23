@@ -1,10 +1,46 @@
 {{ define "main" }}
+{{ $libraryPage := .Site.GetPage "section" "library" }}
+{{ $contributorsPage := .Site.GetPage "library/aboutus/contributors" }}
+{{ if not $contributorsPage }}{{ $contributorsPage = .Site.GetPage "library/aboutus" }}{{ end }}
+<section class="hero-section">
+	<div class="hero-section__rings" aria-hidden="true"></div>
+	<div class="page-width hero-section__grid">
+		<div class="hero-copy">
+			<p class="eyebrow"><span>◎</span> {{ .Site.Language.Label }} · Cybervattam</p>
+			<h1>{{ .Title }}</h1>
+			<div class="hero-copy__body">{{ .Content }}</div>
+			<div class="hero-actions">
+				<a class="button button--primary" href="{{ $libraryPage.RelPermalink }}">{{ i18n "browseBooks" | default "Browse the library" }} <span>→</span></a>
+				<a class="button button--ghost" href="{{ $contributorsPage.RelPermalink }}">{{ i18n "contribute" | default "Contribute knowledge" }}</a>
+			</div>
+		</div>
+		<aside class="language-card">
+			<p class="language-card__label">{{ i18n "languages" | default "Learning in Indian languages" }}</p>
+			<p>{{ i18n "languageLead" | default "Technical knowledge should feel natural in the language you think in." }}</p>
+			<div class="language-pills">
+				{{ range .Site.Home.AllTranslations }}<span class="language-pill{{ if eq $.Site.Language.Lang .Language.Lang }} is-active{{ end }}">{{ .Language.Label }}</span>{{ end }}
+			</div>
+			<p class="language-card__title">{{ .Title }}</p>
+		</aside>
+	</div>
+</section>
 
+<section class="stats-rail">
+	<div class="page-width stats-rail__grid">
+		<div class="stat"><span class="stat__icon">▣</span><span><strong>{{ len $libraryPage.Pages }}</strong><small>{{ i18n "libraries" | default "Libraries" }}</small></span></div>
+		<div class="stat"><span class="stat__icon">文</span><span><strong>{{ len .Site.Home.AllTranslations }}</strong><small>{{ i18n "languages" | default "Languages" }}</small></span></div>
+		<div class="stat"><span class="stat__icon">⚖</span><span><strong>CC-BY-NC-SA</strong><small>{{ i18n "license" | default "Shared knowledge" }}</small></span></div>
+	</div>
+</section>
 
-
-<div class="container vh-100">
- {{ .Content }}
-</div>
+<section class="page-width home-content">
+	<div class="section-heading"><p class="eyebrow">{{ i18n "explore" | default "Explore the library" }}</p><h2>{{ i18n "topics" | default "Learn at your own pace" }}</h2></div>
+	<div class="collection-grid">
+		{{ range $libraryPage.Sections }}
+		<a class="collection-card" href="{{ .Permalink }}"><span class="collection-card__count">{{ len .Pages }} {{ i18n "topicCount" | default "Topics" }}</span><h3>{{ .Title }}</h3><span class="collection-card__arrow">↗</span></a>
+		{{ end }}
+	</div>
+</section>
 
 
 {{ end }}

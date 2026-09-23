@@ -1,0 +1,15 @@
+{{ $homePage := .Site.Home }}
+{{ $libraryPage := .Site.GetPage "section" "library" }}
+{{ $aboutPage := .Site.GetPage "library/aboutus" }}
+{{ $teamPage := .Site.GetPage "library/aboutus/team/team" }}
+{{ if not $teamPage }}{{ $teamPage = $aboutPage }}{{ end }}
+{{ $footerLogoPath := "/images/shared/branding/cybervattam-logo-white.png" }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $footerLogoPath = "/images/ta/branding/cybervattam-logo-white-tamil.png" }}{{ end }}
+
+<footer class="site-footer">
+	<div class="page-width site-footer__inner">
+		<div><a class="site-footer__brand" href="{{ $homePage.RelPermalink }}" aria-label="Cybervattam home"><img class="site-footer__logo" src="{{ $footerLogoPath | relURL }}" alt="Cybervattam"></a><p>{{ i18n "footerTagline" | default "Technology in your language." }}</p></div>
+		<div class="site-footer__links"><a href="{{ $libraryPage.RelPermalink }}">{{ i18n "books" | default "Library" }}</a><a href="{{ $aboutPage.RelPermalink }}">{{ i18n "about" | default "About" }}</a><a href="{{ $teamPage.RelPermalink }}">{{ i18n "team" | default "Our Team" }}</a></div>
+		<small>CC-BY-NC-SA 4.0</small>
+	</div>
+</footer>

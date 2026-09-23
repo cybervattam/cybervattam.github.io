@@ -15,17 +15,14 @@
 </head>
 
 <body>
-  
+  <div class="site-shell">
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
-
-  <main class="container-fluid mt-5 w-100 h-100">
-    <div class="row py-5 w-100 h-100" id="main-container">
+    <main id="main-container">
       {{ block "main" . }}{{end}}
-    </div>
-    
-  </main>
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    </main>
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+  </div>
 
 
 

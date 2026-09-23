@@ -9,7 +9,7 @@ class Core {
         sessionStorage.auth,
       ).profilePicture;
 
-      document.querySelector(".navbar-brand").href = "books/cryptography";
+      document.querySelector(".navbar-brand").href = "library/cryptography";
     } else if (document.querySelector(".secured") !== null) {
       document.querySelector(".secured").classList.add("invisible");
     }

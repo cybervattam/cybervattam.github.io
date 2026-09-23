@@ -1,27 +1,31 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Malayalam:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Tamil:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Malayalam:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&family=Noto+Serif+Kannada:wght@400;500;600;700&family=Noto+Serif+Telugu:wght@400;500;600;700&display=swap');
 
-$font-family-sans-serif: 'Inter', 'Segoe UI', sans-serif;
+$font-family-sans-serif: 'Noto Sans', 'Segoe UI', sans-serif;
 $font-family-monospace: 'SFMono-Regular', 'Menlo', 'Monaco', Consolas, 'Liberation Mono', monospace !default;
 $font-family-base: $font-family-sans-serif !default;
 
 :root {
-  --site-font-family: 'Inter', 'Segoe UI', sans-serif;
+  --site-font-family: 'Noto Sans', 'Segoe UI', sans-serif;
   --site-body-font-size: 16px;
   --site-line-height: 1.5;
-  --site-header-bg: #ffffff;
-  --site-accent: #21408a;
-  --site-surface: #f6f8fc;
+  --site-header-bg: #f6f1e6;
+  --site-accent: #2450a4;
+  --site-surface: #fffdf8;
 }
 
 html {
   font-size: 16px;
+  background: #f6f1e6;
 }
 
 body {
   font-family: var(--site-font-family);
   font-size: var(--site-body-font-size);
   line-height: var(--site-line-height);
+  margin: 0;
+  color: #171921;
+  background: #f6f1e6;
 }
 
 html[lang='ta'],
@@ -33,6 +37,9 @@ html[lang='kn'] {
   --site-body-font-size: 17px;
   --site-line-height: 1.85;
 }
+
+html[lang='te'] { --serif: 'Noto Serif Telugu', 'Noto Sans Telugu', sans-serif; }
+html[lang='kn'] { --serif: 'Noto Serif Kannada', 'Noto Sans Kannada', sans-serif; }
 
 html[lang='ta'] body,
 html[lang='hi'] body,
