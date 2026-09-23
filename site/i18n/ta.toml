@@ -9,3 +9,36 @@ other = "மொழிபெயர்ப்பில் பங்களிக்�
 
 [translationMissing]
 other = "இந்தக் கட்டுரை உங்கள் மொழியில் இன்னும் கிடைக்கவில்லை. ஆங்கிலத்தில் படிக்க விரும்புகிறீர்களா, அல்லது"
+
+[navHome]
+other = "முகப்பு"
+[navAbout]
+other = "எங்களைப் பற்றி"
+[books]
+other = "நூலகம்"
+[libraries]
+other = "நூலகங்கள்"
+[about]
+other = "எங்களைப் பற்றி"
+[contribute]
+other = "பங்களிக்கவும்"
+[team]
+other = "அணி"
+[license]
+other = "பகிரப்பட்ட அறிவு"
+[languages]
+other = "மொழிகள்"
+[languageLead]
+other = "நீங்கள் சிந்திக்கும் மொழியில் தொழில்நுட்ப அறிவு இயல்பாக இருக்க வேண்டும்."
+[browseBooks]
+other = "நூலகத்தைப் பார்க்கவும்"
+[explore]
+other = "நூலகத்தை ஆராயவும்"
+[topics]
+other = "உங்கள் வேகத்தில் கற்றுக்கொள்ளுங்கள்"
+[lessons]
+other = "பாடங்கள்"
+[topicCount]
+other = "தலைப்புகள்"
+[footerTagline]
+other = "தொழில்நுட்பம். உங்கள் மொழியில்."

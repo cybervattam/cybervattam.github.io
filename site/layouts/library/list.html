@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="page-width listing-page">
+  {{ if not (strings.Contains .RelPermalink "/library/aboutus/") }}
+  <p class="eyebrow"><a href="{{ .Parent.RelPermalink }}">◎ {{ i18n "books" | default "Library" }}</a></p>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  <p class="listing-page__intro">{{ .Content }}</p>
+  <div class="content-grid">
+    {{ range .Pages }}<a class="content-card" href="{{ .Permalink }}"><span class="content-card__type">{{ $.Title }}</span><h2>{{ .Title }}</h2><span class="content-card__arrow">↗</span></a>{{ end }}
+  </div>
+</section>
+{{ end }}

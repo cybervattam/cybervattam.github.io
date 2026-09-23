@@ -3,8 +3,6 @@ title = "Cybervattam"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-googleAnalytics = "G-PQ5VGSBFCH"
-
 [security]
 allowContent = ['^text/.*$']
 enableInlineShortcodes = true

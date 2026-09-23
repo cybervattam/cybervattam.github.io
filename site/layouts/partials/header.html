@@ -1,46 +1,42 @@
-{{ $basePath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
-
-<nav class="site-header navbar navbar-expand-md navbar-light fixed-top">
-  <div class="container-fluid site-header__inner">
-    <a class="navbar-brand site-header__brand" href="{{ "/" | relURL }}" aria-label="Cybervattam home">
-      <img src="/images/shared/branding/Cybervattam-logo.png" alt="Cybervattam" />
+{{ $homePage := .Site.Home }}
+{{ $logoPath := "/images/shared/branding/Cybervattam-logo.png" }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $logoPath = "/images/ta/branding/cybervattam-logo-tamil.png" }}{{ end }}
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-header__brand" href="{{ $homePage.RelPermalink }}" aria-label="Cybervattam home">
+      <img class="site-header__logo" src="{{ $logoPath | relURL }}" alt="Cybervattam">
     </a>
 
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#siteNav"
-      aria-controls="siteNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <button class="site-header__toggle" type="button" data-bs-toggle="collapse" data-bs-target="#siteNav"
+      aria-controls="siteNav" aria-expanded="false" aria-label="Toggle navigation">☰</button>
 
-    <div class="collapse navbar-collapse" id="siteNav">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        {{ $booksSection := site.GetPage "section" "books" }}
-        {{ range $booksSection.Sections }}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-
-      <ul class="navbar-nav align-items-lg-center site-header__actions">
-        <li class="nav-item dropdown language-switcher">
-          <a class="nav-link dropdown-toggle" href="#" id="languageMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            {{ .Site.Language.Label }}
-          </a>
-          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="languageMenu">
-            {{ range .Site.Home.AllTranslations }}
-            {{ $langHref := $basePath }}
-            {{ if ne .Language.Lang "en" }}
-              {{ $langHref = printf "/%s%s" .Language.Lang $basePath }}
+    <nav class="site-nav collapse" id="siteNav" aria-label="Primary navigation">
+      <a class="site-nav__link" href="{{ $homePage.RelPermalink }}">{{ i18n "navHome" | default "Home" }}</a>
+      {{ $librarySection := site.GetPage "section" "library" }}
+      {{ range $librarySection.Sections }}
+      <a class="site-nav__link" href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+      <span class="site-nav__spacer"></span>
+      <div class="language-switcher dropdown">
+        <a class="language-switcher__current dropdown-toggle" href="#" id="languageMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          {{ .Site.Language.Label }}
+        </a>
+        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="languageMenu">
+          {{ range $.Site.Home.AllTranslations }}
+          {{ $languagePage := . }}
+          {{ $language := .Language }}
+          {{ $target := $languagePage }}
+          {{ if eq $language.Lang $.Language.Lang }}
+            {{ $target = $ }}
+          {{ else }}
+            {{ range $.Translations }}
+              {{ if eq .Language.Lang $language.Lang }}{{ $target = . }}{{ end }}
             {{ end }}
-            <li>
-              <a class="dropdown-item{{ if eq $.Site.Language.Lang .Language.Lang }} active{{ end }}" href="{{ $langHref | absURL }}">
-                {{ .Language.Label }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </li>
-      </ul>
-    </div>
+          {{ end }}
+          <li><a class="dropdown-item{{ if eq $.Language.Lang $language.Lang }} active{{ end }}" href="{{ $target.RelPermalink }}">{{ $language.Label }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
   </div>
-</nav>
+</header>

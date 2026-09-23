@@ -9,3 +9,36 @@ other = "अनुवाद में योगदान दें"
 
 [translationMissing]
 other = "यह लेख अभी आपके भाषा में उपलब्ध नहीं है। क्या आप इसे अंग्रेज़ी में पढ़ना चाहेंगे, या"
+
+[navHome]
+other = "मुखपृष्ठ"
+[navAbout]
+other = "हमारे बारे में"
+[books]
+other = "पुस्तकालय"
+[libraries]
+other = "पुस्तकालय"
+[about]
+other = "हमारे बारे में"
+[contribute]
+other = "योगदान दें"
+[team]
+other = "हमारी टीम"
+[license]
+other = "साझा ज्ञान"
+[languages]
+other = "भाषाएँ"
+[languageLead]
+other = "तकनीकी ज्ञान उस भाषा में स्वाभाविक होना चाहिए जिसमें आप सोचते हैं।"
+[browseBooks]
+other = "पुस्तकालय देखें"
+[explore]
+other = "पुस्तकालय देखें"
+[topics]
+other = "अपनी गति से सीखें"
+[lessons]
+other = "पाठ"
+[topicCount]
+other = "विषय"
+[footerTagline]
+other = "प्रौद्योगिकी। आपकी भाषा में।"

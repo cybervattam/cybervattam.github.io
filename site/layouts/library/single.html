@@ -1,0 +1,50 @@
+{{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
+{{ $libraryPage := .Site.Home.GetPage "library" }}
+<section class="article-page page-width">
+  <nav class="article-nav" aria-label="Article navigation">
+    <a href="{{ .Parent.Permalink }}">← {{ .Parent.Title }}</a>
+    {{ if not (strings.Contains .RelPermalink "/contactus/") }}
+    <a href="{{ $libraryPage.RelPermalink }}">{{ i18n "books" | default "Library" }}</a>
+    {{ end }}
+    {{ if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }} →</a>{{ end }}
+  </nav>
+
+{{ if and (ne .Site.Language.Lang "en") (not .IsTranslated) }}
+  {{ $fallbackPath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
+  {{ $contributeURL := "/library/aboutus/contribution/" }}
+  <div class="translation-banner" role="status" aria-live="polite">
+    <p>
+      {{ i18n "translationMissing" }}
+      <a href="{{ $contributeURL }}">{{ i18n "contributeTranslation" }}</a>?
+    </p>
+    <a class="btn btn-primary btn-sm" href="{{ $fallbackPath | absURL }}">{{ i18n "readInEnglish" }}</a>
+  </div>
+{{ end }}
+
+<div id="content" class="article-content">
+  {{- .Content -}}
+</div>
+</section>
+{{ if eq $.Page.IsPage true }}
+<!-- Modal -->
+<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="noteModelLabel">Note</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <textarea class="form-control" id="noteText" rows="3"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ end }}

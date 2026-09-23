@@ -9,3 +9,36 @@ other = "అనువాదానికి సహకరించండి"
 
 [translationMissing]
 other = "ఈ వ్యాసం మీ భాషలో ఇంకా అందుబాటులో లేదు. మీరు దీన్ని ఇంగ్లీషులో చదవాలనుకుంటున్నారా, లేదా"
+
+[navHome]
+other = "హోమ్"
+[navAbout]
+other = "మా గురించి"
+[books]
+other = "లైబ్రరీ"
+[libraries]
+other = "లైబ్రరీలు"
+[about]
+other = "మా గురించి"
+[contribute]
+other = "సహకరించండి"
+[team]
+other = "మా బృందం"
+[license]
+other = "పంచుకున్న జ్ఞానం"
+[languages]
+other = "భాషలు"
+[languageLead]
+other = "మీరు ఆలోచించే భాషలో సాంకేతిక జ్ఞానం సహజంగా ఉండాలి."
+[browseBooks]
+other = "లైబ్రరీని చూడండి"
+[explore]
+other = "లైబ్రరీని అన్వేషించండి"
+[topics]
+other = "మీ వేగంతో నేర్చుకోండి"
+[lessons]
+other = "పాఠాలు"
+[topicCount]
+other = "అంశాలు"
+[footerTagline]
+other = "సాంకేతికత. మీ భాషలో."
