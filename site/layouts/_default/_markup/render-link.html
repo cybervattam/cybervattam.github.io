@@ -1,0 +1,5 @@
+{{- $destination := .Destination -}}
+{{- if and (ne .Page.Language.Lang "en") (hasPrefix $destination "/library/") -}}
+  {{- $destination = printf "/%s%s" .Page.Language.Lang $destination -}}
+{{- end -}}
+<a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>

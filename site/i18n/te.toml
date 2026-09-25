@@ -42,3 +42,17 @@ other = "పాఠాలు"
 other = "అంశాలు"
 [footerTagline]
 other = "సాంకేతికత. మీ భాషలో."
+[search]
+other = "వెతకండి"
+[searchSite]
+other = "సైట్‌లో వెతకండి"
+[searchPlaceholder]
+other = "అంశాలు, స్కామ్‌లు మరియు మార్గదర్శకాలను వెతకండి"
+[searchStatus]
+other = "ప్రస్తుత భాషలో వెతకడానికి టైప్ చేయండి."
+[searchResults]
+other = "ఫలితాలు"
+[searchNoResults]
+other = "సరిపోలే పేజీలు ఏవీ కనుగొనబడలేదు."
+[searchUnavailable]
+other = "శోధన తాత్కాలికంగా అందుబాటులో లేదు."

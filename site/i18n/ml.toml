@@ -42,3 +42,17 @@ other = "പാഠങ്ങൾ"
 other = "വിഷയങ്ങൾ"
 [footerTagline]
 other = "സാങ്കേതികവിദ്യ. നിങ്ങളുടെ ഭാഷയിൽ."
+[search]
+other = "തിരയുക"
+[searchSite]
+other = "സൈറ്റിൽ തിരയുക"
+[searchPlaceholder]
+other = "വിഷയങ്ങൾ, തട്ടിപ്പുകൾ, മാർഗ്ഗനിർദ്ദേശങ്ങൾ എന്നിവ തിരയുക"
+[searchStatus]
+other = "നിലവിലെ ഭാഷയിൽ തിരയാൻ ടൈപ്പ് ചെയ്യുക."
+[searchResults]
+other = "ഫലങ്ങൾ"
+[searchNoResults]
+other = "പൊരുത്തപ്പെടുന്ന പേജുകളൊന്നും കണ്ടെത്തിയില്ല."
+[searchUnavailable]
+other = "തിരയൽ താൽക്കാലികമായി ലഭ്യമല്ല."
