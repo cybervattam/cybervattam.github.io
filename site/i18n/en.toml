@@ -42,3 +42,17 @@ other = "lessons"
 other = "Topics"
 [footerTagline]
 other = "Technology. In your language."
+[search]
+other = "Search"
+[searchSite]
+other = "Search the site"
+[searchPlaceholder]
+other = "Search topics, scams, and guidance"
+[searchStatus]
+other = "Type to search the current language."
+[searchResults]
+other = "results"
+[searchNoResults]
+other = "No matching pages found."
+[searchUnavailable]
+other = "Search is temporarily unavailable."

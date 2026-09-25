@@ -17,6 +17,10 @@
       <a class="site-nav__link" href="{{ .Permalink }}">{{ .Title }}</a>
       {{ end }}
       <span class="site-nav__spacer"></span>
+      <button class="site-search__trigger" type="button" data-search-open aria-label="{{ i18n "searchSite" }}" title="{{ i18n "searchSite" }}">
+        <span aria-hidden="true">⌕</span>
+        <span>{{ i18n "search" }}</span>
+      </button>
       <div class="language-switcher dropdown">
         <a class="language-switcher__current dropdown-toggle" href="#" id="languageMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           {{ .Site.Language.Label }}
@@ -40,3 +44,18 @@
     </nav>
   </div>
 </header>
+
+<dialog class="site-search-dialog" data-search-dialog data-search-index="{{ "index.json" | relLangURL }}" aria-labelledby="site-search-title">
+  <div class="site-search__panel">
+    <div class="site-search__header">
+      <h2 id="site-search-title">{{ i18n "searchSite" }}</h2>
+      <button class="site-search__close" type="button" data-search-close aria-label="Close search">&times;</button>
+    </div>
+    <form class="site-search__form" data-search-form role="search">
+      <label class="visually-hidden" for="site-search-input">Search</label>
+      <input id="site-search-input" class="site-search__input" type="search" name="q" placeholder="{{ i18n "searchPlaceholder" }}" autocomplete="off">
+    </form>
+    <p class="site-search__status" data-search-status data-search-default="{{ i18n "searchStatus" }}" data-search-results-label="{{ i18n "searchResults" }}" data-search-no-results="{{ i18n "searchNoResults" }}" data-search-unavailable="{{ i18n "searchUnavailable" }}">{{ i18n "searchStatus" }}</p>
+    <div class="site-search__results" data-search-results></div>
+  </div>
+</dialog>

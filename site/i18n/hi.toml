@@ -42,3 +42,17 @@ other = "पाठ"
 other = "विषय"
 [footerTagline]
 other = "प्रौद्योगिकी। आपकी भाषा में।"
+[search]
+other = "खोजें"
+[searchSite]
+other = "साइट खोजें"
+[searchPlaceholder]
+other = "विषय, घोटाले और मार्गदर्शन खोजें"
+[searchStatus]
+other = "वर्तमान भाषा में खोजने के लिए टाइप करें।"
+[searchResults]
+other = "परिणाम"
+[searchNoResults]
+other = "कोई मिलान वाला पृष्ठ नहीं मिला।"
+[searchUnavailable]
+other = "खोज अस्थायी रूप से उपलब्ध नहीं है।"

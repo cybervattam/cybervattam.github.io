@@ -42,3 +42,17 @@ other = "ಪಾಠಗಳು"
 other = "ವಿಷಯಗಳು"
 [footerTagline]
 other = "ತಂತ್ರಜ್ಞಾನ. ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ."
+[search]
+other = "ಹುಡುಕಿ"
+[searchSite]
+other = "ಸೈಟ್‌ನಲ್ಲಿ ಹುಡುಕಿ"
+[searchPlaceholder]
+other = "ವಿಷಯಗಳು, ಹಗರಣಗಳು ಮತ್ತು ಮಾರ್ಗದರ್ಶನವನ್ನು ಹುಡುಕಿ"
+[searchStatus]
+other = "ಪ್ರಸ್ತುತ ಭಾಷೆಯಲ್ಲಿ ಹುಡುಕಲು ಟೈಪ್ ಮಾಡಿ."
+[searchResults]
+other = "ಫಲಿತಾಂಶಗಳು"
+[searchNoResults]
+other = "ಹೊಂದಾಣಿಕೆಯ ಪುಟಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
+[searchUnavailable]
+other = "ಹುಡುಕಾಟವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ."

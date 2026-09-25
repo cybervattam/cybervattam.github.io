@@ -3,6 +3,9 @@ title = "Cybervattam"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[outputs]
+home = ["HTML", "JSON"]
+
 [security]
 allowContent = ['^text/.*$']
 enableInlineShortcodes = true

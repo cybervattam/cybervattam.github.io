@@ -42,3 +42,17 @@ other = "பாடங்கள்"
 other = "தலைப்புகள்"
 [footerTagline]
 other = "தொழில்நுட்பம். உங்கள் மொழியில்."
+[search]
+other = "தேடல்"
+[searchSite]
+other = "தளத்தில் தேடுங்கள்"
+[searchPlaceholder]
+other = "தலைப்புகள், மோசடிகள் மற்றும் வழிகாட்டுதலைத் தேடுங்கள்"
+[searchStatus]
+other = "தற்போதைய மொழியில் தேட தட்டச்சு செய்யவும்."
+[searchResults]
+other = "முடிவுகள்"
+[searchNoResults]
+other = "பொருந்தும் பக்கங்கள் எதுவும் கிடைக்கவில்லை."
+[searchUnavailable]
+other = "தேடல் தற்காலிகமாக கிடைக்கவில்லை."
