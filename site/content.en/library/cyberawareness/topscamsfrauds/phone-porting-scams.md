@@ -3,6 +3,7 @@ title: 'Phone Porting and SIM Swap Scams'
 date: 2026-09-25
 draft: false
 weight: 14
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 A phone porting or SIM swap scam transfers your mobile number to a SIM or eSIM controlled by a criminal. The criminal can receive calls, text messages, and SMS security codes used to access accounts.

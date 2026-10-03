@@ -3,6 +3,7 @@ title: 'Asset Tokenization'
 date: 2026-09-21
 draft: false
 weight: 3
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Asset Tokenization

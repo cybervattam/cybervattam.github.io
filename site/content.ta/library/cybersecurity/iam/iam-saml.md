@@ -3,6 +3,7 @@ title: 'பாதுகாப்பு வலியுறுத்தல் ம�
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### பாதுகாப்பு வலியுறுத்தல் மீவுரை (Security Assertion Markup Language/SAML)

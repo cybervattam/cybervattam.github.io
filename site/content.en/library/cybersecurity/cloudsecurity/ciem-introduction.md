@@ -3,6 +3,7 @@ title: 'Cloud Infrastructure Entitlement Management (CIEM)'
 date: 2026-09-21
 draft: false
 weight: 10
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Infrastructure Entitlement Management (CIEM)

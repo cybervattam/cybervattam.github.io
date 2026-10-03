@@ -3,6 +3,7 @@ title: 'डिजिटल सिग्नेचर प्रमाणपत्�
 date: 2022-08-05
 draft: false
 weight: 7
+tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
 <img src="images/hi/cybersecurity/pki/pki-digital-signature-icon.png">

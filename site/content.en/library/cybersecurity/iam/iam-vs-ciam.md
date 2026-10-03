@@ -3,6 +3,7 @@ title: 'IAM vs CIAM Comparison'
 date: 2022-08-18
 draft: false
 weight: 9
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### IAM vs CIAM Comparison

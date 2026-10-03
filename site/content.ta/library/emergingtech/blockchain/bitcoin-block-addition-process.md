@@ -3,6 +3,7 @@ title: 'பிட்காயின் கட்டச்சங்கிலி �
 date: 2022-08-15
 draft: false
 weight: 4
+tags: ["நவீன தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
 ---
 
 ### பிட்காயின் கட்டச்சங்கிலி கட்ட இணைப்பு செயல்முறை / Bitcoin blokchain block addition process

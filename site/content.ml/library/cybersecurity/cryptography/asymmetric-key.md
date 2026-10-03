@@ -5,6 +5,7 @@ draft: false
 weight: 5
 extensions:
     - katex
+tags: ["സൈബർസുരക്ഷ","ക്രിപ്റോഗ്രഫി"]
 ---
 
 ![അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ](/images/en/cybersecurity/cryptography/asymmetric-key-1.png "അസിമെട്രിക് കീ എൻക്രിപ്ഷൻ")

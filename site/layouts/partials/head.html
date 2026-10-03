@@ -1,6 +1,36 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+{{ if and .IsHome (eq .Site.Language.Lang "en") }}
+<script>
+  (() => {
+    const languageRoutes = {
+      {{- range $index, $languageHome := .Site.Home.AllTranslations }}
+      {{- if $index }},{{ end }}
+      {{ $languageHome.Language.Lang }}: {{ $languageHome.RelPermalink }}
+      {{- end }}
+    };
+    const preferenceKey = 'cybervattam-language-preference';
+    let selectedLanguage = '';
+
+    try {
+      selectedLanguage = window.localStorage.getItem(preferenceKey) || '';
+    } catch {}
+
+    if (!Object.prototype.hasOwnProperty.call(languageRoutes, selectedLanguage)) {
+      const browserLanguage = (navigator.language || '').split('-')[0].toLowerCase();
+      selectedLanguage = Object.prototype.hasOwnProperty.call(languageRoutes, browserLanguage)
+        ? browserLanguage
+        : '{{ .Site.Language.Lang }}';
+    }
+
+    const destination = languageRoutes[selectedLanguage];
+    if (destination && destination !== window.location.pathname) {
+      window.location.replace(`${destination}${window.location.search}${window.location.hash}`);
+    }
+  })();
+</script>
+{{ end }}
 {{ partial "seo" . }}
 
     <!--Fav Icon-->

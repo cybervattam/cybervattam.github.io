@@ -3,6 +3,7 @@ title: 'ಟೈಮ್ ಸ್ಟ್ಯಾಂಪಿಂಗ್'
 date: 2022-08-12
 draft: false
 weight: 10
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-time-stamping-icon.png">

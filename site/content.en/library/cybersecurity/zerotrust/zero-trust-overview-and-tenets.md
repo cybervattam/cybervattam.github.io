@@ -3,6 +3,7 @@ title: 'Zero Trust Overview & Tenets'
 date: 2026-09-21
 draft: false
 weight: 2
+tags: ["Cybersecurity","Zero Trust"]
 ---
 
 ### Zero Trust Overview & Tenets

@@ -3,6 +3,7 @@ title: 'IPv6 വിലാസ ഘടന'
 date: 2026-09-21
 draft: false
 weight: 4
+tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ","IPv6"]
 ---
 
 ### IPv6 വിലാസ ഘടന

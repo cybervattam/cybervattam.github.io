@@ -3,6 +3,7 @@ title: 'IPv6 Addressing Structure'
 date: 2026-09-21
 draft: false
 weight: 4
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### IPv6 Addressing Structure

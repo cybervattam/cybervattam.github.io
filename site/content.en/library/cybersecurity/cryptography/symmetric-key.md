@@ -5,6 +5,7 @@ draft: false
 weight: 4
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 Let us assume Sundar wants to send a secret message to Venkatesh. Before sharing the data, Sundar and Venkatesh agree on a random secret code. Let us call this a secret key. No one else knows this secret key.

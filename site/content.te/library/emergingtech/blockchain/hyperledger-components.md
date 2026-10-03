@@ -3,6 +3,7 @@ title: 'హైపర్‌లెడ్డ్జర్ బ్లాక్‌చ�
 date: 2022-08-15
 draft: false
 weight: 6
+tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
 ### హైపర్‌లెడ్డ్జర్ బ్లాక్‌చైన్ భాగాలు / Hyperledger blockchain components

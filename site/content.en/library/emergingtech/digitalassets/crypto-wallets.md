@@ -3,6 +3,7 @@ title: 'Crypto Wallets'
 date: 2026-09-21
 draft: false
 weight: 7
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Crypto Wallets

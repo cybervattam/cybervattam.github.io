@@ -3,6 +3,7 @@ title: 'Identity Types'
 date: 2022-08-18
 draft: false
 weight: 2
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Identity Types

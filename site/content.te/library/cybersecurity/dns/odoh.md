@@ -3,6 +3,7 @@ title: 'ఓబ్లివియస్ DNS'
 date: 2022-08-14
 draft: false
 weight: 10
+tags: ["సైబర్‌సెక్యూరిటీ","డొమైన్ పేరు వ్యవస్థ (DNS)"]
 ---
 
 #### ఓబ్లివియస్ DNS / Oblivious DNS (ODoH)

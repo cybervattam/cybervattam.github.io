@@ -3,6 +3,7 @@ title: 'Business Email Compromise'
 date: 2026-09-25
 draft: false
 weight: 5
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Business email compromise occurs when criminals hack or spoof an email account to impersonate an executive, colleague, supplier, accountant, or lawyer. They request payments, confidential information, or changes to payment details.

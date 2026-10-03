@@ -3,6 +3,7 @@ title: 'Remote Access Scams'
 date: 2026-09-25
 draft: false
 weight: 17
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 A remote access scam tricks you into installing software or granting control of your computer or phone. The criminal may steal information, install malware, or access online banking.

@@ -3,6 +3,7 @@ title: 'ASN (ऑटोनोमस सिस्टम नंबर)'
 date: 2022-08-19
 draft: false
 weight: 3
+tags: ["साइबर सुरक्षा","ICANN & IANA"]
 ---
 
 ### IP पता स्पेस और ASN / IP Address Space & Autonomous System Number (ASN)

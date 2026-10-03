@@ -3,6 +3,7 @@ title: 'Charity Scams'
 date: 2026-09-25
 draft: false
 weight: 3
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Charity scams use fake charities, copied identities, or false fundraising campaigns to collect donations. They often appear during disasters, emergencies, or major news events.

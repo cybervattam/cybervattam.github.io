@@ -3,6 +3,7 @@ title: 'DNS ವಿಧಗಳು'
 date: 2022-08-12
 draft: false
 weight: 6
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 ### DNS ವಿಧಗಳು / DNS Types

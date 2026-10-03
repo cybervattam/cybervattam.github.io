@@ -3,6 +3,7 @@ title: 'Consumer Identity and Access Management'
 date: 2022-08-18
 draft: false
 weight: 8
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Consumer Identity and Access Management (CIAM)

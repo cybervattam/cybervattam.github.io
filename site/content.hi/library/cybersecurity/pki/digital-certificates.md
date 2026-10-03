@@ -3,6 +3,7 @@ title: 'डिजिटल प्रमाणपत्र'
 date: 2022-08-05
 draft: false
 weight: 2
+tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
 ### डिजिटल प्रमाणपत्र / Digital Certificate

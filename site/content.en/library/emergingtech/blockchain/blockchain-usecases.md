@@ -3,6 +3,7 @@ title: 'Blockchain Use Cases'
 date: 2022-08-15
 draft: false
 weight: 8
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 __Financial Sector__

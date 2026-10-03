@@ -3,6 +3,7 @@ title: 'Zero Trust'
 date: 2026-09-21
 draft: false
 weight: 1
+tags: ["Cybersecurity","Zero Trust"]
 ---
 
 This section covers the core ideas of zero trust architecture, design principles, security capabilities, and the value proposition for modern hybrid and remote environments.

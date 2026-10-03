@@ -3,6 +3,7 @@ title: 'Hyperledger Blockchain Components'
 date: 2022-08-15
 draft: false
 weight: 6
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Hyperledger Blockchain Components

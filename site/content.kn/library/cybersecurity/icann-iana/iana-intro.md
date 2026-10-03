@@ -3,6 +3,7 @@ title: 'ಇಂಟರ್ನೆಟ್ ಅಸೈನ್‌ಡ್ ನಂಬರ್ಸ�
 date: 2022-08-19
 draft: false
 weight: 2
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ICANN ಮತ್ತು IANA"]
 ---
 
 ### ಇಂಟರ್ನೆಟ್ ಅಸೈನ್‌ಡ್ ನಂಬರ್ಸ್ ಅಥಾರಿಟಿ (Internet Assigned Numbers Authority)

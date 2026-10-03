@@ -3,6 +3,7 @@ title: 'Virtualization Protection'
 date: 2026-09-21
 draft: false
 weight: 6
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Virtualization Protection

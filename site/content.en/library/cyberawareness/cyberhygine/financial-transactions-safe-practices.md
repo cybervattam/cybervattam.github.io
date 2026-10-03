@@ -3,6 +3,7 @@ title: 'Financial Transactions - Safe Practices'
 date: 2026-09-25
 draft: false
 weight: 5
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Internet banking, UPI, cards, and mobile banking make payments convenient, but a security lapse can cause financial loss.

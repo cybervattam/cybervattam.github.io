@@ -56,3 +56,7 @@ other = "results"
 other = "No matching pages found."
 [searchUnavailable]
 other = "Search is temporarily unavailable."
+[browseByTag]
+other = "Browse by tag"
+[searchByTag]
+other = "Search by tag"

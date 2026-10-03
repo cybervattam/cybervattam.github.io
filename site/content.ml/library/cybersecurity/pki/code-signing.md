@@ -3,6 +3,7 @@ title: 'കോഡ് സൈനിംഗ് സർട്ടിഫിക്കറ�
 date: 2022-08-12
 draft: false
 weight: 9
+tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">

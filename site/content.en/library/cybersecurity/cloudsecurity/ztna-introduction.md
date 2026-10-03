@@ -3,6 +3,7 @@ title: 'Zero Trust Network Access (ZTNA)'
 date: 2026-09-21
 draft: false
 weight: 18
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Zero Trust Network Access (ZTNA)

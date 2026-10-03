@@ -3,6 +3,7 @@ title: 'Hardware Security'
 date: 2026-09-21
 draft: false
 weight: 5
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Hardware Security

@@ -3,6 +3,7 @@ title: 'ട്രാൻസ്പോർട്ട് ലെയർ സെക്യ�
 date: 2022-08-12
 draft: false
 weight: 8
+tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-tls-icon.png">

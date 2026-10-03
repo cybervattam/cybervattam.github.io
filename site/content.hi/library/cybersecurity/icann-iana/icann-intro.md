@@ -3,6 +3,7 @@ title: 'ICANN (इंटरनेट कॉर्पोरेशन फॉर �
 date: 2022-08-19
 draft: false
 weight: 1
+tags: ["साइबर सुरक्षा","ICANN & IANA"]
 ---
 
 ### ICANN (Internet Corporation for Assigned Names and Numbers)

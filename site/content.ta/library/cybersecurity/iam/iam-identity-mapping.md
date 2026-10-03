@@ -3,6 +3,7 @@ title: 'அடையாள வரைவுகள்'
 date: 2022-08-18
 draft: false
 weight: 6
+tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### அடையாள வரைவுகள் மற்றும் அனாதை கணக்குகள் / Identity mapping & orphan accounts

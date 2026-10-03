@@ -3,6 +3,7 @@ title: 'SAML (सुरक्षा कथन मार्कअप लैंग
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### SAML (Security Assertion Markup Language / SAML)

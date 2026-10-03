@@ -5,6 +5,7 @@ draft: false
 weight: 10
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 # Symmetric Key Encryption

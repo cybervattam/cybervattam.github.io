@@ -3,6 +3,7 @@ title: 'पहचान मैपिंग'
 date: 2022-08-18
 draft: false
 weight: 6
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### पहचान मैपिंग और ऑर्फन खातें / Identity Mapping & Orphan Accounts

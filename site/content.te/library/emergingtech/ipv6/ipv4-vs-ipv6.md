@@ -3,6 +3,7 @@ title: 'IPv4 వర్సెస్ IPv6'
 date: 2026-09-21
 draft: false
 weight: 8
+tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","IPv6"]
 ---
 
 ### IPv4 వర్సెస్ IPv6 పోలిక

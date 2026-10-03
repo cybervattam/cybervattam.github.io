@@ -3,6 +3,7 @@ title: 'PKI के घटक'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 3
+tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
 ### PKI के घटक / PKI Components

@@ -3,6 +3,7 @@ title: 'Chain of Trust'
 date: 2022-08-05
 draft: false
 weight: 4
+tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
 ### Chain of Trust

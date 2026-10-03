@@ -3,6 +3,7 @@ title: 'గుర్తింపు జీవితచక్రం'
 date: 2022-08-18
 draft: false
 weight: 3
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### గుర్తింపు జీవితచక్రం / Identity Lifecycle (Joiner, Mover, Leaver - JML)

@@ -3,6 +3,7 @@ title: 'Investment Scams'
 date: 2026-09-25
 draft: false
 weight: 9
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Investment scams promote fake or non-existent investments, often promising unusually high returns with little or no risk. Contact may begin through a call, social media, email, or text message.

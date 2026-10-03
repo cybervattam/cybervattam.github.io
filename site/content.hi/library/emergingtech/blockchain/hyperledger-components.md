@@ -3,6 +3,7 @@ title: 'हाइपरलेजर ब्लॉकचेन के घटक'
 date: 2022-08-15
 draft: false
 weight: 6
+tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
 ### हाइपरलेजर ब्लॉकचेन के घटक / Hyperledger Blockchain Components

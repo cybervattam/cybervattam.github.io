@@ -3,6 +3,7 @@ title: 'Provisioning Types'
 date: 2022-08-18
 draft: false
 weight: 4
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Provisioning Types

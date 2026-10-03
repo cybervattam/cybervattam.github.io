@@ -1,0 +1,15 @@
+{{- $tags := slice -}}
+{{- range $page := sort site.RegularPages "Date" "desc" -}}
+  {{- if not (strings.HasPrefix $page.File.Dir "library/aboutus/") -}}
+    {{- range $page.Params.tags -}}
+      {{- $tags = $tags | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $tags = uniq $tags -}}
+[
+  {{- range $index, $tag := first 15 $tags -}}
+    {{- if $index }},{{ end -}}
+    {{- $tag | jsonify -}}
+  {{- end -}}
+]

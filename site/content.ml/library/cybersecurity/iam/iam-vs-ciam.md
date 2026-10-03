@@ -3,6 +3,7 @@ title: 'IAM vs CIAM താരതമ്യം'
 date: 2022-08-18
 draft: false
 weight: 9
+tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
 ### IAM vs CIAM താരതമ്യം

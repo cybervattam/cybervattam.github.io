@@ -3,6 +3,7 @@ title: 'हाइपरलेजर ब्लॉक की संरचना'
 date: 2022-08-15
 draft: false
 weight: 5
+tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
 ### हाइपरलेजर ब्लॉकचेन ब्लॉक की संरचना / Hyperledger Blockchain Block Structure

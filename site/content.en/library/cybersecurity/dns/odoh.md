@@ -3,6 +3,7 @@ title: 'Oblivious DNS (ODoH)'
 date: 2022-08-14
 draft: false
 weight: 10
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### Oblivious DNS (ODoH)

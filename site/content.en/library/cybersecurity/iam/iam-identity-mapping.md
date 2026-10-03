@@ -3,6 +3,7 @@ title: 'Identity Mapping'
 date: 2022-08-18
 draft: false
 weight: 6
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Identity Mapping and Orphan Accounts

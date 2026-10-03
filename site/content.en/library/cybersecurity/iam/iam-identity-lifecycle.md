@@ -3,6 +3,7 @@ title: 'Identity Lifecycle'
 date: 2022-08-18
 draft: false
 weight: 3
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Identity Lifecycle (Joiner, Mover, Leaver - JML)

@@ -3,6 +3,7 @@ title: 'Domain Name System (DNS)'
 date: 2022-08-12
 draft: false
 weight: 1
+tags: ["Cybersecurity","DNS"]
 ---
 
 The Domain Name System (DNS) is a critical internet service that translates human-readable domain names into IP addresses and supports reverse lookups when needed.

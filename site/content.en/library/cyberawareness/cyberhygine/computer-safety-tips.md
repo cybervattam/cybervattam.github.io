@@ -3,6 +3,7 @@ title: 'Computer Safety Tips'
 date: 2026-09-25
 draft: false
 weight: 1
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Computer security protects computer systems and information from theft and unauthorized access. Use the following practices to reduce common risks.

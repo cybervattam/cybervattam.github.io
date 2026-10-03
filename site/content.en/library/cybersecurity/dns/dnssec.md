@@ -3,6 +3,7 @@ title: 'DNS Security Extensions (DNSSEC)'
 date: 2022-08-14
 draft: false
 weight: 7
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Security / DNSSEC

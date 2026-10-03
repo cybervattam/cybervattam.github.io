@@ -3,6 +3,7 @@ title: 'பல காரணி சான்றுறுதி'
 date: 2022-08-18
 draft: false
 weight: 11
+tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### பல காரணி சான்றுறுதி (Multifactor Authentication)

@@ -3,6 +3,7 @@ title: 'SSO / ఫెడరేషన్'
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### SSO / ఫెడరేషన్ (SSO / Federation)

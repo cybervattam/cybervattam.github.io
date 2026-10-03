@@ -3,6 +3,7 @@ title: 'DNS over TLS (DoT)'
 date: 2022-08-14
 draft: false
 weight: 8
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS over TLS (DoT)

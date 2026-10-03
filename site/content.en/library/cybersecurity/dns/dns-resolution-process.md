@@ -3,6 +3,7 @@ title: 'DNS Query Resolution Process'
 date: 2022-08-12
 draft: false
 weight: 3
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Query Resolution Process

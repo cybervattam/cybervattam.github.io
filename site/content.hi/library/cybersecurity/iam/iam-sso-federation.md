@@ -3,6 +3,7 @@ title: 'SSO / फेडरेशन'
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### SSO / फेडरेशन (SSO / Federation)

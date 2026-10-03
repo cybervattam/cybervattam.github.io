@@ -3,6 +3,7 @@ title: 'Cloud Deployment Models'
 date: 2022-08-14
 draft: false
 weight: 4
+tags: ["Emerging Technology","Cloud Computing"]
 ---
 
 ## __Cloud Deployment Models__

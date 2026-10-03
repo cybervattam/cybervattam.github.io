@@ -5,6 +5,7 @@ draft: false
 weight: 2
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 ![Security Triad](/images/en/cybersecurity/cryptography/security-triad.png "Security Triad")

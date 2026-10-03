@@ -3,6 +3,7 @@ title: 'OTP (वन-टाइम पासवर्ड)'
 date: 2022-08-18
 draft: false
 weight: 12
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### __OTP / One Time Password (OTP)__

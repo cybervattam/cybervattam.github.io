@@ -3,6 +3,7 @@ title: 'Cloud Computing Essential Characteristics'
 date: 2022-08-14
 draft: false
 weight: 2
+tags: ["Emerging Technology","Cloud Computing"]
 ---
 
 ## __Cloud Computing Essential Characteristics__

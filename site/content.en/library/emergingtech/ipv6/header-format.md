@@ -3,6 +3,7 @@ title: 'IPv6 Header Format'
 date: 2026-09-21
 draft: false
 weight: 7
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### IPv6 Header Format

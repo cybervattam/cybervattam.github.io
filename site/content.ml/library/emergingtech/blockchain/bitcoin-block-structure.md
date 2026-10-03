@@ -3,6 +3,7 @@ title: 'ബിറ്റ്കോയിൻ ബ്ലോക്ക് ഘടന'
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ","ബ്ളോക്ക്ചെയിൻ"]
 ---
 
 ### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിനിലെ ബ്ലോക്ക് ഘടന

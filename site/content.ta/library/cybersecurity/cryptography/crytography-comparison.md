@@ -5,6 +5,7 @@ draft: false
 weight: 9
 extensions:
     - katex
+tags: ["தகவல் பாதுகாப்பு","மறைப்பியல்"]
 ---
 
 # இரகசியத் திறவி மறைப்பியல் 

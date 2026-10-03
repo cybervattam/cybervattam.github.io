@@ -3,6 +3,7 @@ title: 'SAML'
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### సెక్యూరిటీ అసర్టన్ మార్కప్ లాంగ్వేజ్ (Security Assertion Markup Language / SAML)

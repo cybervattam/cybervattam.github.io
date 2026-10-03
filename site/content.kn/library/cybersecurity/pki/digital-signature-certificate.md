@@ -3,6 +3,7 @@ title: 'ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ'
 date: 2022-08-05
 draft: false
 weight: 7
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">

@@ -3,6 +3,7 @@ title: 'Gambling Scams'
 date: 2026-09-25
 draft: false
 weight: 7
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Gambling scams use fake online betting, casino, or slot-style websites and apps. They may promise free spins, large bonuses, or guaranteed winnings but are designed to collect money and personal details.

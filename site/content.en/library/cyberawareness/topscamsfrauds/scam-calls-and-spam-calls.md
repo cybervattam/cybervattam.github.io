@@ -3,6 +3,7 @@ title: 'Scam Calls and Spam Calls'
 date: 2026-09-25
 draft: false
 weight: 18
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 A scam call uses a phone conversation to impersonate a trusted organisation or person and obtain information or money. Spam calls are unwanted marketing, but scam calls may include deception, threats, or requests for payment.

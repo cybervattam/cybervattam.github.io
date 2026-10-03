@@ -3,6 +3,7 @@ title: 'PKI की क्षमताएँ'
 date: 2022-08-05
 draft: false
 weight: 6
+tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
 ### PKI की क्षमताएँ / PKI Capabilities

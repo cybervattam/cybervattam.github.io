@@ -3,6 +3,7 @@ title: 'Unexpected Money and Inheritance Scams'
 date: 2026-09-25
 draft: false
 weight: 22
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Unexpected-money scams claim that you have won a prize, inherited money, or are owed a payment. The criminal asks for personal details, an upfront fee, or access to an account before releasing the supposed funds.

@@ -3,6 +3,7 @@ title: 'ನಮ್ಮ ತಂಡ'
 date: 2026-09-23
 draft: false
 weight: 2
+tags: ["ನಮ್ಮ ಬಗ್ಗೆ","ನಮ್ಮ ತಂಡ"]
 ---
 
 ### Cybervattam ಹಿಂದೆ ಇರುವವರು

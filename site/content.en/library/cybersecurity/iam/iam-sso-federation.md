@@ -3,6 +3,7 @@ title: 'Single Sign-On / Federation'
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Single Sign-On / Federation (SSO/Federation)

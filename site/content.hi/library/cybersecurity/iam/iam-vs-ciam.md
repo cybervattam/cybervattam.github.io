@@ -3,6 +3,7 @@ title: 'IAM बनाम CIAM तुलना'
 date: 2022-08-18
 draft: false
 weight: 9
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### IAM बनाम CIAM तुलना (IAM vs CIAM Comparison)

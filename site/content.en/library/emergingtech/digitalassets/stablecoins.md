@@ -3,6 +3,7 @@ title: 'Stablecoins'
 date: 2026-09-21
 draft: false
 weight: 12
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Stablecoins

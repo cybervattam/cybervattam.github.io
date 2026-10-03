@@ -3,6 +3,7 @@ title: 'Mobile Phone Safety'
 date: 2026-09-25
 draft: false
 weight: 7
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Mobile phones hold personal and organizational data. Poor security can lead to data theft, financial loss, unauthorized access, and malware infection.

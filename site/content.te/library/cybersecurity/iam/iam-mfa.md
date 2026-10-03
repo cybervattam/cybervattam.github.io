@@ -3,6 +3,7 @@ title: 'బహుళ కారకం ధృవీకరణ'
 date: 2022-08-18
 draft: false
 weight: 11
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### బహుళ కారకం ధృవీకరణ (Multifactor Authentication / MFA)

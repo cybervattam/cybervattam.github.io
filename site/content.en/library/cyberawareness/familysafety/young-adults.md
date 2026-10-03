@@ -3,6 +3,7 @@ title: 'Young Adults (18–34)'
 date: 2026-09-25
 draft: false
 weight: 2
+tags: ["Cyber Awareness","Family Safety"]
 ---
 
 Young adults, including Gen Z and younger Millennials, are digital natives who conduct the majority of their shopping, banking, employment searches, and social interactions online. Despite their digital fluency, surveys consistently show younger adults report frequent financial losses to social-media-originated scams, employment fraud, and speculative investment schemes.

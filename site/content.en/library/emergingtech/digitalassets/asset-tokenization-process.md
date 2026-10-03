@@ -3,6 +3,7 @@ title: 'Asset Tokenization Process'
 date: 2026-09-21
 draft: false
 weight: 4
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Asset Tokenization Process

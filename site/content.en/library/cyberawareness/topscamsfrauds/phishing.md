@@ -3,6 +3,7 @@ title: 'Phishing'
 date: 2026-09-25
 draft: false
 weight: 13
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Phishing uses email, text messages, social media, or phone calls to impersonate a trusted source and steal information or money. Text phishing is called smishing, and phone phishing is called vishing.

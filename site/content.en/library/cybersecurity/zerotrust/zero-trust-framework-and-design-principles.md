@@ -3,6 +3,7 @@ title: 'Zero Trust Framework & Design Principles'
 date: 2026-09-21
 draft: false
 weight: 3
+tags: ["Cybersecurity","Zero Trust"]
 ---
 
 ### Zero Trust Framework & Design Principles

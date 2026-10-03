@@ -3,9 +3,16 @@ title = "Cybervattam"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+disableKinds = ["RSS", "taxonomy", "term"]
+
+[outputFormats.TagList]
+mediaType = "application/json"
+baseName = "tags"
+isPlainText = true
+notAlternative = true
 
 [outputs]
-home = ["HTML", "JSON"]
+home = ["HTML", "JSON", "TagList"]
 
 [security]
 allowContent = ['^text/.*$']
@@ -49,7 +56,6 @@ contentDir = 'content.kn'
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 [markup.goldmark.renderer]
   unsafe= true
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [markup]
   [markup.asciidocExt]

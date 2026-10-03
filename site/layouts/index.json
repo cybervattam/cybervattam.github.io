@@ -4,7 +4,8 @@
     {
       "title": {{ $page.Title | jsonify }},
       "url": {{ $page.RelPermalink | jsonify }},
-      "content": {{ $page.Plain | jsonify }}
+      "content": {{ $page.Plain | jsonify }},
+      "tags": {{ $page.Params.tags | default (slice) | jsonify }}
     }
   {{- end -}}
 ]

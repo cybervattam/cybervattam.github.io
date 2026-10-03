@@ -3,6 +3,7 @@ title: 'General Internet Safety Precautions'
 date: 2026-09-25
 draft: false
 weight: 4
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Unsafe internet use can expose people and organizations to phishing, viruses, trojans, worms, ransomware, business email compromise, and financial loss.

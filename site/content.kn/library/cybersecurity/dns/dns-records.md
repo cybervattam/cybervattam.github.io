@@ -3,6 +3,7 @@ title: 'DNS ದಾಖಲೆಗಳು'
 date: 2022-08-12
 draft: false
 weight: 4
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 ### DNS ದಾಖಲೆಗಳು / DNS Records

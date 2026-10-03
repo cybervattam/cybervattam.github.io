@@ -3,6 +3,7 @@ title: 'DNS 64 & NAT 64'
 date: 2022-08-14
 draft: false
 weight: 11
+tags: ["தகவல் பாதுகாப்பு","களப்பெயர் முறைமை"]
 ---
 
 

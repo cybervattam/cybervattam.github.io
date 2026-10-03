@@ -3,6 +3,7 @@ title: 'IPv6'
 date: 2026-09-21
 draft: false
 weight: 1
+tags: ["Emerging Technology","IPv6"]
 ---
 
 This section covers the core concepts of IPv6, why it is needed, its addressing structure, header format, and how it differs from IPv4.

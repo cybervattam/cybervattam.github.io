@@ -3,6 +3,7 @@ title: 'ടൈം സ്റ്റാമ്പിംഗ്'
 date: 2022-08-12
 draft: false
 weight: 10
+tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-time-stamping-icon.png">

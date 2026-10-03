@@ -3,6 +3,7 @@ title: 'Types of Crypto Wallets'
 date: 2026-09-21
 draft: false
 weight: 8
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Types of Crypto Wallets

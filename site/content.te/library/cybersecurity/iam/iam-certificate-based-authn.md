@@ -3,6 +3,7 @@ title: 'సర్టిఫికెట్ ఆధారిత ధృవీకర�
 date: 2022-08-18
 draft: false
 weight: 13
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### సర్టిఫికెట్ ఆధారిత ధృవీకరణ (Certificate Based Authentication)

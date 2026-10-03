@@ -3,6 +3,7 @@ title: 'Digital Certificate'
 date: 2022-08-05
 draft: false
 weight: 2
+tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
 ### Digital Certificate

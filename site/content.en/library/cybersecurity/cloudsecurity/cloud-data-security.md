@@ -3,6 +3,7 @@ title: 'Cloud Data Security'
 date: 2026-09-21
 draft: false
 weight: 14
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Data Security

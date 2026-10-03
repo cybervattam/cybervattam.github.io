@@ -3,6 +3,7 @@ title: 'Zero Trust User Flows'
 date: 2026-09-21
 draft: false
 weight: 5
+tags: ["Cybersecurity","Zero Trust"]
 ---
 
 ### Zero Trust User Flows

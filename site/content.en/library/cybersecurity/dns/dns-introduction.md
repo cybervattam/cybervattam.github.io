@@ -3,6 +3,7 @@ title: 'DNS Introduction'
 date: 2022-08-12
 draft: false
 weight: 1
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Introduction / Domain Name System

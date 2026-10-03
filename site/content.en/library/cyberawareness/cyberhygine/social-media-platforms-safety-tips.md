@@ -3,6 +3,7 @@ title: 'Social Media Platforms - Safety Tips'
 date: 2026-09-25
 draft: false
 weight: 6
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Use social media carefully to protect personal information, location details, and the authenticity of shared content.

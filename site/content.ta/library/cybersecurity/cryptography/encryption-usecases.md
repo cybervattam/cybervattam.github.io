@@ -5,6 +5,7 @@ draft: false
 weight: 10
 extensions:
     - katex
+tags: ["தகவல் பாதுகாப்பு","மறைப்பியல்"]
 ---
 
 

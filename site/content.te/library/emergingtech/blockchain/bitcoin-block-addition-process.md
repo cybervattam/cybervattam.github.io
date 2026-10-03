@@ -3,6 +3,7 @@ title: 'బిట్‌కాయిన్ బ్లాక్‌చైన్ బ�
 date: 2022-08-15
 draft: false
 weight: 4
+tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
 ### బిట్‌కాయిన్ బ్లాక్‌చైన్ బ్లాక్ జోడింపు ప్రక్రియ / Bitcoin blockchain block addition process

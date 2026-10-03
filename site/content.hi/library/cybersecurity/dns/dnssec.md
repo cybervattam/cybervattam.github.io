@@ -3,6 +3,7 @@ title: 'DNSSEC'
 date: 2022-08-14
 draft: false
 weight: 7
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### DNSSEC / DNS Security

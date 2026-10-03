@@ -3,6 +3,7 @@ title: 'Digital Asset Overview'
 date: 2026-09-21
 draft: false
 weight: 2
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Digital Asset Overview

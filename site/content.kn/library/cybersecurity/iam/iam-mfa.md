@@ -3,6 +3,7 @@ title: 'ಪಲ ಕಾರಣಿ ಸಾನ್ರುರುತಿ'
 date: 2022-08-18
 draft: false
 weight: 11
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ"]
 ---
 
 ### ಪಲ ಕಾರಣಿ ಸಾನ್ರುರುತಿ (Multifactor Authentication)

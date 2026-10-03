@@ -3,6 +3,7 @@ title: 'డిజిటల్ సిగ్నేచర్ సర్టిఫి�
 date: 2022-08-05
 draft: false
 weight: 7
+tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">

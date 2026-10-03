@@ -3,6 +3,7 @@ title: 'போக்குவரத்து அடுக்கு​ பாத�
 date: 2022-08-12
 draft: false
 weight: 8
+tags: ["தகவல் பாதுகாப்பு","பொதுத் திறவி உள்கட்டமைப்பு"]
 ---
 
 ### போக்குவரத்து அடுக்கு பாதுகாப்புச் சான்றிதழ் வகைகள்​ / Transport Layer Security Certificate Types​

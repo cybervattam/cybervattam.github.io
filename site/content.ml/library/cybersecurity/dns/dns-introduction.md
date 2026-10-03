@@ -3,6 +3,7 @@ title: 'DNS ആമുഖം'
 date: 2022-08-12
 draft: false
 weight: 1
+tags: ["സൈബർസുരക്ഷ","ഡൊമെയ്ൻ നെയിം സിസ്റ്റം (DNS)"]
 ---
 
 ### DNS ആമുഖം

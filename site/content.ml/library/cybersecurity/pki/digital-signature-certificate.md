@@ -3,6 +3,7 @@ title: 'ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ട�
 date: 2022-08-05
 draft: false
 weight: 7
+tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">

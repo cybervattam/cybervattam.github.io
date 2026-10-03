@@ -3,6 +3,7 @@ title: 'Digital Assets'
 date: 2026-09-21
 draft: false
 weight: 1
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 This section covers the main types of digital assets, how they are tokenized, how they are stored and transferred, and how blockchain-based assets such as cryptocurrencies and NFTs are classified.

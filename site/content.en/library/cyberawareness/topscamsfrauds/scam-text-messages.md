@@ -3,6 +3,7 @@ title: 'Scam Text Messages'
 date: 2026-09-25
 draft: false
 weight: 19
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Scam text messages, also called smishing, use SMS to impersonate an organisation or family member. They commonly contain a link or phone number designed to steal information, install malware, or obtain payment.

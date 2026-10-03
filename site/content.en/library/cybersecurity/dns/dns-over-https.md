@@ -3,6 +3,7 @@ title: 'DNS over HTTPS (DoH)'
 date: 2022-08-14
 draft: false
 weight: 9
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS over HTTPS (DoH)

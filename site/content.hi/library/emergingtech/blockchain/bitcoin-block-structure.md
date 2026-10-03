@@ -3,6 +3,7 @@ title: 'बिटकॉइन ब्लॉकचेन ब्लॉक की �
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
 ### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना / Block Structure in Bitcoin Blockchain

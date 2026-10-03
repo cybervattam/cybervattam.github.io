@@ -3,6 +3,7 @@ title: 'Authentication & Authorization'
 date: 2022-08-18
 draft: false
 weight: 10
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 <img src="images/en/cybersecurity/iam/iam-authn-icon.png">

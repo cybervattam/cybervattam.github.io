@@ -5,6 +5,7 @@ draft: false
 weight: 2
 extensions:
     - katex
+tags: ["தகவல் பாதுகாப்பு","மறைப்பியல்"]
 ---
 
 ![பாதுகாப்பு முக்கோணம்](/images/ta/cybersecurity/cryptography/security-triad-ta.svg "பாதுகாப்பு முக்கோணம்")

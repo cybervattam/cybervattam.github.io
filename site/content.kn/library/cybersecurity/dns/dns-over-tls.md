@@ -3,6 +3,7 @@ title: 'TLS ಮೇಲಿನ DNS ಪ್ರಶ್ನೆ'
 date: 2022-08-14
 draft: false
 weight: 8
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 

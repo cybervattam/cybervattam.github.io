@@ -3,6 +3,7 @@ title: 'Email Security Practices'
 date: 2026-09-25
 draft: false
 weight: 9
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Email messages can contain links that attempt to steal personal, financial, or organizational information.

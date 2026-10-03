@@ -3,6 +3,7 @@ title: 'TLS വഴിയുള്ള DNS (DoT)'
 date: 2022-08-14
 draft: false
 weight: 8
+tags: ["സൈബർസുരക്ഷ","ഡൊമെയ്ൻ നെയിം സിസ്റ്റം (DNS)"]
 ---
 
 ### TLS വഴിയുള്ള DNS (DoT)

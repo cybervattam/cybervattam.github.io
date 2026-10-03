@@ -3,6 +3,7 @@ title: 'Comparison of Currencies and Digital Assets'
 date: 2026-09-21
 draft: false
 weight: 14
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Comparison of Currencies and Digital Assets

@@ -3,6 +3,7 @@ title: 'CIEM Lifecycle'
 date: 2026-09-21
 draft: false
 weight: 11
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### CIEM Lifecycle

@@ -5,6 +5,7 @@ draft: false
 weight: 8
 extensions:
     - katex
+tags: ["సైబర్‌సెక్యూరిటీ","క్రిప్టోగ్రఫీ"]
 ---
 
 

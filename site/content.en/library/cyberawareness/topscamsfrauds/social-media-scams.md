@@ -3,6 +3,7 @@ title: 'Social Media Scams'
 date: 2026-09-25
 draft: false
 weight: 20
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Social media scams use profiles, posts, messages, advertisements, and marketplaces to obtain money or personal information.

@@ -3,6 +3,7 @@ title: 'DNS64 ಮತ್ತು NAT64'
 date: 2022-08-14
 draft: false
 weight: 11
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 

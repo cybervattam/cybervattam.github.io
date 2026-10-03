@@ -3,6 +3,7 @@ title: 'Ransomware'
 date: 2026-09-25
 draft: false
 weight: 16
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Ransomware is malicious software that encrypts files or blocks access to a device and demands payment. Criminals may also steal data and threaten to publish it.
