@@ -1,0 +1,92 @@
+{{ define "main" }}
+<section class="events-page page-width">
+  <header class="events-page__header">
+    <p class="eyebrow">Cybervattam · Community</p>
+    <h1>{{ .Title }}</h1>
+    <p>Meet, learn, and take part in upcoming Cybervattam events.</p>
+  </header>
+
+  <form class="event-search" role="search" data-event-search>
+    <label class="event-search__label" for="event-search-input">Search events</label>
+    <div class="event-search__control">
+      <input id="event-search-input" class="event-search__input" type="search" placeholder="Search by event, venue, or language" autocomplete="off" data-event-search-input>
+      <button class="event-search__clear" type="button" aria-label="Clear event search" title="Clear search" data-event-search-clear hidden>&times;</button>
+    </div>
+  </form>
+  <p class="event-search__status" aria-live="polite" data-event-search-status></p>
+
+  {{ $events := .Pages.ByParam "eventStart" }}
+  <div data-events-source>
+  {{ if $events }}
+  <section class="event-group">
+    <h2 class="event-group__title">All Events</h2>
+    <div class="events-grid">
+    {{ range $events }}
+    <article class="event-card" data-event-card data-event-start="{{ .Params.eventStart }}" data-event-end="{{ .Params.eventEnd }}">
+      <p class="event-card__eyebrow">Cybervattam Event</p>
+      <h2>{{ .Title }}</h2>
+      <dl class="event-details">
+        {{ $start := .Params.eventStart }}
+        {{ $end := .Params.eventEnd }}
+        {{ if and $start $end (eq (time.Format "2006-01-02" $start) (time.Format "2006-01-02" $end)) }}
+        <div class="event-details__date">
+          <dt>Event Date &amp; Time</dt>
+          <dd>{{ time.Format "Monday, January 2, 2006 · 3:04 PM" $start }} – {{ time.Format "3:04 PM MST" $end }}</dd>
+        </div>
+        {{ else }}
+        <div class="event-details__date">
+          <dt>Event Start Date &amp; Time</dt>
+          <dd>{{ with $start }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM MST" . }}{{ else }}To be announced{{ end }}</dd>
+        </div>
+        <div class="event-details__date">
+          <dt>Event End Date &amp; Time</dt>
+          <dd>{{ with $end }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM MST" . }}{{ else }}To be announced{{ end }}</dd>
+        </div>
+        {{ end }}
+        <div>
+          <dt>Event Venue</dt>
+          <dd>{{ with .Params.venue }}{{ . }}{{ else }}To be announced{{ end }}</dd>
+        </div>
+        {{ with .Params.eventHost }}
+        <div>
+          <dt>Event Host</dt>
+          <dd>{{ . }}</dd>
+        </div>
+        {{ end }}
+        <div>
+          <dt>Language</dt>
+          <dd>{{ with .Params.eventLanguage }}{{ . }}{{ else }}English{{ end }}</dd>
+        </div>
+      </dl>
+      {{ with .Params.registrationURL }}
+      <a class="event-register" href="{{ . }}" target="_blank" rel="noopener noreferrer">Register <span aria-hidden="true">↗</span></a>
+      {{ else }}
+      <span class="event-register event-register--pending">Registration details coming soon</span>
+      {{ end }}
+    </article>
+    {{ end }}
+    </div>
+  </section>
+  {{ else }}
+  <p class="events-empty">No events are currently scheduled. Please check back soon.</p>
+  {{ end }}
+  </div>
+
+  <section class="event-group" data-upcoming-section hidden>
+    <div class="event-group__heading">
+      <h2 class="event-group__title">Upcoming Events</h2>
+      <span class="event-group__count" data-upcoming-count></span>
+    </div>
+    <div class="event-month-groups" data-upcoming-groups></div>
+  </section>
+  <section class="event-group event-group--past" data-past-section hidden>
+    <div class="event-group__heading">
+      <h2 class="event-group__title">Past Events</h2>
+      <span class="event-group__count" data-past-count></span>
+    </div>
+    <div class="events-grid" data-past-events></div>
+  </section>
+  <p class="events-empty" data-event-search-empty hidden>No events match your search.</p>
+</section>
+<script src="{{ "js/events.js" | relURL }}" defer></script>
+{{ end }}
