@@ -31,16 +31,16 @@
         {{ if and $start $end (eq (time.Format "2006-01-02" $start) (time.Format "2006-01-02" $end)) }}
         <div class="event-details__date">
           <dt>Event Date &amp; Time</dt>
-          <dd>{{ time.Format "Monday, January 2, 2006 · 3:04 PM" $start }} – {{ time.Format "3:04 PM MST" $end }}</dd>
+          <dd>{{ time.Format "Monday, January 2, 2006 · 3:04 PM IST" $start }} – {{ time.Format "3:04 PM IST" $end }}</dd>
         </div>
         {{ else }}
         <div class="event-details__date">
           <dt>Event Start Date &amp; Time</dt>
-          <dd>{{ with $start }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM MST" . }}{{ else }}To be announced{{ end }}</dd>
+          <dd>{{ with $start }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM IST" . }}{{ else }}To be announced{{ end }}</dd>
         </div>
         <div class="event-details__date">
           <dt>Event End Date &amp; Time</dt>
-          <dd>{{ with $end }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM MST" . }}{{ else }}To be announced{{ end }}</dd>
+          <dd>{{ with $end }}{{ time.Format "Monday, January 2, 2006 · 3:04 PM IST" . }}{{ else }}To be announced{{ end }}</dd>
         </div>
         {{ end }}
         <div>
