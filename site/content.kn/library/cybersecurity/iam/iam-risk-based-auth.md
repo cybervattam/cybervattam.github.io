@@ -3,6 +3,7 @@ title: 'ಮರೈಯಿಟರ್ ಅಟಿಪ್ಪಟಿಯಿಲಾನ ಸಾ�
 date: 2022-08-18
 draft: false
 weight: 12
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ"]
 ---
 
 ### ಮರೈಯಿಟರ್ ಅಟಿಪ್ಪಟಿಯಿಲಾನ ಸಾನ್ರುರುತಿ / ತಕವಮೈಸ್ ಸಾನ್ರುರುತಿ (Risk-based authentication/Adaptive authentication)

@@ -3,6 +3,7 @@ title: 'Accounting Methods'
 date: 2022-08-15
 draft: false
 weight: 7
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Accounting Methods

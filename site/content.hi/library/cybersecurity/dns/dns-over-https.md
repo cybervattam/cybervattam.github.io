@@ -3,6 +3,7 @@ title: 'HTTPS पर DNS'
 date: 2022-08-14
 draft: false
 weight: 9
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### HTTPS पर DNS / DNS over HTTPS (DoH)

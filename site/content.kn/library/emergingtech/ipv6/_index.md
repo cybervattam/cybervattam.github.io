@@ -3,6 +3,7 @@ title: 'IPv6'
 date: 2026-09-21
 draft: false
 weight: 1
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","IPv6"]
 ---
 
 # IPv6

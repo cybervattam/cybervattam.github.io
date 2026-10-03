@@ -3,6 +3,7 @@ title: 'Code Signing Certificate'
 date: 2022-08-12
 draft: false
 weight: 9
+tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">

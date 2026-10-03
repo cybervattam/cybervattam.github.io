@@ -3,6 +3,7 @@ title: 'பிட்காயின் கட்டச்சங்கிலி �
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["நவீன தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
 ---
 
 ### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain

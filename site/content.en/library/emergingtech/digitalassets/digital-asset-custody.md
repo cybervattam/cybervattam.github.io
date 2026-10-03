@@ -3,6 +3,7 @@ title: 'Digital Asset Custody'
 date: 2026-09-21
 draft: false
 weight: 5
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Digital Asset Custody

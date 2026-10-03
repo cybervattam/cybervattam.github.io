@@ -3,6 +3,7 @@ title: 'IPv4 ಮತ್ತು IPv6'
 date: 2026-09-21
 draft: false
 weight: 8
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","IPv6"]
 ---
 
 ### IPv4 ಮತ್ತು IPv6 ಹೋಲಿಕೆ

@@ -3,6 +3,7 @@ title: 'పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక�
 date: 2022-08-05
 draft: false
 weight: 6
+tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
 ### పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ సామర్థ్యాలు / Public Key Infrastructure Capabilities

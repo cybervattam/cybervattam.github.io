@@ -3,6 +3,7 @@ title: 'सर्टिफिकेट आधारित प्रमाणी�
 date: 2022-08-18
 draft: false
 weight: 13
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### सर्टिफिकेट आधारित प्रमाणीकरण (Certificate Based Authentication)

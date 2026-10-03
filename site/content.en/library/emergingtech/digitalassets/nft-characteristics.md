@@ -3,6 +3,7 @@ title: 'NFT Characteristics'
 date: 2026-09-21
 draft: false
 weight: 16
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### NFT Characteristics

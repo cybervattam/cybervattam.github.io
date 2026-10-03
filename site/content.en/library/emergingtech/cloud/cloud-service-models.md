@@ -3,6 +3,7 @@ title: 'Cloud Service Models'
 date: 2022-08-14
 draft: false
 weight: 3
+tags: ["Emerging Technology","Cloud Computing"]
 ---
 
 ## __Cloud Service Models__

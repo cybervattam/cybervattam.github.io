@@ -3,6 +3,7 @@ title: 'Cloud Identity Introduction'
 date: 2026-09-21
 draft: false
 weight: 8
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### What is a Cloud Identity?

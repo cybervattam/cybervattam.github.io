@@ -3,6 +3,7 @@ title: 'Platform Security'
 date: 2026-09-21
 draft: false
 weight: 7
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Platform Security

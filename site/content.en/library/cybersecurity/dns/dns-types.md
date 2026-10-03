@@ -3,6 +3,7 @@ title: 'DNS Types'
 date: 2022-08-12
 draft: false
 weight: 6
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Types

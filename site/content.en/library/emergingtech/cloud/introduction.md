@@ -3,6 +3,7 @@ title: 'Cloud Computing'
 date: 2022-08-14
 draft: false
 weight: 1
+tags: ["Emerging Technology","Cloud Computing"]
 ---
 
 

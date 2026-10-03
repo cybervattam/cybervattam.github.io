@@ -3,6 +3,7 @@ title: 'Unicast Types'
 date: 2026-09-21
 draft: false
 weight: 6
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### IPv6 Unicast Types

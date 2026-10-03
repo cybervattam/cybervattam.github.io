@@ -3,6 +3,7 @@ title: 'Fungible Assets'
 date: 2026-09-21
 draft: false
 weight: 9
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Fungible Assets

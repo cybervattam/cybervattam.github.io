@@ -3,6 +3,7 @@ title: 'Bitcoin Blockchain Block Addition Process'
 date: 2022-08-15
 draft: false
 weight: 4
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Bitcoin Blockchain Block Addition Process

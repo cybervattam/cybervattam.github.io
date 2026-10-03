@@ -5,6 +5,7 @@ draft: false
 weight: 5
 extensions:
     - katex
+tags: ["தகவல் பாதுகாப்பு","மறைப்பியல்"]
 ---
 
 ![இரட்டைத் திறவி மறையாக்கம்](/images/ta/cybersecurity/cryptography/asymmetric-key-ta-1.svg "இரட்டைத் திறவி மறையாக்கம்")

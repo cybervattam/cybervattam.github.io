@@ -5,6 +5,7 @@ draft: false
 weight: 9
 extensions:
     - katex
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ರಿಪ್ಟೋಗ್ರಫಿ"]
 ---
 
 # ರಹಸ್ಯ ಕೀಲಿ ಗೂಢಲಿಪಿಶಾಸ್ತ್ರ

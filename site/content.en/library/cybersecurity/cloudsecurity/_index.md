@@ -3,6 +3,7 @@ title: 'Cloud Security'
 date: 2026-09-21
 draft: false
 weight: 1
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 This section covers the cloud security model, platform protections, identity controls, data protection, and modern zero-trust and SASE-based security patterns.

@@ -37,7 +37,7 @@
               {{ if eq .Language.Lang $language.Lang }}{{ $target = . }}{{ end }}
             {{ end }}
           {{ end }}
-          <li><a class="dropdown-item{{ if eq $.Language.Lang $language.Lang }} active{{ end }}" href="{{ $target.RelPermalink }}">{{ $language.Label }}</a></li>
+          <li><a class="dropdown-item{{ if eq $.Language.Lang $language.Lang }} active{{ end }}" href="{{ $target.RelPermalink }}" data-language-selection="{{ $language.Lang }}">{{ $language.Label }}</a></li>
           {{ end }}
         </ul>
       </div>

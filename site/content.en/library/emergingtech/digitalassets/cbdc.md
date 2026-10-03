@@ -3,6 +3,7 @@ title: 'மத்திய வங்கி டிஜிட்டல் நாண
 date: 2026-09-21
 draft: false
 weight: 13
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)

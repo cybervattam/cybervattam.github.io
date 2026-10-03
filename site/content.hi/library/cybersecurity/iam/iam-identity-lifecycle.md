@@ -3,6 +3,7 @@ title: 'पहचान जीवनचक्र'
 date: 2022-08-18
 draft: false
 weight: 3
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### पहचान जीवनचक्र / Identity Lifecycle (Joiner, Mover, Leaver - JML)

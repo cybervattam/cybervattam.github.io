@@ -3,6 +3,7 @@ title: 'What is a Non-Fungible Token (NFT)?'
 date: 2026-09-21
 draft: false
 weight: 15
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### What is a Non-Fungible Token (NFT)?

@@ -3,6 +3,7 @@ title: 'Cloud Identity Challenges'
 date: 2026-09-21
 draft: false
 weight: 9
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Identity Challenges

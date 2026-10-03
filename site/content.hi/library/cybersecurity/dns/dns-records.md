@@ -3,6 +3,7 @@ title: 'DNS रिकॉर्ड'
 date: 2022-08-12
 draft: false
 weight: 4
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### DNS रिकॉर्ड / DNS Records

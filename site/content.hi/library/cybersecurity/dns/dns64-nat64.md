@@ -3,6 +3,7 @@ title: 'DNS64 और NAT64'
 date: 2022-08-14
 draft: false
 weight: 11
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### DNS64 और NAT64

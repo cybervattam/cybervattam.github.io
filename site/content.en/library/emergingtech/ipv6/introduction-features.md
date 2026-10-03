@@ -3,6 +3,7 @@ title: 'IPv6 Introduction & Features'
 date: 2026-09-21
 draft: false
 weight: 2
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### Agenda

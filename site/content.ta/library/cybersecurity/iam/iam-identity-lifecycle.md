@@ -3,6 +3,7 @@ title: 'அடையாள வாழ்நிலைச் சுழற்சி'
 date: 2022-08-18
 draft: false
 weight: 3
+tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### அடையாள வாழ்நிலைச் சுழற்சி / Identity Lifecycle (Joiner, Mover, Leaver - JML)

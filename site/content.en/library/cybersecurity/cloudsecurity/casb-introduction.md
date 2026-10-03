@@ -3,6 +3,7 @@ title: 'Cloud Access Security Broker (CASB)'
 date: 2026-09-21
 draft: false
 weight: 17
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Access Security Broker (CASB)

@@ -3,6 +3,7 @@ title: 'மறையிடர் அடிப்படியிலான சா�
 date: 2022-08-18
 draft: false
 weight: 12
+tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### மறையிடர் அடிப்படியிலான சான்றுறுதி / தகவமைச் சான்றுறுதி (Risk-based authentication/Adaptive authentication)

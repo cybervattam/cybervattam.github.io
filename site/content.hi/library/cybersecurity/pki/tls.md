@@ -3,6 +3,7 @@ title: 'TLS प्रमाणपत्र'
 date: 2022-08-12
 draft: false
 weight: 8
+tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
 <img src="images/hi/cybersecurity/pki/pki-tls-icon.png">

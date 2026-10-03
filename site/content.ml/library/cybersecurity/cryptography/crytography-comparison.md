@@ -5,6 +5,7 @@ draft: false
 weight: 9
 extensions:
     - katex
+tags: ["സൈബർസുരക്ഷ","ക്രിപ്റോഗ്രഫി"]
 ---
 
 # സിമെട്രിക് കീ ക്രിപ്റ്റോഗ്രഫി

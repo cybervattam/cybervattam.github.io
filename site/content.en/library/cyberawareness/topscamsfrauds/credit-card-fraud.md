@@ -3,6 +3,7 @@ title: 'Credit Card Fraud'
 date: 2026-09-25
 draft: false
 weight: 4
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Credit card fraud occurs when card details are used without the cardholder's permission. Details may be stolen through phishing, unsafe websites, malware, skimming, data breaches, or social engineering.

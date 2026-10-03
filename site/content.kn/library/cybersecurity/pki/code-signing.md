@@ -3,6 +3,7 @@ title: 'ಕೋಡ್ ಸೈನ್ ಪ್ರಮಾಣಪತ್ರ'
 date: 2022-08-12
 draft: false
 weight: 9
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">

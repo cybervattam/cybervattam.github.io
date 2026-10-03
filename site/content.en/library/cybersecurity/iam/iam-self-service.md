@@ -3,6 +3,7 @@ title: 'Identity Self-Service'
 date: 2022-08-18
 draft: false
 weight: 7
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Identity Self-Service / IAM Self-Service

@@ -3,6 +3,7 @@ title: 'Bitcoin Block Structure'
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> Block Structure in the Bitcoin Blockchain

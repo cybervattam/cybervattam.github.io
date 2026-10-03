@@ -3,6 +3,7 @@ title: 'ಇಮೇಲ್ ಎನ್‌ಕ್ರಿಪ್ಶನ್'
 date: 2022-08-12
 draft: false
 weight: 11
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">

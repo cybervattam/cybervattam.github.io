@@ -3,6 +3,7 @@ title: 'ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ�
 date: 2022-08-15
 draft: false
 weight: 5
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
 ### ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್ ರಚನೆ / Hyperledger blockchain block structure

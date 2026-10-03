@@ -3,6 +3,7 @@ title: 'Cryptocurrency'
 date: 2026-09-21
 draft: false
 weight: 10
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Cryptocurrency

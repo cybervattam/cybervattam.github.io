@@ -3,6 +3,7 @@ title: 'बहु-कारक प्रमाणीकरण'
 date: 2022-08-18
 draft: false
 weight: 11
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### बहु-कारक प्रमाणीकरण (Multi-Factor Authentication)

@@ -3,6 +3,7 @@ title: 'Cloud Security Shared Responsibility Model'
 date: 2026-09-21
 draft: false
 weight: 3
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Security Shared Responsibility Model

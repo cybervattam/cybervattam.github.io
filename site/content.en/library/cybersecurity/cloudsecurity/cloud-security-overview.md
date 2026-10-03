@@ -3,6 +3,7 @@ title: 'Cloud Security Overview'
 date: 2026-09-21
 draft: false
 weight: 2
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Cloud Security Overview

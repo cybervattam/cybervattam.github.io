@@ -3,6 +3,7 @@ title: 'நேர முத்திரையிடல் / Time Stamping'
 date: 2022-08-12
 draft: false
 weight: 10
+tags: ["தகவல் பாதுகாப்பு","பொதுத் திறவி உள்கட்டமைப்பு"]
 ---
 
 ### நேர முத்திரையிடல் / Time Stamping

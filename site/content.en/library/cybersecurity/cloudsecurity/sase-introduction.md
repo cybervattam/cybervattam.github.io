@@ -3,6 +3,7 @@ title: 'Secure Access Service Edge (SASE)'
 date: 2026-09-21
 draft: false
 weight: 15
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Secure Access Service Edge (SASE)

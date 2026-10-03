@@ -1,6 +1,7 @@
 ---
 title: 'Home Page'
 weight: 1
+tags: ["Technology"]
 ---
 
 

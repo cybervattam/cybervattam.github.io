@@ -3,6 +3,7 @@ title: 'DNS Records'
 date: 2022-08-12
 draft: false
 weight: 4
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Records

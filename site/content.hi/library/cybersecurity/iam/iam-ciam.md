@@ -3,6 +3,7 @@ title: 'उपभोक्ता पहचान और पहुंच प्�
 date: 2022-08-18
 draft: false
 weight: 8
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### उपभोक्ता पहचान और पहुंच प्रबंधन / Consumer Identity & Access Management

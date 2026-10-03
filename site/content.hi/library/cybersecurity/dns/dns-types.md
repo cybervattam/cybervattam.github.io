@@ -3,6 +3,7 @@ title: 'DNS के प्रकार'
 date: 2022-08-12
 draft: false
 weight: 6
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### DNS के प्रकार / DNS Types

@@ -3,6 +3,7 @@ title: 'CIEM Benefits'
 date: 2026-09-21
 draft: false
 weight: 13
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### CIEM Benefits

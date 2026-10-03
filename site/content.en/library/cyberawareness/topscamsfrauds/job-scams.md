@@ -3,6 +3,7 @@ title: 'Job Scams'
 date: 2026-09-25
 draft: false
 weight: 10
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Job scams advertise or offer employment that promises high pay for little effort. Criminals may seek recruitment fees, personal information, access to accounts, or use of your account to move money.

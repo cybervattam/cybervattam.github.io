@@ -3,6 +3,7 @@ title: 'Hyperledger Block Structure'
 date: 2022-08-15
 draft: false
 weight: 5
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Hyperledger Blockchain Block Structure

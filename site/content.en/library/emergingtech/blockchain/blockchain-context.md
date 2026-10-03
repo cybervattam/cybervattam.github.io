@@ -3,6 +3,7 @@ title: 'Blockchain Context'
 date: 2022-08-15
 draft: false
 weight: 2
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Blockchain Context

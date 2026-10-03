@@ -5,6 +5,7 @@ draft: false
 weight: 5
 extensions:
     - katex
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ರಿಪ್ಟೋಗ್ರಫಿ"]
 ---
 
 ![ಅಸಮಮಿತಿ ಕೀಲಿ ಗೂಢಲಿಪೀಕರಣ​](/images/en/cybersecurity/cryptography/asymmetric-key-1.png "ಅಸಮಮಿತಿ ಕೀಲಿ ಗೂಢಲಿಪೀಕರಣ​")

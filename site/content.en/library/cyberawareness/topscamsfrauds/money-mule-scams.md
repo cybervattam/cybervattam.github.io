@@ -3,6 +3,7 @@ title: 'Money Mule Scams'
 date: 2026-09-25
 draft: false
 weight: 11
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 A money mule is a person used to receive, transfer, or withdraw money obtained through crime. Recruitment may happen through fake jobs, romance scams, social media, or stolen identity details.

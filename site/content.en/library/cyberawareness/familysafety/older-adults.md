@@ -3,6 +3,7 @@ title: 'Older Adults (55+)'
 date: 2026-09-25
 draft: false
 weight: 4
+tags: ["Cyber Awareness","Family Safety"]
 ---
 
 Older adults and senior citizens are heavily targeted by cybercriminals who exploit trust, authority, fear, and unfamiliarity with rapidly evolving digital interfaces. Fraudulent schemes targeting this demographic often involve direct phone contact, aggressive pressure, and substantial financial losses.

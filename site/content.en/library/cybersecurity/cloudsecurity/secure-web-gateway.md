@@ -3,6 +3,7 @@ title: 'Secure Web Gateway'
 date: 2026-09-21
 draft: false
 weight: 16
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Secure Web Gateway (SWG)

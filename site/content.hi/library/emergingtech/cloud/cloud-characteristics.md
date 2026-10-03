@@ -3,6 +3,7 @@ title: 'क्लाउड कंप्यूटिंग की आवश्य
 date: 2022-08-14
 draft: false
 weight: 2
+tags: ["उभरती प्रौद्योगिकियाँ","क्लाउड कंप्यूटिंग"]
 ---
 
 ## __क्लाउड कंप्यूटिंग की आवश्यक विशेषताएँ / Cloud Computing Essential Characteristics__

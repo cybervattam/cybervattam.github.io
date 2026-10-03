@@ -3,6 +3,7 @@ title: 'Identity Theft and Identity Fraud'
 date: 2026-09-25
 draft: false
 weight: 8
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Identity theft occurs when someone obtains personal information and uses it to impersonate you. Criminals may use names, addresses, dates of birth, licence or passport details, health identifiers, and account information to open accounts or commit fraud.

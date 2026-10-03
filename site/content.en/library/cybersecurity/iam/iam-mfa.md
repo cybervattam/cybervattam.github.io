@@ -3,6 +3,7 @@ title: 'Multifactor Authentication'
 date: 2022-08-18
 draft: false
 weight: 11
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Multifactor Authentication (MFA)

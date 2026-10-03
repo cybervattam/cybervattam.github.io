@@ -3,6 +3,7 @@ title: 'ಅಟೈಯಾಳ ವರೈವುಕಳ್'
 date: 2022-08-18
 draft: false
 weight: 6
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ"]
 ---
 
 ### ಅಟೈಯಾಳ ವರೈವುಕಳ್ ಮರ್ರುಮ್ ಅನಾತೈ ಕಣಕ್ಕುಕಳ್ / Identity mapping & orphan accounts

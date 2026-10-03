@@ -3,6 +3,7 @@ title: 'DNS 64 & NAT 64'
 date: 2022-08-14
 draft: false
 weight: 11
+tags: ["సైబర్‌సెక్యూరిటీ","డొమైన్ పేరు వ్యవస్థ (DNS)"]
 ---
 
 

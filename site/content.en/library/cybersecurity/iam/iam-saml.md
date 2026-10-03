@@ -3,6 +3,7 @@ title: 'Security Assertion Markup Language'
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Security Assertion Markup Language (SAML)

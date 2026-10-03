@@ -3,6 +3,7 @@ title: 'DNS Zones'
 date: 2022-08-12
 draft: false
 weight: 5
+tags: ["Cybersecurity","DNS"]
 ---
 
 ### DNS Zones

@@ -3,6 +3,7 @@ title: 'ಬಿಟ್‌ಕಾಯಿನ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ�
 date: 2022-08-15
 draft: false
 weight: 4
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
 ### ಬಿಟ್‌ಕಾಯಿನ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್ ಸೇರ್ಪಡೆ ಪ್ರಕ್ರಿಯೆ / Bitcoin blockchain block addition process

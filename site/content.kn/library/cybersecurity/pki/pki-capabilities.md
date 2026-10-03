@@ -3,6 +3,7 @@ title: 'PKI ಸಾಮರ್ಥ್ಯಗಳು'
 date: 2022-08-05
 draft: false
 weight: 6
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
 ### ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯದ ಸಾಮರ್ಥ್ಯಗಳು / Public Key Infrastructure Capabilities

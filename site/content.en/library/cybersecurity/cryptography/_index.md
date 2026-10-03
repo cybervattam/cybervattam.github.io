@@ -3,6 +3,7 @@ title: 'Cryptography'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 2
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 This section introduces the core ideas behind cryptography, including encryption, hashing, public-key systems, and security principles used to protect digital information.

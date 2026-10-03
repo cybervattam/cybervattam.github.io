@@ -5,6 +5,7 @@ draft: false
 weight: 6
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 A hash function or hashing algorithm converts any input data into a fixed-length hexadecimal value. It does not require a key. Regardless of the size or type of the input, a given algorithm produces output of a fixed length.

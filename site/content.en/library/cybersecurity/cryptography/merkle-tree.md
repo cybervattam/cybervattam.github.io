@@ -5,6 +5,7 @@ draft: false
 weight: 7
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 A Merkle tree, also called a hash tree, is a tree-like structure in which each leaf node is represented by the hash of a data block, and each non-leaf node is represented by the hash of its child nodes.

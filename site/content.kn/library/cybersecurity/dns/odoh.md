@@ -3,6 +3,7 @@ title: 'ಅಜ್ಞಾತ DNS'
 date: 2022-08-14
 draft: false
 weight: 10
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 #### ಅಜ್ಞಾತ DNS / Oblivious DNS (ODoH)

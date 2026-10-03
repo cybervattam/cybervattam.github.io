@@ -5,6 +5,7 @@ draft: false
 weight: 3
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 #### Encryption can be divided into three main types. These are discussed in more detail below.

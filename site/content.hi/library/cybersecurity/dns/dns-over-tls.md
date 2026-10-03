@@ -3,6 +3,7 @@ title: 'TLS पर DNS'
 date: 2022-08-14
 draft: false
 weight: 8
+tags: ["साइबर सुरक्षा","डोमेन नाम प्रणाली (DNS)"]
 ---
 
 ### TLS पर DNS / DNS over TLS (DoT)

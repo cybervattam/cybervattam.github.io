@@ -3,6 +3,7 @@ title: 'ఇమెయిల్ ఎన్క్రిప్షన్'
 date: 2022-08-12
 draft: false
 weight: 11
+tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">

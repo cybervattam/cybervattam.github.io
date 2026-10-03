@@ -56,3 +56,7 @@ other = "ಫಲಿತಾಂಶಗಳು"
 other = "ಹೊಂದಾಣಿಕೆಯ ಪುಟಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
 [searchUnavailable]
 other = "ಹುಡುಕಾಟವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ."
+[browseByTag]
+other = "ಟ್ಯಾಗ್ ಮೂಲಕ ಬ್ರೌಸ್ ಮಾಡಿ"
+[searchByTag]
+other = "ಟ್ಯಾಗ್ ಮೂಲಕ ಹುಡುಕಿ"

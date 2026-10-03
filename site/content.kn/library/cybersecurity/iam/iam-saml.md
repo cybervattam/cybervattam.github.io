@@ -3,6 +3,7 @@ title: 'ಪಾತುಕಾಪ್ಪು ವಲಿಯುರುತ್ತಲ್ ಮ�
 date: 2022-08-18
 draft: false
 weight: 14
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ"]
 ---
 
 ### ಪಾತುಕಾಪ್ಪು ವಲಿಯುರುತ್ತಲ್ ಮೀವುರೈ (Security Assertion Markup Language/SAML)

@@ -15,12 +15,8 @@
 			</div>
 		</div>
 		<aside class="language-card">
-			<p class="language-card__label">{{ i18n "languages" | default "Learning in Indian languages" }}</p>
-			<p>{{ i18n "languageLead" | default "Technical knowledge should feel natural in the language you think in." }}</p>
-			<div class="language-pills">
-				{{ range .Site.Home.AllTranslations }}<span class="language-pill{{ if eq $.Site.Language.Lang .Language.Lang }} is-active{{ end }}">{{ .Language.Label }}</span>{{ end }}
-			</div>
-			<p class="language-card__title">{{ .Title }}</p>
+			<p class="language-card__label">{{ i18n "browseByTag" }}</p>
+			<div class="home-tag-list" data-search-tag-list data-search-tags-index="{{ "tags.json" | relLangURL }}" aria-label="{{ i18n "searchByTag" }}"></div>
 		</aside>
 	</div>
 </section>

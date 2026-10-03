@@ -3,6 +3,7 @@ title: 'Password Security Management'
 date: 2026-09-25
 draft: false
 weight: 3
+tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
 Passwords restrict access to information and systems to authorized users. Strong, unique passwords help defend against dictionary attacks, brute-force attacks, and password-capturing tools such as keyloggers.

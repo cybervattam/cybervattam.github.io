@@ -3,6 +3,7 @@ title: 'HTTPS ಮೇಲಿನ DNS'
 date: 2022-08-14
 draft: false
 weight: 9
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಡೊಮೇನ್ ಹೆಸರು ವ್ಯವಸ್ಥೆ (DNS)"]
 ---
 
 

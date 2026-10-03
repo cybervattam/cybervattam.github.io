@@ -3,6 +3,7 @@ title: 'Email Encryption'
 date: 2022-08-12
 draft: false
 weight: 11
+tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
 <img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">

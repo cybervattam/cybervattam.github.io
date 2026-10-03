@@ -3,6 +3,7 @@ title: 'SSO ప్రోటోకాల్ పోలిక'
 date: 2022-08-18
 draft: false
 weight: 16
+tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### SSO ప్రోటోకాల్ పోలిక (SSO Protocol Comparison)

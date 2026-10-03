@@ -3,6 +3,7 @@ title: 'Our Team'
 date: 2026-09-23
 draft: false
 weight: 2
+tags: ["About Us","Team"]
 ---
 
 ### The people behind Cybervattam

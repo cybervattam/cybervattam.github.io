@@ -3,6 +3,7 @@ title: 'Blockchain Introduction'
 date: 2022-08-15
 draft: false
 weight: 1
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Blockchain Introduction

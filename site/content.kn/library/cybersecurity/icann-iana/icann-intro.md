@@ -3,6 +3,7 @@ title: 'ಹೆಸರುಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳಿಗ�
 date: 2022-08-19
 draft: false
 weight: 1
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ICANN ಮತ್ತು IANA"]
 ---
 
 ### ಹೆಸರುಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳಿಗಾಗಿ ಇಂಟರ್ನೆಟ್ ನಿಗಮ (Internet Corporation for Assigned Names and Numbers)

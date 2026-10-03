@@ -3,6 +3,7 @@ title: 'SSO प्रोटोकॉल तुलना'
 date: 2022-08-18
 draft: false
 weight: 16
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### SSO प्रोटोकॉल तुलना (SSO Protocol Comparison)

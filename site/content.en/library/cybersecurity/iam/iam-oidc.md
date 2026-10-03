@@ -3,6 +3,7 @@ title: 'OpenID Connect'
 date: 2022-08-18
 draft: false
 weight: 15
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### OpenID Connect (OIDC)

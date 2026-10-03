@@ -3,6 +3,7 @@ title: 'Facilities and Physical Security'
 date: 2026-09-21
 draft: false
 weight: 4
+tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### Facilities and Physical Security

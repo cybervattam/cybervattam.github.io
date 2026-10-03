@@ -3,6 +3,7 @@ title: 'One-Time Password'
 date: 2022-08-18
 draft: false
 weight: 12
+tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### __One-Time Password (OTP)__

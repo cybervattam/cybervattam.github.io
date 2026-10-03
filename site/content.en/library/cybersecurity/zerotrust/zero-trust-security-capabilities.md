@@ -3,6 +3,7 @@ title: 'Zero Trust Security Capabilities'
 date: 2026-09-21
 draft: false
 weight: 6
+tags: ["Cybersecurity","Zero Trust"]
 ---
 
 ### Zero Trust Security Capabilities

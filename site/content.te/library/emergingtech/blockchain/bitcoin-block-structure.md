@@ -3,6 +3,7 @@ title: 'బిట్‌కాయిన్ బ్లాక్‌చైన్ బ�
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
 ### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> బిట్‌కాయిన్ బ్లాక్‌చైన్ బ్లాక్ నిర్మాణం / Block Structure in Bitcoin blockchain

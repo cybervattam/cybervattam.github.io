@@ -3,6 +3,7 @@ title: 'Blockchain Types'
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### __Blockchain Types__

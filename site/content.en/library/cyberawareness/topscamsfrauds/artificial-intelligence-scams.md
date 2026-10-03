@@ -3,6 +3,7 @@ title: 'AI-Powered Scams'
 date: 2026-09-25
 draft: false
 weight: 1
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Artificial intelligence can make scam emails, messages, calls, and videos look or sound convincing. Criminals may imitate a trusted person, manager, supplier, organisation, or family member using generated text, cloned voices, or deepfake video.

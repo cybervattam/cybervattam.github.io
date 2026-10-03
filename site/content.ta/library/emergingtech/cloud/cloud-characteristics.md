@@ -3,6 +3,7 @@ title: 'மேகக் கணிமையின் அத்தியாவச�
 date: 2022-08-14
 draft: false
 weight: 2
+tags: ["நவீன தொழில்நுட்பங்கள்","மேகக் கணிமை"]
 ---
 
 ## __மேகக் கணிமையின் அத்தியாவசிய பண்புகள் / Cloud Computing Essential Characteristics__

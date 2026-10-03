@@ -3,6 +3,7 @@ title: 'ಸ್ವಾಯತ್ತ ವ್ಯವಸ್ಥೆ ಸಂಖ್ಯೆಗ�
 date: 2022-08-19
 draft: false
 weight: 3
+tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ICANN ಮತ್ತು IANA"]
 ---
 
 ### IP ವಿಳಾಸ ವ್ಯಾಪ್ತಿ ಮತ್ತು ಸ್ವಾಯತ್ತ ವ್ಯವಸ್ಥೆ ಸಂಖ್ಯೆ / IP Address Space & Autonomous System Number (ASN)

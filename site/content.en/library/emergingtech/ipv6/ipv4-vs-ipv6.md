@@ -3,6 +3,7 @@ title: 'IPv4 vs IPv6'
 date: 2026-09-21
 draft: false
 weight: 8
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### IPv4 vs IPv6 Comparison

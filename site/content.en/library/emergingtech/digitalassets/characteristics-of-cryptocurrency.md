@@ -3,6 +3,7 @@ title: 'Characteristics of Cryptocurrency'
 date: 2026-09-21
 draft: false
 weight: 11
+tags: ["Emerging Technology","Digital Assets"]
 ---
 
 ### Characteristics of Cryptocurrency

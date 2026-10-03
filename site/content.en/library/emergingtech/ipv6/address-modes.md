@@ -3,6 +3,7 @@ title: 'Address Modes'
 date: 2026-09-21
 draft: false
 weight: 5
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### IPv6 Address Modes

@@ -3,6 +3,7 @@ title: 'पासवर्ड रहित प्रमाणीकरण'
 date: 2022-08-18
 draft: false
 weight: 12
+tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### पासवर्ड रहित प्रमाणीकरण (Passwordless Authentication)

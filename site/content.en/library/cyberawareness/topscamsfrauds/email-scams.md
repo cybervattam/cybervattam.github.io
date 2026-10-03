@@ -3,6 +3,7 @@ title: 'Email Scams'
 date: 2026-09-25
 draft: false
 weight: 6
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 An email scam is a message designed to make you click a malicious link, open an unsafe attachment, disclose information, or send money. Phishing is a common form of email scam.

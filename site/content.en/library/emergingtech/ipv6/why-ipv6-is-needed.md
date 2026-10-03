@@ -3,6 +3,7 @@ title: 'Why IPv6 is Needed'
 date: 2026-09-21
 draft: false
 weight: 3
+tags: ["Emerging Technology","IPv6"]
 ---
 
 ### Why IPv6 is Needed

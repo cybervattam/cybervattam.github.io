@@ -3,6 +3,7 @@ title: 'Bank Impersonation Scams'
 date: 2026-09-25
 draft: false
 weight: 2
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 A bank impersonation scam occurs when a criminal contacts you while pretending to be your bank. The aim is usually to steal login details, card information, one-time codes, or money.

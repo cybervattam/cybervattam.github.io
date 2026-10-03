@@ -56,3 +56,7 @@ other = "परिणाम"
 other = "कोई मिलान वाला पृष्ठ नहीं मिला।"
 [searchUnavailable]
 other = "खोज अस्थायी रूप से उपलब्ध नहीं है।"
+[browseByTag]
+other = "टैग के अनुसार ब्राउज़ करें"
+[searchByTag]
+other = "टैग से खोजें"

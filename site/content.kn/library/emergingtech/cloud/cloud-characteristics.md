@@ -3,6 +3,7 @@ title: 'ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್‌ನ ಅವಶ್�
 date: 2022-08-14
 draft: false
 weight: 2
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್"]
 ---
 
 ## __ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್‌ನ ಅವಶ್ಯಕ ಲಕ್ಷಣಗಳು / Cloud Computing Essential Characteristics__

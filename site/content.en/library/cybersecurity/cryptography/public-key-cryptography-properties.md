@@ -5,6 +5,7 @@ draft: false
 weight: 8
 extensions:
     - katex
+tags: ["Cybersecurity","Cryptography"]
 ---
 
 ## Public Key Cryptography - Confidentiality

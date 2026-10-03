@@ -3,6 +3,7 @@ title: 'Spoof Calls and Fake Caller IDs'
 date: 2026-09-25
 draft: false
 weight: 21
+tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
 Caller ID spoofing falsifies the number or name displayed on your phone so a criminal appears to be a trusted person or organisation. The caller may then seek money or personal information.

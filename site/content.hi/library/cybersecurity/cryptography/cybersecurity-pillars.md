@@ -5,6 +5,7 @@ draft: false
 weight: 2
 extensions:
     - katex
+tags: ["साइबर सुरक्षा","क्रिप्टोग्राफी"]
 ---
 
 ![सुरक्षा त्रिकूट](/images/hi/cybersecurity/cryptography/security-triad.png "सुरक्षा त्रिकूट")

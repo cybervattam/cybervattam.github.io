@@ -5,6 +5,7 @@ draft: false
 weight: 2
 extensions:
     - katex
+tags: ["സൈബർസുരക്ഷ","ക്രിപ്റോഗ്രഫി"]
 ---
 
 ![സുരക്ഷാ ത്രയം](/images/en/cybersecurity/cryptography/security-triad.png "സുരക്ഷാ ത്രയം")

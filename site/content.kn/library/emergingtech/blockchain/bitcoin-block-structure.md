@@ -3,6 +3,7 @@ title: 'ಬಿಟ್‌ಕಾಯಿನ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ�
 date: 2022-08-15
 draft: false
 weight: 3
+tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
 ### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್‌ನ ರಚನೆ / Block Structure in Bitcoin blockchain

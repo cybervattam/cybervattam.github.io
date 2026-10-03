@@ -3,6 +3,7 @@ title: 'IANA (इंटरनेट अटॉन्ड नंबर अथॉर
 date: 2022-08-19
 draft: false
 weight: 2
+tags: ["साइबर सुरक्षा","ICANN & IANA"]
 ---
 
 ### IANA (Internet Assigned Numbers Authority)
