@@ -1,22 +1,32 @@
-<meta name=”robots” content="index, follow">
-
-<!-- Multi lingual SEO https://weglot.com/4-key-seo-tips-multilingual-website/-->
-{{ if .IsTranslated }}
-
-{{ range .Translations }}
-
-<link rel=”alternate” hreflang=”{{ .Lang }}” href=”https://cybervattam.com{{ .Permalink }}” />
-
+{{ $description := .Description }}
+{{ if not $description }}
+	{{ $description = .Summary | plainify | htmlUnescape | truncate 160 }}
+{{ end }}
+{{ if not $description }}
+	{{ $description = .Site.Home.Summary | plainify | htmlUnescape | truncate 160 }}
 {{ end }}
 
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="{{ .Permalink }}" />
+{{ with $description }}
+<meta name="description" content="{{ . }}" />
+<meta property="og:description" content="{{ . }}" />
+<meta name="twitter:description" content="{{ . }}" />
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:locale" content="{{ .Lang }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ .Title }}" />
+{{ if gt (len .AllTranslations) 1 }}
+	{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+	{{ end }}
 {{ end }}
 
-
-<!-- Load Type Specific SEO-->
 {{ if templates.Exists ( printf "partials/seo-%s.html" .Type ) }}
 {{ $partialPath := printf "seo-%s" .Type }}
 {{ partial $partialPath . }}
 {{ end }}
-
-
-{{ template "_internal/opengraph.html" . }}

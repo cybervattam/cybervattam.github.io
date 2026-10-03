@@ -1,12 +1,7 @@
 <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, viewport-fit=cover"
-    />
-    <base href="{{ if getenv " CONTEXT" }}{{ cond (eq "production" (getenv
-    "CONTEXT" )) (getenv "URL" ) (getenv "DEPLOY_PRIME_URL" ) }}{{ else }}{{
-    $.Site.BaseURL }}{{ end }}">
-    <title>{{ $.Site.Title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+{{ partial "seo" . }}
 
     <!--Fav Icon-->
     
@@ -17,13 +12,6 @@
       href="/images/shared/branding/favicon.png"
     />
     <link rel="manifest" href="/images/site.webmanifest" />
-
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-
-    
 
     <link rel="stylesheet" href="/css/style.css"/>
     <link
