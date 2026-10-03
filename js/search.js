@@ -6,6 +6,7 @@
   const input = document.querySelector('#site-search-input');
   const status = document.querySelector('[data-search-status]');
   const results = document.querySelector('[data-search-results]');
+  const tagList = document.querySelector('[data-search-tag-list]');
 
   if (!dialog || !openButton || !form || !input || !status || !results) return;
 
@@ -18,6 +19,7 @@
   };
   let pages = [];
   let indexPromise;
+  let selectedTag = '';
 
   const loadIndex = () => {
     if (!indexPromise) {
@@ -34,18 +36,20 @@
     return indexPromise;
   };
 
-  const renderResults = (query) => {
+  const renderResults = (query, tag = '') => {
     const terms = query.toLocaleLowerCase().split(/\s+/).filter(Boolean);
     results.replaceChildren();
 
-    if (!terms.length) {
+    if (!terms.length && !tag) {
       status.textContent = strings.default;
       return;
     }
 
     const matches = pages.filter((page) => {
-      const haystack = `${page.title} ${page.content}`.toLocaleLowerCase();
-      return terms.every((term) => haystack.includes(term));
+      const pageTags = Array.isArray(page.tags) ? page.tags : [];
+      const hasSelectedTag = !tag || pageTags.some((pageTag) => pageTag.toLocaleLowerCase() === tag.toLocaleLowerCase());
+      const haystack = `${page.title} ${page.content} ${pageTags.join(' ')}`.toLocaleLowerCase();
+      return hasSelectedTag && terms.every((term) => haystack.includes(term));
     }).slice(0, 12);
 
     status.textContent = matches.length
@@ -61,7 +65,18 @@
     });
   };
 
+  const searchByTag = (tag) => {
+    selectedTag = tag;
+    input.value = tag;
+    dialog.showModal();
+    input.focus();
+    loadIndex().then(() => renderResults('', selectedTag)).catch(() => {
+      status.textContent = strings.unavailable;
+    });
+  };
+
   openButton.addEventListener('click', () => {
+    selectedTag = '';
     dialog.showModal();
     input.focus();
     loadIndex().catch(() => {
@@ -75,8 +90,36 @@
   });
   form.addEventListener('submit', (event) => event.preventDefault());
   input.addEventListener('input', () => {
+    selectedTag = '';
     loadIndex().then(() => renderResults(input.value)).catch(() => {
       status.textContent = strings.unavailable;
     });
   });
+
+  tagList?.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-search-tag]');
+    if (button) searchByTag(button.dataset.searchTag);
+  });
+
+  if (tagList) {
+    fetch(tagList.dataset.searchTagsIndex)
+      .then((response) => {
+        if (!response.ok) throw new Error('Tag index unavailable');
+        return response.json();
+      })
+      .then((tags) => {
+        const buttons = tags.map((tag) => {
+          const button = document.createElement('button');
+          button.className = 'home-tag';
+          button.type = 'button';
+          button.dataset.searchTag = tag;
+          button.textContent = tag;
+          return button;
+        });
+        tagList.replaceChildren(...buttons);
+      })
+      .catch(() => {
+        tagList.replaceChildren();
+      });
+  }
 })();
