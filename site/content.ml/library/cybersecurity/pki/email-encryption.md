@@ -6,7 +6,7 @@ weight: 11
 tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-email-encryption-icon.png">
 
 ### ഇമെയിൽ എൻക്രിപ്ഷൻ
 

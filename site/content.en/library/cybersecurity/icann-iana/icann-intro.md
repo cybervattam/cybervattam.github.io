@@ -9,7 +9,7 @@ tags: ["Cybersecurity","ICANN and IANA"]
 
 ### Internet Corporation for Assigned Names and Numbers (ICANN)
 
-<img src="images/shared/logos/icann-logo.svg">
+<img src="/images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

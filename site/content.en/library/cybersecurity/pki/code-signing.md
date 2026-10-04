@@ -6,7 +6,7 @@ weight: 9
 tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### Code Signing
 
@@ -20,14 +20,14 @@ Microsoft SmartScreen warnings continue to appear for a publisher's code or appl
 
 The public key or certificate used to validate the code signature must chain to a trusted root certificate authority. This can be verified through the chain of trust.
 
-<img src="images/en/cybersecurity/pki/pki-standard-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-standard-code-signing.png">
 
 #### Extended Validation Code Signing Certificates
 
 Extended Validation code signing certificates are issued after fully verifying the publisher's identity. When SmartScreen checks software or code signed with an Extended Validation certificate, the publisher can establish reputation immediately even without a prior reputation. This does not guarantee that the code is trustworthy. It confirms through public key infrastructure that the code was signed with a specific private key.
 
-<img src="images/en/cybersecurity/pki/pki-ev-code-signing.png">   
+<img src="/images/en/cybersecurity/pki/pki-ev-code-signing.png">
 
 ### Code Signing / Verification
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-verification-process.png">

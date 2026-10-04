@@ -8,7 +8,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ICANN ಮತ್ತು IANA"]
 
 ### ಹೆಸರುಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳಿಗಾಗಿ ಇಂಟರ್ನೆಟ್ ನಿಗಮ (Internet Corporation for Assigned Names and Numbers)
 
-<img src="images/shared/logos/icann-logo.svg">
+<img src="/images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

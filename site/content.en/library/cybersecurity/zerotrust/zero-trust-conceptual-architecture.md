@@ -6,6 +6,8 @@ weight: 4
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+
 ### Zero Trust Conceptual Architecture
 
 Zero trust conceptual architecture views security controls as an identity- and policy-driven model rather than a network perimeter model.

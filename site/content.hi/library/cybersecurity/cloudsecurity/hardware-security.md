@@ -10,6 +10,10 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 एप्लिकेशन और डेटा को होस्ट करने वाले भौतिक हार्डवेयर को क्लाउड सेवा प्रदाता द्वारा सुरक्षित किया जाना चाहिए।
 
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+
 ### अनुशंसित उपाय
 
 - बंद वायरिंग क्लोसेट और MDF/IDF क्षेत्रों तक सीमित एक्सेस

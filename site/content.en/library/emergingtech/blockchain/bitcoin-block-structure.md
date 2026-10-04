@@ -6,7 +6,7 @@ weight: 3
 tags: ["Emerging Technology","Blockchain"]
 ---
 
-### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> Block Structure in the Bitcoin Blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> Block Structure in the Bitcoin Blockchain
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["Emerging Technology","Blockchain"]
     - Transaction counter
     - Transactions #1, #2, #3, ..., #n
 
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["Emerging Technology","Blockchain"]
 
 <br>
 <br>
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>

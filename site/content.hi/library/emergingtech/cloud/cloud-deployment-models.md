@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","क्�
 
 ## __क्लाउड कंप्यूटिंग परिनियोजन मॉडल / Cloud Deployment Models__
 <br>
-<img src="images/en/emergingtech/cloud/cloud-deployment-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-deployment-models.png">
 
 <br>
 <br>

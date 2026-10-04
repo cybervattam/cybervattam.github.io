@@ -2,7 +2,7 @@
 title: 'CIEM ಪ್ರಯೋಜನಗಳು'
 date: 2026-09-21
 draft: false
-weight: 13
+weight: 24
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್ರತೆ"]
 ---
 

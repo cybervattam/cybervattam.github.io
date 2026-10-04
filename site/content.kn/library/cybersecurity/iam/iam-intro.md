@@ -19,6 +19,6 @@ Ensuring right entities have right access to right resources at the right time f
 * ಅಣುಕಲ್ ಮೇಲಾಣ್ಮೈ (access management)
 * ಸಿರಪ್ಪುರಿಮೈ ಅಣುಕಲ್ ಮೇಲಾಣ್ಮೈ (privileged access management)
 
-<img src="images/en/cybersecurity/iam/iam-intro.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-intro.png" width=50%>
 
 ಇನ್ತ ತಲೈಪ್ಪುಕಳ್ ಒವ್ವೊನ್ರೈಯುಮ್ ವಿರಿವಾಕ ಕಾಣಲಾಮ್.

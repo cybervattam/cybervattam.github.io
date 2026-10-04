@@ -2,7 +2,7 @@
 title: 'Native Cloud Security Controls'
 date: 2026-09-21
 draft: false
-weight: 19
+weight: 26
 tags: ["Cybersecurity","Cloud Security"]
 ---
 

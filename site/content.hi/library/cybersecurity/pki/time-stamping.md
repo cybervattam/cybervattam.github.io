@@ -6,7 +6,7 @@ weight: 10
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="images/hi/cybersecurity/pki/pki-time-stamping-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-time-stamping-icon.png">
 
 ### टाइम स्टैंपिंग / Time Stamping
 
@@ -14,13 +14,13 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 किसी दस्तावेज़ या कोड को कब हस्ताक्षरित किया गया, यह बताने के लिए एक trusted time stamping authority का उपयोग किया जाता है।
 
-<img src="images/shared/screenshots/timestamping-sample.png">
+<img src="/images/shared/screenshots/timestamping-sample.png">
 
 टाइम स्टैंप के बिना लगाए गए सिग्नेचर, आधार प्रमाणपत्र के साथ समाप्त हो जाते हैं। लेकिन यदि सिग्नेचर के समय पर time stamp लगाया जाता है, तो उस प्रमाणपत्र के समाप्त होने के बाद भी सिग्नेचर मान्य रहता है। trusted time stamp वाला दस्तावेज़ या कोड प्राप्तकर्ता यह जाँच सकता है कि यह कब हस्ताक्षरित हुआ, और यह भी सत्यापित कर सकता है कि time stamp में उल्लिखित तिथि/समय के बाद दस्तावेज़ या कोड में कोई परिवर्तन नहीं हुआ है। time stamp को दस्तावेज़ के लिए अलग से या सिग्नेचर के साथ भी प्राप्त किया जा सकता है। यदि सिग्नेचर के दौरान time stamping authority निर्दिष्ट है, तो सिग्नेचर time stamping authority को भेजा जाता है। वे उस सिग्नेचर के साथ समय, तिथि और अपने हस्ताक्षर को जोड़कर भेजते हैं। यह पूर्ण सिग्नेचर दस्तावेज़ के साथ जोड़कर एक समग्र हस्ताक्षरित दस्तावेज़ बनाता है।
 
 ### टाइम स्टैंपिंग प्रक्रिया / Time Stamping Process
 
-<img src="images/hi/cybersecurity/pki/pki-time-stamping-process.png">
+<img src="/images/hi/cybersecurity/pki/pki-time-stamping-process.png">
 
 भारत में Indian Standard Time (IST) के लिए आधिकारिक समय सेवा राष्ट्रीय भौतिक प्रयोगशाला द्वारा प्रबंधित की जाती है। भारत में कार्यरत सभी प्रमाणपत्र और टाइम स्टैंपिंग प्राधिकरणों पर यह अनिवार्य है कि वे अपने आधिकारिक समय सर्वर का समय इस समय सर्वर के साथ समन्वित रखें।
 

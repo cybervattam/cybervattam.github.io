@@ -20,7 +20,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI) అనేది వెబ్‌సైట్ మరియు వినియోగదారుల మధ్య సమాచారాన్ని భద్రపరచడానికి ఉపయోగించే క్రిప్టోగ్రాఫిక్ మరియు సైబర్ భద్రతా నిర్మాణం.
 
-<img src="images/shared/screenshots/iam-pki-card.svg">
+<img src="/images/shared/screenshots/iam-pki-card.svg">
 
 <br>
 
@@ -28,7 +28,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 Fast Identity Online (FIDO) అనేది అనేక సంస్థలు కలిసి ప్రారంభించిన ప్రాజెక్టు, ఇది బహుళ వినియోగదారు పేరు మరియు పాస్వర్డ్‌లను తగ్గించడానికి రూపొందించబడింది.
 
-<img src="images/shared/screenshots/iam-fido.png">
+<img src="/images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
@@ -38,4 +38,4 @@ Fast Identity Online (FIDO) అనేది అనేక సంస్థలు �
 
 Yubikey అనేది చిన్న USB-ఆధారిత భద్రతా పరికరం. ఇది సపోర్ట్‌ చేయబడే ప్లాట్‌ఫారమ్‌ల్లో పాస్వర్డ్‌కు అదనపు కారకం‌గా ఉపయోగించబడుతుంది.
 
-<img src="images/shared/screenshots/iam-yubikey.jpg">
+<img src="/images/shared/screenshots/iam-yubikey.jpg">

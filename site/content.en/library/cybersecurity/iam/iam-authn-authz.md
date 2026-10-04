@@ -6,7 +6,7 @@ weight: 10
 tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
-<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authn-icon.png">
 
 ### __Authentication__ - __Verifying an identity__
 
@@ -21,7 +21,7 @@ It verifies the user's credentials.
 It takes place before authorization.
 
 <br>
-<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authz-icon.png">
 
 ### __Authorization__ - __Granting permissions to an identity__
 

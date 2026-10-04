@@ -22,7 +22,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 స్వీయ-సేవా పాస్‌వర్డ్ నిర్వహణ పరిష్కారాలు, వినియోగదారు డైరెక్టరీతో నేరుగా అనుసంధించి పునరుద్ధరణ మరియు ఖాతా అన్లాక్‌ను నిర్వహిస్తాయి.
 
-<img src="images/en/cybersecurity/iam/iam-sspm.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-sspm.png" width=70%>
 
 <br>
 
@@ -34,7 +34,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 ముందే నిర్వచించిన గుర్తింపు & ప్రాప్యత నిర్వహణ నియమాల ప్రకారం ఈ మార్పులు అమలులోకి వస్తాయి.
 
-<img src="images/en/cybersecurity/iam/iam-ssar.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-ssar.png" width=70%>
 
 <br>
 <br>
@@ -44,4 +44,4 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 స్వీయ-సేవా ప్రొఫైల్ మార్పులు అంటే వినియోగదారులు తమ పేరు, ఫోన్ నంబర్, చిరునామా, బొమ్మ లేదా ఇతర ప్రొఫైల్ వివరాలను సహాయం నిర్వహణం లేదా సపోర్ట్ టీమ్‌కి కాల్ చేసే అవసరం లేకుండా మార్చగలిగే ప్రక్రియ.
 
-<img src="images/en/cybersecurity/iam/iam-sspc.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-sspc.png" width=70%>

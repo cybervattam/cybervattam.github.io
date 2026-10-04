@@ -6,7 +6,7 @@ weight: 11
 tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-email-encryption-icon.png">
 
 ### Email Encryption
 

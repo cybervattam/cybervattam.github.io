@@ -2,7 +2,7 @@
 title: 'Cloud Data Security'
 date: 2026-09-21
 draft: false
-weight: 14
+weight: 25
 tags: ["Cybersecurity","Cloud Security"]
 ---
 
@@ -13,6 +13,8 @@ Cloud data security focuses on protecting confidentiality, integrity, and availa
 ### Encryption and Data Sovereignty
 
 Encryption is a core control for cloud data security and may be used to support requirements such as data sovereignty, compliance, and trust.
+
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png">
 
 ### Key Management Models
 
@@ -27,6 +29,8 @@ Encryption is a core control for cloud data security and may be used to support 
 - Internal data and sensitive data require stronger protection
 - Financial, HR, legal, and intellectual property data are especially critical
 - Trust, agility, and control expectations vary based on customer preferences
+
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png">
 
 ### Security Objective
 

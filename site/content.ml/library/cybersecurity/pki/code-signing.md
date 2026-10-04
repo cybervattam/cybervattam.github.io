@@ -6,7 +6,7 @@ weight: 9
 tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### കോഡ് സൈനിംഗ്
 
@@ -19,13 +19,13 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 ഒപ്പ് പരിശോധിക്കുന്ന പൊതു കീയോ സർട്ടിഫിക്കറ്റോ വിശ്വസനീയമായ റൂട്ട് സർട്ടിഫിക്കറ്റ് അതോറിറ്റിയിലേക്ക് ട്രസ്റ്റ് ചെയിനിലൂടെ ബന്ധിപ്പിക്കപ്പെട്ടിരിക്കണം.
 
-<img src="images/en/cybersecurity/pki/pki-standard-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-standard-code-signing.png">
 
 #### എക്സ്റ്റൻഡഡ് വാലിഡേഷൻ കോഡ് സൈനിംഗ് സർട്ടിഫിക്കറ്റുകൾ
 പ്രസാധകന്റെ ഐഡന്റിറ്റി പൂർണ്ണമായി പരിശോധിച്ച ശേഷമാണ് ഇവ നൽകുന്നത്. മുൻപ് പ്രശസ്തിയില്ലാത്ത പ്രസാധകനും ഉടൻ പ്രശസ്തി സ്ഥാപിക്കാൻ ഇവ സഹായിക്കുന്നു. ഇതും കോഡ് വിശ്വസനീയമാണെന്ന് ഉറപ്പുനൽകുന്നില്ല; നിർദ്ദിഷ്ട സ്വകാര്യ കീ ഉപയോഗിച്ചാണ് ഒപ്പിട്ടതെന്ന് സ്ഥിരീകരിക്കുന്നു.
 
-<img src="images/en/cybersecurity/pki/pki-ev-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-ev-code-signing.png">
 
 ### കോഡ് സൈനിംഗ് / പരിശോധന
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-verification-process.png">

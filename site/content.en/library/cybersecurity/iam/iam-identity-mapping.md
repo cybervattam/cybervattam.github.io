@@ -14,4 +14,4 @@ tags: ["Cybersecurity","Identity and Access Management"]
     - If the account owner has left the organization, the account can be misused and create significant risk because unusual activity cannot be identified by an active owner.
     - Orphan accounts cannot be reliably disabled when their owner leaves because the owner no longer has a connection to the account.
 
-<img src="images/en/cybersecurity/iam/iam-orphan-accounts.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-orphan-accounts.png" width=70%>

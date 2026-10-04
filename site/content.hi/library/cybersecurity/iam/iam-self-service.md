@@ -22,7 +22,7 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 स्वयं-सेवा पासवर्ड प्रबंधन समाधान सीधे उपयोगकर्ता निर्देशिका के साथ संवाद करके पासवर्ड रीसेट और अकाउंट अनलॉक करने का कार्य करते हैं।
 
-<img src="images/en/cybersecurity/iam/iam-sspm.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-sspm.png" width=70%>
 
 <br>
 
@@ -34,7 +34,7 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 पूर्व-परिभाषित IAM नियमों के आधार पर ये परिवर्तन लागू किए जाते हैं।
 
-<img src="images/en/cybersecurity/iam/iam-ssar.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-ssar.png" width=70%>
 
 <br>
 <br>
@@ -44,4 +44,4 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 स्वयं-सेवा प्रोफ़ाइल अपडेट एक ऐसी प्रक्रिया/तकनीक है, जिसमें उपयोगकर्ता अपने नाम, फोन नंबर, पते, फोटो और अन्य प्रोफ़ाइल विवरणों को सहायता डेस्क या सपोर्ट टीम को कॉल किए बिना स्वयं अपडेट कर सकता है।
 
-<img src="images/en/cybersecurity/iam/iam-sspc.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-sspc.png" width=70%>

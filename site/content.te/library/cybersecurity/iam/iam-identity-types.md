@@ -13,7 +13,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 * వ్యాపారం-వ్యాపారం గుర్తింపులు (B2B / Workforce Identities)
 * వ్యాపారం-గ్రాహక గుర్తింపులు (B2C / Consumer Identities)
 
-<img src="images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-types-of-identities.png" width=50%>
 
 #### వ్యాపారం-వ్యాపారం గుర్తింపులు (B2B / Workforce Identity)
 

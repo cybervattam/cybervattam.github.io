@@ -8,4 +8,4 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 ### सर्टिफिकेट आधारित प्रमाणीकरण (Certificate Based Authentication)
 
-<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

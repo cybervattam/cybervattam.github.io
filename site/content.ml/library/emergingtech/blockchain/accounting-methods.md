@@ -8,4 +8,4 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### അക്കൗണ്ടിംഗ് രീതികൾ
 
-<img src="images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>

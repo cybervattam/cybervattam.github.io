@@ -6,7 +6,7 @@ weight: 9
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### ಕೋಡ್ ಸೈನ್ / Code Signing
 
@@ -18,13 +18,13 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 #### ಪ್ರಮಾಣಿತ ಕೋಡ್ ಸೈನ್ ಪ್ರಮಾಣಪತ್ರಗಳು / Standard Code Signing Certificates
 ಬಳಕೆದಾರರಿಗೆ ಹೆಚ್ಚಿನ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ಕಡಿಮೆ ತಪ್ಪು ವರದಿಗಳು ದೊರೆಯುವವರೆಗೆ, ಪ್ರಕಟಕರು ತಮ್ಮ ಹೆಸರುಗ lai? ಮೈಕ್ರೋಸಾಫ್ಟ್ ಸ್ಮಾರ್ಟ್‌ಸ್ಕ್ರೀನ್ ಎಚ್ಚರಿಕೆಗಳು ಅವುಗಳ ಕೋಡ್‌ಗಳಿಗೆ ತೋರಿಸುತ್ತವೆ. ಇದರಿಂದ ಸೂಚನೆ ನೀಡಲಾದ ಕೋಡ್ ಆಧಾರವಾಗಿ ನಂಬಬಹುದೆಂದು ಖಾತರಿಪಡಿಸುವುದಿಲ್ಲ. ಮೂಲ ಕೋಡ್ ನಿರ್ದಿಷ್ಟ ಖಾಸಗಿ ಕೀಲಿಯಿಂದ ಸಹಿಸಲ್ಪಟ್ಟಿದೆ ಎಂಬುದನ್ನು ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯದ ಮೂಲಕ ದೃಢೀಕರಿಸುತ್ತದೆ. ಕೋಡ್ ಸೈನ್ ಅನ್ನು ಧ್ವನಿಮಾಡಲು ಬಳಸುವ ಸಾರ್ವಜನಿಕ ಕೀಲಿ/ಪ್ರಮಾಣಪತ್ರವು ವಿಶ್ವಾಸಾರ್ಹ ಮೂಲ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಯೊಂದಿಗೆ ಸಂಯೋಜಿತವಾಗಿರುವ ಅಗತ್ಯವಿದೆ. ಇದನ್ನು ವಿಶ್ವಾಸ ಸರಪಳಿಯಿಂದ ಪರಿಶೀಲಿಸಬಹುದು.
 
-<img src="images/en/cybersecurity/pki/pki-standard-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-standard-code-signing.png">
 
 #### ವಿಸ್ತರಿತ ಪರಿಶೀಲಿತ ಕೋಡ್ ಸೈನ್ ಪ್ರಮಾಣಪತ್ರಗಳು / Extended Validated Code Signing Certificates
 ವಿಸ್ತರಿತ ಪರಿಶೀಲಿತ ಕೋಡ್ ಸೈನ್ ಪ್ರಮಾಣಪತ್ರಗಳು ಪ್ರಕಟಕರ ಗುರುತನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪರಿಶೀಲಿಸಿದ ನಂತರ ನೀಡುತ್ತವೆ. ಇದರಿಂದ ಸ್ಮಾರ್ಟ್‌ಸ್ಕ್ರೀನ್‌ಗಳಲ್ಲಿ ಕೋಡ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿದಾಗ, ಪ್ರಕಟಕರಿಗೆ ಮೊದಲೇ ಉತ್ತಮ ಹೆಸರು ಇಲ್ಲದಿದ್ದರೂ ಕೂಡ ತಕ್ಷಣವೇ ಹೆಸರು ಸ್ಥಾಪನೆ ಆಗುತ್ತದೆ. ಇದರಿಂದ ಕೋಡ್ ನಂಬಲರ್ಹವಾಗಿದೆಯೆಂದು ಖಾತರಿಪಡಿಸುವುದಿಲ್ಲ. ಮೂಲ ಕೋಡ್ ನಿರ್ದಿಷ್ಟ ಖಾಸಗಿ ಕೀಲಿಯಿಂದ ಸಹಿಸಲ್ಪಟ್ಟಿದೆ ಎಂಬುದನ್ನು ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯದ ಮೂಲಕ ದೃಢೀಕರಿಸುತ್ತದೆ.
 
-<img src="images/en/cybersecurity/pki/pki-ev-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-ev-code-signing.png">
 
 ### ಕೋಡ್ ಸೈನ್ / ಪರಿಶೀಲನೆ | Code Signing / Verification
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-verification-process.png">

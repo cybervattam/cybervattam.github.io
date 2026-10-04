@@ -10,6 +10,10 @@ tags: ["Cybersecurity","Cloud Security"]
 
 The physical hardware that hosts applications and data must be secured by the cloud service provider.
 
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+
 ### Recommended Measures
 
 - Locked wiring closets and restricted access to MDF/IDF areas

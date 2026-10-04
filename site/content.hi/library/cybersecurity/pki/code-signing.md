@@ -6,7 +6,7 @@ weight: 9
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="images/hi/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### कोड साइनिंग / Code Signing
 
@@ -22,14 +22,14 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 कोड सिग्नेचर को मान्य करने के लिए उपयोग की जाने वाली सार्वजनिक कुंजी / प्रमाणपत्र, विश्वसनीय रूट CA से जुड़ा होना चाहिए। इसे Trust Chain के माध्यम से सत्यापित किया जा सकता है।
 
-<img src="images/en/cybersecurity/pki/pki-standard-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-standard-code-signing.png">
 
 #### एक्सटेंडेड वैलिडेटेड कोड साइनिंग प्रमाणपत्र / Extended Validated Code Signing Certificates
 
 EV कोड साइनिंग प्रमाणपत्र तब जारी किए जाते हैं जब निर्माता की पहचान की पूरी तरह से सत्यापन किया जाता है। EV प्रमाणपत्र द्वारा साइन किए गए सॉफ़्टवेयर/कोड की SmartScreen जाँच करते समय, उस निर्माता को पहले किसी भी प्रतिष्ठित नाम की आवश्यकता नहीं होती, और तुरंत प्रतिष्ठा स्थापित की जा सकती है। यह कोड पर भरोसा करने की कोई गारंटी नहीं देता। PKI के माध्यम से यह सत्यापित किया जाता है कि source code किसी विशिष्ट निजी कुंजी द्वारा साइन किया गया था।
 
-<img src="images/en/cybersecurity/pki/pki-ev-code-signing.png">
+<img src="/images/en/cybersecurity/pki/pki-ev-code-signing.png">
 
 ### कोड साइनिंग / सत्यापन | Code Signing / Verification
 
-<img src="images/hi/cybersecurity/pki/pki-code-signing-verification-process.png">
+<img src="/images/hi/cybersecurity/pki/pki-code-signing-verification-process.png">

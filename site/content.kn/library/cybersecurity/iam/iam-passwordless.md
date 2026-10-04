@@ -19,7 +19,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 #### __ಪೊತುತ್ ತಿರವಿ ಉಳ್ಕಟ್ಟಮೈಪ್ಪು ಅಟ್ಟೈ(PKI Card)__
  ಪೊತುತ್ ತಿರವಿ ಉಳ್ಕಟ್ಟಮೈಪ್ಪು ಎನ್ಪತು ವಲೈತ್ತಳಮ್ ಮರ್ರುಮ್ ಪಯನರ್ಕಳ್ ಇಟೈಯೇ ಉಳ್ಳ ತಕವಲ್ ತೊಟರ್ಪುಕಳೈಪ್ ಪಾತುಕಾಕ್ಕುಮ್ ಮರೈಯಾಕ್ಕಮ್ ಮರ್ರುಮ್ ಸೈಪರ್ ಪಾತುಕಾಪ್ಪು ಕಟ್ಟಮೈಪ್ಪಾಕುಮ್.
 
- <img src="images/shared/screenshots/iam-pki-card.svg">
+ <img src="/images/shared/screenshots/iam-pki-card.svg">
 
 <br>
 
@@ -27,7 +27,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
  
  Fast Identity Online (FIDO) ಸಾನ್ರುರುತಿ ಎನ್ಪತು ಪಲ ಪಯನರ್ ಪೆಯರ್ಕಳ್ ಮರ್ರುಮ್ ಕಟವುಸ್ಸೊರ್ಕಳೈಪ್ ಪಯನ್ಪಟುತ್ತುವತೈಕ್ ಕುರೈಪ್ಪತರ್ಕಾಕ ಪಲ ನಿರುವನಙ್ಕಳ್ ಕುಳುವಾಕ ಸೇರ್ನ್ತು ಸೆಯ್ತ ಮುನ್ಮುಯರ್ಸಿಯಾಕುಮ್.
 
- <img src="images/shared/screenshots/iam-fido.png">
+ <img src="/images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
@@ -37,4 +37,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 
  ಪಾತುಕಾಪ್ಪುತ್ ತಿರವಿ ಎನ್ಪತು ವಿರಲಿ ಪೋಲ್ ತೋರ್ರಮುಟೈಯ ಒರು ಸಿರಿಯ ವನ್ ಸಾತನಮಾಕುಮ್. ಮೇಲುಮ್ ಇತೈ ಆತರಿಕ್ಕುಮ್ ತಳಙ್ಕಳಿಲ್ ಉಙ್ಕಳ್ ಕಟವುಸ್ಸೊಲ್ಲುಟನ್ ಕೂಟುತಲ್ ಕಾರಣಿಯಾಕ ಪಯನ್ಪಟುಕಿರತು.
 
- <img src="images/shared/screenshots/iam-yubikey.jpg">
+ <img src="/images/shared/screenshots/iam-yubikey.jpg">

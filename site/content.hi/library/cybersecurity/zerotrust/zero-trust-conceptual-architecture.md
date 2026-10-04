@@ -6,6 +6,8 @@ weight: 4
 tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"]
 ---
 
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+
 ### जीरो ट्रस्ट वैचारिक आर्किटेक्चर
 
 जीरो ट्रस्ट वैचारिक आर्किटेक्चर सुरक्षा नियंत्रणों को नेटवर्क परिधि मॉडल के बजाय पहचान और नीति-आधारित मॉडल के रूप में देखता है।

@@ -6,7 +6,7 @@ weight: 7
 tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
 
 ### డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్ రకాలు / Digital Signature Certificate Types
 

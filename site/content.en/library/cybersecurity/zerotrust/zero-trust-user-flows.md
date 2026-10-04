@@ -6,6 +6,8 @@ weight: 5
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+
 ### Zero Trust User Flows
 
 Zero trust user flows focus on how access is granted for users and devices connecting from different contexts, including remote and hybrid enterprise environments.

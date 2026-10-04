@@ -2,7 +2,7 @@
 title: 'CIEM Protection and Remediation'
 date: 2026-09-21
 draft: false
-weight: 12
+weight: 23
 tags: ["Cybersecurity","Cloud Security"]
 ---
 

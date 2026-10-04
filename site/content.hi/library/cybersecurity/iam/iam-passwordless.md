@@ -17,14 +17,14 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 #### __PKI कार्ड (PKI Card)__
 PKI (Public Key Infrastructure) वेबसाइट और उपयोगकर्ताओं के बीच संचार को सुरक्षित बनाने के लिए उपयोग की जाने वाली एन्क्रिप्शन और साइबर सुरक्षा संरचना है।
 
-<img src="images/shared/screenshots/iam-pki-card.svg">
+<img src="/images/shared/screenshots/iam-pki-card.svg">
 
 <br>
 
 #### __Fast Identity Online (FIDO)__
 Fast Identity Online (FIDO) प्रमाणीकरण एक सहयोगी प्रयास है, जिसमें कई संगठनों ने उपयोगकर्ताओं के लिए कई उपयोगकर्ता नाम और पासवर्ड का उपयोग कम करने के उद्देश्य से एक समाधान विकसित किया।
 
-<img src="images/shared/screenshots/iam-fido.png">
+<img src="/images/shared/screenshots/iam-fido.png">
 
 <br>
 <br>
@@ -33,4 +33,4 @@ Fast Identity Online (FIDO) प्रमाणीकरण एक सहयो�
 #### __YubiKey__
 YubiKey एक छोटा, उंगली जैसी आकार का सुरक्षित हार्डवेयर डिवाइस है। यह उन प्लेटफ़ॉर्म में अतिरिक्त कारक के रूप में उपयोग किया जाता है, जो इसे सपोर्ट करते हैं।
 
-<img src="images/shared/screenshots/iam-yubikey.jpg">
+<img src="/images/shared/screenshots/iam-yubikey.jpg">

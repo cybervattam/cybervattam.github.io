@@ -9,7 +9,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 ## __ക്ലൗഡ് കമ്പ്യൂട്ടിംഗിന്റെ പ്രധാന സവിശേഷതകൾ__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
+<img src="/images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

@@ -6,7 +6,7 @@ weight: 7
 tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
 
 ### ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ് തരങ്ങൾ
 

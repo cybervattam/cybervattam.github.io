@@ -9,7 +9,7 @@ tags: ["Emerging Technology","Cloud Computing"]
 ## __Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
+<img src="/images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

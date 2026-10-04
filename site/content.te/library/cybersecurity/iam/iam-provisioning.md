@@ -16,4 +16,4 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 ప్రొవిజనింగ్ సాఫ్ట్‌వేర్ గుర్తింపు సమాచారం మరియు లక్ష్య అప్లికేషన్‌కి సంబంధించిన ఆథెంటికేషన్ సమాచారాన్ని కూడా పంపవచ్చు, లేదా లక్ష్య అప్లికేషన్ పంపిన గుర్తింపు-రాజ్ మ్యాపింగ్ ఆధారంగా తన చెల్లుబాటు (authentication)ను నిర్ధారించుకోవచ్చు.
 
-<img src="images/en/cybersecurity/iam/iam-provisioning.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-provisioning.png" width=70%>

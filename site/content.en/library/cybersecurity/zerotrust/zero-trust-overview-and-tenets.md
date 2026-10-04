@@ -6,6 +6,8 @@ weight: 2
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+
 ### Zero Trust Overview & Tenets
 
 Traditional network security often assumes that users and devices inside the corporate network are trusted. Zero trust changes that assumption.

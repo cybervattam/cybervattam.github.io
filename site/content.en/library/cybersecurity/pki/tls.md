@@ -6,7 +6,7 @@ weight: 8
 tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-tls-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-tls-icon.png">
 
 ### Transport Layer Security Certificate Types
 

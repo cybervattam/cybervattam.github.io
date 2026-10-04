@@ -6,6 +6,8 @@ weight: 3
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+
 ### Zero Trust Framework & Design Principles
 
 Zero trust is guided by a set of design principles that replace implicit trust with explicit verification.

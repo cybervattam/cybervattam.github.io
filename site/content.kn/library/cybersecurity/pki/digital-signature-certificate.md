@@ -6,7 +6,7 @@ weight: 7
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
 
 ### ಡಿಜಿಟಲ್ ಸಿಗ್ನೇಚರ್ ಪ್ರಮಾಣಪತ್ರ ಪ್ರಕಾರಗಳು / Digital Signature Certificate Types
 

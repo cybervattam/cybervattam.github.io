@@ -8,4 +8,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 
 ### ಪ್ರಮಾಣಪತ್ರ ಆಧಾರಿತ ದೃಢೀಕರಣ
 
-<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

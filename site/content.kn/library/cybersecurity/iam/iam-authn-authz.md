@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
  ಪ್ರಮಾಣೀಕರಣ (ದೃಢೀಕರಣ)
  ಗುರುತಿಸುವಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಲಾಗುತ್ತಿದೆ 
 
-<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authn-icon.png">
 
 ### __ಪ್ರಮಾಣೀಕರಣ__ - __ಗುರುತನ್ನು ಪರಿಶೀಲಿಸುವುದು__
 
@@ -28,7 +28,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
  ಗುರುತನ್ನು ನೀಡಲಾಗುತ್ತಿದೆ 
 
 <br>
-<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authz-icon.png">
 
 ### __ಅಧಿಕಾರ ನೀಡುವಿಕೆ__ - __ಗುರುತಿಗೆ ಅನುಮತಿಗಳನ್ನು ನೀಡುವುದು__
 

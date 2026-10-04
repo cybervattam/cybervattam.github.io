@@ -9,7 +9,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 ## __ക്ലൗഡ് സേവന മാതൃകകൾ__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-service-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
@@ -47,7 +47,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
+<img src="/images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
 
 <br>
 <br>
@@ -56,6 +56,6 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
+<img src="/images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>

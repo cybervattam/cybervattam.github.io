@@ -20,10 +20,10 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 
 #### ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆಯ ಮೂಲ ಘಟಕಗಳು
 
-<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 #### ಗ್ರಾಹಕ ಗುರುತಿನ ವ್ಯವಸ್ಥೆಯ ಪ್ರಕ್ರಿಯೆಗಳು
 
-<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

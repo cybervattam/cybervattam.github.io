@@ -2,13 +2,15 @@
 title: 'CIEM Lifecycle'
 date: 2026-09-21
 draft: false
-weight: 11
+weight: 22
 tags: ["Cybersecurity","Cloud Security"]
 ---
 
 ### CIEM Lifecycle
 
 CIEM follows a continuous lifecycle that helps organizations manage identities and permissions securely over time.
+
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png">
 
 #### Discovery
 CIEM provides granular visibility into cloud identities and their entitlements by continuously analyzing cloud activity and policy structures.

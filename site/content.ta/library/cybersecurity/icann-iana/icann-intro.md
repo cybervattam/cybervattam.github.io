@@ -9,7 +9,7 @@ tags: ["தகவல் பாதுகாப்பு","இணைய இரு�
 
 ### இருத்திய பெயர்கள் மற்றும் எண்களுக்கான இணைய நிறுவனம் (Internet Corporation for Assigned Names and Numbers)
 
-<img src="images/shared/logos/icann-logo.svg">
+<img src="/images/shared/logos/icann-logo.svg">
 
 <br>
 <br>

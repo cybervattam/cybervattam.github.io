@@ -6,7 +6,7 @@ weight: 10
 tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
-<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authn-icon.png">
 
 ### __प्रमाणीकरण (Authentication)__
 __पहचान को सत्यापित करना__
@@ -21,7 +21,7 @@ __पहचान को सत्यापित करना__
 
 यह प्राधिकरण से पहले होता है।
 
-<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authz-icon.png">
 
 ### __प्राधिकरण (Authorization)__
 __पहचान को अधिकार प्रदान करना__

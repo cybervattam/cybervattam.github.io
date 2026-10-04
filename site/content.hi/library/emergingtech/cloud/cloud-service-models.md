@@ -9,7 +9,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","क्�
 ## __क्लाउड कंप्यूटिंग सेवा मॉडल / Cloud Service Models__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-service-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
@@ -47,7 +47,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","क्�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
+<img src="/images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
 
 <br>
 <br>
@@ -56,6 +56,6 @@ tags: ["उभरती प्रौद्योगिकियाँ","क्�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
+<img src="/images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>
