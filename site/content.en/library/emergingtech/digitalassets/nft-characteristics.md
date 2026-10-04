@@ -8,6 +8,8 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### NFT Characteristics
 
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+
 NFTs are unique digital assets with several distinguishing features.
 
 - Unique identification and metadata

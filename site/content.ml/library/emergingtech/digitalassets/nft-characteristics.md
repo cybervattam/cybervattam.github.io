@@ -8,6 +8,8 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### NFT സവിശേഷതകൾ
 
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+
 വ്യത്യസ്തമായ നിരവധി സവിശേഷതകളുള്ള അതുല്യ ഡിജിറ്റൽ ആസ്തികളാണ് NFTകൾ.
 
 - സവിശേഷ തിരിച്ചറിയലും മെറ്റാഡാറ്റയും

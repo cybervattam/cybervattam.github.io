@@ -16,6 +16,8 @@ tags: ["நவீன தொழில்நுட்பங்கள்","டி�
 
 ### ஸ்டேபிள்காயின் வகைகள்
 
+<img src="/images/ta/emergingtech/digitalassets/stablecoins-types.png">
+
 - ஃபியட் ஆதரவு கொண்டது
 - மறைநாணய ஆதரவு கொண்டது
 - பொருள் ஆதரவு கொண்டது

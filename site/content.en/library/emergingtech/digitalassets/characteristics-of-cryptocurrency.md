@@ -8,6 +8,8 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### Characteristics of Cryptocurrency
 
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+
 | Parameter | Fiat | Crypto |
 |---|---|---|
 | Type | Physical | Virtual |
@@ -17,6 +19,8 @@ tags: ["Emerging Technology","Digital Assets"]
 | Acceptance | National or sovereign boundary | Global via Internet |
 | Security | Moderate | High |
 | Decentralization | No | Yes |
+
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
 
 ### Summary
 

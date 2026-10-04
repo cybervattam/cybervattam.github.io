@@ -23,6 +23,8 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### താരതമ്യം
 
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | തരം | സവിശേഷതകൾ |
 |---|---|
 | കേന്ദ്രീകൃത എക്‌സ്‌ചേഞ്ച് | ഇടനിലക്കാരൻ മാതൃക, ഉയർന്ന ലിക്വിഡിറ്റി, സാധാരണയായി KYC |

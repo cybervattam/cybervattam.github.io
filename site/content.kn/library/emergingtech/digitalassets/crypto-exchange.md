@@ -23,6 +23,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಹೋಲಿಕೆ
 
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | ವಿಧ | ಗುಣಲಕ್ಷಣಗಳು |
 |---|---|
 | ಕೇಂದ್ರೀಕೃತ ಎಕ್ಸ್‌ಚೇಂಜ್ | ಮಧ್ಯವರ್ತಿ ಮಾದರಿ, ಹೆಚ್ಚಿನ ದ್ರವ್ಯತೆ, ಸಾಮಾನ್ಯವಾಗಿ KYC |

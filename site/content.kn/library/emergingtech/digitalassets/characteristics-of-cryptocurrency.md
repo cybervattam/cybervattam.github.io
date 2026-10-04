@@ -8,6 +8,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿಯ ಗುಣಲಕ್ಷಣಗಳು
 
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+
 | ಪ್ಯಾರಾಮೀಟರ್ | ಫಿಯಾಟ್ | ಕ್ರಿಪ್ಟೋ |
 |---|---|---|
 | ವಿಧ | ಭೌತಿಕ | ವರ್ಚುವಲ್ |
@@ -17,6 +19,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 | ಸ್ವೀಕಾರ | ರಾಷ್ಟ್ರೀಯ ಅಥವಾ ಸಾರ್ವಭೌಮ ಗಡಿ | ಇಂಟರ್ನೆಟ್ ಮೂಲಕ ಜಾಗತಿಕ |
 | ಭದ್ರತೆ | ಮಧ್ಯಮ | ಹೆಚ್ಚು |
 | ವಿಕೇಂದ್ರೀಕರಣ | ಇಲ್ಲ | ಹೌದು |
+
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
 
 ### ಸಾರಾಂಶ
 

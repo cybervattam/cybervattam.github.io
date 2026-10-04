@@ -8,15 +8,7 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### Comparison of Currencies and Digital Assets
 
-| Attribute / Asset | Central Bank Note (Cash) | Central Bank Reserves | Deposits | CBDC | Stablecoins | Bitcoin | Ether |
-|---|---|---|---|---|---|---|---|
-| Central Bank Liability | Yes | Yes | Yes | Yes | No | No | No |
-| Legal Tender | Yes | No | No | Depends | No | No | No |
-| Convertible at Par | Yes | Yes | Yes | Yes | Depends | No | No |
-| Interest Bearing | No | Yes | No | Depends | Usually no | No | No |
-| Digital Asset | No | No | No | Yes | Yes | Yes | Yes |
-| Universal Accessibility | High | Limited | Limited | High | Varies | Global | Global |
-| Token / Account | Token | Account | Account | Depends | Depends | Token | Token |
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
 
 ### Insight
 

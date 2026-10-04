@@ -23,6 +23,8 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### तुलना
 
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | प्रकार | विशेषताएं |
 |---|---|
 | सेंट्रलाइज्ड एक्सचेंज | मध्यस्थ मॉडल, अधिक लिक्विडिटी, सामान्यतः KYC |
