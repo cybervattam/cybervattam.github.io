@@ -2,11 +2,11 @@
 {{ $libraryPage := .Site.Home.GetPage "library" }}
 <section class="article-page page-width">
   <nav class="article-nav" aria-label="Article navigation">
-    <a href="{{ .Parent.Permalink }}">← {{ .Parent.Title }}</a>
+    <a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a>
     {{ if not (strings.Contains .RelPermalink "/contactus/") }}
     <a href="{{ $libraryPage.RelPermalink }}">{{ i18n "books" | default "Library" }}</a>
     {{ end }}
-    {{ if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }} →</a>{{ end }}
+    {{ if .PrevInSection }}<a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }} →</a>{{ end }}
   </nav>
 
 {{ if and (ne .Site.Language.Lang "en") (not .IsTranslated) }}
