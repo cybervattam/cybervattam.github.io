@@ -23,6 +23,8 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### పోలిక
 
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | రకం | లక్షణాలు |
 |---|---|
 | కేంద్రీకృత ఎక్స్ఛేంజ్ | మధ్యవర్తి మోడల్, అధిక లిక్విడిటీ, సాధారణంగా KYC |

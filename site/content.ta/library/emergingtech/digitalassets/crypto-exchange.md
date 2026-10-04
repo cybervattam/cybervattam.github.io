@@ -21,6 +21,8 @@ tags: ["நவீன தொழில்நுட்பங்கள்","டி�
 
 ### ஒப்பீடு
 
+<img src="/images/ta/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | வகை | பண்புகள் |
 |---|---|
 | மையப்படுத்தப்பட்டச் சந்தை | இடைத்தரகர் மாதிரி, அதிக புழக்கம், பொதுவாக KYC |

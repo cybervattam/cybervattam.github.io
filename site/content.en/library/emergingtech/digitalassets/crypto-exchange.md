@@ -23,6 +23,8 @@ A hybrid exchange combines the capabilities of CEX and DEX while aiming to provi
 
 ### Comparison
 
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+
 | Type | Characteristics |
 |---|---|
 | Centralized Exchange | Middleman model, higher liquidity, KYC typical |

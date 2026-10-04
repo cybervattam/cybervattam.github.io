@@ -17,8 +17,12 @@ This makes ownership easier to track and transfer while improving transparency a
 #### Fungible Asset Tokenization
 Tokens are created for assets that are interchangeable and divisible. Examples include commodities such as gold, oil, food grains, and financial instruments.
 
+<img src="/images/en/emergingtech/digitalassets/fungible-asset-tokenization.png">
+
 #### Non-Fungible Asset Tokenization
 Tokens are created for assets that are unique, non-interchangeable, and non-divisible. Examples include artwork, real estate, patents, trademarks, and copyrights.
+
+<img src="/images/en/emergingtech/digitalassets/non-fungible-asset-tokenization.png">
 
 ### Examples of Tokenizable Assets
 

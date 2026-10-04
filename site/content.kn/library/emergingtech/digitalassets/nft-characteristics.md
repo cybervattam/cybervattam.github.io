@@ -8,6 +8,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### NFT ಗುಣಲಕ್ಷಣಗಳು
 
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+
 NFTಗಳು ಹಲವು ವಿಭಿನ್ನ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಹೊಂದಿರುವ ವಿಶಿಷ್ಟ ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳಾಗಿವೆ.
 
 - ವಿಶಿಷ್ಟ ಗುರುತು ಮತ್ತು ಮೆಟಾಡೇಟಾ

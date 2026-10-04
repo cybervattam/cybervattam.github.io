@@ -16,6 +16,8 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### స్టేబుల్‌కాయిన్ రకాలు
 
+<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png">
+
 - ఫియాట్-ఆధారిత
 - క్రిప్టో-ఆధారిత
 - వస్తువు-ఆధారిత

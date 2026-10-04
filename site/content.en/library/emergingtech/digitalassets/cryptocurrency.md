@@ -12,7 +12,11 @@ Cryptocurrency is a digital asset used to store and exchange value between parti
 
 The availability of cryptocurrency is managed by nodes running blockchain software. Crypto wallets are used to store, send, and receive cryptocurrency.
 
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-intro.png">
+
 ### Core Characteristics
+
+<img src="/images/en/emergingtech/digitalassets/altcoins.png">
 
 - Digital native asset that exists only virtually
 - Trustless and decentralized

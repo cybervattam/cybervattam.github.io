@@ -8,6 +8,8 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### క్రిప్టోకరెన్సీ లక్షణాలు
 
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+
 | పరామితి | ఫియాట్ | క్రిప్టో |
 |---|---|---|
 | రకం | భౌతిక | వర్చువల్ |
@@ -17,6 +19,8 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 | ఆమోదం | జాతీయ లేదా సార్వభౌమ సరిహద్దు | ఇంటర్నెట్ ద్వారా గ్లోబల్ |
 | భద్రత | మధ్యస్థ | అధికం |
 | వికేంద్రీకరణ | కాదు | అవును |
+
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
 
 ### సారాంశం
 

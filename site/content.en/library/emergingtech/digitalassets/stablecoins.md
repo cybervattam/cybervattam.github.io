@@ -16,6 +16,8 @@ To serve as a medium of exchange, a currency must remain relatively stable. In f
 
 ### Stablecoin Types
 
+<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png">
+
 - Fiat-backed
 - Crypto-backed
 - Commodity-backed

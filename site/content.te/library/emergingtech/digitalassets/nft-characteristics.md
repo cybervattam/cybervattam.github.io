@@ -8,6 +8,8 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### NFT లక్షణాలు
 
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+
 NFTలు అనేక ప్రత్యేక లక్షణాలు కలిగిన డిజిటల్ ఆస్తులు.
 
 - ప్రత్యేక గుర్తింపు మరియు మెటాడేటా

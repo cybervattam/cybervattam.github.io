@@ -8,6 +8,8 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### Fungible Assets
 
+<img src="/images/en/emergingtech/digitalassets/fungible-items.png">
+
 Fungible assets are interchangeable and identical in value. One unit is essentially the same as another.
 
 Examples of fungible assets include:
