@@ -1,4 +1,4 @@
-<a href="{{.Page.Permalink}}#{{ .Anchor | safeURL }}">
+<a href="{{.Page.RelPermalink}}#{{ .Anchor | safeURL }}">
 <h{{ .Level }} id="{{ .Anchor | safeURL }}">
   {{ .Text | safeHTML }} 
 </h{{ .Level}}>

@@ -33,7 +33,7 @@
 	<div class="section-heading"><p class="eyebrow">{{ i18n "explore" | default "Explore the library" }}</p><h2>{{ i18n "topics" | default "Learn at your own pace" }}</h2></div>
 	<div class="collection-grid">
 		{{ range $libraryPage.Sections }}
-		<a class="collection-card" href="{{ .Permalink }}"><span class="collection-card__count">{{ len .Pages }} {{ i18n "topicCount" | default "Topics" }}</span><h3>{{ .Title }}</h3><span class="collection-card__arrow">↗</span></a>
+		<a class="collection-card" href="{{ .RelPermalink }}"><span class="collection-card__count">{{ len .Pages }} {{ i18n "topicCount" | default "Topics" }}</span><h3>{{ .Title }}</h3><span class="collection-card__arrow">↗</span></a>
 		{{ end }}
 	</div>
 </section>

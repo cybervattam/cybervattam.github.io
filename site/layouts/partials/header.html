@@ -14,7 +14,7 @@
       <a class="site-nav__link" href="{{ $homePage.RelPermalink }}">{{ i18n "navHome" | default "Home" }}</a>
       {{ $librarySection := site.GetPage "section" "library" }}
       {{ range $librarySection.Sections }}
-      <a class="site-nav__link" href="{{ .Permalink }}">{{ .Title }}</a>
+      <a class="site-nav__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
       <a class="site-nav__link" href="{{ "/events/" | relURL }}">Events</a>
       <span class="site-nav__spacer"></span>
