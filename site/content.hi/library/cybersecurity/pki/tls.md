@@ -6,7 +6,7 @@ weight: 8
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="images/hi/cybersecurity/pki/pki-tls-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-tls-icon.png">
 
 ### TLS प्रमाणपत्र प्रकार / Transport Layer Security Certificate Types
 

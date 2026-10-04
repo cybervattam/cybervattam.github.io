@@ -19,7 +19,7 @@ The HOTP algorithm is event-based. It uses a counter as the moving factor to gen
 
 The previously generated one-time password remains valid until the next one-time password is generated.
 
-<img src="images/en/cybersecurity/iam/iam-hotp.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-hotp.png" width=25%>
 
 
 
@@ -31,4 +31,4 @@ The TOTP algorithm uses time instead of a counter as the moving factor.
 
 The length of time for which each password remains valid is called the time step.
 
-<img src="images/en/cybersecurity/iam/iam-totp.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-totp.png" width=25%>

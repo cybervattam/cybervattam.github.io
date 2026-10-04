@@ -11,4 +11,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 
 ನಿರುವನಕ್ ಕೊಳ್ಕೈಕಳ್ ಕಣಕ್ಕಿಟಪ್ಪಟ್ಟ ಮರೈಯಿಟರ್ ಮತಿಪ್ಪೆಣ್ ಅಟಿಪ್ಪಟೈಯಿಲ್ ಎಟುಕ್ಕಪ್ಪಟ ವೇಣ್ಟಿಯ ನಟವಟಿಕ್ಕೈಯೈ ವರೈಯರುಕ್ಕಿನ್ರನ. 
 
-<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

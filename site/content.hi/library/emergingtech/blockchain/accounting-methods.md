@@ -8,4 +8,4 @@ tags: ["उभरती प्रौद्योगिकियाँ","ब्�
 
 ### लेखांकन विधियाँ
 
-<img src="images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>

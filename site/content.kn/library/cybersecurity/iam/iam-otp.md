@@ -19,7 +19,7 @@ HOTP ತೀರ್ವುನೆರಿ ಒರು ನಿಕಳ್ವೈ ಅಟಿಪ
 
 ಅಟುತ್ತ ಒರು ಮುರೈ ಕಟವುಸ್ಸೊಲ್ಲೈ ನೀಙ್ಕಳ್ ಉರುವಾಕ್ಕುಮ್ ವರೈ ಮುನ್ನರ್ ಉರುವಾಕ್ಕಪ್ಪಟ್ಟ ಒರು ಮುರೈ ಕಟವುಸ್ಸೊಲ್ ಸೆಲ್ಲುಪಟಿಯಾಕುಮ್.
 
-<img src="images/en/cybersecurity/iam/iam-hotp.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-hotp.png" width=25%>
 
 
 
@@ -31,4 +31,4 @@ TOTP ತೀರ್ವುನೆರಿ ನಕರುಮ್ ಕಾರಣಿಯಾಕ 
 
 ಒವ್ವೊರು ಕಟವುಸ್ಸೊಲ್ಲುಮ್ ಸೆಲ್ಲುಪಟಿಯಾಕುಮ್ ನೇರತ್ತಿನ್ ಅಳವು ಕಾಲಅಳವು (timestep) ಎನ್ರು ಅಳೈಕ್ಕಪ್ಪಟುಕಿರತು.
 
-<img src="images/en/cybersecurity/iam/iam-totp.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-totp.png" width=25%>

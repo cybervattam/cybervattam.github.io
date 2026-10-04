@@ -2,7 +2,7 @@
 title: 'CIEM ರಕ್ಷಣೆ ಮತ್ತು ಪರಿಹಾರ'
 date: 2026-09-21
 draft: false
-weight: 12
+weight: 23
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್ರತೆ"]
 ---
 

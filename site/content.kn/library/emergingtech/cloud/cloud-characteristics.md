@@ -9,7 +9,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 ## __ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್‌ನ ಅವಶ್ಯಕ ಲಕ್ಷಣಗಳು / Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
+<img src="/images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

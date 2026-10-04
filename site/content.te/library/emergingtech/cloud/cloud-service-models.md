@@ -9,7 +9,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 ## __క్లౌడ్ సేవా నమూనాలు / Cloud Service Models__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-service-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
@@ -48,7 +48,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
+<img src="/images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
 
 <br>
 <br>
@@ -57,6 +57,6 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
+<img src="/images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>

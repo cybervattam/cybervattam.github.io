@@ -17,4 +17,4 @@ Before communicating for identity verification, the two providers must define a 
 
 Once both providers know these details about each other, they configure themselves accordingly.
 
-<img src="images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>

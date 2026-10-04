@@ -9,7 +9,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","क्�
 ## __क्लाउड कंप्यूटिंग की आवश्यक विशेषताएँ / Cloud Computing Essential Characteristics__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-characteristics.png">
+<img src="/images/en/emergingtech/cloud/cloud-characteristics.png">
 
 <br>
 <br>

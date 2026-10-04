@@ -8,7 +8,7 @@ tags: ["Cybersecurity","Identity and Access Management"]
 
 ### Single Sign-On / Federation (SSO/Federation)
 
-<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### Federation (Different Domains)
 Federation is a trust relationship between two systems or organizations.

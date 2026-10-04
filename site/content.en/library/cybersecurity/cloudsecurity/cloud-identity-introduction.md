@@ -2,7 +2,7 @@
 title: 'Cloud Identity Introduction'
 date: 2026-09-21
 draft: false
-weight: 8
+weight: 19
 tags: ["Cybersecurity","Cloud Security"]
 ---
 

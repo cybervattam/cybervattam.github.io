@@ -10,6 +10,8 @@ tags: ["Cybersecurity","Cloud Security"]
 
 Cloud providers must secure the physical locations where data centers operate. This includes protecting the facility itself, controlling access, and ensuring resilience against physical and environmental threats.
 
+<img src="/images/en/cybersecurity/cloudsecurity/physical-security.png">
+
 ### Key Controls
 
 - Secure location selection

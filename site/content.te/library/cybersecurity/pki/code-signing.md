@@ -6,7 +6,7 @@ weight: 9
 tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-code-signing-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-code-signing-icon.png">
 
 ### కోడ్ సిగ్నింగ్ / Code Signing
 

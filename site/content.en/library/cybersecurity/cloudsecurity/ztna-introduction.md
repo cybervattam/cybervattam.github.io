@@ -10,6 +10,8 @@ tags: ["Cybersecurity","Cloud Security"]
 
 Zero trust network access, also known as the software-defined perimeter, is a set of technologies and functionalities that enable secure access to internal applications for remote users.
 
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png">
+
 ### Core Principle
 
 Trust is never implicit. Access is granted on a need-to-know, least-privileged basis defined by granular policy.
@@ -26,3 +28,5 @@ Trust is never implicit. Access is granted on a need-to-know, least-privileged b
 ### Deployment Model
 
 ZTNA uses user-to-application access patterns rather than traditional network-based trust assumptions. It often relies on end-to-end encrypted TLS micro-tunnels.
+
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png">

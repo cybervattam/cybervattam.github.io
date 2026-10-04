@@ -13,6 +13,8 @@ Secure Access Service Edge (SASE) combines two main capabilities:
 - Security Service Edge, which provides network security as a service
 - WAN Edge, which provides network connectivity as a service
 
+<img src="/images/en/cybersecurity/cloudsecurity/sase.png">
+
 ### Core Elements
 
 - Secure Web Gateway (SWG)

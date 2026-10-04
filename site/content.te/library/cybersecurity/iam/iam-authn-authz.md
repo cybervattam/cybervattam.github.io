@@ -9,7 +9,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 ### __ధృవీకరణ (Authentication)__
 __వ్యక్తిని గుర్తించడం__
 
-<img src="images/en/cybersecurity/iam/iam-authn-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authn-icon.png">
 
 ధృవీకరణ అంటే వినియోగదారు వివరాలను పరిశీలించి, అతను లేదా ఆమెను గుర్తించి, ఆ వ్యక్తికి వెబ్ వనరుకు ప్రాప్యతను మంజూరు చేసే ప్రక్రియ.
 
@@ -25,7 +25,7 @@ __వ్యక్తిని గుర్తించడం__
 __సరైన ప్రాప్యతను ఇవ్వడం__
 
 <br>
-<img src="images/en/cybersecurity/iam/iam-authz-icon.png">
+<img src="/images/en/cybersecurity/iam/iam-authz-icon.png">
 
 అనుమతి / అథారైజేషన్ అనేది ధృవీకరించబడిన వినియోగదారుకు ఏ వనరులను, ఏ స్థాయిలో, ఎప్పుడు ఉపయోగించగలరా అనే హక్కులను పరీక్షించే ప్రక్రియ.
 

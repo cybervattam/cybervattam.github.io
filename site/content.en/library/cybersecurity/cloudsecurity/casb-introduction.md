@@ -8,9 +8,11 @@ tags: ["Cybersecurity","Cloud Security"]
 
 ### Cloud Access Security Broker (CASB)
 
-According to Gartner, a cloud access security broker is a security policy enforcement point placed between cloud service consumers and cloud service providers.
+A cloud access security broker is a security policy enforcement point placed between cloud service consumers and cloud service providers.
 
 CASBs aggregate enterprise security policies and enforce them as cloud resources are accessed.
+
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
 
 ### Common CASB Features
 
@@ -29,8 +31,7 @@ CASBs are mainly used to protect SaaS applications in the cloud. Their support f
 
 ### Deployment Modes
 
-- Proxy mode
-- API mode
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
 
 ### Use Cases
 
@@ -38,3 +39,5 @@ CASBs are mainly used to protect SaaS applications in the cloud. Their support f
 - Data exfiltration prevention
 - Threat detection and forensic investigation
 - Compliance support and activity monitoring
+
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">

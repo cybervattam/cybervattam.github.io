@@ -6,7 +6,7 @@ weight: 10
 tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-time-stamping-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-time-stamping-icon.png">
 
 ### టైమ్ స్టాంపింగ్ / Time Stamping
 
@@ -16,11 +16,11 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 
 నమ్మకమైన టైమ్ స్టాంపింగ్ అథారిటీ (Trusted Time Stamping Authority) వాడటం వల్ల ఎప్పుడు మరియు తేదీనాటికి పత్రం లేదా కోడ్ సంతకం చేయబడిందో గుర్తించవచ్చు. టైమ్ స్టాంపింగ్ లేకుండా చేసిన సంతకం, ఆధార సర్టిఫికెట్ గడువు ముగిసిన తర్వాత చెల్లదు. టైమ్‌స్టాంప్‌తో సంతకం చేయబడిన పత్రాలు మరియు కోడ్‌లపై, ఆ పత్రం ఎప్పుడు సంతకం చేయబడిందో మరియు తర్వాత మార్పు జరగలేదో ధృవీకరించవచ్చు.
 
-<img src="images/shared/screenshots/timestamping-sample.png">
+<img src="/images/shared/screenshots/timestamping-sample.png">
 
 ### టైమ్ స్టాంపింగ్ ప్రక్రియ / Time Stamping Process
 
-<img src="images/en/cybersecurity/pki/pki-time-stamping-process.png">
+<img src="/images/en/cybersecurity/pki/pki-time-stamping-process.png">
 
 భారత స్థిర సమయం (IST) కోసం అధికారిక సమయ సేవను నేషనల్ ఫిజికల్ లాబొరేటరీ నిర్వహిస్తుంది. భారతదేశంలో పనిచేసే అన్ని సర్టిఫికేట్‌లు మరియు టైమ్ స్టాంపింగ్ అథారిటీల సమయ సేవలను ఈ సర్వర్‌తో సింక్ చేయడం తప్పనిసరి.
 

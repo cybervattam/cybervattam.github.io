@@ -18,4 +18,4 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 ఈ కారకాలు కలిసినప్పుడు వినియోగదారుకు బలమైన ధృవీకరణ లభిస్తుంది.
 
-<img src="images/en/cybersecurity/iam/iam-mfa.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-mfa.png" width=50%>

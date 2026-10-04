@@ -6,7 +6,7 @@ weight: 8
 tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-tls-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-tls-icon.png">
 
 ### ట్రాన్స్‌పోర్ట్ లేయర్ సెక్యూరిటీ సర్టిఫికేట్ రకాలు / Transport Layer Security Certificate Types
 

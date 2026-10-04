@@ -6,7 +6,7 @@ weight: 3
 tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
-### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> బిట్‌కాయిన్ బ్లాక్‌చైన్ బ్లాక్ నిర్మాణం / Block Structure in Bitcoin blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> బిట్‌కాయిన్ బ్లాక్‌చైన్ బ్లాక్ నిర్మాణం / Block Structure in Bitcoin blockchain
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
     - ట్రాన్జాక్షన్ కౌంట్ (Transaction Counter)
     - ట్రాన్జాక్షన్‌లు #1, #2, #3, ... ,#n
 
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 <br>
 <br>
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>

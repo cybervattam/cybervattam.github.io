@@ -8,4 +8,4 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 ### സർട്ടിഫിക്കറ്റ് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ
 
-<img src="images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-cert-based-auth.png" width=50%>

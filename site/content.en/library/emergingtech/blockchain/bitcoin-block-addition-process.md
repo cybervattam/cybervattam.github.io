@@ -8,4 +8,4 @@ tags: ["Emerging Technology","Blockchain"]
 
 ### Bitcoin Blockchain Block Addition Process
 
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-addition-process.png" width=70%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-addition-process.png" width=70%>

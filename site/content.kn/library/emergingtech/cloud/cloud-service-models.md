@@ -9,7 +9,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 ## __ಕ್ಲೌಡ್ ಸೇವಾ ಮಾದರಿಗಳು / Cloud Service Models__
 
 <br>
-<img src="images/en/emergingtech/cloud/cloud-service-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-service-models.png">
 <br>
 <br>
 
@@ -48,7 +48,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
+<img src="/images/en/emergingtech/cloud/cloud-shared-responsibility-model.png" width=75%>
 
 <br>
 <br>
@@ -57,6 +57,6 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 <br>
 
-<img src="images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
+<img src="/images/en/emergingtech/cloud/cloud-service-providers.png" width=50%>
 
 <br>

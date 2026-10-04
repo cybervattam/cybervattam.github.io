@@ -20,10 +20,10 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 #### __CIAM സവിശേഷതകൾ__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 ### __CIAM പ്രക്രിയകൾ__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

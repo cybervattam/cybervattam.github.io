@@ -20,10 +20,10 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 #### __उपभोक्ता पहचान प्रणाली की मुख्य विशेषताएँ / CIAM Features__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 ### __उपभोक्ता पहचान प्रणाली की प्रक्रियाएँ / CIAM Processes__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

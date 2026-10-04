@@ -6,7 +6,7 @@ weight: 11
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-email-encryption-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-email-encryption-icon.png">
 
 ### ಇಮೇಲ್ ಎನ್‌ಕ್ರಿಪ್ಶನ್ / Email Encryption
 

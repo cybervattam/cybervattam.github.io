@@ -6,7 +6,7 @@ weight: 3
 tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
-### <img src="images/shared/logos/bitcoin-logo.svg" width=10%> ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್‌ನ ರಚನೆ / Block Structure in Bitcoin blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್‌ನ ರಚನೆ / Block Structure in Bitcoin blockchain
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
     - ವಹಿವಾಟು ಎಣಿಕೆ (Transaction Counter)
     - ವಹಿವಾಟುಗಳು #1, #2, #3, ... ,#n
 
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 <br>
 <br>
-<img src="images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>

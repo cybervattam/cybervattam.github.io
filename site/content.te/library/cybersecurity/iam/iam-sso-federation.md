@@ -8,7 +8,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 ### SSO / ఫెడరేషన్ (SSO / Federation)
 
-<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### ఫెడరేషన్ (విభిన్న డొమైన్లు)
 

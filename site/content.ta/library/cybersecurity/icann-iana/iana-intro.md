@@ -9,7 +9,7 @@ tags: ["தகவல் பாதுகாப்பு","இணைய இரு�
 
 ### இணைய இருத்திய எண்கள் ஆணையம் (Internet Assigned Numbers Authority)
 
-<img src="images/shared/logos/iana-logo.svg" width=20%>
+<img src="/images/shared/logos/iana-logo.svg" width=20%>
 
 இணைய இருத்திய எண்கள் ஆணையம் என்பது உலகளாவிய களப்பெயர்கள், எண் வளங்கள் மற்றும் நெறிமுறை இருத்தங்களை மேற்பார்வையிடும் ஒரு தரநிலை அமைப்பாகும்.
 

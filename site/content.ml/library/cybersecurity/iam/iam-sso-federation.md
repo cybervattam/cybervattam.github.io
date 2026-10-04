@@ -8,7 +8,7 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 ### സിംഗിൾ സൈൻ-ഓൺ / ഫെഡറേഷൻ (SSO/Federation)
 
-<img src="images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
 
 #### ഫെഡറേഷൻ (വ്യത്യസ്ത ഡൊമെയ്‌നുകൾ)
 

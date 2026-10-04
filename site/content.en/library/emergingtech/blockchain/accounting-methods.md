@@ -8,4 +8,4 @@ tags: ["Emerging Technology","Blockchain"]
 
 ### Accounting Methods
 
-<img src="images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>

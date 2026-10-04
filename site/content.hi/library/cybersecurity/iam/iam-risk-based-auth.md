@@ -12,4 +12,4 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 संगठन की नीतियाँ इस गणना किए गए जोखिम स्कोर के आधार पर आवश्यक कार्रवाई को परिभाषित करती हैं।
 
-<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

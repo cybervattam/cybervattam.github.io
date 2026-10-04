@@ -6,7 +6,7 @@ weight: 8
 tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-tls-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-tls-icon.png">
 
 ### ട്രാൻസ്പോർട്ട് ലെയർ സെക്യൂരിറ്റി സർട്ടിഫിക്കറ്റ് തരങ്ങൾ
 

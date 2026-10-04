@@ -6,7 +6,7 @@ weight: 8
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-tls-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-tls-icon.png">
 
 ### ಟ್ರಾನ್ಸ್‌ಪೋರ್ಟ್ ಲೇಯರ್ ಸಿಕ್ಯೂರಿಟಿ ಪ್ರಮಾಣಪತ್ರಗಳ ವಿಧಗಳು / Transport Layer Security Certificate Types
 

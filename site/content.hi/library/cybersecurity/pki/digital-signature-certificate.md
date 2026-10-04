@@ -6,7 +6,7 @@ weight: 7
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="images/hi/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-signature-icon.png">
 
 ### डिजिटल सिग्नेचर प्रमाणपत्र प्रकार / Digital Signature Certificate Types
 
@@ -20,7 +20,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 ### डिजिटल सिग्नेचर (साइनिंग / सत्यापन) / Digital Signature (Signing / Verification)
 
-<img src="images/hi/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-signature-verification-process.png">
 
 <br>
 
@@ -44,7 +44,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 4. क्या उपयोगकर्ता ने प्रमाणपत्र के स्वामित्व का प्रमाण दिया है?
    - क्या संबंधित निजी कुंजी उपयोगकर्ता के पास है?
 
-<img src="images/hi/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/hi/cybersecurity/pki/pki-certificate-based-authentication.png">
 
 <br>
 <br>

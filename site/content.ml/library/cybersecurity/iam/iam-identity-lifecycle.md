@@ -8,13 +8,13 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 ### ഐഡന്റിറ്റി ലൈഫ്‌സൈക്കിൾ (Joiner, Mover, Leaver - JML)
 
-<img src="images/en/cybersecurity/iam/iam-identity-lifecycle.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-identity-lifecycle.png" width=50%>
 
 #### ഐഡന്റിറ്റി ലൈഫ്‌സൈക്കിൾ - Joiner
-<img src="images/en/cybersecurity/iam/iam-joiner.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-joiner.png" width=50%>
 
 #### ഐഡന്റിറ്റി ലൈഫ്‌സൈക്കിൾ - Mover
-<img src="images/en/cybersecurity/iam/iam-mover.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-mover.png" width=50%>
 
 #### ഐഡന്റിറ്റി ലൈഫ്‌സൈക്കിൾ - Leaver
-<img src="images/en/cybersecurity/iam/iam-leaver.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-leaver.png" width=50%>

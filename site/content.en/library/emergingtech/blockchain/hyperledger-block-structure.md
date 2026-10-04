@@ -31,5 +31,5 @@ tags: ["Emerging Technology","Blockchain"]
 
  <br>
 
-<img src="images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
 

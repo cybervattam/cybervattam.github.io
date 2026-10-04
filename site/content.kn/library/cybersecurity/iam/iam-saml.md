@@ -13,4 +13,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 * ಆತರಿಕ್ಕಪ್ಪಟುಮ್ ಇಣೈಪ್ಪು ಮುರೈಕಳ್ ಮರ್ರುಮ್ ಆತರಿಕ್ಕಪ್ಪಟುಮ್ XML ಪಣ್ಪು ವಟಿವಙ್ಕಳ್.
 ಇರು ವಳಙ್ಕುನರ್ಕಳುಮ್ ಒರುವರೈಯೊರುವರ್ ಪರ್ರಿಯ ಇನ್ತ ವಿವರಙ್ಕಳೈ ಅರಿನ್ತವುಟನ್, ಅತರ್ಕೇರ್ಪ ತಙ್ಕಳೈ ಮಾರ್ರಿ ಅಮೈತ್ತುಕ್ ಕೊಳ್ಕಿರಾರ್ಕಳ್.
 
-<img src="images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>

@@ -18,10 +18,10 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 #### __వినియోగదారు గుర్తింపు వ్యవస్థ లక్షణాలు / CIAM features__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-features.png" width=25%>
 
 <br>
 
 ### __వినియోగదారు గుర్తింపు వ్యవస్థ ప్రక్రియలు / CIAM processes__
 
-<img src="images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-ciam-processes.png" width=50%>

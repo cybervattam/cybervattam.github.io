@@ -15,7 +15,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 * అధిక ప్రాప్యత నిర్వహణ, బాహ్య వనరుల ప్రాప్యత, గుర్తింపు జీవితచక్రం మరియు CIAM వంటి అంశాలను కవర్ చేస్తుంది.
 * MFA, OTP, SSO, provisioning మరియు స్టాండర్డ్ ప్రమాణాల గురించి చర్చిస్తుంది.
 
-<img src="images/iam-ta/iam-intro-ta.svg" width="50%">
+<img src="/images/ta/cybersecurity/iam/iam-intro-ta.svg" width="50%">
 
 #### ముఖ్య అంశాలు
 

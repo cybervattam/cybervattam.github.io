@@ -21,3 +21,25 @@ Cloud providers operate large private networks, dedicated backbone connectivity,
 - Data protection and encryption
 - Compliance and governance
 - Threat detection and response
+
+### Security of the Cloud and Security in the Cloud
+
+Cloud security is approached from two complementary perspectives.
+
+#### Security of the Cloud (Platform Security)
+Controls operated mainly by the cloud service provider to protect the underlying platform:
+- Shared responsibility model
+- Facilities and physical security
+- Hardware security
+- Virtualization security
+- Cloud core connectivity security
+- Cloud management plane and API security
+- Business continuity and disaster recovery
+
+#### Security in the Cloud (Service Security)
+Controls that customers apply to protect what they build and run on the platform:
+- Cloud security cornerstones
+- Cloud native application protection platform (CNAPP), including CWPP, CSPM, and SSPM
+- Secure access service edge (SASE), including SWG, CASB, and ZTNA
+- Cloud identity and cloud infrastructure entitlement management (CIEM)
+- Cloud data security

@@ -10,15 +10,15 @@ tags: ["Cybersecurity","ICANN and IANA"]
 
 The Internet Assigned Numbers Authority (IANA) delegates the allocation of internet number resources, including IP address space and Autonomous System Numbers (ASNs), to the Regional Internet Registries (RIRs). There are currently five RIRs: ARIN, LACNIC, RIPE NCC, AFRINIC, and APNIC.
 
-<img src="images/shared/screenshots/rir-map.svg" width=50%>
+<img src="/images/shared/screenshots/rir-map.svg" width=50%>
 
 <br>
 
-<img src="images/shared/logos/arin-logo.svg" width=10%>
-<img src="images/shared/logos/lacnic-logo.svg" width=10%>
-<img src="images/shared/logos/ripe-ncc-logo.svg" width=10%>
-<img src="images/shared/logos/afrinic-logo.svg" width=10%>
-<img src="images/shared/logos/apnic-logo.svg">
+<img src="/images/shared/logos/arin-logo.svg" width=10%>
+<img src="/images/shared/logos/lacnic-logo.svg" width=10%>
+<img src="/images/shared/logos/ripe-ncc-logo.svg" width=10%>
+<img src="/images/shared/logos/afrinic-logo.svg" width=10%>
+<img src="/images/shared/logos/apnic-logo.svg">
 
 
 
@@ -28,7 +28,7 @@ For example, in India, registry responsibilities have been delegated to the Indi
 
 <br>
 
-<img src="images/shared/logos/irinn-logo.png" width=10%>
+<img src="/images/shared/logos/irinn-logo.png" width=10%>
 
 <br>
 

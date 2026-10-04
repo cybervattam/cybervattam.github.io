@@ -8,4 +8,4 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### అకౌంటింగ్ పద్ధతులు
 
-<img src="images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>

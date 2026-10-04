@@ -6,7 +6,7 @@ weight: 7
 tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
-<img src="images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
 
 ### Digital Signature Certificate Types
 

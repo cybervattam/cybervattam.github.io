@@ -8,7 +8,7 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 ### സിംഗിൾ സൈൻ-ഓൺ പ്രോട്ടോക്കോൾ താരതമ്യം (SSO Protocol Comparison)
 
-| <img src="images/shared/logos/saml-logo.png" width=20%> | <img src="images/shared/logos/openid-connect-logo.jpg" width=20%> |
+| <img src="/images/shared/logos/saml-logo.png" width=20%> | <img src="/images/shared/logos/openid-connect-logo.jpg" width=20%> |
 
 | __SAML__ | __OIDC__ |
 | ----------------------- | -------------------------- |

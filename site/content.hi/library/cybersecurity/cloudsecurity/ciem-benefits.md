@@ -2,7 +2,7 @@
 title: 'CIEM के लाभ'
 date: 2026-09-21
 draft: false
-weight: 13
+weight: 24
 tags: ["साइबर सुरक्षा","क्लाउड सुरक्षा"]
 ---
 

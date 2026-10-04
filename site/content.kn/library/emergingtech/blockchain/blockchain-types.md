@@ -23,7 +23,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
     - ಒಕ್ಕೂಟ ಬ್ಲಾಕ್‌ಚೈನ್ (Consortium Blockchain)
         - ಆಯ್ದ ನೋಡ್‌ಗಳು ಸಂಸ್ಥೆಯ ಪರವಾಗಿ ಸಂವಹನ ನಡೆಸುತ್ತವೆ
 
-<img src="images/en/emergingtech/blockchain/blockchain-types.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-types.png" width=50%>
 
 #### ಸಾರ್ವಜನಿಕ ಬ್ಲಾಕ್‌ಚೈನ್ / Public Blockchains
 
@@ -31,8 +31,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ಹೆಚ್ಚಿನ ಸಂದರ್ಭಗಳಲ್ಲಿ, ಅಂತಹ ಪರಿಶೀಲಕರಿಗೆ ಆರ್ಥಿಕ ಪ್ರೋತ್ಸಾಹಗಳು ನೀಡಲಾಗುತ್ತದೆ. (ಆದರೆ ಅವರಿಗೆ ಕೆಲಸದ ಸಾಬೀತು (Proof of Work) ಮಾಡುವ ಅಗತ್ಯವೂ ಇರುತ್ತದೆ.)
 
-<img src="images/shared/logos/bitcoin-logo.svg"> <br>
-<img src="images/shared/logos/ethereum-logo.svg" width=20%>
+<img src="/images/shared/logos/bitcoin-logo.svg"> <br>
+<img src="/images/shared/logos/ethereum-logo.svg" width=20%>
 
 <br>
 
@@ -44,8 +44,8 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ವಾಣಿಜ್ಯ ಸಂಸ್ಥೆಗಳು ಬಯಸುವುದು ಲೆಕ್ಕಪರಿಶೋಧನೆ ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸುವುದು; ಅದೇ ಸಮಯದಲ್ಲಿ ಸ್ವಾಯತ್ತತೆ ಮತ್ತು ಸೂಕ್ಷ್ಮ ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಇರಿಸುವುದು. ಈ ಕಾರಣಗಳಿಂದ ಸಂಸ್ಥೆಗಳು ಖಾಸಗಿ ಬ್ಲಾಕ್‌ಚೈನ್‌ ಅನ್ನು ಬಳಸಲು ಬಯಸುತ್ತವೆ.
 
-<img src="images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
-<img src="images/shared/logos/quorum-logo.svg" width=20%>
+<img src="/images/shared/logos/hyperledger-fabric-logo.svg" width=20%> <br>
+<img src="/images/shared/logos/quorum-logo.svg" width=20%>
 
 <br>
 
@@ -53,5 +53,5 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ಒಕ್ಕೂಟ ಬ್ಲಾಕ್‌ಚೈನ್ ಎಂದರೆ Semi-decentralized ಬ್ಲಾಕ್‌ಚೈನ್. ಇಲ್ಲಿ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಖಾಸಗಿ ಬ್ಲಾಕ್‌ಚೈನ್‌ದಂತೆಯೇ ಅನುಮತಿ ಪಡೆಯಬೇಕು. ಆದರೆ, ಈ ಸರಪಳಿಯು ಹಲವಾರು ಸಂಸ್ಥೆಗಳ ನಿಯಂತ್ರಣದಲ್ಲಿರುತ್ತದೆ. ಡೇಟಾವನ್ನು ಓದುವಲ್ಲಿ ಮತ್ತು ಕಾನ್ಸೆನ್ಸಸ್ ಪ್ರೋಟೋಕಾಲ್ ಕಾರ್ಯನಿರ್ವಹಿಸುವಲ್ಲಿ ಕೆಲವೇ ಜನರಿಗೆ ಅನುಮತಿ ನೀಡಲಾಗುತ್ತದೆ.
 
-<img src="images/shared/logos/corda-logo.svg"> <br>
-<img src="images/shared/logos/ripple-logo.svg" width=15%>
+<img src="/images/shared/logos/corda-logo.svg"> <br>
+<img src="/images/shared/logos/ripple-logo.svg" width=15%>

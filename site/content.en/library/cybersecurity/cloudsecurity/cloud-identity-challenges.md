@@ -2,7 +2,7 @@
 title: 'Cloud Identity Challenges'
 date: 2026-09-21
 draft: false
-weight: 9
+weight: 20
 tags: ["Cybersecurity","Cloud Security"]
 ---
 
@@ -23,6 +23,8 @@ Organizations frequently assign excessive permissions rather than following leas
 
 #### Inactive Identities
 Some identities retain access to resources they no longer use, increasing the risk footprint.
+
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
 
 ### Impact
 

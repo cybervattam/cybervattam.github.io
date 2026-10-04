@@ -2,7 +2,7 @@
 title: 'CIEM सुरक्षा और रेमेडिएशन'
 date: 2026-09-21
 draft: false
-weight: 12
+weight: 23
 tags: ["साइबर सुरक्षा","क्लाउड सुरक्षा"]
 ---
 

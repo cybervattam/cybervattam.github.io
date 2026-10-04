@@ -8,7 +8,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ## __ക്ലൗഡ് വിന്യാസ മാതൃകകൾ__
 <br>
-<img src="images/en/emergingtech/cloud/cloud-deployment-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-deployment-models.png">
 
 <br>
 <br>

@@ -12,4 +12,4 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 കണക്കാക്കിയ റിസ്ക് സ്കോറിന്റെ അടിസ്ഥാനത്തിൽ സ്വീകരിക്കേണ്ട നടപടി സ്ഥാപന നയങ്ങൾ നിർവചിക്കുന്നു.
 
-<img src="images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>

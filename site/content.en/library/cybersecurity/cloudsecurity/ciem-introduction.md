@@ -2,7 +2,7 @@
 title: 'Cloud Infrastructure Entitlement Management (CIEM)'
 date: 2026-09-21
 draft: false
-weight: 10
+weight: 21
 tags: ["Cybersecurity","Cloud Security"]
 ---
 
@@ -23,6 +23,8 @@ CIEM uses machine learning and analytics to detect anomalies in account permissi
 - Management portal
 - Organization policies
 - Dashboard and visualization
+
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
 
 ### Goal
 

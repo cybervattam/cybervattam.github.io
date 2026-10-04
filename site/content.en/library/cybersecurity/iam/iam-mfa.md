@@ -10,4 +10,4 @@ tags: ["Cybersecurity","Identity and Access Management"]
 
 Multifactor Authentication (MFA) is a security method that requires more than one factor to verify a user's identity. It authenticates an identity only after verifying two or more independent factors. Some of the factors used for this purpose are shown below.
 
-<img src="images/en/cybersecurity/iam/iam-mfa.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-mfa.png" width=50%>
