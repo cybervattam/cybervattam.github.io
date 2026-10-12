@@ -2,13 +2,13 @@
 title: 'സിംഗിൾ സൈൻ-ഓൺ പ്രോട്ടോക്കോൾ താരതമ്യം'
 date: 2022-08-18
 draft: false
-weight: 16
+weight: 19
 tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
 ### സിംഗിൾ സൈൻ-ഓൺ പ്രോട്ടോക്കോൾ താരതമ്യം (SSO Protocol Comparison)
 
-| <img src="/images/shared/logos/saml-logo.png" width=20%> | <img src="/images/shared/logos/openid-connect-logo.jpg" width=20%> |
+| <img src="/images/shared/logos/saml-logo.png" width=20% alt="സിംഗിൾ സൈൻ-ഓൺ പ്രോട്ടോക്കോൾ താരതമ്യം" loading="lazy"> | <img src="/images/shared/logos/openid-connect-logo.jpg" width=20% alt="സിംഗിൾ സൈൻ-ഓൺ പ്രോട്ടോക്കോൾ താരതമ്യം" loading="lazy"> |
 
 | __SAML__ | __OIDC__ |
 | ----------------------- | -------------------------- |

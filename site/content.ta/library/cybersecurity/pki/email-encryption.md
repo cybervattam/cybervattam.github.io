@@ -6,6 +6,8 @@ weight: 11
 tags: ["தகவல் பாதுகாப்பு","பொதுத் திறவி உள்கட்டமைப்பு"]
 ---
 
+<img src="/images/ta/cybersecurity/pki/email-encryption-ta.svg" alt="மின்னஞ்சல் மறையாக்கம் / Email Encryption" loading="lazy">
+
 ### மின்னஞ்சல் மறையாக்கம் | Email Encryption
 
 #### மின்னஞ்சல் சரிபார்த்தல் / Email Validation

@@ -12,7 +12,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 ఇది వినియోగదారులను హానికర వెబ్‌సైట్‌ల నుంచి కాపాడి, నియంత్రణలకు అనుగుణంగా ఉండేందుకు తోడ్పడుతుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png" alt="సురక్షిత వెబ్ గేట్‌వే" loading="lazy">
 
 ### ప్రధాన విధులు
 
@@ -29,7 +29,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 - ప్రాక్సీలు విధానాల ఆధారంగా బయటకు లేదా లోపలికి వచ్చే కనెక్షన్‌లను వడపోస్తాయి.
 - SWGలు అప్లికేషన్ పొరలో పనిచేసి, వెబ్ ట్రాఫిక్‌ను మరింత సూక్ష్మంగా విశ్లేషించగలవు.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="సురక్షిత వెబ్ గేట్‌వే" loading="lazy">
 
 ### నిర్మాణ సారాంశం
 

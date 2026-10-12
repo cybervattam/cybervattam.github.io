@@ -6,20 +6,18 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/techatpark/npm_scripts_static-ref.git"
+    "url": "https://github.com/cybervattam/cybervattam.github.io.git"
   },
   "keywords": [
-    "npm",
-    "scripts",
-    "npm scripts",
-    "watch",
-    "minify",
-    "compress"
+    "cybervattam",
+    "cybersecurity",
+    "hugo",
+    "tamil"
   ],
   "bugs": {
-    "url": "https://github.com/techatpark/npm_scripts_static-ref/issues"
+    "url": "https://github.com/cybervattam/cybervattam.github.io/issues"
   },
-  "homepage": "https://github.com/techatpark/npm_scripts_static-ref#readme",
+  "homepage": "https://cybervattam.com",
   "devDependencies": {
     "@babel/core": "7.29.7",
     "@rollup/plugin-babel": "7.1.0",

@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### मुद्राओं और डिजिटल एसेट्स की तुलना
 
-<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="मुद्राओं और डिजिटल एसेट्स की तुलना" loading="lazy">
 
 ### निष्कर्ष
 

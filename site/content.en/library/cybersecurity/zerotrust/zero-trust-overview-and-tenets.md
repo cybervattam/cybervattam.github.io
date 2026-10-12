@@ -6,7 +6,7 @@ weight: 2
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="Zero Trust Overview & Tenets" loading="lazy">
 
 ### Zero Trust Overview & Tenets
 

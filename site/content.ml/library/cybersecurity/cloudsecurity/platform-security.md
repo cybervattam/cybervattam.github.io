@@ -10,9 +10,9 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ക്ലൗഡ് ദാതാക്കൾ വിപുലമായ സ്വകാര്യ നെറ്റ്‌വർക്കുകളും സമർപ്പിത ബാക്ക്‌ബോൺ കണക്റ്റിവിറ്റിയും പ്രവർത്തിപ്പിക്കുന്നു. ഡാറ്റാ സെന്ററുകൾ, എഡ്ജ് ലൊക്കേഷനുകൾ, മേഖലകൾ എന്നിവ ആഗോള ഫൈബർ, കടലിനടിയിലെ കേബിൾ ശൃംഖലകൾ വഴി ബന്ധിപ്പിച്ചിരിക്കുന്നു. അതിനാൽ ക്ലൗഡിലെ ഭൂരിഭാഗം ട്രാഫിക്കും പൊതു ഇന്റർനെറ്റിലൂടെയല്ല, ദാതാവിന്റെ നിയന്ത്രണത്തിലുള്ള ലിങ്കുകളിലൂടെയാണ് സഞ്ചരിക്കുന്നത്.
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png" alt="ക്ലൗഡ് കോർ കണക്റ്റിവിറ്റി സുരക്ഷ" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg" alt="ക്ലൗഡ് കോർ കണക്റ്റിവിറ്റി സുരക്ഷ" loading="lazy">
 
 ### കണക്റ്റിവിറ്റിക്ക് സംരക്ഷണം ആവശ്യമായതെന്തുകൊണ്ട്
 

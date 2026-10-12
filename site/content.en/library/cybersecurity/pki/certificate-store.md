@@ -10,14 +10,14 @@ tags: ["Cybersecurity","Public Key Infrastructure"]
 
  A trust store is a collection of root certificates that are trusted by default.
 
-<img src="/images/shared/screenshots/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" alt="Trust Stores / Certificate Stores" loading="lazy">
 
 
 These stores are maintained by operating system and web browser vendors.
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" alt="Trust Stores / Certificate Stores" loading="lazy">
 
 
 ### Licensed Certifying Authorities in India
 
-<img src="/images/shared/screenshots/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png" alt="Trust Stores / Certificate Stores" loading="lazy">

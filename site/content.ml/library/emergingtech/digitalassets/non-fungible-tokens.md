@@ -8,7 +8,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### നോൺ-ഫംഗിബിൾ ടോക്കൺ (NFT) എന്താണ്?
 
-<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png" alt="നോൺ-ഫംഗിബിൾ ടോക്കൺ (NFT) എന്താണ്?" loading="lazy">
 
 നോൺ-ഫംഗിബിൾ ടോക്കണുകൾ അല്ലെങ്കിൽ NFTകൾ പരസ്പരം വേർതിരിച്ചറിയാൻ സഹായിക്കുന്ന സവിശേഷ തിരിച്ചറിയൽ കോഡുകളും മെറ്റാഡാറ്റയും ഉള്ള, ബ്ലോക്ക്‌ചെയിനിൽ സംഭരിച്ച ക്രിപ്‌റ്റോഗ്രാഫിക് ഡിജിറ്റൽ ആസ്തികളാണ്.
 

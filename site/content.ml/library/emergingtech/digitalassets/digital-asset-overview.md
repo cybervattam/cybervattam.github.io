@@ -14,7 +14,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### ഡിജിറ്റൽ ആസ്തികളുടെ തരങ്ങൾ
 
-<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png" alt="ഡിജിറ്റൽ ആസ്തിയുടെ അവലോകനം" loading="lazy">
 
 - NFTകൾ, മെറ്റാവേഴ്‌സ് ഒബ്‌ജക്റ്റുകൾ തുടങ്ങിയ സോഷ്യൽ മീഡിയ ആസ്തികൾ
 - ചിത്രങ്ങൾ, ഫോട്ടോകൾ, സിനിമകൾ, ഡോക്യുമെന്ററികൾ തുടങ്ങിയ ഫോട്ടോഗ്രാഫിക്, വീഡിയോ ആസ്തികൾ

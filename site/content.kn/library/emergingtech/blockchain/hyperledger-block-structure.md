@@ -2,7 +2,7 @@
 title: 'ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್ ರಚನೆ'
 date: 2022-08-15
 draft: false
-weight: 5
+weight: 6
 tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
@@ -31,4 +31,4 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
  <br>
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50% alt="ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಬ್ಲಾಕ್ ರಚನೆ" loading="lazy">

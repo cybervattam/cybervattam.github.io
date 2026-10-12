@@ -14,7 +14,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳ ವಿಧಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png" alt="ಡಿಜಿಟಲ್ ಆಸ್ತಿ ಅವಲೋಕನ" loading="lazy">
 
 - NFTಗಳು ಮತ್ತು ಮೆಟಾವರ್ಸ್ ವಸ್ತುಗಳಂತಹ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಆಸ್ತಿಗಳು
 - ಚಿತ್ರಗಳು, ಫೋಟೋಗಳು, ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಸಾಕ್ಷ್ಯಚಿತ್ರಗಳಂತಹ ಛಾಯಾಚಿತ್ರ ಮತ್ತು ವೀಡಿಯೊ ಆಸ್ತಿಗಳು

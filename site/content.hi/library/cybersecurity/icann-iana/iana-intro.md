@@ -8,7 +8,7 @@ tags: ["साइबर सुरक्षा","ICANN & IANA"]
 
 ### IANA (Internet Assigned Numbers Authority)
 
-<img src="/images/shared/logos/iana-logo.svg" width=20%>
+<img src="/images/shared/logos/iana-logo.svg" width=20% alt="IANA (इंटरनेट अटॉन्ड नंबर अथॉरिटी)" loading="lazy">
 
 IANA एक मानक संगठन है जो वैश्विक डोमेन नाम, नंबर संसाधन और प्रोटोकॉल असाइनमेंट की निगरानी करता है।
 

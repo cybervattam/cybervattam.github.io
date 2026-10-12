@@ -12,7 +12,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### కనెక్టివిటీ ఆధారంగా
 
-<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png" alt="క్రిప్టో వాలెట్ల రకాలు" loading="lazy">
 
 #### కోల్డ్ స్టోరేజ్ (ఆఫ్‌లైన్)
 - హార్డ్‌వేర్ వాలెట్: ప్రైవేట్ కీలను హార్డ్‌వేర్ సెక్యూరిటీ మాడ్యూల్‌లలో (HSM) లేదా హార్డ్‌వేర్ టోకెన్‌లలో నిల్వ చేస్తుంది.

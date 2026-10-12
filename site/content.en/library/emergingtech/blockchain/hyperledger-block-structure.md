@@ -2,7 +2,7 @@
 title: 'Hyperledger Block Structure'
 date: 2022-08-15
 draft: false
-weight: 5
+weight: 6
 tags: ["Emerging Technology","Blockchain"]
 ---
 
@@ -31,5 +31,5 @@ tags: ["Emerging Technology","Blockchain"]
 
  <br>
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50% alt="Hyperledger Block Structure" loading="lazy">
 

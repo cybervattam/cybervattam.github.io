@@ -6,7 +6,7 @@ weight: 4
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="Zero Trust Conceptual Architecture" loading="lazy">
 
 ### Zero Trust Conceptual Architecture
 

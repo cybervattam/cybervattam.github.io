@@ -12,7 +12,7 @@ The lifecycle of a token generally follows a structured process from minting to 
 
 ### Token Lifecycle
 
-<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png">
+<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png" alt="Asset Tokenization Process" loading="lazy">
 
 1. A physical or digital asset with unique characteristics is identified.
 2. The asset is tokenized and recorded on the blockchain.
@@ -28,6 +28,6 @@ Burning is the process of sending a token to an inaccessible wallet address so i
 
 ### Core Outcome
 
-<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png">
+<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png" alt="Asset Tokenization Process" loading="lazy">
 
 Tokenization allows physical or digital ownership rights to be represented, transferred, and verified in a transparent and secure way through blockchain technology.

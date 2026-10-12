@@ -14,4 +14,4 @@ This creates a privacy-preserving layer between the user and the recursive resol
 
 The goal is to protect user privacy and prevent internet service providers or DNS resolvers from learning which websites a user is requesting.
 
-<img src="/images/en/cybersecurity/dns/dns-odoh.png">
+<img src="/images/en/cybersecurity/dns/dns-odoh.png" alt="Oblivious DNS (ODoH)" loading="lazy">

@@ -12,7 +12,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### टोकन जीवनचक्र
 
-<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png">
+<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png" alt="एसेट टोकनीकरण प्रक्रिया" loading="lazy">
 
 1. विशिष्ट विशेषताओं वाले भौतिक या डिजिटल एसेट की पहचान की जाती है।
 2. एसेट का टोकनीकरण करके उसे ब्लॉकचेन पर रिकॉर्ड किया जाता है।
@@ -28,6 +28,6 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### मुख्य परिणाम
 
-<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png">
+<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png" alt="एसेट टोकनीकरण प्रक्रिया" loading="lazy">
 
 टोकनीकरण ब्लॉकचेन तकनीक के माध्यम से भौतिक या डिजिटल स्वामित्व अधिकारों को पारदर्शी और सुरक्षित तरीके से दर्शाने, स्थानांतरित करने और सत्यापित करने की अनुमति देता है।

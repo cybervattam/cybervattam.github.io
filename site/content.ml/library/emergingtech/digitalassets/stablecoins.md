@@ -16,7 +16,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### സ്റ്റേബിൾകോയിൻ തരങ്ങൾ
 
-<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png">
+<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png" alt="സ്റ്റേബിൾകോയിനുകൾ" loading="lazy">
 
 - ഫിയറ്റ് പിന്തുണയുള്ളത്
 - ക്രിപ്‌റ്റോ പിന്തുണയുള്ളത്

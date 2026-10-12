@@ -6,7 +6,7 @@ weight: 2
 tags: ["தகவல் பாதுகாப்பு","நம்பாமை"]
 ---
 
-<img src="/images/ta/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/ta/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="நம்பாமை மேலோட்டம் மற்றும் அடிப்படைக் கொள்கைகள்" loading="lazy">
 
 ### நம்பாமை மேலோட்டம் மற்றும் அடிப்படைக் கொள்கைகள்
 

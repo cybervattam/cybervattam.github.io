@@ -8,7 +8,7 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### What is a Non-Fungible Token (NFT)?
 
-<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png" alt="What is a Non-Fungible Token (NFT)?" loading="lazy">
 
 Non-fungible tokens or NFTs are cryptographic digital assets stored on a blockchain with unique identification codes and metadata that distinguish them from each other.
 

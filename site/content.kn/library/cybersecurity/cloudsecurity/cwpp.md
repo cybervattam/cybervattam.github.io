@@ -14,13 +14,13 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ವರ್ಕ್‌ಲೋಡ್‌ಗಳು ಹೆಚ್ಚು ಸಣ್ಣದಾಗಿಯೂ ಅಲ್ಪಾವಧಿಯದ್ದಾಗಿಯೂ ಆಗಿವೆ; ಇದರಿಂದ ಅವುಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುವ ವಿಧಾನ ಬದಲಾಗುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="ಕ್ಲೌಡ್ ವರ್ಕ್‌ಲೋಡ್ ಪ್ರೊಟೆಕ್ಷನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ (CWPP)" loading="lazy">
 
 ### ಜೀವನಚಕ್ರದಾದ್ಯಂತ ರಕ್ಷಣೆ
 
 ವರ್ಕ್‌ಲೋಡ್ ಜೀವನಚಕ್ರದ ನಿರ್ಮಾಣ ಮತ್ತು ರನ್‌ಟೈಮ್ ಎರಡೂ ಹಂತಗಳನ್ನು CWPP ಒಳಗೊಂಡಿರುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="ಕ್ಲೌಡ್ ವರ್ಕ್‌ಲೋಡ್ ಪ್ರೊಟೆಕ್ಷನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ (CWPP)" loading="lazy">
 
 #### ಸುರಕ್ಷಿತ ನಿರ್ಮಾಣ
 - ದುರ್ಬಲ ಘಟಕಗಳು
@@ -42,7 +42,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಹಾರ್ಡನಿಂಗ್, ಸಂರಚನೆ, ದುರ್ಬಲತೆ ನಿರ್ವಹಣೆ ಮತ್ತು ನೆಟ್‌ವರ್ಕ್ ವಿಭಜನೆಯಿಂದ ಪ್ರಾರಂಭಿಸಿ, ಮೂಲಭೂತ ನಿಯಂತ್ರಣಗಳಿಗೆ ಮೊದಲ ಆದ್ಯತೆ ನೀಡುವಂತೆ ನಿಯಂತ್ರಣಗಳನ್ನು ಶ್ರೇಣೀಕರಿಸಬಹುದು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="ಕ್ಲೌಡ್ ವರ್ಕ್‌ಲೋಡ್ ಪ್ರೊಟೆಕ್ಷನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ (CWPP)" loading="lazy">
 
 ### ಭದ್ರತಾ ಉದ್ದೇಶ
 

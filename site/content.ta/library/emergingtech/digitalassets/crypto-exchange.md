@@ -3,7 +3,7 @@ title: 'மறைநாணயச் சந்தை'
 date: 2026-09-21
 draft: false
 weight: 6
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
 மறைநாணயங்கள், ஃபியட் கரன்சிகள் மற்றும் NFTகள் உள்ளிட்ட மறைநாணய சொத்துகளை மக்கள் வாங்கவும், விற்கவும், வர்த்தகம் செய்யவும் கூடிய சந்தையே மறைநாணய சந்தை ஆகும்.
@@ -21,7 +21,7 @@ tags: ["நவீன தொழில்நுட்பங்கள்","டி�
 
 ### ஒப்பீடு
 
-<img src="/images/ta/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/ta/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="மறைநாணயச் சந்தை" loading="lazy">
 
 | வகை | பண்புகள் |
 |---|---|

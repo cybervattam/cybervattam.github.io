@@ -6,7 +6,7 @@ weight: 7
 tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ (PKI)"]
 ---
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png" alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 
 ### ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ് തരങ്ങൾ
 
@@ -20,7 +20,7 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 ### ഡിജിറ്റൽ സിഗ്നേച്ചർ (ഒപ്പിടലും പരിശോധനയും)
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png" alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 
 <br>
 
@@ -31,6 +31,8 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 വിഭവം, നെറ്റ്‌വർക്ക്, ആപ്ലിക്കേഷൻ എന്നിവയിലേക്ക് പ്രവേശനം നൽകുന്നതിന് മുമ്പാണ് ഓതന്റിക്കേഷൻ നടത്തുന്നത്.
 
 മനുഷ്യ ഐഡന്റിറ്റികൾക്കായി പാസ്‌വേഡ്, ബയോമെട്രിക്സ്, വൺ-ടൈം പാസ്‌വേഡ് (OTP) തുടങ്ങിയ രീതികളോടൊപ്പം ഇത് ഉപയോഗിക്കുന്നു. എല്ലാ തരത്തിലുള്ള ഉപയോക്താക്കൾക്കും ഒരേ ഓതന്റിക്കേഷൻ പരിഹാരമായി ഇത് ഉപയോഗിക്കാനാകുന്നതാണ് ഇതിന്റെ പ്രത്യേകത.
+
+<img src="/images/en/cybersecurity/pki/pki-identity-types.png" width=50% alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 
 സർട്ടിഫിക്കറ്റ് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ നാല് ചോദ്യങ്ങളെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്. ഏതെങ്കിലും ഉത്തരത്തിൽ പരാജയപ്പെട്ടാൽ ഓതന്റിക്കേഷൻ പരാജയപ്പെടുകയും പ്രവേശനം നിരസിക്കുകയും ചെയ്യും:
 
@@ -43,7 +45,7 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 4. സർട്ടിഫിക്കറ്റ് കൈവശമുണ്ടെന്ന് ഉപയോക്താവ് തെളിയിച്ചിട്ടുണ്ടോ?
    - ബന്ധപ്പെട്ട സ്വകാര്യ കീ കൈവശമുണ്ടെന്ന് ഉപയോക്താവ് തെളിയിച്ചിട്ടുണ്ടോ?
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png" alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 
 <br>
 <br>
@@ -67,9 +69,9 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
   - ആരോഗ്യ ഇൻഷുറൻസ് കാർഡുകൾ
   - ഡിജിറ്റൽ ഒപ്പുകൾ
 
-<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
+<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg" alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 
-<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png">
+<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png" alt="ഡിജിറ്റൽ സിഗ്നേച്ചർ സർട്ടിഫിക്കറ്റ്" loading="lazy">
 <br>
 Image Credit: https://medium.com/gupta-siddhant/
 <br>

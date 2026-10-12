@@ -12,7 +12,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ദോഷകരമായ വെബ്‌സൈറ്റുകളിൽനിന്ന് ഉപയോക്താക്കളെ സംരക്ഷിക്കാനും ചട്ടപരമായ പാലനത്തിന് പിന്തുണ നൽകാനും ഇത് സഹായിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png" alt="സെക്യൂർ വെബ് ഗേറ്റ്‌വേ" loading="lazy">
 
 ### പ്രധാന പ്രവർത്തനങ്ങൾ
 
@@ -29,7 +29,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 - പ്രോക്സികൾ നയത്തിന്റെ അടിസ്ഥാനത്തിൽ പുറത്തേക്കോ അകത്തേക്കോ ഉള്ള കണക്ഷനുകൾ ഫിൽറ്റർ ചെയ്യുന്നു.
 - SWG-കൾ ആപ്ലിക്കേഷൻ തലത്തിൽ പ്രവർത്തിക്കുകയും വെബ് ട്രാഫിക് കൂടുതൽ സൂക്ഷ്മമായി വിലയിരുത്തുകയും ചെയ്യുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="സെക്യൂർ വെബ് ഗേറ്റ്‌വേ" loading="lazy">
 
 ### ഘടനയുടെ സംഗ്രഹം
 

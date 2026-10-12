@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"
 
 जीरो ट्रस्ट पहचान, डिवाइस, नेटवर्क और एप्लिकेशन से जुड़ी कई सुरक्षा क्षमताओं पर निर्भर करता है।
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="जीरो ट्रस्ट सुरक्षा क्षमताएं" loading="lazy">
 
 ### लक्ष्य
 

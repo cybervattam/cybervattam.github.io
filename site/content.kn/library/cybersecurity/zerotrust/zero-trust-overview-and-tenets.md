@@ -6,7 +6,7 @@ weight: 2
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಝೀರೋ ಟ್ರಸ್ಟ್"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ಅವಲೋಕನ ಮತ್ತು ಮೂಲ ತತ್ವಗಳು" loading="lazy">
 
 ### ಝೀರೋ ಟ್ರಸ್ಟ್ ಅವಲೋಕನ ಮತ್ತು ಮೂಲ ತತ್ವಗಳು
 

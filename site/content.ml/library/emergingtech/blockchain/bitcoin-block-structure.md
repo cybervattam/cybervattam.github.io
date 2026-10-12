@@ -2,11 +2,11 @@
 title: 'ബിറ്റ്കോയിൻ ബ്ലോക്ക് ഘടന'
 date: 2022-08-15
 draft: false
-weight: 3
+weight: 4
 tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ","ബ്ളോക്ക്ചെയിൻ"]
 ---
 
-### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിനിലെ ബ്ലോക്ക് ഘടന
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10% alt="ബിറ്റ്കോയിൻ ബ്ലോക്ക് ഘടന" loading="lazy"> ബിറ്റ്കോയിൻ ബ്ലോക്ക്ചെയിനിലെ ബ്ലോക്ക് ഘടന
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
     - ഇടപാട് കൗണ്ടർ
     - ഇടപാടുകൾ #1, #2, #3, ..., #n
 
-<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50% alt="ബിറ്റ്കോയിൻ ബ്ലോക്ക് ഘടന" loading="lazy">
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 <br>
 <br>
-<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50% alt="ബിറ്റ്കോയിൻ ബ്ലോക്ക് ഘടന" loading="lazy">

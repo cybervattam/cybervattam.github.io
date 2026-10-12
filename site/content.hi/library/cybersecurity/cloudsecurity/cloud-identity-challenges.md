@@ -24,7 +24,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 #### निष्क्रिय पहचान
 कुछ पहचानों के पास उन संसाधनों का एक्सेस बना रहता है जिनका वे अब उपयोग नहीं करतीं, जिससे जोखिम का दायरा बढ़ जाता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png" alt="क्लाउड पहचान की चुनौतियां" loading="lazy">
 
 ### प्रभाव
 

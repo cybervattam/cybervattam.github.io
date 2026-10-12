@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 ട്രസ്റ്റ് ചെയിനിൽ നിരവധി ഘടകങ്ങളുണ്ട്.
 
-<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png" alt="ട്രസ്റ്റ് ചെയിൻ" loading="lazy">
 
 ആദ്യം ട്രസ്റ്റ് ആങ്കർ അഥവാ റൂട്ട് സർട്ടിഫൈയിംഗ് അതോറിറ്റി ഉണ്ട്.
 
@@ -20,7 +20,7 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 അവസാനം വെബ്‌സൈറ്റ്, സ്ഥാപനം, വ്യക്തി തുടങ്ങിയവയ്ക്ക് നൽകുന്ന എൻഡ്-എന്റിറ്റി സർട്ടിഫിക്കറ്റ് ഉണ്ടായിരിക്കും.
 
-<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png" alt="ട്രസ്റ്റ് ചെയിൻ" loading="lazy">
 
 ### ട്രസ്റ്റ് ചെയിൻ പരിശോധന
 

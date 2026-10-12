@@ -6,7 +6,7 @@ weight: 11
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="/images/hi/cybersecurity/pki/pki-email-encryption-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-email-encryption-icon.png" alt="ईमेल एन्क्रिप्शन" loading="lazy">
 
 ### ईमेल एन्क्रिप्शन / Email Encryption
 

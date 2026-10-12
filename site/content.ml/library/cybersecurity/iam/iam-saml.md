@@ -2,7 +2,7 @@
 title: 'സെക്യൂരിറ്റി അസർഷൻ മാർക്കപ്പ് ലാംഗ്വേജ്'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 17
 tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
@@ -17,4 +17,4 @@ XML അടിസ്ഥാനമാക്കിയുള്ള സിംഗിൾ
 
 ഇരുകക്ഷികൾക്കും പരസ്പര വിവരങ്ങൾ ലഭിച്ച ശേഷം അവ അതനുസരിച്ച് ക്രമീകരിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70% alt="സെക്യൂരിറ്റി അസർഷൻ മാർക്കപ്പ് ലാംഗ്വേജ്" loading="lazy">

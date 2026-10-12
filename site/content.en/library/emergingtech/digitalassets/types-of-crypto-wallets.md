@@ -12,7 +12,7 @@ Crypto wallets can be categorized based on connectivity and custody.
 
 ### By Connectivity
 
-<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png" alt="Types of Crypto Wallets" loading="lazy">
 
 #### Cold Storage (Offline)
 - Hardware Wallet: stores private keys in hardware security modules (HSM) or hardware tokens.

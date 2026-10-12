@@ -6,7 +6,7 @@ weight: 3
 tags: ["தகவல் பாதுகாப்பு","நம்பாமை"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/ta/cybersecurity/zerotrust/zero-trust-design-principles.png" alt="நம்பாமை கட்டமைப்பு மற்றும் வடிவமைப்புக் கொள்கைகள்" loading="lazy">
 
 ### நம்பாமை கட்டமைப்பு மற்றும் வடிவமைப்புக் கொள்கைகள்
 

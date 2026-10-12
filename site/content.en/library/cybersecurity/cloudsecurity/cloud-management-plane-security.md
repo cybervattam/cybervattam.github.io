@@ -10,7 +10,7 @@ tags: ["Cybersecurity","Cloud Security"]
 
 The management plane is the set of consoles, APIs, and tools used to create, configure, and administer cloud resources. Because it controls everything in the environment, compromise of the management plane is far more damaging than compromise of a single workload.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png" alt="Cloud Management Plane and API Security" loading="lazy">
 
 ### Administrative Hierarchy
 

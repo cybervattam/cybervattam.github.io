@@ -5,12 +5,12 @@ draft: false
 weight: 3
 extensions:
     - katex
-
 tags: ["സൈബർസുരക്ഷ","ക്രിപ്റോഗ്രഫി"]
 ---
+
 #### എൻക്രിപ്ഷനെ മൂന്ന് പ്രധാന തരങ്ങളായി വിഭജിക്കാം. അവ താഴെ വിശദമായി പരിചയപ്പെടുത്തുന്നു.
 
-![Encryption Types](/images/en/cybersecurity/cryptography/encryption-types.png "Encryption Types")
+![എൻക്രിപ്ഷൻ തരങ്ങൾ](/images/en/cybersecurity/cryptography/encryption-types.png "എൻക്രിപ്ഷൻ തരങ്ങൾ")
 
 ### 1. സിമെട്രിക് എൻക്രിപ്ഷൻ
 

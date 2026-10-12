@@ -6,7 +6,7 @@ weight: 2
 tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="जीरो ट्रस्ट का अवलोकन और मूल सिद्धांत" loading="lazy">
 
 ### जीरो ट्रस्ट का अवलोकन और मूल सिद्धांत
 

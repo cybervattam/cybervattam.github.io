@@ -1,10 +1,8 @@
 // Import Custom Variables
-
-
-
-@import './base/typography';
-@import './themes/theme';
+$font-family-sans-serif: 'Noto Sans', 'Segoe UI', Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-monospace: 'SFMono-Regular', 'Menlo', 'Monaco', Consolas, 'Liberation Mono', monospace !default;
+$font-family-base: $font-family-sans-serif !default;
 
 @import './vendors/bootstrap';
-
-
+@import './base/typography';
+@import './themes/theme';

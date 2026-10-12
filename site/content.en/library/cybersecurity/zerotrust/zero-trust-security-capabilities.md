@@ -10,7 +10,7 @@ tags: ["Cybersecurity","Zero Trust"]
 
 Zero trust relies on several security capabilities across identity, devices, networks, and applications.
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="Zero Trust Security Capabilities" loading="lazy">
 
 ### Goal
 

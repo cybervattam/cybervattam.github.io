@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","സീറോ ട്രസ്റ്റ�
 
 സീറോ ട്രസ്റ്റ് തിരിച്ചറിയൽ, ഉപകരണങ്ങൾ, നെറ്റ്‌വർക്കുകൾ, ആപ്ലിക്കേഷനുകൾ എന്നിവയിലുടനീളമുള്ള നിരവധി സുരക്ഷാ ശേഷികളെ ആശ്രയിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="സീറോ ട്രസ്റ്റ് സുരക്ഷാ ശേഷികൾ" loading="lazy">
 
 ### ലക്ഷ്യം
 

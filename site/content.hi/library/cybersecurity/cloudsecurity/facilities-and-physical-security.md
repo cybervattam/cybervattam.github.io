@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 क्लाउड प्रदाताओं को उन भौतिक स्थानों को सुरक्षित करना चाहिए जहां डेटा सेंटर संचालित होते हैं। इसमें सुविधा की सुरक्षा, एक्सेस नियंत्रण और भौतिक तथा पर्यावरणीय खतरों के विरुद्ध मजबूती सुनिश्चित करना शामिल है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/physical-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/physical-security.png" alt="सुविधाएं और भौतिक सुरक्षा" loading="lazy">
 
 ### मुख्य नियंत्रण
 

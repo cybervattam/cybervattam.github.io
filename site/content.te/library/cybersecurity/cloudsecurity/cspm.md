@@ -12,7 +12,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 ### CSPM సామర్థ్యాలు
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png" alt="క్లౌడ్ భద్రతా స్థితి నిర్వహణ (CSPM)" loading="lazy">
 
 - **ఆస్తుల గుర్తింపు, జాబితా:** ఆస్తులను కనుగొని, ప్రమాదాలను అంచనా వేసి ప్రాధాన్యత క్రమంలో ఉంచడం; పరిష్కారానికి సహకరించడం లేదా స్వయంచాలకంగా సరిచేయడం
 - **క్లౌడ్ పాలన, అనుగుణ్యత:** నియంత్రణలు, ప్రమాణాలకు అనుగుణంగా ఉండేందుకు సిద్ధంగా ఉన్న ప్యాక్‌లు; స్వయంచాలక, షెడ్యూల్ నివేదికలు
@@ -24,7 +24,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 CSPM క్లౌడ్ ప్రొవైడర్ APIల నుంచి డేటాను సేకరించి, ఒకే రూపంలోకి మార్చి, విధాన ఆధారిత మరియు ML-సహాయక గుర్తింపును అమలు చేస్తుంది. దీని ద్వారా నివేదికలు, ప్రతిస్పందన, ఇతర వ్యవస్థలతో అనుసంధానాలు సాధ్యమవుతాయి.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png" alt="క్లౌడ్ భద్రతా స్థితి నిర్వహణ (CSPM)" loading="lazy">
 
 ### భద్రతా లక్ష్యం
 

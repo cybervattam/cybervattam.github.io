@@ -23,6 +23,6 @@ DNS ഡാറ്റയെ ക്രിപ്റ്റോഗ്രാഫിക്
 - Zone Signing Key (ZSK)
 - Key Signing Key (KSK)
 
-<img src="/images/en/cybersecurity/dns/dns-sec.png">
+<img src="/images/en/cybersecurity/dns/dns-sec.png" alt="DNS സുരക്ഷാ വിപുലീകരണങ്ങൾ (DNSSEC)" loading="lazy">
 
 സോൺ ഉടമ Zone Signing സ്വകാര്യ കീ ഉപയോഗിച്ച് റിസോഴ്സ് റെക്കോർഡുകളുടെ ഒരു സെറ്റിൽ ഒപ്പിടുന്നു. റിസോൾവർമാർക്ക് അത് ലഭ്യമാക്കി DNS ഡാറ്റയുടെ ആധികാരികത പരിശോധിക്കാനായി Zone Signing കീയുടെ പൊതു ഭാഗം DNSKEY റെക്കോർഡിൽ പ്രസിദ്ധീകരിക്കുന്നു.

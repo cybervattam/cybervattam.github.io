@@ -1,14 +1,14 @@
 ---
-title: 'மறை நாணயங்கள்யின் பண்புகள்'
+title: 'மறைநாணயங்களின் பண்புகள்'
 date: 2026-09-21
 draft: false
 weight: 11
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
-### மறை நாணயங்கள்யின் பண்புகள்
+### மறைநாணயங்களின் பண்புகள்
 
-<img src="/images/ta/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+<img src="/images/ta/emergingtech/digitalassets/cryptocurrency-characteristics.png" alt="மறைநாணயங்களின் பண்புகள்" loading="lazy">
 
 | அளவுரு | ஃபியட் | மறைநாணய |
 |---|---|---|
@@ -20,7 +20,7 @@ tags: ["நவீன தொழில்நுட்பங்கள்","டி�
 | பாதுகாப்பு | மிதமானது | அதிகம் |
 | பரவலாக்கம் | இல்லை | ஆம் |
 
-<img src="/images/ta/emergingtech/digitalassets/fiat-vs-crypto.png">
+<img src="/images/ta/emergingtech/digitalassets/fiat-vs-crypto.png" alt="மறைநாணயங்களின் பண்புகள்" loading="lazy">
 
 ### சுருக்கம்
 

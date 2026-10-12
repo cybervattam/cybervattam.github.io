@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### नॉन-फंजिबल टोकन (NFT) क्या है?
 
-<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png" alt="नॉन-फंजिबल टोकन (NFT) क्या है?" loading="lazy">
 
 नॉन-फंजिबल टोकन या NFT ऐसे क्रिप्टोग्राफिक डिजिटल एसेट हैं जो ब्लॉकचेन पर विशिष्ट पहचान कोड और मेटाडेटा के साथ स्टोर होते हैं, जिससे वे एक-दूसरे से अलग पहचाने जाते हैं।
 

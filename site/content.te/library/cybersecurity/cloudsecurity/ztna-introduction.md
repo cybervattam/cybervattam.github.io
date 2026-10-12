@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 సాఫ్ట్‌వేర్-నిర్వచిత పరిధి అని కూడా పిలిచే జీరో ట్రస్ట్ నెట్‌వర్క్ యాక్సెస్, దూరం నుంచి పనిచేసే వినియోగదారులు అంతర్గత అప్లికేషన్‌లను సురక్షితంగా యాక్సెస్ చేసేందుకు ఉపయోగపడే సాంకేతికతలు, విధుల సమాహారం.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png" alt="జీరో ట్రస్ట్ నెట్‌వర్క్ యాక్సెస్ (ZTNA)" loading="lazy">
 
 ### ప్రధాన సూత్రం
 
@@ -29,4 +29,4 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 సాంప్రదాయ నెట్‌వర్క్ ఆధారిత విశ్వాసానికి బదులుగా, వినియోగదారు నుంచి అప్లికేషన్‌కు నేరుగా యాక్సెస్ నమూనాను ZTNA ఉపయోగిస్తుంది. ఇది తరచుగా చివరి నుంచి చివరి వరకు ఎన్‌క్రిప్ట్ చేసిన TLS సూక్ష్మ-టన్నెల్‌లపై ఆధారపడుతుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png" alt="జీరో ట్రస్ట్ నెట్‌వర్క్ యాక్సెస్ (ZTNA)" loading="lazy">

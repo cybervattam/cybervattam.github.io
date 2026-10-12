@@ -6,7 +6,7 @@ weight: 2
 tags: ["സൈബർസുരക്ഷ","സീറോ ട്രസ്റ്റ്"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="സീറോ ട്രസ്റ്റിന്റെ അവലോകനവും അടിസ്ഥാന തത്വങ്ങളും" loading="lazy">
 
 ### സീറോ ട്രസ്റ്റിന്റെ അവലോകനവും അടിസ്ഥാന തത്വങ്ങളും
 

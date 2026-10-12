@@ -3,7 +3,7 @@ title: 'மேகக் கணிமை அணுகல் பாதுகாப
 date: 2026-09-21
 draft: false
 weight: 17
-tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமை பாதுகாப்பு"]
+tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமைப் பாதுகாப்பு"]
 ---
 
 ### மேகக் கணிமை அணுகல் பாதுகாப்பு தரகர் (CASB)
@@ -12,12 +12,12 @@ tags: ["தகவல் பாதுகாப்பு","மேகக் கண�
 
 மேக வளங்களை அணுகும்போது, நிறுவனத்தின் பாதுகாப்புக் கொள்கைகளை CASB ஒருங்கிணைத்து அமல்படுத்துகிறது.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png" alt="மேகக் கணிமை அணுகல் பாதுகாப்பு தரகர் (CASB)" loading="lazy">
 
 ### CASB-இன் பொதுவான அம்சங்கள்
 
 - அங்கீகாரம் மற்றும் ஒற்றை உள்நுழைவு
-- அனுமதியளித்தல் மற்றும் சான்று வரைபடமிடல்
+- அணுகல் சான்று இணைப்பு (Credential mapping) மற்றும் அனுமதியளித்தல்
 - சாதன விவரக்குறிப்பு
 - குறியாக்கம் மற்றும் டோக்கனைசேஷன்
 - பதிவு செய்தல் மற்றும் எச்சரிக்கை வழங்குதல்
@@ -31,7 +31,7 @@ CASB முக்கியமாக மேகத்திலுள்ள SaaS �
 
 ### பயன்படுத்தும் முறைகள்
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png" alt="மேகக் கணிமை அணுகல் பாதுகாப்பு தரகர் (CASB)" loading="lazy">
 
 ### பயன்பாட்டு நிலைகள்
 
@@ -40,4 +40,4 @@ CASB முக்கியமாக மேகத்திலுள்ள SaaS �
 - அச்சுறுத்தல்களைக் கண்டறிதலும் தடயவியல் விசாரணையும்
 - இணக்கத் தேவைகளுக்கு ஆதரவும் செயல்பாட்டுக் கண்காணிப்பும்
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png" alt="மேகக் கணிமை அணுகல் பாதுகாப்பு தரகர் (CASB)" loading="lazy">

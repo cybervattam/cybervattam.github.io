@@ -10,9 +10,9 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ആപ്ലിക്കേഷനുകളും ഡാറ്റയും പ്രവർത്തിപ്പിക്കുന്ന ഭൗതിക ഹാർഡ്‌വെയർ ക്ലൗഡ് സേവന ദാതാവ് സുരക്ഷിതമാക്കണം.
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg" alt="ഹാർഡ്‌വെയർ സുരക്ഷ" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg" alt="ഹാർഡ്‌വെയർ സുരക്ഷ" loading="lazy">
 
 ### ശുപാർശ ചെയ്യുന്ന നടപടികൾ
 

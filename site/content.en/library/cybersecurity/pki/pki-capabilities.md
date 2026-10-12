@@ -11,10 +11,10 @@ tags: ["Cybersecurity","Public Key Infrastructure"]
 
 Public Key Infrastructure provides trust services.
 
-<img src="/images/en/cybersecurity/pki/pki-trust-services.png">
+<img src="/images/en/cybersecurity/pki/pki-trust-services.png" alt="Public Key Infrastructure Capabilities" loading="lazy">
 
 In simple terms, it helps establish trust in the actions or output of people, computers, and organizations.
 
 The objectives of trust services are based on the following capabilities.
 
-<img src="/images/en/cybersecurity/pki/pki-capabilities.png">
+<img src="/images/en/cybersecurity/pki/pki-capabilities.png" alt="Public Key Infrastructure Capabilities" loading="lazy">

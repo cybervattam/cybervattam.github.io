@@ -2,7 +2,7 @@
 title: 'హైపర్‌లెడ్డ్జర్ బ్లాక్ నిర్మాణం'
 date: 2022-08-15
 draft: false
-weight: 5
+weight: 6
 tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
@@ -31,5 +31,5 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
  <br>
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50% alt="హైపర్‌లెడ్డ్జర్ బ్లాక్ నిర్మాణం" loading="lazy">
 

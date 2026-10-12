@@ -12,7 +12,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 यह यूजर को दुर्भावनापूर्ण वेबसाइटों से सुरक्षित रखने और नियामक अनुपालन में सहायता करता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png" alt="सिक्योर वेब गेटवे" loading="lazy">
 
 ### मुख्य कार्यक्षमता
 
@@ -29,7 +29,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 - प्रॉक्सी नीति के आधार पर आउटबाउंड या इनबाउंड कनेक्शन फ़िल्टर करते हैं।
 - SWG एप्लिकेशन लेयर पर काम करते हैं और वेब ट्रैफिक का अधिक सूक्ष्म मूल्यांकन कर सकते हैं।
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="सिक्योर वेब गेटवे" loading="lazy">
 
 ### आर्किटेक्चर सारांश
 

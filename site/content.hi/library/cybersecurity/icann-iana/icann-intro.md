@@ -8,7 +8,7 @@ tags: ["साइबर सुरक्षा","ICANN & IANA"]
 
 ### ICANN (Internet Corporation for Assigned Names and Numbers)
 
-<img src="/images/shared/logos/icann-logo.svg">
+<img src="/images/shared/logos/icann-logo.svg" alt="ICANN (इंटरनेट कॉर्पोरेशन फॉर असाइन्ड नेम्स एंड नंबर्स)" loading="lazy">
 
 <br>
 <br>

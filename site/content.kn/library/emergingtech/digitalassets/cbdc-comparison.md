@@ -8,7 +8,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಕರೆನ್ಸಿಗಳು ಮತ್ತು ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳ ಹೋಲಿಕೆ
 
-<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="ಕರೆನ್ಸಿಗಳು ಮತ್ತು ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳ ಹೋಲಿಕೆ" loading="lazy">
 
 ### ಒಳನೋಟ
 

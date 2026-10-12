@@ -6,7 +6,7 @@ weight: 7
 tags: ["Cybersecurity","Public Key Infrastructure"]
 ---
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png" alt="Digital Signature Certificate" loading="lazy">
 
 ### Digital Signature Certificate Types
 
@@ -20,7 +20,7 @@ tags: ["Cybersecurity","Public Key Infrastructure"]
 
 ### Digital Signature (Signing / Verification)
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png" alt="Digital Signature Certificate" loading="lazy">
 
 <br>
 
@@ -34,6 +34,8 @@ For human identities, it is used together with other authentication methods such
 
 The distinctive feature of this method is that it can serve as a single authentication solution for all types of users, unlike some solutions that work only for human users.
 
+<img src="/images/en/cybersecurity/pki/pki-identity-types.png" width=50% alt="Identity Types" loading="lazy">
+
 Certificate-based authentication is based on answers to four questions. If any answer fails, authentication fails and access is denied.
 1. Was the certificate issued by a trusted certificate authority?
    - Are the intermediate and root certificate authorities trusted? <br>
@@ -44,7 +46,7 @@ Certificate-based authentication is based on answers to four questions. If any a
 4. Has the user provided proof of possession of the certificate?
    - Has the user proved that they possess the private key associated with the certificate?
    
-<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png" alt="Digital Signature Certificate" loading="lazy">
 
 <br>
 <br>
@@ -68,9 +70,9 @@ Certificate-based authentication is based on answers to four questions. If any a
    - Health insurance cards
    - Digital signatures
 
-<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
+<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg" alt="Digital Signature Certificate" loading="lazy">
 
-<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png">
+<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png" alt="Digital Signature Certificate" loading="lazy">
 <br>
 Image Credit: https://medium.com/gupta-siddhant/
 <br>

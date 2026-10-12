@@ -14,6 +14,8 @@ other = "ఈ వ్యాసం మీ భాషలో ఇంకా అందు
 other = "హోమ్"
 [navAbout]
 other = "మా గురించి"
+[navEvents]
+other = "ఈవెంట్‌లు"
 [books]
 other = "లైబ్రరీ"
 [libraries]
@@ -60,3 +62,23 @@ other = "శోధన తాత్కాలికంగా అందుబాట
 other = "ట్యాగ్‌ల వారీగా చూడండి"
 [searchByTag]
 other = "ట్యాగ్‌తో వెతకండి"
+[notFoundTitle]
+other = "పేజీ కనుగొనబడలేదు"
+[notFoundBody]
+other = "మీరు వెతుకుతున్న పేజీ ఉనికిలో లేదు లేదా తరలించబడింది."
+[goHome]
+other = "హోమ్ పేజీకి వెళ్లండి"
+[minRead]
+other = "నిమిషాల పఠనం"
+[verifiedBadge]
+other = "✓ ధృవీకరించబడింది"
+[aiDraftBadge]
+other = "ధృవీకరించబడాలి"
+[recentArticles]
+other = "ముఖ్య అంశాలు"
+[verifiedExplanation]
+other = "సాంకేతిక మరియు భాషా ఖచ్చితత్వం కోసం మానవులచే సమీక్షించబడి ధృవీకరించబడింది."
+[toBeVerifiedExplanation]
+other = "AI సాధనాల ద్వారా అనువదించబడి, మానవ సమీక్ష కోసం వేచి ఉంది."
+[availableIn]
+other = "అందుబాటులో ఉన్న భాషలు:"

@@ -1,7 +1,12 @@
 {{ define "main" }}
-
-<h1>Nothing Here...</h1>
-<h2 style="font-size: 1px; margin:0;">💩</h2>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
-
+<section class="page-width listing-page">
+  <p class="eyebrow">404</p>
+  <h1>{{ i18n "notFoundTitle" | default "Page not found" }}</h1>
+  <div class="listing-page__intro">
+    <p>{{ i18n "notFoundBody" | default "The page you are looking for does not exist or may have been moved." }}</p>
+  </div>
+  <div class="hero-actions">
+    <a class="button button--primary" href="{{ "/" | relLangURL }}">{{ i18n "goHome" | default "Go Home" }} <span>→</span></a>
+  </div>
+</section>
 {{ end }}

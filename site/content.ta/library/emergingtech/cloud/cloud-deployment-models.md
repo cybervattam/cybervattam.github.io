@@ -3,12 +3,12 @@ title: 'மேகக் கணிமை பணியமர்த்தல் ம
 date: 2022-08-14
 draft: false
 weight: 4
-tags: ["நவீன தொழில்நுட்பங்கள்","மேகக் கணிமை"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","மேகக் கணிமை"]
 ---
 
 ## __மேகக் கணிமை பணியமர்த்தல் முறைகள் / Cloud Deployment Models__
 <br>
-<img src="/images/ta/emergingtech/cloud/cloud-deployment-model-ta.svg">
+<img src="/images/ta/emergingtech/cloud/cloud-deployment-model-ta.svg" alt="மேகக் கணிமை பணியமர்த்தல் முறைகள்" loading="lazy">
 
 <br>
 <br>

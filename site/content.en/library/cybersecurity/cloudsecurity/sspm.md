@@ -10,7 +10,7 @@ tags: ["Cybersecurity","Cloud Security"]
 
 SaaS security posture management continuously monitors the configuration and security settings of SaaS applications. SaaS platforms are configured by the customer, so misconfigurations and excessive permissions can expose sensitive data.
 
-<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS Security Posture Management (SSPM)" loading="lazy">
 
 ### Key Features
 

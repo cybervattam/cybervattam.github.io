@@ -6,7 +6,7 @@ weight: 5
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಝೀರೋ ಟ್ರಸ್ಟ್"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ಬಳಕೆದಾರರ ಪ್ರವಾಹಗಳು" loading="lazy">
 
 ### ಝೀರೋ ಟ್ರಸ್ಟ್ ಬಳಕೆದಾರರ ಪ್ರವಾಹಗಳು
 

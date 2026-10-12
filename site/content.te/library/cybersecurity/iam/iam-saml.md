@@ -2,7 +2,7 @@
 title: 'SAML'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 17
 tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
@@ -18,4 +18,4 @@ SAML అనేది XML ఆధారిత SSO ప్రోటోకాల్. 
 
 రెండు వనరులు ఈ వివరాలను అంగీకరించిన తర్వాత, సరైన డేటా మార్పిడి మరియు ధృవీకరణ నిర్వహించబడుతుంది.
 
-<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70% alt="SAML" loading="lazy">

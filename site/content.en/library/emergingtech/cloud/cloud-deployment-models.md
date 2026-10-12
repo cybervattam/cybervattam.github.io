@@ -8,7 +8,7 @@ tags: ["Emerging Technology","Cloud Computing"]
 
 ## __Cloud Deployment Models__
 <br>
-<img src="/images/en/emergingtech/cloud/cloud-deployment-models.png">
+<img src="/images/en/emergingtech/cloud/cloud-deployment-models.png" alt="Cloud Deployment Models" loading="lazy">
 
 <br>
 <br>

@@ -14,6 +14,8 @@ other = "This article is not yet available in your language. Would you like to r
 other = "Home"
 [navAbout]
 other = "About"
+[navEvents]
+other = "Events"
 [books]
 other = "Library"
 [libraries]
@@ -60,3 +62,23 @@ other = "Search is temporarily unavailable."
 other = "Browse by tag"
 [searchByTag]
 other = "Search by tag"
+[notFoundTitle]
+other = "Page not found"
+[notFoundBody]
+other = "The page you are looking for does not exist or may have been moved."
+[goHome]
+other = "Go Home"
+[minRead]
+other = "min read"
+[verifiedBadge]
+other = "✓ Verified"
+[aiDraftBadge]
+other = "To be verified"
+[recentArticles]
+other = "Featured topics"
+[verifiedExplanation]
+other = "Human-reviewed and verified for technical and linguistic accuracy."
+[toBeVerifiedExplanation]
+other = "Translated using AI tools and awaiting human review."
+[availableIn]
+other = "Available in:"

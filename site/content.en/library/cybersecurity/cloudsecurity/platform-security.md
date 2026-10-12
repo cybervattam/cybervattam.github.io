@@ -10,9 +10,9 @@ tags: ["Cybersecurity","Cloud Security"]
 
 Cloud providers operate vast private networks and dedicated backbone connectivity. Data centers, edge locations, and regions are interconnected by global fibre and subsea cable networks, so most cloud traffic travels over provider-controlled links rather than the public internet.
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png" alt="Cloud Core Connectivity Security" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg" alt="Cloud Core Connectivity Security" loading="lazy">
 
 ### Why Connectivity Needs Protection
 

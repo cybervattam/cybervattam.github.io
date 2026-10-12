@@ -2,7 +2,7 @@
 title: 'OpenID Connect (OIDC)'
 date: 2022-08-18
 draft: false
-weight: 15
+weight: 18
 tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
@@ -15,4 +15,4 @@ JWT एक मानक है जिसका उपयोग Identity Provider
 
 संचार शुरू करने से पहले, Relying Party और Identity Provider को metadata साझा करना पड़ता है। दोनों पक्षों को संभावित scopes पर सहमति देनी होती है। Identity Provider रelying party को एक Client Secret और Client ID प्रदान करता है, और relying party को endpoint URL साझा करना पड़ता है ताकि वह कोड और टोकन प्राप्त कर सके।
 
-<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70% alt="OpenID Connect (OIDC)" loading="lazy">

@@ -10,7 +10,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","జీరో ట్�
 
 జీరో ట్రస్ట్ గుర్తింపు, పరికరాలు, నెట్‌వర్క్‌లు మరియు అప్లికేషన్‌లలోని అనేక భద్రతా సామర్థ్యాలపై ఆధారపడుతుంది.
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="జీరో ట్రస్ట్ భద్రతా సామర్థ్యాలు" loading="lazy">
 
 ### లక్ష్యం
 

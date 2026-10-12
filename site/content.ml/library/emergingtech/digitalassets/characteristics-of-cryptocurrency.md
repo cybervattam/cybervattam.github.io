@@ -8,7 +8,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### ക്രിപ്‌റ്റോകറൻസിയുടെ സവിശേഷതകൾ
 
-<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png" alt="ക്രിപ്‌റ്റോകറൻസിയുടെ സവിശേഷതകൾ" loading="lazy">
 
 | പാരാമീറ്റർ | ഫിയറ്റ് | ക്രിപ്‌റ്റോ |
 |---|---|---|
@@ -20,7 +20,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 | സുരക്ഷ | മിതമായത് | ഉയർന്നത് |
 | വികേന്ദ്രീകരണം | ഇല്ല | ഉണ്ട് |
 
-<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png" alt="ക്രിപ്‌റ്റോകറൻസിയുടെ സവിശേഷതകൾ" loading="lazy">
 
 ### സംഗ്രഹം
 

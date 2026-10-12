@@ -16,7 +16,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಸ್ಟೇಬಲ್‌ಕಾಯಿನ್ ವಿಧಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png">
+<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png" alt="ಸ್ಟೇಬಲ್‌ಕಾಯಿನ್‌ಗಳು" loading="lazy">
 
 - ಫಿಯಾಟ್-ಬೆಂಬಲಿತ
 - ಕ್ರಿಪ್ಟೋ-ಬೆಂಬಲಿತ

@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### फंजिबल एसेट्स
 
-<img src="/images/en/emergingtech/digitalassets/fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/fungible-items.png" alt="फंजिबल एसेट्स" loading="lazy">
 
 फंजिबल एसेट्स विनिमेय होते हैं और उनका मूल्य समान होता है। एक यूनिट मूल रूप से दूसरी यूनिट के समान होती है।
 

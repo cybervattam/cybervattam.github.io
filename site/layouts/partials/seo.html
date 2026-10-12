@@ -1,10 +1,15 @@
 {{ $description := .Description }}
 {{ if not $description }}
-	{{ $description = .Summary | plainify | htmlUnescape | truncate 160 }}
+	{{ $rawSummary := .Summary | plainify | htmlUnescape }}
+	{{ $trimmedSummary := strings.TrimPrefix .Title (strings.TrimSpace $rawSummary) | strings.TrimSpace }}
+	{{ $description = ($trimmedSummary | default $rawSummary) | truncate 160 }}
 {{ end }}
 {{ if not $description }}
 	{{ $description = .Site.Home.Summary | plainify | htmlUnescape | truncate 160 }}
 {{ end }}
+{{ $ogImage := "/images/shared/branding/Cybervattam-logo.png" }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $ogImage = "/images/ta/branding/cybervattam-logo-tamil.png" }}{{ end }}
+{{ with .Params.image }}{{ $ogImage = . }}{{ end }}
 
 <meta name="robots" content="index, follow" />
 <link rel="canonical" href="{{ .Permalink }}" />
@@ -13,16 +18,25 @@
 <meta property="og:description" content="{{ . }}" />
 <meta name="twitter:description" content="{{ . }}" />
 {{ end }}
+{{ $seoTitle := .Title }}
+{{ if .IsHome }}
+	{{ $seoTitle = printf "%s — %s" .Site.Title (i18n "footerTagline" | default .Title) }}
+{{ end }}
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:title" content="{{ $seoTitle }}" />
 <meta property="og:locale" content="{{ .Lang }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ .Title }}" />
+<meta property="og:image" content="{{ $ogImage | absURL }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $seoTitle }}" />
+<meta name="twitter:image" content="{{ $ogImage | absURL }}" />
 {{ if gt (len .AllTranslations) 1 }}
 	{{ range .AllTranslations }}
 <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+		{{ if eq .Lang "en" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+		{{ end }}
 	{{ end }}
 {{ end }}
 

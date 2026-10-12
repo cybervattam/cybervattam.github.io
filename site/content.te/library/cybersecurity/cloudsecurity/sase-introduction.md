@@ -13,7 +13,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 - సెక్యూరిటీ సర్వీస్ ఎడ్జ్: నెట్‌వర్క్ భద్రతను సేవగా అందిస్తుంది
 - WAN ఎడ్జ్: నెట్‌వర్క్ కనెక్టివిటీని సేవగా అందిస్తుంది
 
-<img src="/images/en/cybersecurity/cloudsecurity/sase.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sase.png" alt="సురక్షిత యాక్సెస్ సర్వీస్ ఎడ్జ్ (SASE)" loading="lazy">
 
 ### ప్రధాన భాగాలు
 

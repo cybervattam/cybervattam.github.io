@@ -24,7 +24,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 #### ನಿಷ್ಕ್ರಿಯ ಗುರುತುಗಳು
 ಕೆಲವು ಗುರುತುಗಳು ತಾವು ಇನ್ನು ಮುಂದೆ ಬಳಸದೇ ಇರುವ ಸಂಪನ್ಮೂಲಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಇದರಿಂದ ಅಪಾಯದ ವ್ಯಾಪ್ತಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png" alt="ಕ್ಲೌಡ್ ಗುರುತಿನ ಸವಾಲುಗಳು" loading="lazy">
 
 ### ಪರಿಣಾಮ
 

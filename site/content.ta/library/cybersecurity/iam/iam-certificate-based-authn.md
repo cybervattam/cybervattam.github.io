@@ -2,10 +2,10 @@
 title: 'சான்றிதழ் அடிப்படையிலான சான்றுறுதி'
 date: 2022-08-18
 draft: false
-weight: 13
+weight: 15
 tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### சான்றிதழ் அடிப்படையிலான சான்றுறுதி (Certificate Based Authentication)
 
-<img src="/images/ta/cybersecurity/iam/iam-certificate-based-auth-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-certificate-based-auth-ta.svg" width=50% alt="சான்றிதழ் அடிப்படையிலான சான்றுறுதி" loading="lazy">

@@ -2,13 +2,13 @@
 title: 'SSO / फेडरेशन'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 16
 tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
 ### SSO / फेडरेशन (SSO / Federation)
 
-<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25% alt="SSO / फेडरेशन" loading="lazy">
 
 #### फेडरेशन (विभिन्न डोमेन)
 फेडरेशन दो संस्थाओं/सिस्टमों के बीच विश्वास संबंध को दर्शाता है। इसमें यह तय किया जाता है कि उपयोगकर्ता के क्रेडेंशियल्स कहाँ संग्रहीत हैं और तृतीय पक्ष को बिना देखने के उन्हें कैसे सत्यापित किया जाए।

@@ -28,7 +28,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ഇനി ഉപയോഗിക്കാത്ത വിഭവങ്ങളിലേക്കുള്ള ആക്‌സസ് ചില തിരിച്ചറിയലുകൾക്ക് തുടർന്നും ഉണ്ടാകാം; ഇത് അപകടസാധ്യത വർധിപ്പിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png" alt="ക്ലൗഡ് തിരിച്ചറിയൽ വെല്ലുവിളികൾ" loading="lazy">
 
 ### ആഘാതം
 

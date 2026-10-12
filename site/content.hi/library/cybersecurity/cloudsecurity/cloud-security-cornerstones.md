@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 क्लाउड में सुरक्षा कई मूलभूत समाधान-आधारस्तंभों पर निर्मित होती है। प्रत्येक आधारस्तंभ ग्राहक की एक सामान्य आवश्यकता को संबोधित करता है और उसे क्लाउड सुरक्षा सेवा तथा प्रौद्योगिकी के क्षेत्र से जोड़ता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png" alt="क्लाउड सुरक्षा के आधारस्तंभ" loading="lazy">
 
 ### आधारस्तंभ और सेवाएँ
 

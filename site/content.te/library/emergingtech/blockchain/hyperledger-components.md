@@ -2,7 +2,7 @@
 title: 'హైపర్‌లెడ్డ్జర్ బ్లాక్‌చైన్ భాగాలు'
 date: 2022-08-15
 draft: false
-weight: 6
+weight: 7
 tags: ["ఉద్భవిస్తున్న సాంకేతికతలు","బ్లాక్‌చైన్"]
 ---
 
@@ -23,4 +23,4 @@ __ఇవెంట్స్__ - బ్లాక్‌చైన్‌లో ము
 __మెంబర్స్__ - అనుమతి ఆధారిత బ్లాక్‌చైన్ నెట్‌వర్క్‌లో, సభ్యుల సేవలు గుర్తింపులను ధృవీకరిస్తుంది, ప్రామాణీకరిస్తుంది మరియు నిర్వహిస్తుంది.
 
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50% alt="హైపర్‌లెడ్డ్జర్ బ్లాక్‌చైన్ భాగాలు" loading="lazy">

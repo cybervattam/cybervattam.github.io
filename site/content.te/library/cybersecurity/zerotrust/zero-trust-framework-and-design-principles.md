@@ -6,7 +6,7 @@ weight: 3
 tags: ["సైబర్‌సెక్యూరిటీ","జీరో ట్రస్ట్"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png" alt="జీరో ట్రస్ట్ ఫ్రేమ్‌వర్క్ మరియు డిజైన్ సూత్రాలు" loading="lazy">
 
 ### జీరో ట్రస్ట్ ఫ్రేమ్‌వర్క్ మరియు డిజైన్ సూత్రాలు
 

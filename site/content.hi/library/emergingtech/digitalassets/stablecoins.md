@@ -16,7 +16,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### स्टेबलकॉइन के प्रकार
 
-<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png">
+<img src="/images/en/emergingtech/digitalassets/stablecoins-types.png" alt="स्टेबलकॉइन" loading="lazy">
 
 - फिएट-समर्थित
 - क्रिप्टो-समर्थित

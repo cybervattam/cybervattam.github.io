@@ -14,6 +14,8 @@ other = "यह लेख अभी आपके भाषा में उप�
 other = "मुखपृष्ठ"
 [navAbout]
 other = "हमारे बारे में"
+[navEvents]
+other = "कार्यक्रम"
 [books]
 other = "पुस्तकालय"
 [libraries]
@@ -60,3 +62,23 @@ other = "खोज अस्थायी रूप से उपलब्ध न
 other = "टैग के अनुसार ब्राउज़ करें"
 [searchByTag]
 other = "टैग से खोजें"
+[notFoundTitle]
+other = "पृष्ठ नहीं मिला"
+[notFoundBody]
+other = "आप जिस पृष्ठ की तलाश कर रहे हैं वह मौजूद नहीं है या स्थानांतरित कर दिया गया है।"
+[goHome]
+other = "मुखपृष्ठ पर जाएँ"
+[minRead]
+other = "मिनट पठन"
+[verifiedBadge]
+other = "✓ सत्यापित"
+[aiDraftBadge]
+other = "सत्यापित किया जाना है"
+[recentArticles]
+other = "प्रमुख विषय"
+[verifiedExplanation]
+other = "तकनीकी और भाषाई सटीकता के लिए मानव द्वारा समीक्षित और सत्यापित।"
+[toBeVerifiedExplanation]
+other = "AI उपकरणों की सहायता से अनुवादित और मानव समीक्षा की प्रतीक्षा में।"
+[availableIn]
+other = "इन भाषाओं में उपलब्ध:"

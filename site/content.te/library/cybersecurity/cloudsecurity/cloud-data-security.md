@@ -14,7 +14,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 క్లౌడ్ డేటా భద్రతలో ఎన్‌క్రిప్షన్ కీలక నియంత్రణ. డేటా సార్వభౌమత్వం, అనుగుణ్యత, విశ్వసనీయత వంటి అవసరాలను తీర్చడానికీ ఇది ఉపయోగపడుతుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png" alt="క్లౌడ్ డేటా భద్రత" loading="lazy">
 
 ### కీ నిర్వహణ నమూనాలు
 
@@ -30,7 +30,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 - ఆర్థిక, మానవ వనరులు, న్యాయ, మేధో సంపత్తి సంబంధిత డేటా అత్యంత కీలకం
 - వినియోగదారుల ప్రాధాన్యతలను బట్టి విశ్వాసం, చురుకుదనం, నియంత్రణపై అంచనాలు మారుతాయి
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png" alt="క్లౌడ్ డేటా భద్రత" loading="lazy">
 
 ### భద్రతా లక్ష్యం
 

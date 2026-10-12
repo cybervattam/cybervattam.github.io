@@ -2,7 +2,7 @@
 title: 'പാസ്‌വേഡ് ഇല്ലാത്ത ഓതന്റിക്കേഷൻ'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 13
 tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
@@ -17,14 +17,14 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 #### __പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ കാർഡ് (PKI Card)__
 പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചർ വെബ്‌സൈറ്റുകളും ഉപയോക്താക്കളും തമ്മിലുള്ള ആശയവിനിമയം സംരക്ഷിക്കുന്ന ക്രിപ്റ്റോഗ്രാഫിക്, സൈബർ സുരക്ഷാ ചട്ടക്കൂടാണ്.
 
- <img src="/images/shared/screenshots/iam-pki-card.svg">
+ <img src="/images/shared/screenshots/iam-pki-card.svg" alt="പാസ്‌വേഡ് ഇല്ലാത്ത ഓതന്റിക്കേഷൻ" loading="lazy">
 
 <br>
 
 #### __Fast Identity Online (FIDO)__
 FIDO ഓതന്റിക്കേഷൻ നിരവധി ഉപയോക്തൃനാമങ്ങളും പാസ്‌വേഡുകളും ഉപയോഗിക്കുന്നതിന്റെ ആവശ്യം കുറയ്ക്കാൻ സംഘടനകൾ ചേർന്ന് ആരംഭിച്ച സംരംഭമാണ്.
 
- <img src="/images/shared/screenshots/iam-fido.png">
+ <img src="/images/shared/screenshots/iam-fido.png" alt="പാസ്‌വേഡ് ഇല്ലാത്ത ഓതന്റിക്കേഷൻ" loading="lazy">
 
 <br>
 <br>
@@ -34,4 +34,4 @@ FIDO ഓതന്റിക്കേഷൻ നിരവധി ഉപയോക്�
 
 സുരക്ഷാ കീ USB ഡ്രൈവിനെപ്പോലെ കാണപ്പെടുന്ന ചെറിയ ഹാർഡ്‌വെയർ ഉപകരണമാണ്. പിന്തുണയ്ക്കുന്ന പ്ലാറ്റ്ഫോമുകളിൽ പാസ്‌വേഡിനൊപ്പം അധിക ഓതന്റിക്കേഷൻ ഘടകമായി ഇത് ഉപയോഗിക്കാം.
 
- <img src="/images/shared/screenshots/iam-yubikey.jpg">
+ <img src="/images/shared/screenshots/iam-yubikey.jpg" alt="പാസ്‌വേഡ് ഇല്ലാത്ത ഓതന്റിക്കേഷൻ" loading="lazy">

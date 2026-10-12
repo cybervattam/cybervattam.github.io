@@ -13,7 +13,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 - നെറ്റ്‌വർക്ക് സുരക്ഷ ഒരു സേവനമായി നൽകുന്ന സെക്യൂരിറ്റി സർവീസ് എഡ്ജ്
 - നെറ്റ്‌വർക്ക് കണക്റ്റിവിറ്റി ഒരു സേവനമായി നൽകുന്ന WAN എഡ്ജ്
 
-<img src="/images/en/cybersecurity/cloudsecurity/sase.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sase.png" alt="സെക്യൂർ ആക്‌സസ് സർവീസ് എഡ്ജ് (SASE)" loading="lazy">
 
 ### പ്രധാന ഘടകങ്ങൾ
 

@@ -6,15 +6,22 @@ weight: 3
 tags: ["About Us"]
 ---
 
-Hello...!!! Welcome to Cybervattam...!!! 
+Welcome to **Cybervattam**—an open community initiative dedicated to creating and sharing technology and cybersecurity knowledge in Indian languages, empowering everyone to learn core technical concepts in their native language.
 
-The purpose of this site is to create/share the technical knowledge content in Indian languages to facilitate learning technology in your respective native Indian language.
+Our library is currently available in **English, Tamil, Malayalam, Telugu, Kannada, and Hindi**, and we are actively working to expand into additional Indian languages.
 
-Currently, content is available in English, Tamil, Malayalam, Telugu, Kannada & Hindi. We are very interested in making it available in other languages ​​as well.
+### Translation & Localization Approach
 
-Content is primarly created in English & translated to other languages using AI tools. AI may make mistakes in translation. Please help us correct it if you find any. 
+Articles are primarily authored in English and localized across supported languages. **Cybervattam leverages AI translation tools combined with community review.** Because automated translation can occasionally miss context or nuance, we continuously refine our content through human proofreading. Spot an awkward term or phrasing? [Suggest an edit on GitHub](https://github.com/cybervattam/cybervattam.github.io/issues/new) or [Review our Indic Tech Glossary](https://github.com/cybervattam/cybervattam.github.io).
 
-You can help by creating content in English & make it available in all our supported language.
-Contribute on GitHub: https://github.com/cybervattam/cybervattam.github.io.git
+### How You Can Contribute
 
-All works on this site are provided under the [Creative Commons-Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)  (CC-BY-NC-SA 4.0) license.
+Whether you are a technologist, educator, translator, or native speaker, you can help make technical knowledge accessible in every Indian language:
+
+- **Fix a translation**: Submit a [GitHub Pull Request](https://github.com/cybervattam/cybervattam.github.io/pulls), [open a quick edit issue](https://github.com/cybervattam/cybervattam.github.io/issues/new), or send us feedback via our [Contact Us](/library/aboutus/contactus/contactus/) page.
+- **Write an article**: Author a new guide or lesson in English or directly in your native script via the [Cybervattam GitHub repository](https://github.com/cybervattam/cybervattam.github.io).
+- **Suggest a regional technical term**: Propose natural, accurate native-language equivalents for cybersecurity and emerging technology terms by [submitting a glossary suggestion](https://github.com/cybervattam/cybervattam.github.io/issues/new).
+
+### Open License
+
+All works on this site are shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) license.

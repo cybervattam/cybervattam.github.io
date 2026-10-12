@@ -12,7 +12,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಸಂಪರ್ಕದ ಆಧಾರದ ಮೇಲೆ
 
-<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png" alt="ಕ್ರಿಪ್ಟೋ ವಾಲೆಟ್‌ಗಳ ವಿಧಗಳು" loading="lazy">
 
 #### ಕೋಲ್ಡ್ ಸ್ಟೋರೇಜ್ (ಆಫ್‌ಲೈನ್)
 - ಹಾರ್ಡ್‌ವೇರ್ ವಾಲೆಟ್: ಖಾಸಗಿ ಕೀಗಳನ್ನು ಹಾರ್ಡ್‌ವೇರ್ ಭದ್ರತಾ ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ (HSM) ಅಥವಾ ಹಾರ್ಡ್‌ವೇರ್ ಟೋಕನ್‌ಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ.

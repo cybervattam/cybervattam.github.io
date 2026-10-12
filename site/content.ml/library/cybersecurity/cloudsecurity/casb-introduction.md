@@ -12,7 +12,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ക്ലൗഡ് വിഭവങ്ങൾ ആക്‌സസ് ചെയ്യുമ്പോൾ സ്ഥാപനത്തിന്റെ സുരക്ഷാ നയങ്ങൾ CASB-കൾ ഏകീകരിച്ച് നടപ്പാക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png" alt="ക്ലൗഡ് ആക്‌സസ് സെക്യൂരിറ്റി ബ്രോക്കർ (CASB)" loading="lazy">
 
 ### CASB-യുടെ പൊതുവായ സവിശേഷതകൾ
 
@@ -31,7 +31,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ### വിന്യാസ രീതികൾ
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png" alt="ക്ലൗഡ് ആക്‌സസ് സെക്യൂരിറ്റി ബ്രോക്കർ (CASB)" loading="lazy">
 
 ### ഉപയോഗ സാഹചര്യങ്ങൾ
 
@@ -40,4 +40,4 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 - ഭീഷണി കണ്ടെത്തലും ഫോറൻസിക് അന്വേഷണവും
 - പാലനത്തിനുള്ള പിന്തുണയും പ്രവർത്തന നിരീക്ഷണവും
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png" alt="ക്ലൗഡ് ആക്‌സസ് സെക്യൂരിറ്റി ബ്രോക്കർ (CASB)" loading="lazy">

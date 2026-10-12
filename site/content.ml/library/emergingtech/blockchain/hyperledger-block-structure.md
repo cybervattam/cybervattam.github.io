@@ -2,7 +2,7 @@
 title: 'ഹൈപ്പർലെഡ്ജർ ബ്ലോക്ക് ഘടന'
 date: 2022-08-15
 draft: false
-weight: 5
+weight: 6
 tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ","ബ്ളോക്ക്ചെയിൻ"]
 ---
 
@@ -31,5 +31,5 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
  <br>
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50% alt="ഹൈപ്പർലെഡ്ജർ ബ്ലോക്ക് ഘടന" loading="lazy">
 

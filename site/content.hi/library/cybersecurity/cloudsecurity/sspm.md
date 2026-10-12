@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 SaaS सुरक्षा स्थिति प्रबंधन SaaS एप्लिकेशन के कॉन्फ़िगरेशन और सुरक्षा सेटिंग्स की लगातार निगरानी करता है। SaaS प्लेटफ़ॉर्म ग्राहक कॉन्फ़िगर करते हैं, इसलिए गलत कॉन्फ़िगरेशन और अत्यधिक अनुमतियाँ संवेदनशील डेटा को उजागर कर सकती हैं।
 
-<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS सुरक्षा स्थिति प्रबंधन (SSPM)" loading="lazy">
 
 ### मुख्य विशेषताएँ
 

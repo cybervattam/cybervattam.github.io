@@ -23,7 +23,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಹೋಲಿಕೆ
 
-<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="ಕ್ರಿಪ್ಟೋ ಎಕ್ಸ್‌ಚೇಂಜ್" loading="lazy">
 
 | ವಿಧ | ಗುಣಲಕ್ಷಣಗಳು |
 |---|---|

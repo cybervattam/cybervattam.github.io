@@ -2,13 +2,13 @@
 title: 'ஒற்றை நுழைவு / கூட்டமைத்தல்'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 16
 tags: ["தகவல் பாதுகாப்பு","அடையாளம் & அணுகல் மேலாண்மை"]
 ---
 
 ### ஒற்றை நுழைவு / கூட்டமைத்தல் (SSO/Federation)
 
-<img src="/images/ta/cybersecurity/iam/iam-sso-protocols-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-sso-protocols-ta.svg" width=25% alt="ஒற்றை நுழைவு / கூட்டமைத்தல்" loading="lazy">
 
 #### கூட்டமைத்தல் (வெவ்வேறு களங்கள்)
 கூட்டமைப்பு என்பது இரு அமைப்புகளுக்கு / நிறுவனங்களுக்கு இடையே இருக்கும் நம்பிக்கை உறவு.

@@ -6,7 +6,7 @@ weight: 7
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಮೂಲಸೌಕರ್ಯ (PKI)"]
 ---
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png" alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
 
 ### ಡಿಜಿಟಲ್ ಸಿಗ್ನೇಚರ್ ಪ್ರಮಾಣಪತ್ರ ಪ್ರಕಾರಗಳು / Digital Signature Certificate Types
 
@@ -20,7 +20,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 
 ### ಡಿಜಿಟಲ್ ಸಿಗ್ನೇಚರ್ (ಸಹಿ / ಪರಿಶೀಲನೆ) / Digital Signature (Signing / Verification)
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png" alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
 
 <br>
 
@@ -34,6 +34,8 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 
 ಈ ದೃಢೀಕರಣ ವಿಧಾನದ ವೈಶಿಷ್ಟ್ಯವೆಂದರೆ, ಕೇವಲ ಮಾನವರಿಗೆ ಮಾತ್ರ ಕೆಲಸ ಮಾಡುವ ಕೆಲವು ಪರಿಹಾರಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿ, ಎಲ್ಲಾ ರೀತಿಯ ಬಳಕೆದಾರರಿಗೆ ಒಂದೇ ದೃಢೀಕರಣ ವಿಧಾನವನ್ನು ಅನ್ವಯಿಸಬಹುದು.
 
+<img src="/images/en/cybersecurity/pki/pki-identity-types.png" width=50% alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
+
 ಪ್ರಮಾಣಪತ್ರ ಆಧಾರಿತ ದೃಢೀಕರಣವು ನಾಲ್ಕು ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಗಳ ಆಧಾರದ ಮೇಲೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಇವುಗಳಲ್ಲಿ ಒಂದು ಪ್ರಶ್ನೆಗೆ ತಪ್ಪು ಉತ್ತರ ಬಂದರೆ, ದೃಢೀಕರಣ ವಿಫಲವಾಗಿ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗುತ್ತದೆ.
 
 1. ಪ್ರಮಾಣಪತ್ರವು ವಿಶ್ವಾಸಾರ್ಹ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಯಿಂದ ನೀಡಲಾಗಿದೆಯೇ?
@@ -45,7 +47,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 4. ಬಳಕೆದಾರನು ಪ್ರಮಾಣಪತ್ರದ ಸ್ವಾಮ್ಯವನ್ನು ಪ್ರಸ್ತುತಪಡಿಸಿದ್ದಾನೇ?
    - ಈ ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಖಾಸಗಿ ಕೀಲಿಯನ್ನು ಬಳಕೆದಾರನಿಗೆ ಒದಗಿಸಿದ್ದಾನೇ?
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png" alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
 
 <br>
 <br>
@@ -69,9 +71,9 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
   - ವೈದ್ಯಕೀಯ ಗುಣವಚನ ಕಾರ್ಡ್
   - ಡಿಜಿಟಲ್ ಸಿಗ್ನೇಚರ್
 
-<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
+<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg" alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
 
-<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png">
+<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png" alt="ಡಿಜಿಟಲ್ ಸಹಿ ಪ್ರಮಾಣಪತ್ರ" loading="lazy">
 <br>
 Image Credit: https://medium.com/gupta-siddhant/
 <br>

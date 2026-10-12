@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 ट्रस्ट चेन में कई घटक होते हैं।
 
-<img src="/images/hi/cybersecurity/pki/pki-chain-of-trust.png">
+<img src="/images/hi/cybersecurity/pki/pki-chain-of-trust.png" alt="ट्रस्ट चेन" loading="lazy">
 
 सबसे पहले एक ट्रस्ट एंकर (Trust Anchor) होता है, जिसे रूट सर्टिफिकेटिंग अथॉरिटी (Root Certifying Authority) भी कहा जाता है।
 
@@ -20,7 +20,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 अंत में, किसी वेबसाइट, संगठन या व्यक्ति जैसे एंटिटी को दिया गया एंड-एंटिटी प्रमाणपत्र (End Entity Certificate) मिलता है।
 
-<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-chain.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-chain.png" alt="ट्रस्ट चेन" loading="lazy">
 
 ### ट्रस्ट चेन सत्यापन / Chain of Trust Verification
 

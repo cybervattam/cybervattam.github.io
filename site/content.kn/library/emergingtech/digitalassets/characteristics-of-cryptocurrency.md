@@ -8,7 +8,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿಯ ಗುಣಲಕ್ಷಣಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png" alt="ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿಯ ಗುಣಲಕ್ಷಣಗಳು" loading="lazy">
 
 | ಪ್ಯಾರಾಮೀಟರ್ | ಫಿಯಾಟ್ | ಕ್ರಿಪ್ಟೋ |
 |---|---|---|
@@ -20,7 +20,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 | ಭದ್ರತೆ | ಮಧ್ಯಮ | ಹೆಚ್ಚು |
 | ವಿಕೇಂದ್ರೀಕರಣ | ಇಲ್ಲ | ಹೌದು |
 
-<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png" alt="ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿಯ ಗುಣಲಕ್ಷಣಗಳು" loading="lazy">
 
 ### ಸಾರಾಂಶ
 

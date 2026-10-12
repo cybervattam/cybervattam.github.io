@@ -12,7 +12,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### കണക്റ്റിവിറ്റിയുടെ അടിസ്ഥാനത്തിൽ
 
-<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png" alt="ക്രിപ്‌റ്റോ വാലറ്റുകളുടെ തരങ്ങൾ" loading="lazy">
 
 #### കോൾഡ് സ്റ്റോറേജ് (ഓഫ്‌ലൈൻ)
 - ഹാർഡ്‌വെയർ വാലറ്റ്: സ്വകാര്യ കീകൾ ഹാർഡ്‌വെയർ സുരക്ഷാ മോഡ്യൂളുകളിലോ (HSM) ഹാർഡ്‌വെയർ ടോക്കണുകളിലോ സംഭരിക്കുന്നു.

@@ -12,7 +12,7 @@ Gartner ಪ್ರಕಾರ, ಕ್ಲೌಡ್ ಆಕ್ಸೆಸ್ ಸೆಕ�
 
 CASBಗಳು ಎಂಟರ್‌ಪ್ರೈಸ್ ಭದ್ರತಾ ನೀತಿಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ, ಕ್ಲೌಡ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪ್ರವೇಶಿಸುವಾಗ ಅವುಗಳನ್ನು ಜಾರಿಗೊಳಿಸುತ್ತವೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png" alt="ಕ್ಲೌಡ್ ಆಕ್ಸೆಸ್ ಸೆಕ್ಯುರಿಟಿ ಬ್ರೋಕರ್ (CASB)" loading="lazy">
 
 ### ಸಾಮಾನ್ಯ CASB ವೈಶಿಷ್ಟ್ಯಗಳು
 
@@ -31,7 +31,7 @@ CASBಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಕ್ಲೌಡ್‌ನಲ�
 
 ### ನಿಯೋಜನೆ ವಿಧಾನಗಳು
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png" alt="ಕ್ಲೌಡ್ ಆಕ್ಸೆಸ್ ಸೆಕ್ಯುರಿಟಿ ಬ್ರೋಕರ್ (CASB)" loading="lazy">
 
 ### ಬಳಕೆಯ ಸಂದರ್ಭಗಳು
 
@@ -40,4 +40,4 @@ CASBಗಳನ್ನು ಮುಖ್ಯವಾಗಿ ಕ್ಲೌಡ್‌ನಲ�
 - ಬೆದರಿಕೆ ಪತ್ತೆ ಮತ್ತು ಫೊರೆನ್ಸಿಕ್ ತನಿಖೆ
 - ಅನುಸರಣೆ ಬೆಂಬಲ ಮತ್ತು ಚಟುವಟಿಕೆ ಮೇಲ್ವಿಚಾರಣೆ
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png" alt="ಕ್ಲೌಡ್ ಆಕ್ಸೆಸ್ ಸೆಕ್ಯುರಿಟಿ ಬ್ರೋಕರ್ (CASB)" loading="lazy">

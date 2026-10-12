@@ -2,11 +2,11 @@
 title: 'बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना'
 date: 2022-08-15
 draft: false
-weight: 3
+weight: 4
 tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
-### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना / Block Structure in Bitcoin Blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10% alt="बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना" loading="lazy"> बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना / Block Structure in Bitcoin Blockchain
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","ब्�
     - लेनदेन काउंटर (Transaction Counter)
     - लेनदेन #1, #2, #3, ... ,#n
 
-<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-block-structure.png" width=50% alt="बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना" loading="lazy">
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["उभरती प्रौद्योगिकियाँ","ब्�
 
 <br>
 <br>
-<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-bitcoin-sample-blocks.png" width=50% alt="बिटकॉइन ब्लॉकचेन ब्लॉक की संरचना" loading="lazy">

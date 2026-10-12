@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 CIEM एक निरंतर जीवनचक्र का पालन करता है, जो संगठनों को समय के साथ पहचानों और अनुमतियों को सुरक्षित रूप से प्रबंधित करने में मदद करता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png" alt="CIEM जीवनचक्र" loading="lazy">
 
 #### डिस्कवरी
 CIEM क्लाउड गतिविधि और नीति संरचनाओं का लगातार विश्लेषण करके क्लाउड पहचानों और उनके एंटाइटलमेंट की विस्तृत दृश्यता प्रदान करता है।

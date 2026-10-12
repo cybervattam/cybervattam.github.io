@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಝೀರೋ ಟ್ರಸ್�
 
 ಝೀರೋ ಟ್ರಸ್ಟ್ ಗುರುತು, ಸಾಧನಗಳು, ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಹಲವು ಭದ್ರತಾ ಸಾಮರ್ಥ್ಯಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ.
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ಭದ್ರತಾ ಸಾಮರ್ಥ್ಯಗಳು" loading="lazy">
 
 ### ಗುರಿ
 

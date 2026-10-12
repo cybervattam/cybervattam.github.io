@@ -2,7 +2,7 @@
 title: 'OpenID Connect'
 date: 2022-08-18
 draft: false
-weight: 15
+weight: 18
 tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
@@ -16,4 +16,4 @@ OIDC scopes define the claims, or user attributes, that an application can acces
 
 Before communication begins, the relying party and identity provider exchange metadata. Both parties must agree on the supported scopes. The identity provider provides the relying party with a client secret and client identifier. The relying party also shares endpoint URLs so that it can receive authorization codes and tokens.
 
-<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70% alt="OpenID Connect" loading="lazy">

@@ -10,12 +10,12 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 
 ವಿಶ್ವಾಸ ಸಂಗ್ರಹವು ಸ್ವಯಂಪ್ರಕೃತಿ ಅಥವಾ ನೈಸರ್ಗಿಕವಾಗಿ ವಿಶ್ವಾಸಗೊಳ್ಳಬಹುದಾದ ಮೂಲ ಪ್ರಮಾಣಪತ್ರಗಳ ಒಂದು ಗುಂಪಾಗಿರುತ್ತದೆ.
 
-<img src="/images/shared/screenshots/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" alt="ವಿಶ್ವಾಸ ಸಂಗ್ರಹ / ಪ್ರಮಾಣಪತ್ರ ಸಂಗ್ರಹ" loading="lazy">
 
 ಇವುಗಳನ್ನು ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂಗಳು ಮತ್ತು ವೆಬ್‌ಬ್ರೌಸರ್‌ಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಸಂಸ್ಥೆಗಳು ನಿರ್ವಹಿಸುತ್ತವೆ.
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" alt="ವಿಶ್ವಾಸ ಸಂಗ್ರಹ / ಪ್ರಮಾಣಪತ್ರ ಸಂಗ್ರಹ" loading="lazy">
 
 ### ಭಾರತದಲ್ಲಿ ಪರವಾನಗಿ ಹೊಂದಿರುವ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಗಳು / Licensed Certifying Authorities in India
 
-<img src="/images/shared/screenshots/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png" alt="ವಿಶ್ವಾಸ ಸಂಗ್ರಹ / ಪ್ರಮಾಣಪತ್ರ ಸಂಗ್ರಹ" loading="lazy">

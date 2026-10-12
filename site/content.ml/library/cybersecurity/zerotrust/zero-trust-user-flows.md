@@ -6,7 +6,7 @@ weight: 5
 tags: ["സൈബർസുരക്ഷ","സീറോ ട്രസ്റ്റ്"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="സീറോ ട്രസ്റ്റ് ഉപയോക്തൃ പ്രവാഹങ്ങൾ" loading="lazy">
 
 ### സീറോ ട്രസ്റ്റ് ഉപയോക്തൃ പ്രവാഹങ്ങൾ
 

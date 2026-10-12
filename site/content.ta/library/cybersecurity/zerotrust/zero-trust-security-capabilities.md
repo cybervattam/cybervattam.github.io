@@ -10,7 +10,7 @@ tags: ["தகவல் பாதுகாப்பு","நம்பாமை"]
 
 நம்பாமை அடையாளம், சாதனங்கள், நெட்வொர்க்குகள் மற்றும் பயன்பாடுகள் முழுவதும் உள்ள பல பாதுகாப்புத் திறன்களைச் சார்ந்துள்ளது.
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-capabilities.png" alt="நம்பாமை பாதுகாப்புத் திறன்கள்" loading="lazy">
 
 ### குறிக்கோள்
 

@@ -14,13 +14,13 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 വർക്ക്‌ലോഡുകൾ കൂടുതൽ ചെറുതും കുറഞ്ഞ ആയുസ്സുള്ളതുമായി മാറി; അതിനാൽ അവയെ സുരക്ഷിതമാക്കേണ്ട രീതിയും മാറുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="ക്ലൗഡ് വർക്ക്‌ലോഡ് പ്രൊട്ടക്ഷൻ പ്ലാറ്റ്‌ഫോം (CWPP)" loading="lazy">
 
 ### ജീവിതചക്രത്തിലുടനീളമുള്ള സംരക്ഷണം
 
 വർക്ക്‌ലോഡിന്റെ ബിൽഡ് ഘട്ടവും റൺടൈം ഘട്ടവും CWPP സംരക്ഷിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="ക്ലൗഡ് വർക്ക്‌ലോഡ് പ്രൊട്ടക്ഷൻ പ്ലാറ്റ്‌ഫോം (CWPP)" loading="lazy">
 
 #### സുരക്ഷിത ബിൽഡ്
 - ദുർബലതകളുള്ള ഘടകങ്ങൾ
@@ -42,7 +42,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ഹാർഡനിംഗ്, ക്രമീകരണം, ദുർബലതാ മാനേജ്മെന്റ്, നെറ്റ്‌വർക്ക് സെഗ്മെന്റേഷൻ എന്നിവയിൽനിന്ന് ആരംഭിച്ച്, അടിസ്ഥാനപരമായ നിയന്ത്രണങ്ങൾക്ക് ആദ്യം മുൻഗണന നൽകാം.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="ക്ലൗഡ് വർക്ക്‌ലോഡ് പ്രൊട്ടക്ഷൻ പ്ലാറ്റ്‌ഫോം (CWPP)" loading="lazy">
 
 ### സുരക്ഷാ ലക്ഷ്യം
 

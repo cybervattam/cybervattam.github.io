@@ -2,7 +2,7 @@
 title: 'ఓపెన్ ఐడీ కనెక్ట్ (OIDC)'
 date: 2022-08-18
 draft: false
-weight: 15
+weight: 18
 tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
@@ -16,4 +16,4 @@ OIDCలో ఒక అప్లికేషన్ ఉపయోగించవల�
 
 ముందుగా, రెండు పార్టీలూ ఒకే Metadata గురించి అర్థం చేసుకోవాలి. IDP, Relying Partyకి క్లయింట్ ID మరియు రహస్య సంకేతాన్ని అందిస్తుంది. తర్వాత అప్లికేషన్, token endpoint మరియు redirect URIలను ధృవీకరిస్తుంది.
 
-<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-oidc-auth-process.png" width=70% alt="ఓపెన్ ఐడీ కనెక్ట్ (OIDC)" loading="lazy">

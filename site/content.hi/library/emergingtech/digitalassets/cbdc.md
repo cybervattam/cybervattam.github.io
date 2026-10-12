@@ -16,7 +16,7 @@ CBDC केंद्रीय बैंक की देनदारियों
 
 भारतीय रिज़र्व बैंक (RBI) ने भारत के CBDC के रूप में डिजिटल रुपया जारी किया है। इसके मूल्यवर्ग नीचे दिए गए हैं।
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="सेंट्रल बैंक डिजिटल करेंसी (CBDC)" loading="lazy">
 
 ### CBDC की विशेषताएँ
 
@@ -32,7 +32,7 @@ CBDC की विशेषताओं में शामिल हैं:
 
 #### होलसेल CBDC
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="सेंट्रल बैंक डिजिटल करेंसी (CBDC)" loading="lazy">
 
 - होलसेल CBDC वित्तीय संस्थानों के सीमित उपयोग के लिए बनाई जाती हैं।
 - इनका उपयोग अंतर-बैंक भुगतान या प्रतिभूति निपटान की दक्षता बढ़ाने के लिए किया जाता है।
@@ -40,7 +40,7 @@ CBDC की विशेषताओं में शामिल हैं:
 
 #### रिटेल CBDC
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="सेंट्रल बैंक डिजिटल करेंसी (CBDC)" loading="lazy">
 
 - रिटेल CBDC निजी क्षेत्र, गैर-वित्तीय उपभोक्ताओं और व्यवसायों सहित सभी के उपयोग के लिए उपलब्ध हो सकती हैं।
 - वित्तीय समावेशन को बढ़ावा देने में रुचि रखने वाले केंद्रीय बैंकों द्वारा रिटेल CBDC जारी करने पर विचार किए जाने की अपेक्षा है।
@@ -54,7 +54,7 @@ CBDC की विशेषताओं में शामिल हैं:
 
 ### भारत में CBDC के लिए RBI का डिज़ाइन विकल्प
 
-<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="सेंट्रल बैंक डिजिटल करेंसी (CBDC)" loading="lazy">
 
 ### मुख्य अवधारणा
 

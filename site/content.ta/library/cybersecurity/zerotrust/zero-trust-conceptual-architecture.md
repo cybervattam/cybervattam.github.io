@@ -6,7 +6,7 @@ weight: 4
 tags: ["தகவல் பாதுகாப்பு","நம்பாமை"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="நம்பாமை கருத்தியல் கட்டமைப்பு" loading="lazy">
 
 ### நம்பாமை கருத்தியல் கட்டமைப்பு
 

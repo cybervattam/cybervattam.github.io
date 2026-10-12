@@ -10,9 +10,9 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 అప్లికేషన్‌లు, డేటా హోస్ట్ అయ్యే భౌతిక హార్డ్‌వేర్‌ను క్లౌడ్ సేవా ప్రొవైడర్ సురక్షితం చేయాలి.
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg" alt="హార్డ్‌వేర్ భద్రత" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg" alt="హార్డ్‌వేర్ భద్రత" loading="lazy">
 
 ### సిఫార్సు చేసిన చర్యలు
 

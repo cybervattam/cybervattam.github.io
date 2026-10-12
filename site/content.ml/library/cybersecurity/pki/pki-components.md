@@ -8,7 +8,7 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 ### പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചറിന്റെ ഘടകങ്ങൾ (PKI Components)
 
-<img src="/images/en/cybersecurity/pki/pki-components.png">
+<img src="/images/en/cybersecurity/pki/pki-components.png" alt="പബ്ലിക് കീ ഇൻഫ്രാസ്ട്രക്ചറിന്റെ ഘടകങ്ങൾ" loading="lazy">
 
 * #### രജിസ്ട്രേഷൻ അതോറിറ്റി (RA)
     * സർട്ടിഫിക്കറ്റിനായി അപേക്ഷിക്കുന്ന വ്യക്തികളുടെയും സ്ഥാപനങ്ങളുടെയും ഐഡന്റിറ്റി പരിശോധിക്കുന്നു.

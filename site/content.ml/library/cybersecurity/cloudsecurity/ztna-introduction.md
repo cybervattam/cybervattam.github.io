@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 സോഫ്റ്റ്‌വെയർ നിർവചിത പരിധി (software-defined perimeter) എന്നും അറിയപ്പെടുന്ന സീറോ ട്രസ്റ്റ് നെറ്റ്‌വർക്ക് ആക്‌സസ്, ദൂരത്തുനിന്ന് ജോലി ചെയ്യുന്ന ഉപയോക്താക്കൾക്ക് ആന്തരിക ആപ്ലിക്കേഷനുകളിലേക്ക് സുരക്ഷിതമായി പ്രവേശനം നൽകുന്ന സാങ്കേതികവിദ്യകളുടെയും കഴിവുകളുടെയും കൂട്ടമാണ്.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png" alt="സീറോ ട്രസ്റ്റ് നെറ്റ്‌വർക്ക് ആക്‌സസ് (ZTNA)" loading="lazy">
 
 ### അടിസ്ഥാന തത്വം
 
@@ -29,4 +29,4 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 പരമ്പരാഗത നെറ്റ്‌വർക്ക് അധിഷ്ഠിത വിശ്വാസ ധാരണകൾക്കു പകരം, ZTNA ഉപയോക്താവിൽനിന്ന് ആപ്ലിക്കേഷനിലേക്കുള്ള ആക്‌സസ് രീതിയാണ് ഉപയോഗിക്കുന്നത്. ഇത് പലപ്പോഴും അവസാനംമുതൽ അവസാനംവരെയുള്ള എൻക്രിപ്ഷനുള്ള TLS മൈക്രോ-ടണലുകളെ ആശ്രയിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png" alt="സീറോ ട്രസ്റ്റ് നെറ്റ്‌വർക്ക് ആക്‌സസ് (ZTNA)" loading="lazy">

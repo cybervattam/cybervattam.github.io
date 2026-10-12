@@ -14,7 +14,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ഡാറ്റാ പരമാധികാരം, പാലനം, വിശ്വാസം എന്നിവയുമായി ബന്ധപ്പെട്ട ആവശ്യങ്ങൾ നിറവേറ്റാൻ സഹായിക്കുന്ന ക്ലൗഡ് ഡാറ്റാ സുരക്ഷയുടെ അടിസ്ഥാന നിയന്ത്രണമാണ് എൻക്രിപ്ഷൻ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png" alt="ക്ലൗഡ് ഡാറ്റാ സുരക്ഷ" loading="lazy">
 
 ### കീ മാനേജ്മെന്റ് മാതൃകകൾ
 
@@ -30,7 +30,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 - സാമ്പത്തിക, മനുഷ്യവിഭവ, നിയമ, ബൗദ്ധിക സ്വത്തവകാശ വിവരങ്ങൾ പ്രത്യേക പ്രാധാന്യമുള്ളവയാണ്
 - വിശ്വാസം, വേഗം, നിയന്ത്രണം എന്നിവയെക്കുറിച്ചുള്ള പ്രതീക്ഷകൾ ഉപഭോക്താവിന്റെ മുൻഗണന അനുസരിച്ച് വ്യത്യാസപ്പെടും
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png" alt="ക്ലൗഡ് ഡാറ്റാ സുരക്ഷ" loading="lazy">
 
 ### സുരക്ഷാ ലക്ഷ്യം
 

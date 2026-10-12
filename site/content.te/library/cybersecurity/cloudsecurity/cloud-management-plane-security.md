@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 క్లౌడ్ వనరులను సృష్టించడానికి, అమర్చడానికి, నిర్వహించడానికి ఉపయోగించే కన్సోల్‌లు, APIలు, సాధనాల సమాహారమే నిర్వహణ ప్లేన్. ఇది మొత్తం వాతావరణాన్ని నియంత్రిస్తుంది కాబట్టి, నిర్వహణ ప్లేన్‌ను చేజిక్కించుకోవడం ఒక్క వర్క్‌లోడ్‌ దెబ్బతినడం కంటే చాలా తీవ్రమైన పరిణామాలకు దారితీస్తుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png" alt="క్లౌడ్ నిర్వహణ ప్లేన్ మరియు API భద్రత" loading="lazy">
 
 ### పరిపాలనా స్థాయులు
 

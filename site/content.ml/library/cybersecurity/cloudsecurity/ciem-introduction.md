@@ -24,7 +24,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 - സ്ഥാപന നയങ്ങൾ
 - ഡാഷ്‌ബോർഡും ദൃശ്യവൽക്കരണവും
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png" alt="ക്ലൗഡ് ഇൻഫ്രാസ്ട്രക്ചർ എൻടൈറ്റിൽമെന്റ് മാനേജ്മെന്റ് (CIEM)" loading="lazy">
 
 ### ലക്ഷ്യം
 

@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 SaaS అప్లికేషన్‌ల అమరికలు, భద్రతా సెట్టింగ్‌లను SaaS భద్రతా స్థితి నిర్వహణ నిరంతరం పర్యవేక్షిస్తుంది. SaaS ప్లాట్‌ఫారమ్‌లను వినియోగదారులే అమర్చుతారు కాబట్టి, తప్పు అమరికలు, అధిక అనుమతుల వల్ల సున్నితమైన డేటా బహిర్గతం కావచ్చు.
 
-<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS భద్రతా స్థితి నిర్వహణ (SSPM)" loading="lazy">
 
 ### ముఖ్యమైన లక్షణాలు
 

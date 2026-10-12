@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 प्रबंधन प्लेन उन कंसोल, API और टूल का समूह है जिनका उपयोग क्लाउड संसाधन बनाने, कॉन्फ़िगर करने और प्रशासित करने के लिए होता है। चूँकि यह परिवेश की हर चीज़ को नियंत्रित करता है, इसलिए प्रबंधन प्लेन का समझौता किसी एक वर्कलोड के समझौते से कहीं अधिक नुकसानदेह हो सकता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png" alt="क्लाउड प्रबंधन प्लेन और API सुरक्षा" loading="lazy">
 
 ### प्रशासनिक पदानुक्रम
 

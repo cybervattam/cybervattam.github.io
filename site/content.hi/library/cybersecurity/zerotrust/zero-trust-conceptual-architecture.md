@@ -6,7 +6,7 @@ weight: 4
 tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="जीरो ट्रस्ट वैचारिक आर्किटेक्चर" loading="lazy">
 
 ### जीरो ट्रस्ट वैचारिक आर्किटेक्चर
 

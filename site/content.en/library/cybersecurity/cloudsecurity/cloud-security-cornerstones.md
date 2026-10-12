@@ -10,7 +10,7 @@ tags: ["Cybersecurity","Cloud Security"]
 
 Security in the cloud is built on a set of solution cornerstones. Each cornerstone answers a common customer need and maps to a cloud security service and a technology landscape.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png" alt="Cloud Security Cornerstones" loading="lazy">
 
 ### Cornerstones and Services
 

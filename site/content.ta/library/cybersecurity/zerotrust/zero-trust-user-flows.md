@@ -6,7 +6,7 @@ weight: 5
 tags: ["தகவல் பாதுகாப்பு","நம்பாமை"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="நம்பாமை பயனர் ஓட்டங்கள்" loading="lazy">
 
 ### நம்பாமை பயனர் ஓட்டங்கள்
 

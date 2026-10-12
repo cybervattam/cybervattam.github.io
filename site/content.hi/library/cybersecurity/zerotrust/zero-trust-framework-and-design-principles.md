@@ -6,7 +6,7 @@ weight: 3
 tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png" alt="जीरो ट्रस्ट फ्रेमवर्क और डिजाइन सिद्धांत" loading="lazy">
 
 ### जीरो ट्रस्ट फ्रेमवर्क और डिजाइन सिद्धांत
 

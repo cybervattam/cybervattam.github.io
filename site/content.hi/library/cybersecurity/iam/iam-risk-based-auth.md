@@ -2,7 +2,7 @@
 title: 'जोखिम-आधारित प्रमाणीकरण'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 14
 tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
@@ -12,4 +12,4 @@ tags: ["साइबर सुरक्षा","पहचान और पहु
 
 संगठन की नीतियाँ इस गणना किए गए जोखिम स्कोर के आधार पर आवश्यक कार्रवाई को परिभाषित करती हैं।
 
-<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50% alt="जोखिम-आधारित प्रमाणीकरण" loading="lazy">

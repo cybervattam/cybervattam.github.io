@@ -10,14 +10,14 @@ tags: ["தகவல் பாதுகாப்பு","பொதுத் த�
 
 நம்பிக்கை சேமிப்பகம் என்பது இயல்பாக நம்பப்படும் வேர் சான்றிதழ்களின் தொகுப்பாகும்
 
-<img src="/images/shared/screenshots/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" alt="நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்" loading="lazy">
 
 
 இவை இயங்குதளம் மற்றும் வலை உலாவிகளை உருவாக்கும் நிறுவனங்களால் பராமரிக்கப்படுகின்றன.
 
-<img src="/images/ta/cybersecurity/pki/certificate-stores.png" >
+<img src="/images/ta/cybersecurity/pki/certificate-stores.png" alt="நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்" loading="lazy">
 
 
 ### இந்தியாவில் உரிமம் பெற்ற சான்றளிக்கும் ஆணையங்கள் / Licensed Certifying Authorities in India
 
-<img src="/images/shared/screenshots/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png" alt="நம்பிக்கை சேமிப்பகம் / சான்றிதழ் சேமிப்பகம்" loading="lazy">

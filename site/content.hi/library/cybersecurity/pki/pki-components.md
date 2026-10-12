@@ -8,7 +8,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 ### PKI के घटक / PKI Components
 
-<img src="/images/hi/cybersecurity/pki/pki-components.png">
+<img src="/images/hi/cybersecurity/pki/pki-components.png" alt="PKI के घटक" loading="lazy">
 
 * #### रजिस्ट्रेशन अथॉरिटी (Registration Authority)
     * यह सेवा उन व्यक्तियों और संस्थाओं की पहचान सत्यापित करती है जो प्रमाणपत्र के लिए आवेदन करते हैं।

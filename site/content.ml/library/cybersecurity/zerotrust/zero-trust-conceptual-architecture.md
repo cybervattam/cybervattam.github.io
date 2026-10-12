@@ -6,7 +6,7 @@ weight: 4
 tags: ["സൈബർസുരക്ഷ","സീറോ ട്രസ്റ്റ്"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="സീറോ ട്രസ്റ്റ് ആശയപരമായ ആർക്കിടെക്ചർ" loading="lazy">
 
 ### സീറോ ട്രസ്റ്റ് ആശയപരമായ ആർക്കിടെക്ചർ
 

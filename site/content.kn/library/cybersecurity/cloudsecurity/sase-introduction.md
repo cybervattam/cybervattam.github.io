@@ -13,7 +13,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 - ಸೆಕ್ಯುರಿಟಿ ಸರ್ವಿಸ್ ಎಡ್ಜ್, ಇದು ನೆಟ್‌ವರ್ಕ್ ಭದ್ರತೆಯನ್ನು ಸೇವೆಯಾಗಿ ಒದಗಿಸುತ್ತದೆ
 - WAN ಎಡ್ಜ್, ಇದು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಸೇವೆಯಾಗಿ ಒದಗಿಸುತ್ತದೆ
 
-<img src="/images/en/cybersecurity/cloudsecurity/sase.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sase.png" alt="ಸುರಕ್ಷಿತ ಪ್ರವೇಶ ಸೇವಾ ಅಂಚು (SASE)" loading="lazy">
 
 ### ಪ್ರಮುಖ ಅಂಶಗಳು
 

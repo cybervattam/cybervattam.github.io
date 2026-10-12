@@ -10,9 +10,9 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಕ್ಲೌಡ್ ಪೂರೈಕೆದಾರರು ವಿಶಾಲ ಖಾಸಗಿ ನೆಟ್‌ವರ್ಕ್‌ಗಳು ಮತ್ತು ಸಮರ್ಪಿತ ಬ್ಯಾಕ್‌ಬೋನ್ ಸಂಪರ್ಕಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತಾರೆ. ಡೇಟಾ ಸೆಂಟರ್‌ಗಳು, ಎಡ್ಜ್ ಸ್ಥಳಗಳು ಮತ್ತು ಪ್ರದೇಶಗಳು ಜಾಗತಿಕ ಫೈಬರ್ ಹಾಗೂ ಸಮುದ್ರದಡಿಯ ಕೇಬಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಂದ ಸಂಪರ್ಕಗೊಂಡಿವೆ. ಆದ್ದರಿಂದ ಹೆಚ್ಚಿನ ಕ್ಲೌಡ್ ಟ್ರಾಫಿಕ್ ಸಾರ್ವಜನಿಕ ಇಂಟರ್ನೆಟ್ ಬದಲಿಗೆ ಪೂರೈಕೆದಾರರ ನಿಯಂತ್ರಣದಲ್ಲಿರುವ ಸಂಪರ್ಕ ಮಾರ್ಗಗಳ ಮೂಲಕ ಸಾಗುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png" alt="ಕ್ಲೌಡ್ ಕೋರ್ ಸಂಪರ್ಕ ಭದ್ರತೆ" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg" alt="ಕ್ಲೌಡ್ ಕೋರ್ ಸಂಪರ್ಕ ಭದ್ರತೆ" loading="lazy">
 
 ### ಸಂಪರ್ಕಕ್ಕೆ ರಕ್ಷಣೆ ಏಕೆ ಅಗತ್ಯ
 

@@ -6,7 +6,7 @@ weight: 4
 tags: ["సైబర్‌సెక్యూరిటీ","జీరో ట్రస్ట్"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="జీరో ట్రస్ట్ భావనాత్మక ఆర్కిటెక్చర్" loading="lazy">
 
 ### జీరో ట్రస్ట్ భావనాత్మక ఆర్కిటెక్చర్
 

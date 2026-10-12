@@ -8,7 +8,7 @@ tags: ["Cybersecurity","DNS"]
 
 ### DNS Query Resolution Process
 
-<img src="/images/en/cybersecurity/dns/dns-resolution.png">
+<img src="/images/en/cybersecurity/dns/dns-resolution.png" alt="DNS Query Resolution Process" loading="lazy">
 
 When a client requests a domain name, the DNS query typically follows this process:
 

@@ -8,7 +8,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### ఫంగిబుల్ ఆస్తులు
 
-<img src="/images/en/emergingtech/digitalassets/fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/fungible-items.png" alt="ఫంగిబుల్ ఆస్తులు" loading="lazy">
 
 ఫంగిబుల్ ఆస్తులు మార్చుకోగలిగేవి మరియు విలువలో సమానమైనవి. ఒక యూనిట్ ప్రాథమికంగా మరొక యూనిట్‌తో సమానంగా ఉంటుంది.
 

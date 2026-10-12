@@ -3,12 +3,12 @@ title: 'மாற்றத்தகு சொத்துகள்'
 date: 2026-09-21
 draft: false
 weight: 9
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
 ### மாற்றத்தகு சொத்துகள்
 
-<img src="/images/ta/emergingtech/digitalassets/fungible-items.png">
+<img src="/images/ta/emergingtech/digitalassets/fungible-items.png" alt="மாற்றத்தகு சொத்துகள்" loading="lazy">
 
 மாற்றத்தகு சொத்துகள் மாற்றக்கூடியவை மற்றும் ஒரே மதிப்புடையவை. ஒரு அலகு அடிப்படையில் மற்றொரு அலகைப் போன்றதே.
 

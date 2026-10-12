@@ -24,7 +24,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 - ಸಂಸ್ಥೆಯ ನೀತಿಗಳು
 - ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮತ್ತು ದೃಶ್ಯೀಕರಣ
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png" alt="ಕ್ಲೌಡ್ ಇನ್‌ಫ್ರಾಸ್ಟ್ರಕ್ಚರ್ ಎಂಟೈಟಲ್‌ಮೆಂಟ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (CIEM)" loading="lazy">
 
 ### ಗುರಿ
 

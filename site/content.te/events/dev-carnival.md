@@ -1,0 +1,12 @@
+---
+title: "డెవ్ కార్నివాల్ (Dev Carnival)"
+date: 2026-10-03T10:00:00-07:00
+eventStart: 2027-01-08T09:00:00+05:30
+eventEnd: 2027-01-09T17:30:00+05:30
+draft: false
+venue: "ఇన్ఫోసిస్ మహీంద్రా సిటీ, చెన్నై, భారతదేశం"
+eventHost: "Dev Carnival"
+registrationURL: "https://devcarnival.com/#passport"
+eventLanguage: "ఇంగ్లీష్ (English)"
+---
+

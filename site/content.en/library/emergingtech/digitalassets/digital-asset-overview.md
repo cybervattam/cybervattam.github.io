@@ -14,7 +14,7 @@ Digital assets are not limited to online media. Real-world assets such as stocks
 
 ### Types of Digital Assets
 
-<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png" alt="Digital Asset Overview" loading="lazy">
 
 - Social media assets such as NFTs and metaverse objects
 - Photographic and video assets such as images, photos, movies, and documentaries

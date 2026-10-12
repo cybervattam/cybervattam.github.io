@@ -10,7 +10,7 @@ tags: ["Cybersecurity","Cloud Security"]
 
 The cloud security model is shared between the cloud service provider and the customer.
 
-<img src="/images/en/cybersecurity/cloudsecurity/shared-responsibility-model.png">
+<img src="/images/en/cybersecurity/cloudsecurity/shared-responsibility-model.png" alt="Cloud Security Shared Responsibility Model" loading="lazy">
 
 The provider is responsible for securing the infrastructure beneath the customer workload, including physical facilities, network infrastructure, virtualization layers, and some core platform controls. The customer is responsible for security in the cloud, including identity and access, application security, data protection, configuration hygiene, and governance.
 

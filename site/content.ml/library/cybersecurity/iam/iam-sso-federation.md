@@ -2,13 +2,13 @@
 title: 'സിംഗിൾ സൈൻ-ഓൺ / ഫെഡറേഷൻ'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 16
 tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
 ### സിംഗിൾ സൈൻ-ഓൺ / ഫെഡറേഷൻ (SSO/Federation)
 
-<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25% alt="സിംഗിൾ സൈൻ-ഓൺ / ഫെഡറേഷൻ" loading="lazy">
 
 #### ഫെഡറേഷൻ (വ്യത്യസ്ത ഡൊമെയ്‌നുകൾ)
 

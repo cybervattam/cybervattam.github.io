@@ -3,12 +3,12 @@ title: 'நாணயங்கள் மற்றும் டிஜிட்ட�
 date: 2026-09-21
 draft: false
 weight: 14
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
 ### நாணயங்கள் மற்றும் டிஜிட்டல் சொத்துகளின் ஒப்பீடு
 
-<img src="/images/ta/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/ta/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="நாணயங்கள் மற்றும் டிஜிட்டல் சொத்துகளின் ஒப்பீடு" loading="lazy">
 
 ### உள்ளறிவு
 

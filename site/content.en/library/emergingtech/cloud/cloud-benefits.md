@@ -2,7 +2,7 @@
 title: 'Cloud Computing Benefits'
 date: 2022-08-14
 draft: false
-weight: 5
+weight: 6
 tags: ["Emerging Technology","Cloud Computing"]
 ---
 

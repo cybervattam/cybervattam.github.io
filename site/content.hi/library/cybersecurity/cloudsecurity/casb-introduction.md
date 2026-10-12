@@ -12,7 +12,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 CASB एंटरप्राइज सुरक्षा नीतियों को एकत्र करते हैं और क्लाउड संसाधनों तक एक्सेस के समय उन्हें लागू करते हैं।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png" alt="क्लाउड एक्सेस सिक्योरिटी ब्रोकर (CASB)" loading="lazy">
 
 ### सामान्य CASB विशेषताएं
 
@@ -31,7 +31,7 @@ CASB का उपयोग मुख्य रूप से क्लाउड 
 
 ### डिप्लॉयमेंट मोड
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png" alt="क्लाउड एक्सेस सिक्योरिटी ब्रोकर (CASB)" loading="lazy">
 
 ### उपयोग के मामले
 
@@ -40,4 +40,4 @@ CASB का उपयोग मुख्य रूप से क्लाउड 
 - खतरे का पता लगाना और फॉरेंसिक जांच
 - अनुपालन समर्थन और गतिविधि निगरानी
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png" alt="क्लाउड एक्सेस सिक्योरिटी ब्रोकर (CASB)" loading="lazy">

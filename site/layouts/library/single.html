@@ -2,16 +2,20 @@
 {{ $libraryPage := .Site.Home.GetPage "library" }}
 <section class="article-page page-width">
   <nav class="article-nav" aria-label="Article navigation">
+    {{ if .NextInSection }}
+    <a href="{{ .NextInSection.RelPermalink }}">← {{ .NextInSection.Title }}</a>
+    {{ else }}
     <a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a>
+    {{ end }}
     {{ if not (strings.Contains .RelPermalink "/contactus/") }}
-    <a href="{{ $libraryPage.RelPermalink }}">{{ i18n "books" | default "Library" }}</a>
+    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
     {{ end }}
     {{ if .PrevInSection }}<a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }} →</a>{{ end }}
   </nav>
 
 {{ if and (ne .Site.Language.Lang "en") (not .IsTranslated) }}
   {{ $fallbackPath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
-  {{ $contributeURL := "/library/aboutus/contribution/" }}
+  {{ $contributeURL := ("library/aboutus/contributors/" | relLangURL) }}
   <div class="translation-banner" role="status" aria-live="polite">
     <p>
       {{ i18n "translationMissing" }}
@@ -22,29 +26,24 @@
 {{ end }}
 
 <div id="content" class="article-content">
+  {{ if not (findRE "<h[1-4]" .Content 1) }}
+  <h1>{{ .Title }}</h1>
+  {{ else if not (findRE "<h1" .Content 1) }}
+  <h1 class="visually-hidden">{{ .Title }}</h1>
+  {{ end }}
   {{- .Content -}}
 </div>
+
+  <nav class="article-nav" aria-label="Article footer navigation">
+    {{ if .NextInSection }}
+    <a href="{{ .NextInSection.RelPermalink }}">← {{ .NextInSection.Title }}</a>
+    {{ else }}
+    <a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a>
+    {{ end }}
+    {{ if not (strings.Contains .RelPermalink "/contactus/") }}
+    <a href="{{ $libraryPage.RelPermalink }}">{{ i18n "books" | default "Library" }}</a>
+    {{ end }}
+    {{ if .PrevInSection }}<a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }} →</a>{{ end }}
+  </nav>
 </section>
-{{ if eq $.Page.IsPage true }}
-<!-- Modal -->
-<div class="modal fade" id="noteModel" tabindex="-1" aria-labelledby="noteModelLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="noteModelLabel">Note</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <div class="mb-3">
-          <textarea class="form-control" id="noteText" rows="3"></textarea>
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-{{ end }}
 {{ end }}

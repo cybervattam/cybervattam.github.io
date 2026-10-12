@@ -5,7 +5,7 @@
 {{ $localized_content_image := (printf "content.%s/%s%s" .Page.Language.Lang .Page.File.Dir ((replaceRE (printf "^/images/%s/" .Page.Language.Lang) "/images/" $destination) | strings.TrimPrefix "/") ) }}
 {{ if or (fileExists $static_image) (fileExists $content_image) (fileExists $localized_content_image) }}
 <figure class="figure img-fluid {{ with .Title }}{{ . }}{{ end }}">
-  <img src="{{ $destination | absURL }}" alt="{{ .Text }}" class="w-100"/>
+  <img src="{{ $destination | absURL }}" alt="{{ .Text }}" class="w-100" loading="lazy" decoding="async"/>
   <figcaption class="figure-caption text-center">
     {{ .Text }}
   </figcaption>
@@ -23,12 +23,12 @@
 <figure class="figure img-fluid {{ with .Title }}{{ . }}{{ end }}">
   
   {{ if eq .Page.Language.Lang "en" }}
-  <img src="{{ $image | absURL }}" alt="{{ .Text }}" class="w-100"/>
+  <img src="{{ $image | absURL }}" alt="{{ .Text }}" class="w-100" loading="lazy" decoding="async"/>
   {{ else }}
   {{ if fileExists $image_file_path }}
-  <img src="{{ $localizedimage | absURL }}" alt="{{ .Text }}" class="w-100"/>
+  <img src="{{ $localizedimage | absURL }}" alt="{{ .Text }}" class="w-100" loading="lazy" decoding="async"/>
   {{ else }}
-  <img src="{{ $image | absURL }}" alt="{{ .Text }}" class="w-100"/>
+  <img src="{{ $image | absURL }}" alt="{{ .Text }}" class="w-100" loading="lazy" decoding="async"/>
   {{ end }}
 
   {{ end }}
