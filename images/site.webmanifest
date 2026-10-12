@@ -1,0 +1,21 @@
+{
+  "name": "Cybervattam",
+  "short_name": "Cybervattam",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e6",
+  "theme_color": "#2450a4",
+  "icons": [
+    {
+      "src": "/images/shared/branding/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/shared/branding/Cybervattam-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
