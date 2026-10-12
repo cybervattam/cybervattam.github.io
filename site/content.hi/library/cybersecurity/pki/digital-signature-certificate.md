@@ -6,7 +6,7 @@ weight: 7
 tags: ["साइबर सुरक्षा","सार्वजनिक कुंजी अवसंरचना (PKI)"]
 ---
 
-<img src="/images/hi/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-signature-icon.png" alt="डिजिटल सिग्नेचर प्रमाणपत्र" loading="lazy">
 
 ### डिजिटल सिग्नेचर प्रमाणपत्र प्रकार / Digital Signature Certificate Types
 
@@ -20,7 +20,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 ### डिजिटल सिग्नेचर (साइनिंग / सत्यापन) / Digital Signature (Signing / Verification)
 
-<img src="/images/hi/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-signature-verification-process.png" alt="डिजिटल सिग्नेचर प्रमाणपत्र" loading="lazy">
 
 <br>
 
@@ -34,6 +34,8 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 इस पद्धति की विशेषता यह है कि यह केवल मानव उपयोगकर्ताओं के लिए नहीं, बल्कि सभी प्रकार के उपयोगकर्ताओं के लिए एक सामान्य प्रमाणीकरण समाधान बन सकता है।
 
+<img src="/images/en/cybersecurity/pki/pki-identity-types.png" width=50% alt="डिजिटल हस्ताक्षर प्रमाणपत्र" loading="lazy">
+
 प्रमाणपत्र आधारित प्रमाणीकरण चार प्रश्नों के उत्तर पर निर्भर करता है। यदि इनमें से कोई एक उत्तर गलत हो, तो प्रमाणीकरण असफल माना जाता है।
 1. क्या प्रमाणपत्र विश्वसनीय CA द्वारा जारी किया गया है?
    - क्या इंटरमीडिएट और रूट CA भरोसेमंद हैं?
@@ -44,7 +46,7 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 4. क्या उपयोगकर्ता ने प्रमाणपत्र के स्वामित्व का प्रमाण दिया है?
    - क्या संबंधित निजी कुंजी उपयोगकर्ता के पास है?
 
-<img src="/images/hi/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/hi/cybersecurity/pki/pki-certificate-based-authentication.png" alt="डिजिटल सिग्नेचर प्रमाणपत्र" loading="lazy">
 
 <br>
 <br>
@@ -68,9 +70,9 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
   - मेडिकल बीमा कार्ड
   - डिजिटल सिग्नेचर
 
-<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
+<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg" alt="डिजिटल सिग्नेचर प्रमाणपत्र" loading="lazy">
 
-<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png">
+<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png" alt="डिजिटल सिग्नेचर प्रमाणपत्र" loading="lazy">
 <br>
 Image Credit: https://medium.com/gupta-siddhant/
 <br>

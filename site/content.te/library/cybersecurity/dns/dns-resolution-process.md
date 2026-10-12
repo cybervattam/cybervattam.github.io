@@ -8,7 +8,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","డొమైన్ �
 
 ### డొమైన్ పేరు వ్యవస్థ ప్రశ్న పరిష్కార ప్రక్రియ / DNS Query Resolution Process
 
-<img src="/images/en/cybersecurity/dns/dns-resolution.png">
+<img src="/images/en/cybersecurity/dns/dns-resolution.png" alt="డొమైన్ పేరు వ్యవస్థ ప్రశ్న పరిష్కార ప్రక్రియ" loading="lazy">
 
 క్లయింట్ డొమైన్ పేరును అభ్యర్థించినప్పుడు, DNS ప్రశ్న సాధారణంగా ఈ ప్రక్రియను అనుసరిస్తుంది:
 

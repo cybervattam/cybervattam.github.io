@@ -10,9 +10,9 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 क्लाउड प्रदाता विशाल निजी नेटवर्क और समर्पित बैकबोन कनेक्टिविटी चलाते हैं। डेटा सेंटर, एज स्थान और क्षेत्र वैश्विक फाइबर तथा समुद्र के नीचे बिछी केबलों के नेटवर्क से जुड़े होते हैं, इसलिए क्लाउड का अधिकांश ट्रैफिक सार्वजनिक इंटरनेट के बजाय प्रदाता-नियंत्रित लिंक से होकर जाता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png" alt="क्लाउड की मूल कनेक्टिविटी सुरक्षा" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg" alt="क्लाउड की मूल कनेक्टिविटी सुरक्षा" loading="lazy">
 
 ### कनेक्टिविटी को सुरक्षा की आवश्यकता क्यों है
 

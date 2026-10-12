@@ -6,7 +6,7 @@ weight: 4
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಝೀರೋ ಟ್ರಸ್ಟ್"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg">
+<img src="/images/en/cybersecurity/zerotrust/microsoft-zero-trust-reference-architecture.jpg" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ಪರಿಕಲ್ಪನಾ ಆರ್ಕಿಟೆಕ್ಚರ್" loading="lazy">
 
 ### ಝೀರೋ ಟ್ರಸ್ಟ್ ಪರಿಕಲ್ಪನಾ ಆರ್ಕಿಟೆಕ್ಚರ್
 

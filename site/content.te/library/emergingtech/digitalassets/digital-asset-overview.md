@@ -14,7 +14,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### డిజిటల్ ఆస్తుల రకాలు
 
-<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png" alt="డిజిటల్ ఆస్తి అవలోకనం" loading="lazy">
 
 - NFTలు, మెటావర్స్ వస్తువుల వంటి సోషల్ మీడియా ఆస్తులు
 - చిత్రాలు, ఫోటోలు, సినిమాలు మరియు డాక్యుమెంటరీల వంటి ఫోటోగ్రాఫిక్, వీడియో ఆస్తులు

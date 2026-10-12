@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 డేటా కేంద్రాలు ఉన్న భౌతిక ప్రాంతాలను క్లౌడ్ ప్రొవైడర్లు సురక్షితం చేయాలి. ఇందులో భవనాన్ని రక్షించడం, ప్రవేశాన్ని నియంత్రించడం, భౌతిక, పర్యావరణ ముప్పులను తట్టుకునేలా చూడడం ఉంటాయి.
 
-<img src="/images/en/cybersecurity/cloudsecurity/physical-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/physical-security.png" alt="సదుపాయాలు మరియు భౌతిక భద్రత" loading="lazy">
 
 ### ముఖ్యమైన నియంత్రణలు
 

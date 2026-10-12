@@ -10,12 +10,12 @@ tags: ["സൈബർസുരക്ഷ","പബ്ലിക് കീ ഇൻഫ�
 
 സ്ഥിരമായി വിശ്വസിക്കുന്ന റൂട്ട് സർട്ടിഫിക്കറ്റുകളുടെ ശേഖരമാണ് ട്രസ്റ്റ് സ്റ്റോർ.
 
-<img src="/images/shared/screenshots/cert-manager.png" >
+<img src="/images/shared/screenshots/cert-manager.png" alt="ട്രസ്റ്റ് സ്റ്റോറുകൾ / സർട്ടിഫിക്കറ്റ് സ്റ്റോറുകൾ" loading="lazy">
 
 ഓപ്പറേറ്റിംഗ് സിസ്റ്റങ്ങളും വെബ് ബ്രൗസറുകളും നിർമ്മിക്കുന്ന കമ്പനികളാണ് ഇവ പരിപാലിക്കുന്നത്.
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" >
+<img src="/images/en/cybersecurity/pki/pki-certificate-stores.png" alt="ട്രസ്റ്റ് സ്റ്റോറുകൾ / സർട്ടിഫിക്കറ്റ് സ്റ്റോറുകൾ" loading="lazy">
 
 ### ഇന്ത്യയിലെ ലൈസൻസുള്ള സർട്ടിഫൈയിംഗ് അതോറിറ്റികൾ
 
-<img src="/images/shared/screenshots/india-licensed-ca.png">
+<img src="/images/shared/screenshots/india-licensed-ca.png" alt="ട്രസ്റ്റ് സ്റ്റോറുകൾ / സർട്ടിഫിക്കറ്റ് സ്റ്റോറുകൾ" loading="lazy">

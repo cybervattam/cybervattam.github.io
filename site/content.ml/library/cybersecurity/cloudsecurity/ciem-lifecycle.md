@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 തിരിച്ചറിയലുകളും അനുമതികളും കാലക്രമേണ സുരക്ഷിതമായി കൈകാര്യം ചെയ്യാൻ സഹായിക്കുന്ന തുടർച്ചയായ ജീവിതചക്രമാണ് CIEM പിന്തുടരുന്നത്.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png" alt="CIEM ജീവിതചക്രം" loading="lazy">
 
 #### കണ്ടെത്തൽ
 

@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 SaaS ആപ്ലിക്കേഷനുകളുടെ ക്രമീകരണങ്ങളും സുരക്ഷാ സജ്ജീകരണങ്ങളും തുടർച്ചയായി നിരീക്ഷിക്കുന്നതാണ് SaaS സെക്യൂരിറ്റി പോസ്‌ചർ മാനേജ്മെന്റ്. SaaS പ്ലാറ്റ്‌ഫോമുകൾ ഉപഭോക്താവാണ് ക്രമീകരിക്കുന്നത്; അതിനാൽ തെറ്റായ ക്രമീകരണങ്ങളും ആവശ്യത്തിലധികം നൽകിയ അനുമതികളും സൂക്ഷ്മ ഡാറ്റ പുറത്താകാൻ ഇടയാക്കാം.
 
-<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS സെക്യൂരിറ്റി പോസ്‌ചർ മാനേജ്മെന്റ് (SSPM)" loading="lazy">
 
 ### പ്രധാന സവിശേഷതകൾ
 

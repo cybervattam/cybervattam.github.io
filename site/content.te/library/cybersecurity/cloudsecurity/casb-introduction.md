@@ -12,7 +12,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 క్లౌడ్ వనరులను యాక్సెస్ చేసే సమయంలో CASB సంస్థ భద్రతా విధానాలను ఏకీకృతం చేసి అమలు చేస్తుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-features.png" alt="క్లౌడ్ యాక్సెస్ సెక్యూరిటీ బ్రోకర్ (CASB)" loading="lazy">
 
 ### CASBలో సాధారణంగా ఉండే లక్షణాలు
 
@@ -31,7 +31,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 ### అమలు విధానాలు
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-deployment-models.png" alt="క్లౌడ్ యాక్సెస్ సెక్యూరిటీ బ్రోకర్ (CASB)" loading="lazy">
 
 ### వినియోగ సందర్భాలు
 
@@ -40,4 +40,4 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 - ముప్పులను గుర్తించి ఫోరెన్సిక్ దర్యాప్తు చేయడం
 - అనుగుణ్యతకు తోడ్పడటం, కార్యకలాపాలను పర్యవేక్షించడం
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-access-security-broker-usecases.png" alt="క్లౌడ్ యాక్సెస్ సెక్యూరిటీ బ్రోకర్ (CASB)" loading="lazy">

@@ -6,7 +6,7 @@ weight: 5
 tags: ["సైబర్‌సెక్యూరిటీ","జీరో ట్రస్ట్"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="జీరో ట్రస్ట్ వినియోగదారు ప్రవాహాలు" loading="lazy">
 
 ### జీరో ట్రస్ట్ వినియోగదారు ప్రవాహాలు
 

@@ -2,7 +2,7 @@
 title: 'हाइपरलेजर ब्लॉक की संरचना'
 date: 2022-08-15
 draft: false
-weight: 5
+weight: 6
 tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
@@ -31,5 +31,5 @@ tags: ["उभरती प्रौद्योगिकियाँ","ब्�
 
  <br>
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-block-structure.png" width=50% alt="हाइपरलेजर ब्लॉक की संरचना" loading="lazy">
 

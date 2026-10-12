@@ -24,7 +24,7 @@ CIEM uses machine learning and analytics to detect anomalies in account permissi
 - Organization policies
 - Dashboard and visualization
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png" alt="Cloud Infrastructure Entitlement Management (CIEM)" loading="lazy">
 
 ### Goal
 

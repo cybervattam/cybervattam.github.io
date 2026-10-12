@@ -6,7 +6,7 @@ weight: 2
 tags: ["సైబర్‌సెక్యూరిటీ","జీరో ట్రస్ట్"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-overview-tenets.png" alt="జీరో ట్రస్ట్ అవలోకనం మరియు ప్రాథమిక సూత్రాలు" loading="lazy">
 
 ### జీరో ట్రస్ట్ అవలోకనం మరియు ప్రాథమిక సూత్రాలు
 

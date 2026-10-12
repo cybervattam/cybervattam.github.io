@@ -12,4 +12,4 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 
 సర్టిఫికెట్‌ను అనుమతించడానికి ముందే, దీన్ని జారీ చేసిన CA పైన నమ్మకం, గడువు మరియు రద్దు స్థితి పరిశీలించబడతాయి.
 
-<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png" alt="ట్రస్ట్ చైన్" loading="lazy">

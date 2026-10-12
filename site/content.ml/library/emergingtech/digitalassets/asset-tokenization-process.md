@@ -12,7 +12,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### ടോക്കൺ ലൈഫ്‌സൈക്കിൾ
 
-<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png">
+<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png" alt="ആസ്തി ടോക്കണൈസേഷൻ പ്രക്രിയ" loading="lazy">
 
 1. സവിശേഷ ഗുണങ്ങളുള്ള ഒരു ഭൗതിക അല്ലെങ്കിൽ ഡിജിറ്റൽ ആസ്തി തിരിച്ചറിയുന്നു.
 2. ആസ്തി ടോക്കണൈസ് ചെയ്ത് ബ്ലോക്ക്‌ചെയിനിൽ രേഖപ്പെടുത്തുന്നു.
@@ -28,6 +28,6 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### പ്രധാന ഫലം
 
-<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png">
+<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png" alt="ആസ്തി ടോക്കണൈസേഷൻ പ്രക്രിയ" loading="lazy">
 
 ബ്ലോക്ക്‌ചെയിൻ സാങ്കേതികവിദ്യയിലൂടെ ഭൗതിക അല്ലെങ്കിൽ ഡിജിറ്റൽ ഉടമസ്ഥാവകാശങ്ങൾ സുതാര്യവും സുരക്ഷിതവുമായ രീതിയിൽ പ്രതിനിധീകരിക്കാനും കൈമാറ്റം ചെയ്യാനും പരിശോധിക്കാനും ടോക്കണൈസേഷൻ അനുവദിക്കുന്നു.

@@ -24,7 +24,7 @@ Organizations frequently assign excessive permissions rather than following leas
 #### Inactive Identities
 Some identities retain access to resources they no longer use, increasing the risk footprint.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png" alt="Cloud Identity Challenges" loading="lazy">
 
 ### Impact
 

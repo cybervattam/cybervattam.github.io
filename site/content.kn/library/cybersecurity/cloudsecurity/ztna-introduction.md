@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಸಾಫ್ಟ್‌ವೇರ್-ವ್ಯಾಖ್ಯಾನಿತ ಪರಿಧಿ ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ಝೀರೋ ಟ್ರಸ್ಟ್ ನೆಟ್‌ವರ್ಕ್ ಆಕ್ಸೆಸ್, ರಿಮೋಟ್ ಬಳಕೆದಾರರಿಗೆ ಆಂತರಿಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಸುರಕ್ಷಿತ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸುವ ತಂತ್ರಜ್ಞಾನಗಳು ಮತ್ತು ಕಾರ್ಯನಿರ್ವಹಣೆಗಳ ಸಮೂಹವಾಗಿದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ನೆಟ್‌ವರ್ಕ್ ಆಕ್ಸೆಸ್ (ZTNA)" loading="lazy">
 
 ### ಪ್ರಮುಖ ತತ್ವ
 
@@ -29,4 +29,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ZTNA ಸಾಂಪ್ರದಾಯಿಕ ನೆಟ್‌ವರ್ಕ್ ಆಧಾರಿತ ನಂಬಿಕೆ ಊಹೆಗಳ ಬದಲಿಗೆ ಬಳಕೆದಾರರಿಂದ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಪ್ರವೇಶ ಮಾದರಿಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ TLS ಮೈಕ್ರೋ-ಟನಲ್‌ಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿರುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ನೆಟ್‌ವರ್ಕ್ ಆಕ್ಸೆಸ್ (ZTNA)" loading="lazy">

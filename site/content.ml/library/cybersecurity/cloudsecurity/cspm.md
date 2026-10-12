@@ -12,7 +12,7 @@ IaaS, PaaS പരിസ്ഥിതികളിലെ ക്ലൗഡ് അട�
 
 ### CSPM കഴിവുകൾ
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png" alt="ക്ലൗഡ് സെക്യൂരിറ്റി പോസ്‌ചർ മാനേജ്മെന്റ് (CSPM)" loading="lazy">
 
 - **ആസ്തികളുടെ കണ്ടെത്തലും തിരിച്ചറിയലും:** ആസ്തികൾ കണ്ടെത്തി, അപകടസാധ്യത വിലയിരുത്തി മുൻഗണന നിശ്ചയിച്ച്, പരിഹാര നടപടികൾക്ക് പിന്തുണ നൽകുകയോ അവ യാന്ത്രികമാക്കുകയോ ചെയ്യുക
 - **ക്ലൗഡ് ഭരണവും പാലനവും:** ചട്ടങ്ങളും ചട്ടക്കൂടുകളും പാലിക്കുന്നതിനുള്ള പാക്കേജുകളും യാന്ത്രികവും നിശ്ചിത ഇടവേളകളിലുള്ള റിപ്പോർട്ടിംഗും
@@ -24,7 +24,7 @@ IaaS, PaaS പരിസ്ഥിതികളിലെ ക്ലൗഡ് അട�
 
 CSPM ക്ലൗഡ് ദാതാക്കളുടെ API-കളിൽനിന്ന് ഡാറ്റ ശേഖരിച്ച് ഏകീകൃത രൂപത്തിലാക്കുന്നു. തുടർന്ന് നയാധിഷ്ഠിതവും മെഷീൻ ലേണിംഗ് സഹായത്തോടെയുള്ളതുമായ കണ്ടെത്തൽ പ്രയോഗിച്ച് റിപ്പോർട്ടിംഗ്, പ്രതികരണം, സംയോജനങ്ങൾ എന്നിവ സാധ്യമാക്കുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png" alt="ക്ലൗഡ് സെക്യൂരിറ്റി പോസ്‌ചർ മാനേജ്മെന്റ് (CSPM)" loading="lazy">
 
 ### സുരക്ഷാ ലക്ഷ്യം
 

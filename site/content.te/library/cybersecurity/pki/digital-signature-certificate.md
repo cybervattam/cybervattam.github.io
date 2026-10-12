@@ -6,7 +6,7 @@ weight: 7
 tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్ కీ ఇన్‌ఫ్రాస్ట్రక్చర్ (PKI)"]
 ---
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-icon.png" alt="డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్" loading="lazy">
 
 ### డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్ రకాలు / Digital Signature Certificate Types
 
@@ -20,7 +20,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 
 ### డిజిటల్ సిగ్నేచర్ (సంతకం / ధృవీకరణ) / Digital Signature (Signing / Verification)
 
-<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-signature-verification-process.png" alt="డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్" loading="lazy">
 
 <br>
 
@@ -32,7 +32,9 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 
 మానవ గుర్తింపుకు సంబంధించి, ఇది పాస్‌వర్డ్, బయోమెట్రిక్స్, OTP వంటి ఇతర ధృవీకరణ పద్ధతులతో కలిసి ఉపయోగించబడుతుంది.
 
-ఈ పద్ధతి ప్రత్యేకత ఏమిటంటే, ఇది కేవలం మానవ వినియోగదారులకు మాత్రమే పరిమితం కాకుండా అన్ని రకాల వినియోగదారులకు适用ంగా ఉంటుంది.
+ఈ పద్ధతి ప్రత్యేకత ఏమిటంటే, ఇది కేవలం మానవ వినియోగదారులకు మాత్రమే పరిమితం కాకుండా అన్ని రకాల వినియోగదారులకు ఒకే ధృవీకరణ పరిష్కారంగా పనిచేస్తుంది.
+
+<img src="/images/en/cybersecurity/pki/pki-identity-types.png" width=50% alt="డిజిటల్ సంతకం సర్టిఫికెట్" loading="lazy">
 
 సర్టిఫికేట్ ఆధారిత ధృవీకరణ నాలుగు ప్రశ్నలకు సమాధానం ఇచ్చే ఆధారంగా పనిచేస్తుంది:
 
@@ -41,7 +43,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 3. సర్టిఫికెట్ రద్దు చేయబడిందా?
 4. వినియోగదారుకు సంబంధిత ప్రైవేట్ కీ ఉందా?
 
-<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png">
+<img src="/images/en/cybersecurity/pki/pki-certificate-based-authentication.png" alt="డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్" loading="lazy">
 
 <br>
 <br>
@@ -54,7 +56,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 * ఇవి ISO/IEC 7810, 7816 మరియు 14443 వంటి ప్రమాణాలకు అనుగుణంగా రూపొందించబడతాయి.
 * ఇవి ప్రైవేట్ కీ, డిజిటల్ సర్టిఫికేట్, వాస్తవికత డేటా వంటి గణనీయమైన సమాచారాన్ని సురక్షితంగా నిల్వ చేయగలవు.
 * ప్రైవేట్ కీ ఎప్పటికీ సురక్షితంగా కార్డ్‌లోనే ఉంటుంది.
-* सामान्यంగా పబ్లిక్ కీ మరియు డిజిటల్ సర్టిఫికేట్ మాత్రమే పంచబడతాయి.
+* సాధారణంగా పబ్లిక్ కీ మరియు డిజిటల్ సర్టిఫికేట్ మాత్రమే పంచబడతాయి.
 
 ### స్మార్ట్ కార్డ్ ధృవీకరణ వినియోగ సందర్భాలు / Smart Card Logon Usecases
 
@@ -65,9 +67,9 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
   - ఆరోగ్య బీమా కార్డ్
   - డిజిటల్ సిగ్నేచర్
 
-<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg">
+<img src="https://miro.medium.com/max/700/1*HqyovEj3_aRF0Sp3VBuBIw.jpeg" alt="డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్" loading="lazy">
 
-<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png">
+<img src="https://miro.medium.com/max/700/1*AqaNBw8KXLbFSqm4Qjv8-A.png" alt="డిజిటల్ సిగ్నేచర్ సర్టిఫికెట్" loading="lazy">
 <br>
 Image Credit: https://medium.com/gupta-siddhant/
 <br>

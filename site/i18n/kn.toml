@@ -5,7 +5,7 @@ other = "ಸೈಬರ್ವತ್ತಂ"
 other = "ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಓದಿ"
 
 [contributeTranslation]
-other = "ಅನುವಾದಕ್ಕೆ ಕೊಡುಗೆ ನೀಡें"
+other = "ಅನುವಾದಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿ"
 
 [translationMissing]
 other = "ಈ ಲೇಖನ ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಇನ್ನೂ ಲಭ್ಯವಿಲ್ಲ. ನೀವು ಅದನ್ನು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಓದಲು ಬಯಸುತ್ತೀರಾ, ಅಥವಾ"
@@ -14,6 +14,8 @@ other = "ಈ ಲೇಖನ ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಇನ್�
 other = "ಮುಖಪುಟ"
 [navAbout]
 other = "ನಮ್ಮ ಬಗ್ಗೆ"
+[navEvents]
+other = "ಕಾರ್ಯಕ್ರಮಗಳು"
 [books]
 other = "ಗ್ರಂಥಾಲಯ"
 [libraries]
@@ -60,3 +62,23 @@ other = "ಹುಡುಕಾಟವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಲ
 other = "ಟ್ಯಾಗ್ ಮೂಲಕ ಬ್ರೌಸ್ ಮಾಡಿ"
 [searchByTag]
 other = "ಟ್ಯಾಗ್ ಮೂಲಕ ಹುಡುಕಿ"
+[notFoundTitle]
+other = "ಪುಟ ಕಂಡುಬಂದಿಲ್ಲ"
+[notFoundBody]
+other = "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಪುಟವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ಅಥವಾ ಸ್ಥಳಾಂತರಗೊಂಡಿದೆ."
+[goHome]
+other = "ಮುಖಪುಟಕ್ಕೆ ಹೋಗಿ"
+[minRead]
+other = "ನಿಮಿಷ ಓದು"
+[verifiedBadge]
+other = "✓ ಪರಿಶೀಲಿಸಲಾಗಿದೆ"
+[aiDraftBadge]
+other = "ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ"
+[recentArticles]
+other = "ಪ್ರಮುಖ ವಿಷಯಗಳು"
+[verifiedExplanation]
+other = "ತಾಂತ್ರಿಕ ಮತ್ತು ಭಾಷಾ ನಿಖರತೆಗಾಗಿ ಮಾನವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟು ದೃಢೀಕರಿಸಲಾಗಿದೆ."
+[toBeVerifiedExplanation]
+other = "AI ಪರಿಕರಗಳನ್ನು ಬಳಸಿ ಅನುವಾದಿಸಲಾಗಿದ್ದು, ಮಾನವ ಪರಿಶೀಲನೆಗಾಗಿ ಕಾಯುತ್ತಿದೆ."
+[availableIn]
+other = "ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು:"

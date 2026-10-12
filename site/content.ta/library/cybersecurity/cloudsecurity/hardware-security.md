@@ -3,16 +3,16 @@ title: 'வன்பொருள் பாதுகாப்பு'
 date: 2026-09-21
 draft: false
 weight: 5
-tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமை பாதுகாப்பு"]
+tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமைப் பாதுகாப்பு"]
 ---
 
 ### வன்பொருள் பாதுகாப்பு
 
 பயன்பாடுகளையும் தரவையும் தாங்கும் இயற்பியல் வன்பொருளை மேகச் சேவை வழங்குநர் பாதுகாக்க வேண்டும்.
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg" alt="வன்பொருள் பாதுகாப்பு" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg" alt="வன்பொருள் பாதுகாப்பு" loading="lazy">
 
 ### பரிந்துரைக்கப்படும் நடவடிக்கைகள்
 

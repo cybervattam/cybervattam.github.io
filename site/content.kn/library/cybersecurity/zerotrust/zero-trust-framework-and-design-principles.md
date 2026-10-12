@@ -6,7 +6,7 @@ weight: 3
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಝೀರೋ ಟ್ರಸ್ಟ್"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png" alt="ಝೀರೋ ಟ್ರಸ್ಟ್ ಫ್ರೇಮ್‌ವರ್ಕ್ ಮತ್ತು ವಿನ್ಯಾಸ ತತ್ವಗಳು" loading="lazy">
 
 ### ಝೀರೋ ಟ್ರಸ್ಟ್ ಫ್ರೇಮ್‌ವರ್ಕ್ ಮತ್ತು ವಿನ್ಯಾಸ ತತ್ವಗಳು
 

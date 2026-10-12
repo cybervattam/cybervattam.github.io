@@ -8,7 +8,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ನಾನ್-ಫಂಗಿಬಲ್ ಟೋಕನ್ (NFT) ಎಂದರೇನು?
 
-<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png" alt="ನಾನ್-ಫಂಗಿಬಲ್ ಟೋಕನ್ (NFT) ಎಂದರೇನು?" loading="lazy">
 
 ನಾನ್-ಫಂಗಿಬಲ್ ಟೋಕನ್‌ಗಳು ಅಥವಾ NFTಗಳು ವಿಶಿಷ್ಟ ಗುರುತು ಕೋಡ್‌ಗಳು ಮತ್ತು ಮೆಟಾಡೇಟಾದೊಂದಿಗೆ ಬ್ಲಾಕ್‌ಚೈನ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾದ ಕ್ರಿಪ್ಟೋಗ್ರಾಫಿಕ್ ಡಿಜಿಟಲ್ ಆಸ್ತಿಗಳಾಗಿವೆ. ಇವು ಪರಸ್ಪರ ಭಿನ್ನವಾಗಿರುತ್ತವೆ.
 

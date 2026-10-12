@@ -18,12 +18,12 @@ tags: ["தகவல் பாதுகாப்பு","அடையாளம�
 
 <br>
 
-#### __நுகர்வோர் அடையாள அமைப்பின் தோற்றக் கூறுகள் / CIAM features__
+#### __நுகர்வோர் அடையாள அமைப்பின் சிறப்பம்சங்கள் / CIAM features__
 
-<img src="/images/ta/cybersecurity/iam/iam-ciam-features-ta.svg" width=25%>
+<img src="/images/ta/cybersecurity/iam/iam-ciam-features-ta.svg" width=25% alt="நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை" loading="lazy">
 
 <br>
 
 ### __நுகர்வோர் அடையாள அமைப்பின் செயல்முறைகள் / CIAM processes__
 
-<img src="/images/ta/cybersecurity/iam/iam-ciam-processes-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-ciam-processes-ta.svg" width=50% alt="நுகர்வோர் அடையாளம் மற்றும் அணுகல் மேலாண்மை" loading="lazy">

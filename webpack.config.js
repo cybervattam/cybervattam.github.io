@@ -1,15 +1,8 @@
-const fs = require('fs').promises;
 const path = require('path');
 
 module.exports = {
   mode: 'development',
   devServer: {
-    proxy: [
-      {
-        context: ['/api', '/oauth2', '/swagger-ui', '/v3/api-docs'],
-        target: 'http://localhost:8080',
-      },
-    ],
     static: {
       directory: path.join(__dirname, 'dist'),
     },

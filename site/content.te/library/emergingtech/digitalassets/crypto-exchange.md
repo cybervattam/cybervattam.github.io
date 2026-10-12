@@ -23,7 +23,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### పోలిక
 
-<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="క్రిప్టో ఎక్స్ఛేంజ్" loading="lazy">
 
 | రకం | లక్షణాలు |
 |---|---|

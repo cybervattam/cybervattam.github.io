@@ -14,7 +14,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 एन्क्रिप्शन क्लाउड डेटा सुरक्षा का एक मुख्य नियंत्रण है और इसका उपयोग डेटा संप्रभुता, अनुपालन और भरोसे जैसी आवश्यकताओं को पूरा करने के लिए किया जा सकता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png" alt="क्लाउड डेटा सुरक्षा" loading="lazy">
 
 ### कुंजी प्रबंधन मॉडल
 
@@ -30,7 +30,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 - वित्तीय, HR, कानूनी और बौद्धिक संपदा संबंधी डेटा विशेष रूप से महत्वपूर्ण होते हैं
 - भरोसे, चपलता और नियंत्रण की अपेक्षाएं ग्राहक की पसंद के आधार पर बदलती हैं
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png" alt="क्लाउड डेटा सुरक्षा" loading="lazy">
 
 ### सुरक्षा उद्देश्य
 

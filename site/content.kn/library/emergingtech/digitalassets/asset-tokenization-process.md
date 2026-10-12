@@ -12,7 +12,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಟೋಕನ್ ಜೀವನಚಕ್ರ
 
-<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png">
+<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png" alt="ಆಸ್ತಿ ಟೋಕನೈಸೇಶನ್ ಪ್ರಕ್ರಿಯೆ" loading="lazy">
 
 1. ವಿಶಿಷ್ಟ ಗುಣಲಕ್ಷಣಗಳಿರುವ ಭೌತಿಕ ಅಥವಾ ಡಿಜಿಟಲ್ ಆಸ್ತಿಯನ್ನು ಗುರುತಿಸಲಾಗುತ್ತದೆ.
 2. ಆಸ್ತಿಯನ್ನು ಟೋಕನೈಸ್ ಮಾಡಿ ಬ್ಲಾಕ್‌ಚೈನ್‌ನಲ್ಲಿ ದಾಖಲಿಸಲಾಗುತ್ತದೆ.
@@ -28,6 +28,6 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಪ್ರಮುಖ ಫಲಿತಾಂಶ
 
-<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png">
+<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png" alt="ಆಸ್ತಿ ಟೋಕನೈಸೇಶನ್ ಪ್ರಕ್ರಿಯೆ" loading="lazy">
 
 ಬ್ಲಾಕ್‌ಚೈನ್ ತಂತ್ರಜ್ಞಾನದ ಮೂಲಕ ಭೌತಿಕ ಅಥವಾ ಡಿಜಿಟಲ್ ಮಾಲೀಕತ್ವದ ಹಕ್ಕುಗಳನ್ನು ಪಾರದರ್ಶಕ ಮತ್ತು ಸುರಕ್ಷಿತ ರೀತಿಯಲ್ಲಿ ಪ್ರತಿನಿಧಿಸಲು, ವರ್ಗಾಯಿಸಲು ಮತ್ತು ಪರಿಶೀಲಿಸಲು ಟೋಕನೈಸೇಶನ್ ಅವಕಾಶ ನೀಡುತ್ತದೆ.

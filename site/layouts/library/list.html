@@ -4,9 +4,72 @@
   <p class="eyebrow"><a href="{{ .Parent.RelPermalink }}">◎ {{ i18n "books" | default "Library" }}</a></p>
   {{ end }}
   <h1>{{ .Title }}</h1>
-  <p class="listing-page__intro">{{ .Content }}</p>
+  <div class="listing-page__intro">{{ .Content }}</div>
   <div class="content-grid">
-    {{ range .Pages }}<a class="content-card" href="{{ .RelPermalink }}"><span class="content-card__type">{{ $.Title }}</span><h2>{{ .Title }}</h2><span class="content-card__arrow">↗</span></a>{{ end }}
+    {{ $isVerifiedLang := in (slice "en" "ta") .Site.Language.Lang }}
+    {{ range .Pages }}
+    {{ $isAbout := strings.Contains .RelPermalink "/library/aboutus/" }}
+    {{ $isVerified := cond (isset .Params "verified") .Params.verified $isVerifiedLang }}
+    <a class="content-card" href="{{ .RelPermalink }}">
+      {{ if and .IsSection (not $isAbout) }}
+        {{ $pages := .RegularPagesRecursive }}
+        {{ $totalMins := 0 }}
+        {{ range $pages }}
+          {{ $m := .ReadingTime }}
+          {{ if lt $m 1 }}{{ $m = 1 }}{{ end }}
+          {{ $totalMins = add $totalMins $m }}
+        {{ end }}
+        <div class="card-meta">
+          <span class="content-card__type">{{ len $pages }} {{ i18n "lessons" | default "lessons" }}</span>
+          <span class="card-badges">
+            {{ if gt $totalMins 0 }}
+            <span class="card-badge card-badge--time">⏱ ~{{ $totalMins }} {{ i18n "minRead" | default "min read" }}</span>
+            {{ end }}
+            {{ if $isVerified }}
+            <span class="card-badge card-badge--verified">{{ i18n "verifiedBadge" | default "✓ Verified" }}</span>
+            {{ else }}
+            <span class="card-badge card-badge--draft">{{ i18n "aiDraftBadge" | default "To be verified" }}</span>
+            {{ end }}
+          </span>
+        </div>
+        <h2>{{ .Title }}</h2>
+        {{ with $pages }}
+        <div class="card-previews">
+          {{ range first 3 . }}
+          <span class="card-preview-pill">{{ .Title | truncate 36 }}</span>
+          {{ end }}
+          {{ if gt (len .) 3 }}
+          <span class="card-preview-pill card-preview-pill--more">+{{ sub (len .) 3 }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+        {{ partial "card-lang-badges.html" . }}
+      {{ else if not $isAbout }}
+        {{ $mins := .ReadingTime }}
+        {{ if lt $mins 1 }}{{ $mins = 1 }}{{ end }}
+        <div class="card-meta">
+          <span class="content-card__type">{{ $.Title }}</span>
+          <span class="card-badges">
+            <span class="card-badge card-badge--time">⏱ {{ $mins }} {{ i18n "minRead" | default "min read" }}</span>
+            {{ if $isVerified }}
+            <span class="card-badge card-badge--verified">{{ i18n "verifiedBadge" | default "✓ Verified" }}</span>
+            {{ else }}
+            <span class="card-badge card-badge--draft">{{ i18n "aiDraftBadge" | default "To be verified" }}</span>
+            {{ end }}
+          </span>
+        </div>
+        <h2>{{ .Title }}</h2>
+        {{ partial "card-lang-badges.html" . }}
+      {{ else }}
+        <span class="content-card__type">{{ $.Title }}</span>
+        <h2>{{ .Title }}</h2>
+      {{ end }}
+      <span class="content-card__arrow">↗</span>
+    </a>
+    {{ end }}
   </div>
+  {{ if not (strings.Contains .RelPermalink "/library/aboutus/") }}
+  {{ partial "verification-footnote.html" . }}
+  {{ end }}
 </section>
 {{ end }}

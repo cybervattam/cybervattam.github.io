@@ -8,7 +8,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### నాన్-ఫంగిబుల్ టోకెన్ (NFT) అంటే ఏమిటి?
 
-<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/non-fungible-items.png" alt="నాన్-ఫంగిబుల్ టోకెన్ (NFT) అంటే ఏమిటి?" loading="lazy">
 
 నాన్-ఫంగిబుల్ టోకెన్లు లేదా NFTలు ప్రత్యేక గుర్తింపు కోడ్‌లు మరియు మెటాడేటాతో బ్లాక్‌చెయిన్‌లో నిల్వ చేసే క్రిప్టోగ్రాఫిక్ డిజిటల్ ఆస్తులు. ఇవి ఒకదానికొకటి భిన్నంగా గుర్తించబడతాయి.
 

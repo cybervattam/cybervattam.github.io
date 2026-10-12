@@ -6,7 +6,7 @@ weight: 3
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png" alt="Zero Trust Framework & Design Principles" loading="lazy">
 
 ### Zero Trust Framework & Design Principles
 

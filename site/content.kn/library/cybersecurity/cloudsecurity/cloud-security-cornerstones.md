@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಕ್ಲೌಡ್‌ನಲ್ಲಿನ ಭದ್ರತೆಯು ಕೆಲವು ಪರಿಹಾರ ಮೂಲಸ್ತಂಭಗಳ ಮೇಲೆ ನಿರ್ಮಿತವಾಗಿದೆ. ಪ್ರತಿಯೊಂದು ಮೂಲಸ್ತಂಭವೂ ಗ್ರಾಹಕರ ಸಾಮಾನ್ಯ ಅಗತ್ಯಕ್ಕೆ ಉತ್ತರಿಸುತ್ತದೆ ಮತ್ತು ಕ್ಲೌಡ್ ಭದ್ರತಾ ಸೇವೆ ಹಾಗೂ ತಂತ್ರಜ್ಞಾನ ಕ್ಷೇತ್ರಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png" alt="ಕ್ಲೌಡ್ ಭದ್ರತೆಯ ಮೂಲಸ್ತಂಭಗಳು" loading="lazy">
 
 ### ಮೂಲಸ್ತಂಭಗಳು ಮತ್ತು ಸೇವೆಗಳು
 

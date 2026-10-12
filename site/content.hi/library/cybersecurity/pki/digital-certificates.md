@@ -8,13 +8,13 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 ### डिजिटल प्रमाणपत्र / Digital Certificate
 
-<img src="/images/shared/screenshots/digital-certificate-sample.png">
+<img src="/images/shared/screenshots/digital-certificate-sample.png" alt="डिजिटल प्रमाणपत्र" loading="lazy">
 
 डिजिटल प्रमाणपत्र को एक इलेक्ट्रॉनिक पहचान दस्तावेज़ माना जा सकता है। इसे X.509 प्रमाणपत्र भी कहते हैं। डिजिटल प्रमाणपत्र सार्वजनिक कुंजी और उसके स्वामी के बीच संबंध स्थापित करता है, और यह Certificate Authority द्वारा सत्यापित होकर स्वामी को दिया जाता है। प्रमाणपत्र का स्वामी इसे सुरक्षित रूप से रखे, क्योंकि यह एक निश्चित अवधि तक मान्य होता है। इसका जीवनचक्र PKI द्वारा प्रबंधित किया जाता है।
 
 ### डिजिटल प्रमाणपत्र प्रारूप / Digital Certificate Formats
 
-<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-formats.png">
+<img src="/images/hi/cybersecurity/pki/pki-digital-certificate-formats.png" alt="डिजिटल प्रमाणपत्र" loading="lazy">
 
 #### PEM format (Privacy Enhanced Mail) / पीईएम प्रारूप
 यह X.509 प्रमाणपत्रों, प्रमाणपत्र अनुरोधों और कुंजी-आधारित डेटा के लिए सबसे सामान्य प्रारूप है। अधिकांश CA Base64 ASCII में एन्कोडेड प्रमाणपत्र प्रदान करते हैं।

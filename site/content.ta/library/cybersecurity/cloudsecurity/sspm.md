@@ -3,14 +3,14 @@ title: 'SaaS பாதுகாப்பு நிலை மேலாண்ம�
 date: 2026-09-21
 draft: false
 weight: 14
-tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமை பாதுகாப்பு"]
+tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமைப் பாதுகாப்பு"]
 ---
 
 ### SaaS பாதுகாப்பு நிலை மேலாண்மை (SSPM)
 
 SaaS பயன்பாடுகளின் உள்ளமைவையும் பாதுகாப்பு அமைப்புகளையும் SaaS பாதுகாப்பு நிலை மேலாண்மை தொடர்ந்து கண்காணிக்கிறது. SaaS தளங்களை வாடிக்கையாளர்களே உள்ளமைப்பதால், தவறான உள்ளமைவுகளும் அளவுக்கு மீறிய அனுமதிகளும் முக்கியமான தரவை வெளிப்படுத்தக்கூடும்.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS பாதுகாப்பு நிலை மேலாண்மை (SSPM)" loading="lazy">
 
 ### முக்கிய அம்சங்கள்
 

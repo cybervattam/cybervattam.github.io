@@ -21,7 +21,7 @@ tags: ["సైబర్‌సెక్యూరిటీ","పబ్లిక్
 * కీ ఉపయోగం
 * వాస్తవికత మరియు పరిమితులు
 
-<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-formats.png" alt="డిజిటల్ సర్టిఫికెట్‌లు" loading="lazy">
 
 #### PEM ఫార్మాట్ (Privacy Enhanced Mail)
 

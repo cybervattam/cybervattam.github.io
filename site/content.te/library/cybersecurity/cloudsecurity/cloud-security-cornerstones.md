@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 క్లౌడ్ భద్రత అనేక కీలక పరిష్కార అంశాలపై ఆధారపడి ఉంటుంది. ప్రతి అంశం వినియోగదారుల సాధారణ అవసరానికి సమాధానమిస్తూ, సంబంధిత క్లౌడ్ భద్రతా సేవ, సాంకేతిక పరిష్కారాలతో అనుసంధానమవుతుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png" alt="క్లౌడ్ భద్రతకు పునాది అంశాలు" loading="lazy">
 
 ### పునాది అంశాలు మరియు సేవలు
 

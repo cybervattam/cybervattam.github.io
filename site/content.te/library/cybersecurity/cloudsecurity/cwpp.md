@@ -14,13 +14,13 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 వర్క్‌లోడ్‌లు చిన్నవిగా, తక్కువ కాలం మాత్రమే ఉండేవిగా మారాయి; అందువల్ల వాటిని సురక్షితం చేసే విధానమూ మారాలి.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="క్లౌడ్ వర్క్‌లోడ్ రక్షణ ప్లాట్‌ఫారమ్ (CWPP)" loading="lazy">
 
 ### జీవితచక్రం అంతటా రక్షణ
 
 CWPP వర్క్‌లోడ్ జీవితచక్రంలోని నిర్మాణ, రన్‌టైమ్ దశలను రెండింటినీ కవర్ చేస్తుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="క్లౌడ్ వర్క్‌లోడ్ రక్షణ ప్లాట్‌ఫారమ్ (CWPP)" loading="lazy">
 
 #### సురక్షిత నిర్మాణం
 - లోపాలు కలిగిన భాగాలు
@@ -42,7 +42,7 @@ CWPP వర్క్‌లోడ్ జీవితచక్రంలోని �
 
 ముందుగా ప్రాథమిక రక్షణను బలోపేతం చేయడం, అమరికలను సరిచేయడం, లోపాలను నిర్వహించడం, నెట్‌వర్క్‌ను విభజించడం వంటి చర్యలకు ప్రాధాన్యతనిస్తూ, కీలకత ఆధారంగా నియంత్రణలను అమలు చేయవచ్చు.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="క్లౌడ్ వర్క్‌లోడ్ రక్షణ ప్లాట్‌ఫారమ్ (CWPP)" loading="lazy">
 
 ### భద్రతా లక్ష్యం
 

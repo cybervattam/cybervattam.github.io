@@ -10,9 +10,9 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಡೇಟಾವನ್ನು ಹೋಸ್ಟ್ ಮಾಡುವ ಭೌತಿಕ ಹಾರ್ಡ್‌ವೇರ್ ಅನ್ನು ಕ್ಲೌಡ್ ಸೇವಾ ಪೂರೈಕೆದಾರರು ಸುರಕ್ಷಿತಗೊಳಿಸಬೇಕು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security1.jpg" alt="ಹಾರ್ಡ್‌ವೇರ್ ಭದ್ರತೆ" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/hardware-security2.jpg" alt="ಹಾರ್ಡ್‌ವೇರ್ ಭದ್ರತೆ" loading="lazy">
 
 ### ಶಿಫಾರಸು ಮಾಡಲಾದ ಕ್ರಮಗಳು
 

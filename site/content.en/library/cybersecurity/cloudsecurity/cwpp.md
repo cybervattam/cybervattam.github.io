@@ -14,13 +14,13 @@ A cloud workload protection platform protects workloads wherever they run, inclu
 
 Workloads have become smaller and shorter-lived, which changes how they must be secured.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="Cloud Workload Protection Platform (CWPP)" loading="lazy">
 
 ### Protection Across the Lifecycle
 
 CWPP covers both the build and runtime phases of the workload lifecycle.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="Cloud Workload Protection Platform (CWPP)" loading="lazy">
 
 #### Secure Build
 - Vulnerable components
@@ -42,7 +42,7 @@ CWPP covers both the build and runtime phases of the workload lifecycle.
 
 Controls can be prioritized from foundational to less critical, starting with hardening, configuration, vulnerability management, and network segmentation.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="Cloud Workload Protection Platform (CWPP)" loading="lazy">
 
 ### Security Objective
 

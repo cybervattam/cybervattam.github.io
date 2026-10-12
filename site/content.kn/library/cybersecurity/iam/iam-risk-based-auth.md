@@ -2,7 +2,7 @@
 title: 'ಮರೈಯಿಟರ್ ಅಟಿಪ್ಪಟಿಯಿಲಾನ ಸಾನ್ರುರುತಿ'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 14
 tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್ತು ಪ್ರವೇಶ ನಿರ್ವಹಣೆ"]
 ---
 
@@ -11,4 +11,4 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಗುರುತು ಮತ್�
 
 ನಿರುವನಕ್ ಕೊಳ್ಕೈಕಳ್ ಕಣಕ್ಕಿಟಪ್ಪಟ್ಟ ಮರೈಯಿಟರ್ ಮತಿಪ್ಪೆಣ್ ಅಟಿಪ್ಪಟೈಯಿಲ್ ಎಟುಕ್ಕಪ್ಪಟ ವೇಣ್ಟಿಯ ನಟವಟಿಕ್ಕೈಯೈ ವರೈಯರುಕ್ಕಿನ್ರನ. 
 
-<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50% alt="ಮರೈಯಿಟರ್ ಅಟಿಪ್ಪಟಿಯಿಲಾನ ಸಾನ್ರುರುತಿ" loading="lazy">

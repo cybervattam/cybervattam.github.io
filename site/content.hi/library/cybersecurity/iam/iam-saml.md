@@ -2,7 +2,7 @@
 title: 'SAML (सुरक्षा कथन मार्कअप लैंग्वेज)'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 17
 tags: ["साइबर सुरक्षा","पहचान और पहुंच प्रबंधन"]
 ---
 
@@ -15,4 +15,4 @@ SAML (Security Assertion Markup Language) XML पर आधारित एक �
 
 दोनों पक्ष एक-दूसरे के बारे में यह जानकारी जान लेने के बाद, अपने-अपने कॉन्फ़िगरेशन को उसी के अनुसार सेट करते हैं।
 
-<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70%>
+<img src="/images/en/cybersecurity/iam/iam-saml-auth-process.png" width=70% alt="SAML (सुरक्षा कथन मार्कअप लैंग्वेज)" loading="lazy">

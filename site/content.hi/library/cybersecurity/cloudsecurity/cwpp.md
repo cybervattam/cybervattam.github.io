@@ -14,13 +14,13 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 वर्कलोड छोटे और कम अवधि वाले होते गए हैं, इसलिए उनकी सुरक्षा करने का तरीका भी बदलना आवश्यक है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="क्लाउड वर्कलोड प्रोटेक्शन प्लेटफ़ॉर्म (CWPP)" loading="lazy">
 
 ### पूरे जीवनचक्र में सुरक्षा
 
 CWPP वर्कलोड जीवनचक्र के निर्माण और रनटाइम—दोनों चरणों को कवर करता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="क्लाउड वर्कलोड प्रोटेक्शन प्लेटफ़ॉर्म (CWPP)" loading="lazy">
 
 #### सुरक्षित निर्माण
 
@@ -44,7 +44,7 @@ CWPP वर्कलोड जीवनचक्र के निर्माण
 
 नियंत्रणों को बुनियादी से कम महत्वपूर्ण तक प्राथमिकता दी जा सकती है—इसकी शुरुआत सिस्टम को मजबूत बनाने, कॉन्फ़िगरेशन, कमजोरियों के प्रबंधन और नेटवर्क विभाजन से होती है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="क्लाउड वर्कलोड प्रोटेक्शन प्लेटफ़ॉर्म (CWPP)" loading="lazy">
 
 ### सुरक्षा उद्देश्य
 

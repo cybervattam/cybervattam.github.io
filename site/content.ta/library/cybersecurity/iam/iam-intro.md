@@ -10,7 +10,7 @@ tags: ["தகவல் பாதுகாப்பு","அடையாளம�
 
 சரியான காரணங்களுக்காக சரியான அடையாளங்கள் சரியான வளங்களை சரியான நேரத்தில் அணுகுவதை உறுதிசெய்து, தரவின் ரகசியத்தன்மையைப் பாதுகாப்பதே அடையாளம் & அணுகல் மேலாண்மை.
 
-Ensuring right entities have right access to right resources at the right time for right reasons and hence protect the confidentiality of the data
+- சரியான பயனர்கள், சரியான நேரத்தில், சரியான வளங்களுக்குச் சரியான அணுகலைப் பெற்றிருப்பதை அடையாள மற்றும் அணுகல் மேலாண்மை (IAM) உறுதி செய்கிறது.
 
 அடையாளம் & அணுகல் மேலாண்மையை பொதுவாக நான்கு தலைப்புகளாக பிரிக்கலாம்.
 
@@ -19,6 +19,6 @@ Ensuring right entities have right access to right resources at the right time f
 * அணுகல் மேலாண்மை (access management)
 * சிறப்புரிமை அணுகல் மேலாண்மை (privileged access management)
 
-<img src="/images/ta/cybersecurity/iam/iam-intro-ta.svg" width=50%>
+<img src="/images/ta/cybersecurity/iam/iam-intro-ta.svg" width=50% alt="அடையாளம் & அணுகல் மேலாண்மை கண்ணோட்டம்" loading="lazy">
 
 இந்த தலைப்புகள் ஒவ்வொன்றையும் விரிவாக காணலாம்.

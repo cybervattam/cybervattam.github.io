@@ -10,7 +10,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 जीरो ट्रस्ट नेटवर्क एक्सेस, जिसे सॉफ्टवेयर-डिफाइंड परिमिटर भी कहा जाता है, तकनीकों और कार्यक्षमताओं का ऐसा समूह है जो रिमोट यूजर को आंतरिक एप्लिकेशन तक सुरक्षित एक्सेस देता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-old-vs-new.png" alt="जीरो ट्रस्ट नेटवर्क एक्सेस (ZTNA)" loading="lazy">
 
 ### मुख्य सिद्धांत
 
@@ -29,4 +29,4 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 ZTNA पारंपरिक नेटवर्क-आधारित भरोसे की धारणाओं के बजाय यूजर-टू-एप्लिकेशन एक्सेस पैटर्न का उपयोग करता है। यह अक्सर एंड-टू-एंड एन्क्रिप्टेड TLS माइक्रो-टनल पर निर्भर करता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ztna-architecture.png" alt="जीरो ट्रस्ट नेटवर्क एक्सेस (ZTNA)" loading="lazy">

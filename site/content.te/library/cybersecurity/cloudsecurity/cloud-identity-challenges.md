@@ -24,7 +24,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 #### క్రియారహిత గుర్తింపులు
 కొన్ని గుర్తింపులు ఇకపై ఉపయోగించని వనరులకు యాక్సెస్‌ను అలాగే కలిగి ఉండటం వల్ల ప్రమాద పరిధి పెరుగుతుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-challenges.png" alt="క్లౌడ్ గుర్తింపు నిర్వహణలో సవాళ్లు" loading="lazy">
 
 ### ప్రభావం
 

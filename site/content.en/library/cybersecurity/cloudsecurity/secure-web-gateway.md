@@ -12,7 +12,7 @@ A secure web gateway is a security solution that prevents unsecured internet tra
 
 It helps protect users from malicious websites and supports regulatory compliance.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png" alt="Secure Web Gateway" loading="lazy">
 
 ### Core Functionality
 
@@ -29,7 +29,7 @@ It helps protect users from malicious websites and supports regulatory complianc
 - Proxies filter outbound or inbound connections based on policy.
 - SWGs operate at the application layer and can evaluate web traffic more granularly.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="Secure Web Gateway" loading="lazy">
 
 ### Architecture Summary
 

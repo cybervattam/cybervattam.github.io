@@ -16,7 +16,7 @@ CBDCകൾ പൊതുജനങ്ങൾക്ക് വ്യാപകമാ�
 
 ഇന്ത്യൻ റിസർവ് ബാങ്ക് (RBI) ഇന്ത്യയുടെ CBDCയായി ഡിജിറ്റൽ രൂപ പുറത്തിറക്കിയിട്ടുണ്ട്. അതിന്റെ മൂല്യവിഭാഗങ്ങൾ താഴെ കാണിച്ചിരിക്കുന്നു.
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="സെൻട്രൽ ബാങ്ക് ഡിജിറ്റൽ കറൻസി (CBDC)" loading="lazy">
 
 ### CBDCയുടെ സവിശേഷതകൾ
 
@@ -32,7 +32,7 @@ CBDCയുടെ സവിശേഷതകൾ:
 
 #### ഹോൾസെയിൽ CBDCകൾ
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="സെൻട്രൽ ബാങ്ക് ഡിജിറ്റൽ കറൻസി (CBDC)" loading="lazy">
 
 - ധനകാര്യ സ്ഥാപനങ്ങൾക്ക് നിയന്ത്രിത പ്രവേശനം നൽകുന്നതിനായാണ് ഹോൾസെയിൽ CBDCകൾ രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്.
 - അന്തർബാങ്ക് പേയ്‌മെന്റുകളുടെയും സെക്യൂരിറ്റി സെറ്റിൽമെന്റിന്റെയും കാര്യക്ഷമത മെച്ചപ്പെടുത്താൻ ഇവ ഉപയോഗിക്കുന്നു.
@@ -40,7 +40,7 @@ CBDCയുടെ സവിശേഷതകൾ:
 
 #### റീട്ടെയിൽ CBDCകൾ
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="സെൻട്രൽ ബാങ്ക് ഡിജിറ്റൽ കറൻസി (CBDC)" loading="lazy">
 
 - സ്വകാര്യ മേഖല, സാമ്പത്തികേതര ഉപഭോക്താക്കൾ, ബിസിനസുകൾ എന്നിവർക്കെല്ലാം ഉപയോഗിക്കാനാകുന്നവയാണ് റീട്ടെയിൽ CBDCകൾ.
 - സാമ്പത്തിക ഉൾപ്പെടുത്തൽ ലക്ഷ്യമിടുന്ന കേന്ദ്ര ബാങ്കുകൾ റീട്ടെയിൽ CBDC പുറത്തിറക്കുന്നത് പരിഗണിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു.
@@ -54,7 +54,7 @@ CBDCയുടെ സവിശേഷതകൾ:
 
 ### ഇന്ത്യയിലെ CBDCകൾക്കായുള്ള RBIയുടെ രൂപകൽപ്പനാ തിരഞ്ഞെടുപ്പ്
 
-<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="സെൻട്രൽ ബാങ്ക് ഡിജിറ്റൽ കറൻസി (CBDC)" loading="lazy">
 
 ### പ്രധാന ആശയം
 

@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### क्रिप्टोकरेंसी की विशेषताएं
 
-<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png" alt="क्रिप्टोकरेंसी की विशेषताएं" loading="lazy">
 
 | पैरामीटर | फिएट | क्रिप्टो |
 |---|---|---|
@@ -20,7 +20,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 | सुरक्षा | मध्यम | उच्च |
 | डिसेंट्रलाइजेशन | नहीं | हां |
 
-<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png" alt="क्रिप्टोकरेंसी की विशेषताएं" loading="lazy">
 
 ### सारांश
 

@@ -16,7 +16,7 @@ CBDCలు కేంద్ర బ్యాంక్ బాధ్యతల డి
 
 భారతీయ రిజర్వ్ బ్యాంక్ (RBI) భారతదేశానికి CBDCగా డిజిటల్ రూపాయిని జారీ చేసింది. దాని విలువల వివరాలు క్రింద ఉన్నాయి.
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="కేంద్ర బ్యాంక్ డిజిటల్ కరెన్సీ (CBDC)" loading="lazy">
 
 ### CBDC లక్షణాలు
 
@@ -39,7 +39,7 @@ CBDC లక్షణాలు:
 
 #### హోల్‌సేల్ CBDCలు
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="కేంద్ర బ్యాంక్ డిజిటల్ కరెన్సీ (CBDC)" loading="lazy">
 
 - హోల్‌సేల్ CBDCలు ఆర్థిక సంస్థలకు మాత్రమే పరిమిత ప్రాప్యత ఉండేలా రూపొందించబడ్డాయి.
 - అంతర్-బ్యాంకు చెల్లింపులు లేదా సెక్యూరిటీల సెటిల్‌మెంట్ సామర్థ్యాన్ని మెరుగుపరచడానికి వీటిని ఉపయోగిస్తారు.
@@ -47,14 +47,14 @@ CBDC లక్షణాలు:
 
 #### రిటైల్ CBDCలు
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="కేంద్ర బ్యాంక్ డిజిటల్ కరెన్సీ (CBDC)" loading="lazy">
 
 - ప్రైవేట్ రంగం, ఆర్థికేతర వినియోగదారులు మరియు వ్యాపారాలు సహా అందరూ రిటైల్ CBDCలను ఉపయోగించవచ్చు.
 - ఆర్థిక సమ్మిళితత్వాన్ని పెంపొందించాలనుకునే కేంద్ర బ్యాంకులు రిటైల్ CBDC జారీని పరిశీలిస్తాయని భావిస్తున్నారు.
 
 ### భారతదేశంలో CBDCల కోసం RBI రూపకల్పన ఎంపిక
 
-<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="కేంద్ర బ్యాంక్ డిజిటల్ కరెన్సీ (CBDC)" loading="lazy">
 
 ### ప్రధాన భావన
 

@@ -8,7 +8,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### కరెన్సీలు మరియు డిజిటల్ ఆస్తుల పోలిక
 
-<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="కరెన్సీలు మరియు డిజిటల్ ఆస్తుల పోలిక" loading="lazy">
 
 ### అంతర్దృష్టి
 

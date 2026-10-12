@@ -2,7 +2,7 @@
 title: 'Hyperledger Blockchain Components'
 date: 2022-08-15
 draft: false
-weight: 6
+weight: 7
 tags: ["Emerging Technology","Blockchain"]
 ---
 
@@ -23,4 +23,4 @@ __Events__ - Generates notifications about significant activities in the blockch
 __Membership__ - In a permissioned blockchain network, membership services authenticate, authorize, and manage identities.
 
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50% alt="Hyperledger Blockchain Components" loading="lazy">

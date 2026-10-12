@@ -2,13 +2,13 @@
 title: 'Single Sign-On / Federation'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 16
 tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
 ### Single Sign-On / Federation (SSO/Federation)
 
-<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25% alt="Single Sign-On / Federation" loading="lazy">
 
 #### Federation (Different Domains)
 Federation is a trust relationship between two systems or organizations.

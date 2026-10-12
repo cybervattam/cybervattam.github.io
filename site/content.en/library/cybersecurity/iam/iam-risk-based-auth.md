@@ -2,7 +2,7 @@
 title: 'Risk-Based Authentication'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 14
 tags: ["Cybersecurity","Identity and Access Management"]
 ---
 
@@ -12,4 +12,4 @@ Risk-based or adaptive authentication analyzes signals from multiple sources and
 
 Organizational policies define the action to be taken based on the calculated risk score.
 
-<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50% alt="Risk-Based Authentication" loading="lazy">

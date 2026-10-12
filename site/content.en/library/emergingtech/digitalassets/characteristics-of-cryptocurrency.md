@@ -8,7 +8,7 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### Characteristics of Cryptocurrency
 
-<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/cryptocurrency-characteristics.png" alt="Characteristics of Cryptocurrency" loading="lazy">
 
 | Parameter | Fiat | Crypto |
 |---|---|---|
@@ -20,7 +20,7 @@ tags: ["Emerging Technology","Digital Assets"]
 | Security | Moderate | High |
 | Decentralization | No | Yes |
 
-<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png">
+<img src="/images/en/emergingtech/digitalassets/fiat-vs-crypto.png" alt="Characteristics of Cryptocurrency" loading="lazy">
 
 ### Summary
 

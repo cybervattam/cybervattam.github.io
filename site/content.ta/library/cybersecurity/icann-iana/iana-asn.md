@@ -10,15 +10,15 @@ tags: ["தகவல் பாதுகாப்பு","இணைய இரு�
 
 இணைய இருத்திய எண்கள் ஆணையம் இணைய எண் வளங்களான இணைய நெறிமுறை முகவரி தொகுப்புகள்  மற்றும் தன்னாட்சி அமைப்பு எண்கள் ஆகியவற்றை ஒதுக்கும் பொறுப்பை வட்டார இணைய பதிவகங்களிடம் (Regional Internet Registry) வழங்குகிறது. தற்பொழுது ARIN, LACNIC, RIPE NCC, AFRINIC & APNIC என 5 வட்டார இணைய பதிவகங்கள் செயல்பட்டு வருகின்றன.
 
-<img src="/images/shared/screenshots/rir-map.svg" width=50%>
+<img src="/images/shared/screenshots/rir-map.svg" width=50% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
 
 <br>
 
-<img src="/images/shared/logos/arin-logo.svg" width=10%>
-<img src="/images/shared/logos/lacnic-logo.svg" width=10%>
-<img src="/images/shared/logos/ripe-ncc-logo.svg" width=10%>
-<img src="/images/shared/logos/afrinic-logo.svg" width=10%>
-<img src="/images/shared/logos/apnic-logo.svg">
+<img src="/images/shared/logos/arin-logo.svg" width=10% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
+<img src="/images/shared/logos/lacnic-logo.svg" width=10% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
+<img src="/images/shared/logos/ripe-ncc-logo.svg" width=10% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
+<img src="/images/shared/logos/afrinic-logo.svg" width=10% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
+<img src="/images/shared/logos/apnic-logo.svg" alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
 
 
 
@@ -28,10 +28,10 @@ tags: ["தகவல் பாதுகாப்பு","இணைய இரு�
 
 <br>
 
-<img src="/images/shared/logos/irinn-logo.png" width=10%>
+<img src="/images/shared/logos/irinn-logo.png" width=10% alt="தன்னாட்சி அமைப்பு எண்கள்" loading="lazy">
 
 <br>
 
 எல்லை நுழைவாயில் நெறிமுறை வழித்திட்டத்தை (Border Gateway Protocol Routing) பயன்படுத்த ஒவ்வொரு தன்னாட்சி அமைப்புக்கும் ஒரு தனித்துவமான தன்னாட்சி அமைப்பு எண் ஒதுக்கப்படும். இது இணையத்தில் உள்ள ஒவ்வொரு பிணையத்தையும் தனித்துவமாக அடையாளம் காண வழிவகுக்கிறது.
 
-ஒரு தன்னாட்சி அமைப்பு என்பது இணையத்திற்கு பொதுவான, தெளிவாக வரையறுக்கப்பட்ட வழித்திட்ட கொள்கையை (Rounting Policy) முன்வைக்கும் ஒற்றை நிர்வாக நிறுவனம் அல்லது களத்தின் சார்பாக ஒன்று அல்லது அதற்கு மேற்பட்ட பிணைய இயக்குனர்களின் கட்டுப்பாட்டின் கீழ் இணைக்கப்பட்ட இணைய நெறிமுறை வழித்திட்ட முன்னொட்டுகளின் (IP Routing Prefix) தொகுப்பாகும்.
+ஒரு தன்னாட்சி அமைப்பு என்பது இணையத்திற்குப் பொதுவான, தெளிவாக வரையறுக்கப்பட்ட வழித்திட்டக் கொள்கையை (Routing Policy) முன்வைக்கும் ஒற்றை நிர்வாக நிறுவனம் அல்லது களத்தின் சார்பாக ஒன்று அல்லது அதற்கு மேற்பட்ட பிணைய இயக்குநர்களின் கட்டுப்பாட்டின் கீழ் இணைக்கப்பட்ட இணைய நெறிமுறை வழித்திட்ட முன்னொட்டுகளின் (IP Routing Prefix) தொகுப்பாகும்.

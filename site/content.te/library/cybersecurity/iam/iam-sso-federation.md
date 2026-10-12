@@ -2,13 +2,13 @@
 title: 'SSO / ఫెడరేషన్'
 date: 2022-08-18
 draft: false
-weight: 14
+weight: 16
 tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
 ### SSO / ఫెడరేషన్ (SSO / Federation)
 
-<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25%>
+<img src="/images/en/cybersecurity/iam/iam-sso-protocols.png" width=25% alt="SSO / ఫెడరేషన్" loading="lazy">
 
 #### ఫెడరేషన్ (విభిన్న డొమైన్లు)
 

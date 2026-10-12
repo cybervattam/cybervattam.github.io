@@ -12,7 +12,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ### CSPM ಸಾಮರ್ಥ್ಯಗಳು
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png" alt="ಕ್ಲೌಡ್ ಸೆಕ್ಯುರಿಟಿ ಪೋಸ್ಚರ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (CSPM)" loading="lazy">
 
 - **ಸ್ವತ್ತುಗಳ ಪತ್ತೆ ಮತ್ತು ಗುರುತಿಸುವಿಕೆ:** ಸ್ವತ್ತುಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಿ, ಅಪಾಯವನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ ಆದ್ಯತೆ ನೀಡಿ, ಪರಿಹಾರಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿ ಅಥವಾ ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತಗೊಳಿಸಿ
 - **ಕ್ಲೌಡ್ ಆಡಳಿತ ಮತ್ತು ಅನುಸರಣೆ:** ನಿಯಂತ್ರಣಾತ್ಮಕ ಮತ್ತು ಚೌಕಟ್ಟಿನ ಅನುಸರಣೆ ಪ್ಯಾಕ್‌ಗಳು ಹಾಗೂ ಸ್ವಯಂಚಾಲಿತ ಮತ್ತು ನಿಗದಿತ ವರದಿಗಳು
@@ -24,7 +24,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 CSPM ಕ್ಲೌಡ್ ಪೂರೈಕೆದಾರರ APIಗಳಿಂದ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಿ, ಅದನ್ನು ಸಾಮಾನ್ಯ ಸ್ವರೂಪಕ್ಕೆ ಪರಿವರ್ತಿಸುತ್ತದೆ. ನಂತರ ವರದಿ, ಪ್ರತಿಕ್ರಿಯೆ ಮತ್ತು ಏಕೀಕರಣಗಳಿಗೆ ನೆರವಾಗುವಂತೆ ನೀತಿ ಆಧಾರಿತ ಹಾಗೂ ಯಂತ್ರ-ಕಲಿಕೆ ನೆರವಿನ ಪತ್ತೆ ವಿಧಾನಗಳನ್ನು ಅನ್ವಯಿಸುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png" alt="ಕ್ಲೌಡ್ ಸೆಕ್ಯುರಿಟಿ ಪೋಸ್ಚರ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (CSPM)" loading="lazy">
 
 ### ಭದ್ರತಾ ಉದ್ದೇಶ
 

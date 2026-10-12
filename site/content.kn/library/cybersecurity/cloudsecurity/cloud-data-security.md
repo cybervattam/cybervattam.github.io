@@ -14,7 +14,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಕ್ಲೌಡ್ ಡೇಟಾ ಭದ್ರತೆಯ ಪ್ರಮುಖ ನಿಯಂತ್ರಣವಾಗಿದೆ. ಡೇಟಾ ಸಾರ್ವಭೌಮತ್ವ, ಅನುಸರಣೆ ಮತ್ತು ನಂಬಿಕೆಯಂತಹ ಅಗತ್ಯಗಳನ್ನು ಬೆಂಬಲಿಸಲು ಇದನ್ನು ಬಳಸಬಹುದು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-encryption.png" alt="ಕ್ಲೌಡ್ ಡೇಟಾ ಭದ್ರತೆ" loading="lazy">
 
 ### ಕೀ ನಿರ್ವಹಣಾ ಮಾದರಿಗಳು
 
@@ -30,7 +30,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 - ಹಣಕಾಸು, HR, ಕಾನೂನು ಮತ್ತು ಬೌದ್ಧಿಕ ಸ್ವತ್ತು ಡೇಟಾ ವಿಶೇಷವಾಗಿ ನಿರ್ಣಾಯಕವಾಗಿದೆ
 - ನಂಬಿಕೆ, ಚುರುಕುತನ ಮತ್ತು ನಿಯಂತ್ರಣದ ನಿರೀಕ್ಷೆಗಳು ಗ್ರಾಹಕರ ಆದ್ಯತೆಗಳ ಆಧಾರದ ಮೇಲೆ ಬದಲಾಗುತ್ತವೆ
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-data-security-trust-levels-sovereignity.png" alt="ಕ್ಲೌಡ್ ಡೇಟಾ ಭದ್ರತೆ" loading="lazy">
 
 ### ಭದ್ರತಾ ಉದ್ದೇಶ
 

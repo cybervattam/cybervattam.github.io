@@ -2,10 +2,10 @@
 title: 'लेखांकन विधियाँ'
 date: 2022-08-15
 draft: false
-weight: 7
+weight: 8
 tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
 ### लेखांकन विधियाँ
 
-<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50% alt="लेखांकन विधियाँ" loading="lazy">

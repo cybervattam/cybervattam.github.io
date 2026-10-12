@@ -2,7 +2,7 @@
 title: 'റിസ്ക് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 14
 tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആക്സസ് മാനേജ്മെന്റ്"]
 ---
 
@@ -12,4 +12,4 @@ tags: ["സൈബർസുരക്ഷ","തിരിച്ചറിയൽ & ആ
 
 കണക്കാക്കിയ റിസ്ക് സ്കോറിന്റെ അടിസ്ഥാനത്തിൽ സ്വീകരിക്കേണ്ട നടപടി സ്ഥാപന നയങ്ങൾ നിർവചിക്കുന്നു.
 
-<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50% alt="റിസ്ക് അടിസ്ഥാനമാക്കിയുള്ള ഓതന്റിക്കേഷൻ" loading="lazy">

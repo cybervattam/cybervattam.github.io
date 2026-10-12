@@ -6,7 +6,7 @@ weight: 5
 tags: ["Cybersecurity","Zero Trust"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="Zero Trust User Flows" loading="lazy">
 
 ### Zero Trust User Flows
 

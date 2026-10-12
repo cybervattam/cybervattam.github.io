@@ -10,7 +10,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 గుర్తింపులు, అనుమతులను కాలక్రమంలో సురక్షితంగా నిర్వహించేందుకు సంస్థలకు CIEM నిరంతర జీవితచక్రాన్ని అందిస్తుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-lifecycle.png" alt="CIEM జీవితచక్రం" loading="lazy">
 
 #### గుర్తింపు
 క్లౌడ్ కార్యకలాపాలు, విధాన నిర్మాణాలను నిరంతరం విశ్లేషించడం ద్వారా క్లౌడ్ గుర్తింపులు, వాటి అనుమతులపై CIEM సూక్ష్మమైన దృశ్యమానతను ఇస్తుంది.

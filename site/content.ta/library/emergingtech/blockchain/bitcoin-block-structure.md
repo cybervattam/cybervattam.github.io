@@ -2,11 +2,11 @@
 title: 'பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்'
 date: 2022-08-15
 draft: false
-weight: 3
-tags: ["நவீன தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
+weight: 4
+tags: ["நவீனத் தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
 ---
 
-### <img src="/images/shared/logos/bitcoin-logo.svg" width=10%> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain
+### <img src="/images/shared/logos/bitcoin-logo.svg" width=10% alt="பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்" loading="lazy"> கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள் / Block Structure in Bitcoin blockchain
 
 <br>
 
@@ -21,7 +21,7 @@ tags: ["நவீன தொழில்நுட்பங்கள்","கட�
     - பரிவர்த்தனை எண்ணி (Transaction Counter)
     - பரிவர்த்தனைகள் #1, #2, #3, ... ,#n
 
-<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-block-structure-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-block-structure-ta.svg" width=50% alt="பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்" loading="lazy">
 <br>
 <br>
 
@@ -29,4 +29,4 @@ tags: ["நவீன தொழில்நுட்பங்கள்","கட�
 
 <br>
 <br>
-<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-chain-sample-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-bitcoin-chain-sample-ta.svg" width=50% alt="பிட்காயின் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்" loading="lazy">

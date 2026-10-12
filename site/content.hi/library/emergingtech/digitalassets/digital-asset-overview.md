@@ -14,7 +14,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### डिजिटल एसेट्स के प्रकार
 
-<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-digital-assets.png" alt="डिजिटल एसेट का अवलोकन" loading="lazy">
 
 - NFT और मेटावर्स ऑब्जेक्ट जैसे सोशल मीडिया एसेट्स
 - इमेज, फोटो, फिल्म और डॉक्यूमेंट्री जैसे फोटोग्राफिक और वीडियो एसेट्स

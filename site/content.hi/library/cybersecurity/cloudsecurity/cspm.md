@@ -12,7 +12,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 ### CSPM की क्षमताएँ
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png" alt="क्लाउड सुरक्षा स्थिति प्रबंधन (CSPM)" loading="lazy">
 
 - **संपत्ति की खोज और पहचान:** संपत्तियों का पता लगाना, जोखिम का आकलन और प्राथमिकता तय करना तथा निवारण में सहायता या उसे स्वचालित करना
 - **क्लाउड गवर्नेंस और अनुपालन:** नियामक तथा ढाँचा-आधारित अनुपालन पैक, स्वचालित और निर्धारित रिपोर्टिंग सहित
@@ -24,7 +24,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 
 CSPM क्लाउड प्रदाता के API से डेटा एकत्र करता है, उसे सामान्य स्वरूप में ढालता है और रिपोर्टिंग, प्रतिक्रिया तथा एकीकरण के लिए नीति-आधारित और मशीन लर्निंग-सहायित पहचान लागू करता है।
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png" alt="क्लाउड सुरक्षा स्थिति प्रबंधन (CSPM)" loading="lazy">
 
 ### सुरक्षा उद्देश्य
 

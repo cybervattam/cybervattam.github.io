@@ -3,18 +3,18 @@ title: 'மேகக் கணிமை சேவை முறைகள்'
 date: 2022-08-14
 draft: false
 weight: 3
-tags: ["நவீன தொழில்நுட்பங்கள்","மேகக் கணிமை"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","மேகக் கணிமை"]
 ---
 
 ## __மேகக் கணிமை சேவை முறைகள் / Cloud Service Models__
 
 <br>
-<img src="/images/ta/emergingtech/cloud/cloud-service-model-ta.svg">
+<img src="/images/ta/emergingtech/cloud/cloud-service-model-ta.svg" alt="மேகக் கணிமை சேவை முறைகள்" loading="lazy">
 <br>
 <br>
 
 #### 1. சேவையாக உள்கட்டமைப்பு / Infrastructure as a Service (IaaS)
-மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். கக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.
+மெய்நிகராக்கப்பட்ட கணிமை, பிணையம் அல்லது சேமிப்பகம் போன்ற அடிப்படை கணினி உள்கட்டமைப்பின் நிர்வகித்து மேகக் கணிமை சேவையாளர்கள் வள திரள்விற்கான அணுகலை வழங்குகின்றனர். மேகக் கணிமை நுகர்வோர் தங்கள் தேவைக்கேற்ப பல்வேறு இயங்குதளம் மற்றும் பயன்பாடுகளை அதன் மேல் நிறுவலாம்.
 
 
 #### 2. சேவையாக பணித்தளம் / Platform as a service (PaaS)
@@ -23,9 +23,9 @@ tags: ["நவீன தொழில்நுட்பங்கள்","மே�
 எடுத்துக்காட்டு:
 * பைத்தான், PHP அல்லது பிற மூலக்குறியீட்டை இயக்குவதற்கான இடம் 
 * சேவையாக தரவுத்தளம் (Database as a Service)
-* சேவையாக தரவுகிடங்கு (Datawarehousee as a Service)
+* சேவையாக தரவுகிடங்கு (Data Warehouse as a Service)
 * சேவையாக சேமிப்பகம் (Data Storage as a Service)
-* சேவையாக இயந்திர கற்றல் (Machine Learing as a Service)
+* சேவையாக இயந்திர கற்றல் (Machine Learning as a Service)
 
 முக்கிய வேறுபாடு என்னவென்றால், நீங்கள் அடிப்படையில் உள்ள  சேவையகங்கள், பிணையங்கள் அல்லது பிற உள்கட்டமைப்பை நிர்வகிக்க மாட்டீர்கள்.
 
@@ -36,18 +36,18 @@ tags: ["நவீன தொழில்நுட்பங்கள்","மே�
 தனிப்பயனாக்கம் / உள்ளமைவு கிடைக்கக்கூடும். அம்சங்கள் அல்லது திறன்களை மாற்ற முடியாது.
 
 எடுத்துக்காட்டு: 
-* நெட்ஃபிக்ஸ்,
+* நெட்ஃபிளிக்ஸ்,
 * பிரைம் வீடியோ
 * ஜிமெயில்
 * யூடியூப் 
 * ஜூம்
 * மைக்ரோசாப்ட் 365 போன்ற சேவைகள்
 
-## __மேகக் கணிமை பொறுப்பு பகிர்வு முறை  / Cloud Shared Responsiblity Model__
+## __மேகக் கணிமை பொறுப்பு பகிர்வு முறை  / Cloud Shared Responsibility Model__
 
 <br>
 
-<img src="/images/ta/emergingtech/cloud/cloud-shared-responsibility-model-ta.svg" width=75%>
+<img src="/images/ta/emergingtech/cloud/cloud-shared-responsibility-model-ta.svg" width=75% alt="மேகக் கணிமை சேவை முறைகள்" loading="lazy">
 
 <br>
 <br>
@@ -56,6 +56,6 @@ tags: ["நவீன தொழில்நுட்பங்கள்","மே�
 
 <br>
 
-<img src="/images/ta/emergingtech/cloud/cloud-service-providers.svg" width=50%>
+<img src="/images/ta/emergingtech/cloud/cloud-service-providers.svg" width=50% alt="மேகக் கணிமை சேவை முறைகள்" loading="lazy">
 
 <br>

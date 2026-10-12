@@ -13,7 +13,7 @@ tags: ["साइबर सुरक्षा","क्लाउड सुरक�
 - सिक्योरिटी सर्विस एज, जो नेटवर्क सुरक्षा को सेवा के रूप में प्रदान करता है
 - WAN एज, जो नेटवर्क कनेक्टिविटी को सेवा के रूप में प्रदान करता है
 
-<img src="/images/en/cybersecurity/cloudsecurity/sase.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sase.png" alt="सिक्योर एक्सेस सर्विस एज (SASE)" loading="lazy">
 
 ### मुख्य तत्व
 

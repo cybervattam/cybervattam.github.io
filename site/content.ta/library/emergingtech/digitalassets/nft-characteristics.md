@@ -3,10 +3,10 @@ title: 'மாற்றில்லா வில்லையின் பண்�
 date: 2026-09-21
 draft: false
 weight: 16
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
-<img src="/images/ta/emergingtech/digitalassets/nft-characteristics.png">
+<img src="/images/ta/emergingtech/digitalassets/nft-characteristics.png" alt="மாற்றில்லா வில்லையின் பண்புகள்" loading="lazy">
 
 மாற்றில்லா வில்லைகள் பல வேறுபடுத்தும் அம்சங்களைக் கொண்ட தனித்துவமான டிஜிட்டல் சொத்துகள் ஆகும்.
 

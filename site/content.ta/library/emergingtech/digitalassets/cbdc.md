@@ -3,7 +3,7 @@ title: 'மத்திய வங்கி டிஜிட்டல் நாண
 date: 2026-09-21
 draft: false
 weight: 13
-tags: ["நவீன தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
+tags: ["நவீனத் தொழில்நுட்பங்கள்","டிஜிட்டல் சொத்துக்கள்"]
 ---
 
 ### மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)
@@ -16,7 +16,7 @@ CBDCகள் மத்திய வங்கி பொறுப்புகள�
 
 இந்திய ரிசர்வ் வங்கி (RBI), இந்தியாவுக்கான CBDCயாக டிஜிட்டல் ரூபாயை வெளியிட்டுள்ளது. அதன் மதிப்புப் பிரிவுகள் கீழே காட்டப்பட்டுள்ளன.
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)" loading="lazy">
 
 ### CBDCயின் அம்சங்கள்
 
@@ -32,7 +32,7 @@ CBDCயின் அம்சங்கள்:
 
 #### மொத்த CBDCகள்
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)" loading="lazy">
 
 - மொத்த CBDCகள் நிதி நிறுவனங்களின் வரையறுக்கப்பட்ட அணுகலுக்காக வடிவமைக்கப்பட்டுள்ளன.
 - வங்கிகளுக்கிடையிலான பணப்பரிமாற்றங்கள் அல்லது பத்திரத் தீர்வுகளின் செயல்திறனை மேம்படுத்த இவை பயன்படுகின்றன.
@@ -40,7 +40,7 @@ CBDCயின் அம்சங்கள்:
 
 #### சில்லறை CBDCகள்
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)" loading="lazy">
 
 - சில்லறை CBDCகள் தனியார் துறை, நிதி சாராத நுகர்வோர் மற்றும் வணிகங்கள் அனைவரும் பயன்படுத்தக்கூடியவையாக இருக்கலாம்.
 - நிதி உள்ளடக்கத்தை மேம்படுத்த விரும்பும் மத்திய வங்கிகள் சில்லறை CBDCயை வெளியிடுவது குறித்து பரிசீலிக்கும் என எதிர்பார்க்கப்படுகிறது.
@@ -54,7 +54,7 @@ CBDCயின் அம்சங்கள்:
 
 ### இந்தியாவில் CBDCக்கான RBI வடிவமைப்புத் தேர்வுகள்
 
-<img src="/images/ta/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/ta/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="மத்திய வங்கி டிஜிட்டல் நாணயம் (CBDC)" loading="lazy">
 
 ### முக்கியக் கருத்து
 

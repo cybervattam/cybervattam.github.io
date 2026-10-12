@@ -10,7 +10,7 @@ tags: ["സൈബർസുരക്ഷ","ക്ലൗഡ് സുരക്ഷ"]
 
 ക്ലൗഡിലെ സുരക്ഷ വിവിധ പരിഹാരങ്ങളുടെ അടിസ്ഥാന ഘടകങ്ങളിലാണ് പടുത്തുയർത്തുന്നത്. ഓരോ ഘടകവും ഉപഭോക്താക്കളുടെ പൊതുവായ ഒരു ആവശ്യത്തിന് മറുപടി നൽകുകയും അതനുസരിച്ചുള്ള ക്ലൗഡ് സുരക്ഷാ സേവനത്തോടും സാങ്കേതികവിദ്യകളോടും ബന്ധപ്പെടുകയും ചെയ്യുന്നു.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-cornerstones.png" alt="ക്ലൗഡ് സുരക്ഷയുടെ അടിസ്ഥാന ഘടകങ്ങൾ" loading="lazy">
 
 ### അടിസ്ഥാന ഘടകങ്ങളും സേവനങ്ങളും
 

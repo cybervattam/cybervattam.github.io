@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಕ್ಲೌಡ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ರಚಿಸಲು, ಸಂರಚಿಸಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು ಬಳಸುವ ಕನ್ಸೋಲ್‌ಗಳು, APIಗಳು ಹಾಗೂ ಸಾಧನಗಳ ಸಮೂಹವೇ ನಿರ್ವಹಣಾ ಪ್ಲೇನ್. ಇದು ಪರಿಸರದ ಎಲ್ಲವನ್ನೂ ನಿಯಂತ್ರಿಸುವುದರಿಂದ, ನಿರ್ವಹಣಾ ಪ್ಲೇನ್ ಸಮ್ಮಿಶ್ರಣಗೊಂಡರೆ ಒಂದೇ ವರ್ಕ್‌ಲೋಡ್ ಸಮ್ಮಿಶ್ರಣಗೊಳ್ಳುವುದಕ್ಕಿಂತ ಬಹಳ ಹೆಚ್ಚಿನ ಹಾನಿಯಾಗಬಹುದು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-management-plane-security.png" alt="ಕ್ಲೌಡ್ ನಿರ್ವಹಣಾ ಪ್ಲೇನ್ ಮತ್ತು API ಭದ್ರತೆ" loading="lazy">
 
 ### ಆಡಳಿತಾತ್ಮಕ ಶ್ರೇಣಿ
 

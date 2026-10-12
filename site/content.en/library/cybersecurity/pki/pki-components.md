@@ -8,7 +8,7 @@ tags: ["Cybersecurity","Public Key Infrastructure"]
 
 ### Public Key Infrastructure Components (PKI Components)
 
-<img src="/images/en/cybersecurity/pki/pki-components.png">
+<img src="/images/en/cybersecurity/pki/pki-components.png" alt="Public Key Infrastructure Components" loading="lazy">
 
 * #### Registration Authority (RA)
     * Verifies the identities of people and organizations applying for certificates.

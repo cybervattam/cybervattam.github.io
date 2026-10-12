@@ -6,7 +6,7 @@ weight: 3
 tags: ["സൈബർസുരക്ഷ","സീറോ ട്രസ്റ്റ്"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png">
+<img src="/images/en/cybersecurity/zerotrust/zero-trust-framework.png" alt="സീറോ ട്രസ്റ്റ് ഫ്രെയിംവർക്കും രൂപകൽപ്പനാ തത്വങ്ങളും" loading="lazy">
 
 ### സീറോ ട്രസ്റ്റ് ഫ്രെയിംവർക്കും രൂപകൽപ്പനാ തത്വങ്ങളും
 

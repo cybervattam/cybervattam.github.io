@@ -12,7 +12,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 ಇದು ಬಳಕೆದಾರರನ್ನು ದುರುದ್ದೇಶಪೂರಿತ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಂದ ರಕ್ಷಿಸಲು ಮತ್ತು ನಿಯಂತ್ರಣಾತ್ಮಕ ಅನುಸರಣೆಗೆ ಬೆಂಬಲ ನೀಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-architecture.png" alt="ಸುರಕ್ಷಿತ ವೆಬ್ ಗೇಟ್‌ವೇ" loading="lazy">
 
 ### ಪ್ರಮುಖ ಕಾರ್ಯನಿರ್ವಹಣೆ
 
@@ -29,7 +29,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 - ಪ್ರಾಕ್ಸಿಗಳು ನೀತಿಯ ಆಧಾರದ ಮೇಲೆ ಹೊರಹೋಗುವ ಅಥವಾ ಒಳಬರುವ ಸಂಪರ್ಕಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡುತ್ತವೆ.
 - SWGಗಳು ಅಪ್ಲಿಕೇಶನ್ ಲೇಯರ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿ, ವೆಬ್ ಟ್ರಾಫಿಕ್ ಅನ್ನು ಹೆಚ್ಚು ಸೂಕ್ಷ್ಮವಾಗಿ ಮೌಲ್ಯಮಾಪನ ಮಾಡಬಹುದು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/en/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="ಸುರಕ್ಷಿತ ವೆಬ್ ಗೇಟ್‌ವೇ" loading="lazy">
 
 ### ಆರ್ಕಿಟೆಕ್ಚರ್ ಸಾರಾಂಶ
 

@@ -24,7 +24,7 @@ Examples include:
 - gTLDs: .com, .net, .org
 - ccTLDs: .in, .uk, .au
 
-<img src="/images/en/cybersecurity/dns/dns-tld.png">
+<img src="/images/en/cybersecurity/dns/dns-tld.png" alt="DNS Hierarchy" loading="lazy">
 
 #### Authoritative Name Servers
 

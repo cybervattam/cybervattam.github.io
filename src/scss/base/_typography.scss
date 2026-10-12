@@ -1,14 +1,12 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Tamil:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Malayalam:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700&family=Noto+Serif+Kannada:wght@400;500;600;700&family=Noto+Serif+Telugu:wght@400;500;600;700&display=swap');
-
-$font-family-sans-serif: 'Noto Sans', 'Segoe UI', sans-serif;
+$font-family-sans-serif: 'Noto Sans', 'Segoe UI', Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
 $font-family-monospace: 'SFMono-Regular', 'Menlo', 'Monaco', Consolas, 'Liberation Mono', monospace !default;
 $font-family-base: $font-family-sans-serif !default;
 
 :root {
-  --site-font-family: 'Noto Sans', 'Segoe UI', sans-serif;
+  --site-font-family: 'Noto Sans', 'Segoe UI', Roboto, -apple-system, BlinkMacSystemFont, sans-serif;
+  --serif: 'Noto Serif', Georgia, Cambria, 'Times New Roman', serif;
   --site-body-font-size: 16px;
-  --site-line-height: 1.5;
+  --site-line-height: 1.6;
   --site-header-bg: #f6f1e6;
   --site-accent: #2450a4;
   --site-surface: #fffdf8;
@@ -33,13 +31,40 @@ html[lang='hi'],
 html[lang='ml'],
 html[lang='te'],
 html[lang='kn'] {
-  --site-font-family: 'Noto Sans Tamil', 'Noto Sans Devanagari', 'Noto Sans Malayalam', 'Noto Sans Telugu', 'Noto Sans Kannada', sans-serif;
   --site-body-font-size: 17px;
-  --site-line-height: 1.85;
+  --site-line-height: 1.8;
+  --bs-body-line-height: 1.8;
 }
 
-html[lang='te'] { --serif: 'Noto Serif Telugu', 'Noto Sans Telugu', sans-serif; }
-html[lang='kn'] { --serif: 'Noto Serif Kannada', 'Noto Sans Kannada', sans-serif; }
+html[lang='ta'] {
+  --site-font-family: 'Noto Sans Tamil', 'Mukta Malar', 'Latha', 'Tamil Sangam MN', 'InaiMathi', 'Nirmala UI', 'Noto Sans', 'Segoe UI', sans-serif;
+  --bs-body-font-family: var(--site-font-family);
+  --serif: 'Noto Serif Tamil', 'Noto Sans Tamil', 'Mukta Malar', 'Latha', 'Tamil Sangam MN', serif;
+}
+
+html[lang='hi'] {
+  --site-font-family: 'Noto Sans Devanagari', 'Mukta', 'Kohinoor Devanagari', 'Mangal', 'Devanagari Sangam MN', 'Nirmala UI', 'Noto Sans', 'Segoe UI', sans-serif;
+  --bs-body-font-family: var(--site-font-family);
+  --serif: 'Noto Serif Devanagari', 'Noto Sans Devanagari', 'Mukta', 'Kohinoor Devanagari', 'Mangal', serif;
+}
+
+html[lang='ml'] {
+  --site-font-family: 'Noto Sans Malayalam', 'Manjari', 'Chilanka', 'Kartika', 'Malayalam Sangam MN', 'Nirmala UI', 'Noto Sans', 'Segoe UI', sans-serif;
+  --bs-body-font-family: var(--site-font-family);
+  --serif: 'Noto Serif Malayalam', 'Noto Sans Malayalam', 'Manjari', 'Kartika', 'Malayalam Sangam MN', serif;
+}
+
+html[lang='te'] {
+  --site-font-family: 'Noto Sans Telugu', 'Ramabhadra', 'Gautami', 'Telugu Sangam MN', 'Kohinoor Telugu', 'Nirmala UI', 'Noto Sans', 'Segoe UI', sans-serif;
+  --bs-body-font-family: var(--site-font-family);
+  --serif: 'Noto Serif Telugu', 'Noto Sans Telugu', 'Ramabhadra', 'Gautami', 'Telugu Sangam MN', serif;
+}
+
+html[lang='kn'] {
+  --site-font-family: 'Noto Sans Kannada', 'Baloo Tamma 2', 'Tunga', 'Kannada Sangam MN', 'Nirmala UI', 'Noto Sans', 'Segoe UI', sans-serif;
+  --bs-body-font-family: var(--site-font-family);
+  --serif: 'Noto Serif Kannada', 'Noto Sans Kannada', 'Tunga', 'Kannada Sangam MN', serif;
+}
 
 html[lang='ta'] body,
 html[lang='hi'] body,

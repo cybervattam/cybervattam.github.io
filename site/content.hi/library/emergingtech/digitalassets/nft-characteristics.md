@@ -8,7 +8,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### NFT की विशेषताएं
 
-<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png" alt="NFT की विशेषताएं" loading="lazy">
 
 NFT कई विशिष्ट विशेषताओं वाले यूनिक डिजिटल एसेट हैं।
 

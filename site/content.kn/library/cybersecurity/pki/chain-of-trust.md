@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 
 ವಿಶ್ವಾಸ ಸರಪಳಿಯನ್ನು ಹಲವಾರು ಹಂತಗಳಿಂದ ಕೂಡಿದ ಒಂದು ಜಾಲವೆಂದು ಹೇಳಬಹುದು.
 
-<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png">
+<img src="/images/en/cybersecurity/pki/pki-chain-of-trust.png" alt="ವಿಶ್ವಾಸ ಸರಪಳಿ" loading="lazy">
 
 ಮೊದಲನೆಯದಾಗಿ, ವಿಶ್ವಾಸ_anchor (Trust Anchor). ಇದನ್ನು ಮೂಲ ಪ್ರಮಾಣಪತ್ರ ಅಧಿಕಾರಿಯೂ (Root Certifying Authority) ಎಂದು ಕರೆಯುತ್ತಾರೆ.
 
@@ -20,7 +20,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಸಾರ್ವಜನಿಕ �
 
 ಕೊನೆಯಲ್ಲಿ, ವೆಬ್‌ಸೈಟ್, ಸಂಸ್ಥೆ ಅಥವಾ ವ್ಯಕ್ತಿಯಂತಹ ಅಂತಿಮ ವ್ಯವಸ್ಥೆಗೆ ನೀಡಲಾಗುವ ಅಂತಿಮ ಸಂಸ್ಥೆಯ ಪ್ರಮಾಣಪತ್ರ (End Entity Certificate) ಇರುತ್ತದೆ.
 
-<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png">
+<img src="/images/en/cybersecurity/pki/pki-digital-certificate-chain.png" alt="ವಿಶ್ವಾಸ ಸರಪಳಿ" loading="lazy">
 
 ### ವಿಶ್ವಾಸ ಸರಪಳಿ ಪರಿಶೀಲನೆ / Chain of Trust Verification
 

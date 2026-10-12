@@ -3,7 +3,7 @@ title: 'பாதுகாப்பான இணைய நுழைவாயி�
 date: 2026-09-21
 draft: false
 weight: 16
-tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமை பாதுகாப்பு"]
+tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமைப் பாதுகாப்பு"]
 ---
 
 ### பாதுகாப்பான இணைய நுழைவாயில் (SWG)
@@ -12,7 +12,7 @@ tags: ["தகவல் பாதுகாப்பு","மேகக் கண�
 
 தீங்கிழைக்கும் இணையதளங்களிலிருந்து பயனர்களைப் பாதுகாக்கவும், ஒழுங்குமுறை இணக்கத்தை ஆதரிக்கவும் இது உதவுகிறது.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/swg-architecture.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/swg-architecture.png" alt="பாதுகாப்பான இணைய நுழைவாயில்" loading="lazy">
 
 ### முக்கியச் செயல்பாடுகள்
 
@@ -29,7 +29,7 @@ tags: ["தகவல் பாதுகாப்பு","மேகக் கண�
 - கொள்கையின் அடிப்படையில் வெளிச்செல்லும் அல்லது உள்வரும் இணைப்புகளைப் ப்ராக்ஸிகள் வடிகட்டுகின்றன.
 - SWG-கள் பயன்பாட்டு அடுக்கில் இயங்கி, இணையப் போக்குவரத்தை இன்னும் நுணுக்கமாக மதிப்பிடுகின்றன.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/swg-firewall-proxy-comparison.png" alt="பாதுகாப்பான இணைய நுழைவாயில்" loading="lazy">
 
 ### கட்டமைப்புச் சுருக்கம்
 

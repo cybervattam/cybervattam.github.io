@@ -1,0 +1,30 @@
+{{- $availableLangs := slice -}}
+{{- range .AllTranslations -}}
+  {{- if not .Params.untranslated -}}
+    {{- if .IsSection -}}
+      {{- if gt (len .Pages) 0 -}}
+        {{- $availableLangs = $availableLangs | append .Language.Lang -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $availableLangs = $availableLangs | append .Language.Lang -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<div class="card-lang-badges" aria-label="{{ i18n "languages" | default "Languages" }}">
+  <span class="card-lang-badges__label">{{ i18n "availableIn" | default "Available in:" }}</span>
+  {{- range .Site.Home.AllTranslations -}}
+    {{- $lang := .Language.Lang -}}
+    {{- $code := upper $lang -}}
+    {{- $label := .Language.Label -}}
+    {{- $hasTranslation := in $availableLangs $lang -}}
+    {{- $isCurrent := eq $lang $.Site.Language.Lang -}}
+    {{- if and $hasTranslation $isCurrent -}}
+      <span class="card-lang-badge card-lang-badge--current" title="{{ $label }}">{{ $code }}</span>
+    {{- else if $hasTranslation -}}
+      <span class="card-lang-badge card-lang-badge--available" title="{{ $label }}">{{ $code }}</span>
+    {{- else -}}
+      <span class="card-lang-badge card-lang-badge--missing" title="{{ $label }} (English)">{{ $code }}</span>
+    {{- end -}}
+  {{- end -}}
+</div>
+

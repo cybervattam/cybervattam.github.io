@@ -16,7 +16,11 @@
       {{ range $librarySection.Sections }}
       <a class="site-nav__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
-      <a class="site-nav__link" href="{{ "/events/" | relURL }}">Events</a>
+      {{ with site.GetPage "/events" }}
+      <a class="site-nav__link" href="{{ .RelPermalink }}">{{ i18n "navEvents" | default .Title }}</a>
+      {{ else }}
+      <a class="site-nav__link" href="{{ "/events/" | relLangURL }}">{{ i18n "navEvents" | default "Events" }}</a>
+      {{ end }}
       <span class="site-nav__spacer"></span>
       <button class="site-search__trigger" type="button" data-search-open aria-label="{{ i18n "searchSite" }}" title="{{ i18n "searchSite" }}">
         <span aria-hidden="true">⌕</span>

@@ -8,7 +8,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### ഫംഗിബിൾ ആസ്തികൾ
 
-<img src="/images/en/emergingtech/digitalassets/fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/fungible-items.png" alt="ഫംഗിബിൾ ആസ്തികൾ" loading="lazy">
 
 ഫംഗിബിൾ ആസ്തികൾ പരസ്പരം കൈമാറ്റം ചെയ്യാവുന്നതും മൂല്യത്തിൽ ഒരുപോലെയുള്ളവയുമാണ്. ഒരു യൂണിറ്റ് അടിസ്ഥാനപരമായി മറ്റൊന്നിന് സമാനമാണ്.
 

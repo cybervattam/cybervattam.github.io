@@ -2,7 +2,7 @@
 title: 'हाइपरलेजर ब्लॉकचेन के घटक'
 date: 2022-08-15
 draft: false
-weight: 6
+weight: 7
 tags: ["उभरती प्रौद्योगिकियाँ","ब्लॉकचेन"]
 ---
 
@@ -24,4 +24,4 @@ __इवेंट्स__ - ब्लॉकचेन में महत्व�
 __सदस्यता__ - अनुमति-आधारित ब्लॉकचेन नेटवर्क में सदस्यता सेवाएँ पहचानों को प्रमाणित, अधिकृत और प्रबंधित करती हैं।
 
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50% alt="हाइपरलेजर ब्लॉकचेन के घटक" loading="lazy">

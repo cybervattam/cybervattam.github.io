@@ -8,7 +8,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### കറൻസികളുടെയും ഡിജിറ്റൽ ആസ്തികളുടെയും താരതമ്യം
 
-<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="കറൻസികളുടെയും ഡിജിറ്റൽ ആസ്തികളുടെയും താരതമ്യം" loading="lazy">
 
 ### ഉൾക്കാഴ്ച
 

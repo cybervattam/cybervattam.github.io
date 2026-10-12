@@ -10,9 +10,9 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 
 క్లౌడ్ ప్రొవైడర్లు విస్తృతమైన ప్రైవేట్ నెట్‌వర్క్‌లు, ప్రత్యేక బ్యాక్‌బోన్ కనెక్టివిటీని నిర్వహిస్తారు. డేటా కేంద్రాలు, ఎడ్జ్ స్థానాలు, ప్రాంతాలు ప్రపంచవ్యాప్త ఫైబర్, సముద్రగర్భ కేబుల్ నెట్‌వర్క్‌లతో అనుసంధానమై ఉంటాయి. అందువల్ల క్లౌడ్ ట్రాఫిక్‌లో అధిక భాగం పబ్లిక్ ఇంటర్నెట్ కాకుండా ప్రొవైడర్ నియంత్రిత లింక్‌లపై ప్రయాణిస్తుంది.
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre1.png" alt="క్లౌడ్ ప్రధాన కనెక్టివిటీ భద్రత" loading="lazy">
 
-<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg">
+<img src="/images/en/cybersecurity/cloudsecurity/optic-fibre2.jpg" alt="క్లౌడ్ ప్రధాన కనెక్టివిటీ భద్రత" loading="lazy">
 
 ### కనెక్టివిటీకి రక్షణ ఎందుకు అవసరం?
 

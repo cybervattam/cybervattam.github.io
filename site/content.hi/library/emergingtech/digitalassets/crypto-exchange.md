@@ -23,7 +23,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### तुलना
 
-<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="क्रिप्टो एक्सचेंज" loading="lazy">
 
 | प्रकार | विशेषताएं |
 |---|---|

@@ -2,7 +2,7 @@
 title: 'ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಘಟಕಗಳು'
 date: 2022-08-15
 draft: false
-weight: 6
+weight: 7
 tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್ಞಾನಗಳು","ಬ್ಲಾಕ್‌ಚೈನ್"]
 ---
 
@@ -22,4 +22,4 @@ __ಈವೆಂಟ್‌ಗಳು__ - ಬ್ಲಾಕ್‌ಚೈನ್‌ನಲ�
 
 __ಮೆಂಬರ್__ - ಅನುಮತಿ ಅಗತ್ಯವಿರುವ ಬ್ಲಾಕ್‌ಚೈನ್ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ, ಮೆಂಬರ್ ಸೇವೆಗಳು ಗುರುತಿಸುವಿಕೆ, ದೃಢೀಕರಣ ಮತ್ತು ನಿರ್ವಹಣೆಯನ್ನು ಒದಗಿಸುತ್ತವೆ.
 
-<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-hyperledger-components.png" width=50% alt="ಹೈಪರ್‌ಲೆಡ್ಜರ್ ಬ್ಲಾಕ್‌ಚೈನ್ ಘಟಕಗಳು" loading="lazy">

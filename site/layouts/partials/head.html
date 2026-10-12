@@ -43,13 +43,23 @@
     />
     <link rel="manifest" href="/images/site.webmanifest" />
 
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    {{- $fontQuery := "family=Noto+Sans:wght@400;500;600;700&family=Noto+Serif:wght@400;500;600;700" -}}
+    {{- if eq .Site.Language.Lang "ta" -}}
+      {{- $fontQuery = printf "%s&family=Noto+Sans+Tamil:wght@400;500;600;700&family=Noto+Serif+Tamil:wght@400;500;600;700&family=Mukta+Malar:wght@400;500;600;700" $fontQuery -}}
+    {{- else if eq .Site.Language.Lang "hi" -}}
+      {{- $fontQuery = printf "%s&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Mukta:wght@400;500;600;700" $fontQuery -}}
+    {{- else if eq .Site.Language.Lang "ml" -}}
+      {{- $fontQuery = printf "%s&family=Noto+Sans+Malayalam:wght@400;500;600;700" $fontQuery -}}
+    {{- else if eq .Site.Language.Lang "te" -}}
+      {{- $fontQuery = printf "%s&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Serif+Telugu:wght@400;500;600;700" $fontQuery -}}
+    {{- else if eq .Site.Language.Lang "kn" -}}
+      {{- $fontQuery = printf "%s&family=Noto+Sans+Kannada:wght@400;500;600;700&family=Noto+Serif+Kannada:wght@400;500;600;700" $fontQuery -}}
+    {{- end -}}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?{{ $fontQuery | safeURL }}&display=swap" />
+
     <link rel="stylesheet" href="/css/style.css"/>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
-      integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
-      crossorigin="anonymous"
-    />
 
 
 

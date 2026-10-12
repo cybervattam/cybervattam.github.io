@@ -16,7 +16,7 @@ Reserve Bank defines CBDC as the legal tender issued by a central bank in a digi
 
 Reserve Bank of India (RBI) has issued digital rupee as the CBDC for India. You can see the denominations below.
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="Central Bank Digital Currency (CBDC)" loading="lazy">
 
 ### Features of CBDC
 The features of CBDC include:
@@ -32,7 +32,7 @@ The features of CBDC include:
 
 #### Wholesale CBDCs
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="Central Bank Digital Currency (CBDC)" loading="lazy">
 
 - Wholesale CBDCs are designed for restricted access by financial institutions. 
 - Wholesale CBDCs are used for improving the efficiency of interbank payments or securities settlement
@@ -40,7 +40,7 @@ The features of CBDC include:
 
 #### Retail CBDCs
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="Central Bank Digital Currency (CBDC)" loading="lazy">
 
 - Retail CBDCs are potentially available for use by all private sector, non-financial consumers and businesses
 - Central banks interested in addressing financial inclusion are expected to consider issuing CBDC Retail
@@ -54,7 +54,7 @@ The features of CBDC include:
 
 ### RBI Design choice for CBDCs in India
 
-<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="Central Bank Digital Currency (CBDC)" loading="lazy">
 
 ### Key Idea
 

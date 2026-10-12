@@ -12,7 +12,7 @@ Cloud security posture management continuously assesses cloud infrastructure for
 
 ### CSPM Capabilities
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-overview.png" alt="Cloud Security Posture Management (CSPM)" loading="lazy">
 
 - **Asset discovery and identification:** discover assets, assess and prioritize risk, and support or automate remediation
 - **Cloud governance and compliance:** regulatory and framework compliance packs with automatic and scheduled reporting
@@ -24,7 +24,7 @@ Cloud security posture management continuously assesses cloud infrastructure for
 
 CSPM collects data from cloud provider APIs, normalizes it, and applies policy-based and ML-assisted detection to power reporting, response, and integrations.
 
-<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png">
+<img src="/images/en/cybersecurity/cloudsecurity/cloud-security-posture-management-components.png" alt="Cloud Security Posture Management (CSPM)" loading="lazy">
 
 ### Security Objective
 

@@ -23,6 +23,6 @@ tags: ["సైబర్‌సెక్యూరిటీ","డొమైన్ �
 - కీ సైన్ చేసే కీ (Key Signing Key – KSK)
 
 
-<img src="/images/en/cybersecurity/dns/dns-sec.png">
+<img src="/images/en/cybersecurity/dns/dns-sec.png" alt="డొమైన్ పేరు వ్యవస్థ సురక్షితీకరణ" loading="lazy">
 
 జోన్ యజమాని జోన్‌లోని RRsetను ఉపయోగించి, ZSKతో డేటా యొక్క కొత్త డిజిటల్ సిగ్నేచర్ (RRSIG)ను సృష్టిస్తాడు. జోన్ యొక్క పబ్లిక్ కీ DNSKEY రికార్డులో ప్రచురించబడుతుంది, తద్వారా రిసాల్వర్‌లు దాన్ని పొందగలిగి DNS డేటా విశ్వసనీయతను ధృవీకరించగలవు.

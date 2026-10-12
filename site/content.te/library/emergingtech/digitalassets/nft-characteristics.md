@@ -8,7 +8,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### NFT లక్షణాలు
 
-<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png">
+<img src="/images/en/emergingtech/digitalassets/nft-characteristics.png" alt="NFT లక్షణాలు" loading="lazy">
 
 NFTలు అనేక ప్రత్యేక లక్షణాలు కలిగిన డిజిటల్ ఆస్తులు.
 

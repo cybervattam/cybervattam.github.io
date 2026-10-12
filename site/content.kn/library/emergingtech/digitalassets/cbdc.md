@@ -16,7 +16,7 @@ CBDCಗಳು ಕೇಂದ್ರ ಬ್ಯಾಂಕ್‌ನ ಬಾಧ್ಯತ�
 
 ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ (RBI) ಭಾರತಕ್ಕೆ CBDCಯಾಗಿ ಡಿಜಿಟಲ್ ರೂಪಾಯಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ. ಅದರ ಮುಖಬೆಲೆಗಳನ್ನು ಕೆಳಗೆ ತೋರಿಸಲಾಗಿದೆ.
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png">
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-denomination.png" alt="ಕೇಂದ್ರ ಬ್ಯಾಂಕ್ ಡಿಜಿಟಲ್ ಕರೆನ್ಸಿ (CBDC)" loading="lazy">
 
 ### CBDCಯ ವೈಶಿಷ್ಟ್ಯಗಳು
 
@@ -32,7 +32,7 @@ CBDCಯ ವೈಶಿಷ್ಟ್ಯಗಳು:
 
 #### ಸಗಟು CBDCಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-rbi-logo.jpg" width=100 alt="ಕೇಂದ್ರ ಬ್ಯಾಂಕ್ ಡಿಜಿಟಲ್ ಕರೆನ್ಸಿ (CBDC)" loading="lazy">
 
 - ಸಗಟು CBDCಗಳನ್ನು ಹಣಕಾಸು ಸಂಸ್ಥೆಗಳ ಸೀಮಿತ ಬಳಕೆಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.
 - ಅಂತರ-ಬ್ಯಾಂಕ್ ಪಾವತಿಗಳು ಅಥವಾ ಭದ್ರತೆಗಳ ಇತ್ಯರ್ಥದ ದಕ್ಷತೆಯನ್ನು ಸುಧಾರಿಸಲು ಇವುಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.
@@ -40,7 +40,7 @@ CBDCಯ ವೈಶಿಷ್ಟ್ಯಗಳು:
 
 #### ಚಿಲ್ಲರೆ CBDCಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100>
+<img src="/images/en/emergingtech/digitalassets/digital-rupee-logo.svg" width=100 alt="ಕೇಂದ್ರ ಬ್ಯಾಂಕ್ ಡಿಜಿಟಲ್ ಕರೆನ್ಸಿ (CBDC)" loading="lazy">
 
 - ಚಿಲ್ಲರೆ CBDCಗಳು ಖಾಸಗಿ ವಲಯ, ಹಣಕಾಸುಯೇತರ ಗ್ರಾಹಕರು ಮತ್ತು ವ್ಯವಹಾರಗಳು ಸೇರಿದಂತೆ ಎಲ್ಲರ ಬಳಕೆಗೆ ಲಭ್ಯವಾಗಬಹುದು.
 - ಹಣಕಾಸು ಒಳಗೊಳ್ಳುವಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸಲು ಆಸಕ್ತಿ ಹೊಂದಿರುವ ಕೇಂದ್ರ ಬ್ಯಾಂಕ್‌ಗಳು ಚಿಲ್ಲರೆ CBDC ನೀಡುವುದನ್ನು ಪರಿಗಣಿಸುವ ನಿರೀಕ್ಷೆಯಿದೆ.
@@ -54,7 +54,7 @@ CBDCಯ ವೈಶಿಷ್ಟ್ಯಗಳು:
 
 ### ಭಾರತದಲ್ಲಿ CBDCಗಳಿಗಾಗಿ RBIಯ ವಿನ್ಯಾಸ ಆಯ್ಕೆ
 
-<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png">
+<img src="/images/en/emergingtech/digitalassets/rbi-design-choices-digital-rupee.png" alt="ಕೇಂದ್ರ ಬ್ಯಾಂಕ್ ಡಿಜಿಟಲ್ ಕರೆನ್ಸಿ (CBDC)" loading="lazy">
 
 ### ಪ್ರಮುಖ ಪರಿಕಲ್ಪನೆ
 

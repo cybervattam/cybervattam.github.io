@@ -9,7 +9,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 ## _ క్లౌడ్ కంప్యూటింగ్ యొక్క ముఖ్య లక్షణాలు _
 
 <br>
-<img src="/images/en/emergingtech/cloud/cloud-characteristics.png">
+<img src="/images/en/emergingtech/cloud/cloud-characteristics.png" alt="క్లౌడ్ కంప్యూటింగ్ యొక్క ముఖ్య లక్షణాలు" loading="lazy">
 
 <br>
 <br>

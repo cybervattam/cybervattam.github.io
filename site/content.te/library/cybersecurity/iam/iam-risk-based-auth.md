@@ -2,7 +2,7 @@
 title: 'రిస్క్ ఆధారిత ధృవీకరణ'
 date: 2022-08-18
 draft: false
-weight: 12
+weight: 14
 tags: ["సైబర్‌సెక్యూరిటీ","గుర్తింపు & ప్రాప్యత నిర్వహణ"]
 ---
 
@@ -12,4 +12,4 @@ tags: ["సైబర్‌సెక్యూరిటీ","గుర్తిం
 
 సంస్థ యొక్క భద్రతా విధానాలు ఈ లెక్కించిన రిస్క్ స్కోర్ ఆధారంగా అవసరమయ్యే చర్యను నిర్ణయిస్తాయి.
 
-<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50%>
+<img src="/images/en/cybersecurity/iam/iam-risk-based-auth.png" width=50% alt="రిస్క్ ఆధారిత ధృవీకరణ" loading="lazy">

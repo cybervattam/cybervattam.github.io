@@ -6,7 +6,7 @@ weight: 5
 tags: ["साइबर सुरक्षा","जीरो ट्रस्ट"]
 ---
 
-<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png">
+<img src="/images/en/cybersecurity/zerotrust/cisco-zero-trust-business-flow.png" alt="जीरो ट्रस्ट उपयोगकर्ता प्रवाह" loading="lazy">
 
 ### जीरो ट्रस्ट उपयोगकर्ता प्रवाह
 

@@ -2,11 +2,11 @@
 title: 'ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்'
 date: 2022-08-15
 draft: false
-weight: 5
-tags: ["நவீன தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
+weight: 6
+tags: ["நவீனத் தொழில்நுட்பங்கள்","கட்டச்சங்கிலி"]
 ---
 
-### ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blokchain block structure
+### ஹைப்பர்லெட்ஜர் கட்டச்சங்கிலி கட்டத்தின் உறுப்புகள்/ Hyperledger blockchain block structure
 
 * கட்டத்தின் தலைப்பு (Block Header)
     - கட்டத்தின் எண்
@@ -31,5 +31,5 @@ tags: ["நவீன தொழில்நுட்பங்கள்","கட�
 
  <br>
 
-<img src="/images/ta/emergingtech/blockchain/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50%>
+<img src="/images/ta/emergingtech/blockchain/blockchain-hyperledger-fabric-block-structure-ta.svg" width=50% alt="ஹைப்பர்லெட்ஜர் கட்டத்தின் உறுப்புகள்" loading="lazy">
 

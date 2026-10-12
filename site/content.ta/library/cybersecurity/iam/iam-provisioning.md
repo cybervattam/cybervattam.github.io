@@ -16,4 +16,4 @@ tags: ["தகவல் பாதுகாப்பு","அடையாளம�
 
 அங்கீகாரத் தகவல்களை அதிகாரம் வழங்கல் பயன்பாடு அனுப்பலாம் அல்லது இலக்கு பயன்பாடு அதிகாரம் வழங்கல் பயன்பாடு அனுப்பிய அடையாள பாத்திர வரைவை கொண்டு தன் அங்கீகாரம் செய்யப்படலாம்.
 
-<img src="/images/ta/cybersecurity/iam/iam-provisioning-ta.svg" width=70%>
+<img src="/images/ta/cybersecurity/iam/iam-provisioning-ta.svg" width=70% alt="அதிகாரம் வழங்கல்" loading="lazy">

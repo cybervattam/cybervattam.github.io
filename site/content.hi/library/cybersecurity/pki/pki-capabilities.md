@@ -10,10 +10,10 @@ tags: ["साइबर सुरक्षा","सार्वजनिक क�
 
 PKI "ट्रस्ट सर्विसेज" (Trust Services) प्रदान करता है।
 
-<img src="/images/hi/cybersecurity/pki/pki-trust-services.png">
+<img src="/images/hi/cybersecurity/pki/pki-trust-services.png" alt="PKI की क्षमताएँ" loading="lazy">
 
 सरल शब्दों में, यह लोगों, कंप्यूटरों और संगठनों की गतिविधियों या परिणामों पर भरोसा करने में मदद करता है।
 
 ट्रस्ट सेवाओं का उद्देश्य निम्नलिखित क्षमताओं के आधार पर कार्य करता है:
 
-<img src="/images/hi/cybersecurity/pki/pki-capabilities.png">
+<img src="/images/hi/cybersecurity/pki/pki-capabilities.png" alt="PKI की क्षमताएँ" loading="lazy">

@@ -8,7 +8,7 @@ tags: ["Emerging Technology","Digital Assets"]
 
 ### Comparison of Currencies and Digital Assets
 
-<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/currencies-digital-asset-comparison.png" alt="Comparison of Currencies and Digital Assets" loading="lazy">
 
 ### Insight
 

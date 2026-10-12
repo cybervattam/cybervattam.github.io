@@ -2,10 +2,10 @@
 title: 'Accounting Methods'
 date: 2022-08-15
 draft: false
-weight: 7
+weight: 8
 tags: ["Emerging Technology","Blockchain"]
 ---
 
 ### Accounting Methods
 
-<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50%>
+<img src="/images/en/emergingtech/blockchain/blockchain-accounting-methods.png" width=50% alt="Accounting Methods" loading="lazy">

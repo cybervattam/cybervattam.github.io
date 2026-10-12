@@ -3,7 +3,7 @@ title: 'மேகக் கணிமைப் பணிச்சுமைப் 
 date: 2026-09-21
 draft: false
 weight: 12
-tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமை பாதுகாப்பு"]
+tags: ["தகவல் பாதுகாப்பு","மேகக் கணிமைப் பாதுகாப்பு"]
 ---
 
 ### மேகக் கணிமைப் பணிச்சுமைப் பாதுகாப்புத் தளம் (CWPP)
@@ -14,13 +14,13 @@ tags: ["தகவல் பாதுகாப்பு","மேகக் கண�
 
 பணிச்சுமைகள் அளவில் சிறியதாகவும், குறுகிய காலம் மட்டுமே இயங்குபவையாகவும் மாறியுள்ளன; இதனால் அவற்றைப் பாதுகாக்கும் முறையும் மாறுகிறது.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-evolution.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-evolution.png" alt="மேகக் கணிமைப் பணிச்சுமைப் பாதுகாப்புத் தளம் (CWPP)" loading="lazy">
 
 ### வாழ்க்கைச் சுழற்சி முழுவதுமான பாதுகாப்பு
 
 CWPP, பணிச்சுமை வாழ்க்கைச் சுழற்சியின் உருவாக்கம் மற்றும் இயக்க நேரம் ஆகிய இரு கட்டங்களையும் உள்ளடக்குகிறது.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities.png" alt="மேகக் கணிமைப் பணிச்சுமைப் பாதுகாப்புத் தளம் (CWPP)" loading="lazy">
 
 #### பாதுகாப்பான உருவாக்கம்
 - பாதிப்புள்ள கூறுகள்
@@ -42,7 +42,7 @@ CWPP, பணிச்சுமை வாழ்க்கைச் சுழற்
 
 அடிப்படை நிலையிலிருந்து குறைந்த முன்னுரிமை வரை கட்டுப்பாடுகளுக்கு முன்னுரிமை வழங்கலாம்; கடினப்படுத்தல், உள்ளமைவு, பாதிப்பு மேலாண்மை, பிணையப் பிரிப்பாக்கம் ஆகியவற்றிலிருந்து தொடங்க வேண்டும்.
 
-<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png">
+<img src="/images/ta/cybersecurity/cloudsecurity/cloud-workload-protection-platform-capabilities2.png" alt="மேகக் கணிமைப் பணிச்சுமைப் பாதுகாப்புத் தளம் (CWPP)" loading="lazy">
 
 ### பாதுகாப்பு நோக்கம்
 

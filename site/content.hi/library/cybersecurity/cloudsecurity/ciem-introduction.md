@@ -24,7 +24,7 @@ CIEM मल्टी-क्लाउड वातावरणों में �
 - संगठन नीतियां
 - डैशबोर्ड और विजुअलाइजेशन
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png" alt="क्लाउड इंफ्रास्ट्रक्चर एंटाइटलमेंट मैनेजमेंट (CIEM)" loading="lazy">
 
 ### लक्ष्य
 

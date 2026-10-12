@@ -10,7 +10,7 @@ tags: ["ಸೈಬರ್ ಸುರಕ್ಷತೆ","ಕ್ಲೌಡ್ ಭದ್�
 
 SaaS ಸೆಕ್ಯುರಿಟಿ ಪೋಸ್ಚರ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ SaaS ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಸಂರಚನೆ ಮತ್ತು ಭದ್ರತಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನಿರಂತರವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುತ್ತದೆ. SaaS ವೇದಿಕೆಗಳನ್ನು ಗ್ರಾಹಕರೇ ಸಂರಚಿಸುವುದರಿಂದ, ತಪ್ಪು ಸಂರಚನೆಗಳು ಮತ್ತು ಅತಿಯಾದ ಅನುಮತಿಗಳು ಸೂಕ್ಷ್ಮ ಡೇಟಾವನ್ನು ಬಹಿರಂಗಪಡಿಸಬಹುದು.
 
-<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png">
+<img src="/images/en/cybersecurity/cloudsecurity/sspm-overview-features-benefits.png" alt="SaaS ಸೆಕ್ಯುರಿಟಿ ಪೋಸ್ಚರ್ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್ (SSPM)" loading="lazy">
 
 ### ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳು
 

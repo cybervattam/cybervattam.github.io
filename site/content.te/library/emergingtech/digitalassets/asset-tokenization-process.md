@@ -12,7 +12,7 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### టోకెన్ జీవితచక్రం
 
-<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png">
+<img src="/images/en/emergingtech/digitalassets/token-lifecycle.png" alt="ఆస్తి టోకనైజేషన్ ప్రక్రియ" loading="lazy">
 
 1. ప్రత్యేక లక్షణాలు కలిగిన భౌతిక లేదా డిజిటల్ ఆస్తిని గుర్తిస్తారు.
 2. ఆస్తిని టోకనైజ్ చేసి బ్లాక్‌చెయిన్‌లో నమోదు చేస్తారు.
@@ -28,6 +28,6 @@ tags: ["ఉద్భవిస్తున్న సాంకేతికతల�
 
 ### ప్రధాన ఫలితం
 
-<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png">
+<img src="/images/en/emergingtech/digitalassets/asset-tokenization-process.png" alt="ఆస్తి టోకనైజేషన్ ప్రక్రియ" loading="lazy">
 
 బ్లాక్‌చెయిన్ టెక్నాలజీ ద్వారా భౌతిక లేదా డిజిటల్ యాజమాన్య హక్కులను పారదర్శకంగా, సురక్షితంగా సూచించడానికి, బదిలీ చేయడానికి మరియు ధృవీకరించడానికి టోకనైజేషన్ అనుమతిస్తుంది.

@@ -23,7 +23,7 @@ A hybrid exchange combines the capabilities of CEX and DEX while aiming to provi
 
 ### Comparison
 
-<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="Crypto Exchange" loading="lazy">
 
 | Type | Characteristics |
 |---|---|

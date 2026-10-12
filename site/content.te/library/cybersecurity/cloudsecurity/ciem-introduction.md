@@ -24,7 +24,7 @@ tags: ["సైబర్ భద్రత","క్లౌడ్ భద్రత"]
 - సంస్థ విధానాలు
 - డాష్‌బోర్డ్, దృశ్యీకరణ
 
-<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png">
+<img src="/images/en/cybersecurity/cloudsecurity/ciem-intro.png" alt="క్లౌడ్ ఇన్‌ఫ్రాస్ట్రక్చర్ ఎంటైటిల్‌మెంట్ నిర్వహణ (CIEM)" loading="lazy">
 
 ### లక్ష్యం
 

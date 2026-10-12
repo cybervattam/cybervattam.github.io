@@ -12,7 +12,7 @@ tags: ["उभरती प्रौद्योगिकियाँ","डि�
 
 ### कनेक्टिविटी के आधार पर
 
-<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png">
+<img src="/images/en/emergingtech/digitalassets/types-of-crypto-wallet.png" alt="क्रिप्टो वॉलेट के प्रकार" loading="lazy">
 
 #### कोल्ड स्टोरेज (ऑफलाइन)
 - हार्डवेयर वॉलेट: प्राइवेट की को हार्डवेयर सुरक्षा मॉड्यूल (HSM) या हार्डवेयर टोकन में स्टोर करता है।

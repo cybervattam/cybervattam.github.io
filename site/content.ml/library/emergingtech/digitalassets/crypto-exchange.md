@@ -23,7 +23,7 @@ tags: ["ഉയരുന്ന സാങ്കേതികവിദ്യകൾ",
 
 ### താരതമ്യം
 
-<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png">
+<img src="/images/en/emergingtech/digitalassets/crypto-exchange-comparison.png" alt="ക്രിപ്‌റ്റോ എക്‌സ്‌ചേഞ്ച്" loading="lazy">
 
 | തരം | സവിശേഷതകൾ |
 |---|---|

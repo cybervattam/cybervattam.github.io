@@ -8,7 +8,7 @@ tags: ["ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ತಂತ್ರಜ್�
 
 ### ಫಂಗಿಬಲ್ ಆಸ್ತಿಗಳು
 
-<img src="/images/en/emergingtech/digitalassets/fungible-items.png">
+<img src="/images/en/emergingtech/digitalassets/fungible-items.png" alt="ಫಂಗಿಬಲ್ ಆಸ್ತಿಗಳು" loading="lazy">
 
 ಫಂಗಿಬಲ್ ಆಸ್ತಿಗಳು ವಿನಿಮಯ ಮಾಡಬಹುದಾದವು ಮತ್ತು ಮೌಲ್ಯದಲ್ಲಿ ಒಂದೇ ಆಗಿರುತ್ತವೆ. ಒಂದು ಘಟಕವು ಮೂಲತಃ ಮತ್ತೊಂದು ಘಟಕದಂತೆಯೇ ಇರುತ್ತದೆ.
 
