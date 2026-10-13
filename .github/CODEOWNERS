@@ -1,0 +1,76 @@
+# ==============================================================================
+# Cybervattam CODEOWNERS
+# ==============================================================================
+# How approval works:
+# - When a @cybervattam/<team-name> or multiple @usernames are listed on a line,
+#   ANY ONE reviewer in that group can approve the Pull Request for those paths.
+# - Make sure each @cybervattam/*-reviewers team is granted at least "Write"
+#   access to this repository under Settings -> Collaborators and teams.
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Overall Site, Core Layouts, Styles & Build Configuration
+#    Group: @cybervattam/cybervattam-site-reviewers
+# ------------------------------------------------------------------------------
+*                                           @cybervattam/cybervattam-site-reviewers @vjambulingam
+/.github/                                   @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/layouts/                              @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/js/                            @cybervattam/cybervattam-site-reviewers @vjambulingam
+/src/                                       @cybervattam/cybervattam-site-reviewers @vjambulingam
+/package.json                               @cybervattam/cybervattam-site-reviewers @vjambulingam
+/rollup.config.js                           @cybervattam/cybervattam-site-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 2. UI Translations & Term of the Week Backend Data
+#    Group: @cybervattam/cybervattam-site-reviewers
+# ------------------------------------------------------------------------------
+/site/i18n/                                 @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/data/terms-of-the-week.json    @cybervattam/cybervattam-site-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 3. English (en) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-en-reviewers
+# ------------------------------------------------------------------------------
+/site/content.en/                           @cybervattam/cybervattam-en-reviewers @vjambulingam
+/site/i18n/en.toml                          @cybervattam/cybervattam-en-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/en/                     @cybervattam/cybervattam-en-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 4. Tamil (ta - தமிழ்) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-ta-reviewers
+# ------------------------------------------------------------------------------
+/site/content.ta/                           @cybervattam/cybervattam-ta-reviewers @vjambulingam
+/site/i18n/ta.toml                          @cybervattam/cybervattam-ta-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/ta/                     @cybervattam/cybervattam-ta-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 5. Hindi (hi - हिन्दी) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-hi-reviewers
+# ------------------------------------------------------------------------------
+/site/content.hi/                           @cybervattam/cybervattam-hi-reviewers @vjambulingam
+/site/i18n/hi.toml                          @cybervattam/cybervattam-hi-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/hi/                     @cybervattam/cybervattam-hi-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 6. Malayalam (ml - മലയാളം) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-ml-reviewers
+# ------------------------------------------------------------------------------
+/site/content.ml/                           @cybervattam/cybervattam-ml-reviewers @vjambulingam
+/site/i18n/ml.toml                          @cybervattam/cybervattam-ml-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/ml/                     @cybervattam/cybervattam-ml-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 7. Telugu (te - తెలుగు) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-te-reviewers
+# ------------------------------------------------------------------------------
+/site/content.te/                           @cybervattam/cybervattam-te-reviewers @vjambulingam
+/site/i18n/te.toml                          @cybervattam/cybervattam-te-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/te/                     @cybervattam/cybervattam-te-reviewers @vjambulingam
+
+# ------------------------------------------------------------------------------
+# 8. Kannada (kn - ಕನ್ನಡ) Content & Assets Reviewer Group
+#    Group: @cybervattam/cybervattam-kn-reviewers
+# ------------------------------------------------------------------------------
+/site/content.kn/                           @cybervattam/cybervattam-kn-reviewers @vjambulingam
+/site/i18n/kn.toml                          @cybervattam/cybervattam-kn-reviewers @cybervattam/cybervattam-site-reviewers @vjambulingam
+/site/static/images/kn/                     @cybervattam/cybervattam-kn-reviewers @vjambulingam

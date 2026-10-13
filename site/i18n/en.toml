@@ -82,3 +82,9 @@ other = "Human-reviewed and verified for technical and linguistic accuracy."
 other = "Translated using AI tools and awaiting human review."
 [availableIn]
 other = "Available in:"
+[termOfTheWeek]
+other = "Term of the Week"
+[realWorldExample]
+other = "Real-world example:"
+
+

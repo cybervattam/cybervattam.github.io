@@ -1,0 +1,346 @@
+{
+  "defaultLanguage": "ta",
+  "rotationIntervalMs": 4800,
+  "languages": {
+    "ta": {
+      "languageCode": "ta",
+      "languageName": "தமிழ்",
+      "pairLabelEn": "English ⇄ தமிழ்",
+      "pairLabelNative": "ஆங்கிலம் ⇄ தமிழ்",
+      "terms": [
+        {
+          "id": "encryption",
+          "english": "Encryption",
+          "vernacular": "மறையாக்கம்",
+          "transliteration": "Maraiyaakkam",
+          "exampleEn": "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it.",
+          "exampleNative": "திறந்த அஞ்சல் அட்டைக்குப் பதிலாகப் பூட்டிய பெட்டிக்குள் கடிதத்தை வைத்து அனுப்புவது போன்றது — உரிய சாவி உள்ளவரால் மட்டுமே படிக்க முடியும்.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ta/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "phishing",
+          "english": "Phishing",
+          "vernacular": "தூண்டில் மோசடி",
+          "transliteration": "Thoondil Mosadi",
+          "exampleEn": "Like a fisherman hiding a sharp hook inside shiny fake bait—scammers send urgent fake bank alerts to trick you into sharing your OTP.",
+          "exampleNative": "தூண்டில் முள்ளில் பளபளப்பான போலி இரையை மாட்டி மீனைப் பிடிப்பது போல, போலி வங்கிச் செய்தி அனுப்பி உங்கள் OTP-ஐப் பறிக்கும் மோசடி.",
+          "urlEn": "/library/cyberawareness/topscamsfrauds/phishing/",
+          "urlNative": "/ta/library/cyberawareness/topscamsfrauds/phishing/"
+        },
+        {
+          "id": "firewall",
+          "english": "Firewall",
+          "vernacular": "தீயரண்",
+          "transliteration": "Theeyaran",
+          "exampleEn": "Like a vigilant security guard at an apartment gate who lets verified residents in while stopping unknown strangers at the entrance.",
+          "exampleNative": "குடியிருப்பு நுழைவாயிலில் நிற்கும் பாதுகாவலர், அனுமதிக்கப்பட்டவர்களை மட்டும் உள்ளே விட்டு அந்நியர்களை வாசலிலேயே தடுப்பதைப் போன்றது.",
+          "urlEn": "/library/cyberawareness/cyberhygine/computer-safety-tips/",
+          "urlNative": "/ta/library/cyberawareness/cyberhygine/computer-safety-tips/"
+        },
+        {
+          "id": "mfa",
+          "english": "Multi-Factor Auth",
+          "vernacular": "பல்காரணி சான்றுறுதி",
+          "transliteration": "Palkaarani Saandruruthi",
+          "exampleEn": "Like a bank locker that requires two separate keys—even if someone steals your password, they cannot log in without your OTP or fingerprint.",
+          "exampleNative": "இரண்டு சாவிகள் இருந்தால் மட்டுமே திறக்கும் வங்கி லாக்கர் போல — கடவுச்சொல்லுடன் OTP அல்லது கைரேகையும் இருந்தால் மட்டுமே கணக்கு திறக்கும்.",
+          "urlEn": "/library/cybersecurity/iam/iam-mfa/",
+          "urlNative": "/ta/library/cybersecurity/iam/iam-mfa/"
+        },
+        {
+          "id": "zero-trust",
+          "english": "Zero Trust",
+          "vernacular": "பூஜ்ஜிய நம்பிக்கை",
+          "transliteration": "Poojjiya Nambikkai",
+          "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
+          "exampleNative": "விமான நிலையத்தில் நுழைவாயில் முதல் விமானம் ஏறும் வாயில் வரை ஒவ்வொரு கட்டத்திலும் அடையாளத்தை மீண்டும் சரிபார்ப்பதைப் போன்றது.",
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
+          "urlNative": "/ta/library/cybersecurity/zerotrust/zero-trust-introduction/"
+        },
+        {
+          "id": "digital-signature",
+          "english": "Digital Signature",
+          "vernacular": "இலக்கமுறைக் குறியொப்பம்",
+          "transliteration": "Ilakkamurai Kuriyoppam",
+          "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
+          "exampleNative": "பத்திரத்தில் இடப்படும் முத்திரையும் கையொப்பமும் போல — ஆவணத்தை அனுப்பியவர் யார் என்பதையும் அது இடையில் மாற்றப்படவில்லை என்பதையும் உறுதிப்படுத்தும்.",
+          "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
+          "urlNative": "/ta/library/cybersecurity/pki/digital-signature-certificate/"
+        }
+      ]
+    },
+    "hi": {
+      "languageCode": "hi",
+      "languageName": "हिन्दी",
+      "pairLabelEn": "English ⇄ हिन्दी",
+      "pairLabelNative": "अंग्रेज़ी ⇄ हिन्दी",
+      "terms": [
+        {
+          "id": "encryption",
+          "english": "Encryption",
+          "vernacular": "गूढ़लेखन",
+          "transliteration": "Goodhlekhan",
+          "exampleEn": "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it.",
+          "exampleNative": "खुले पोस्टकार्ड के बजाय ताले लगे बक्से में पत्र भेजने जैसा — केवल सही चाबी वाला व्यक्ति ही इसे खोलकर पढ़ सकता है।",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "phishing",
+          "english": "Phishing",
+          "vernacular": "जालसाज़ी संदेश",
+          "transliteration": "Jaalsaazi Sandesh",
+          "exampleEn": "Like a fisherman hiding a sharp hook inside shiny fake bait—scammers send urgent fake bank alerts to trick you into sharing your OTP.",
+          "exampleNative": "मछली पकड़ने के काँटे में चमकदार नकली चारा लगाने जैसा — ठग नकली बैंक अलर्ट भेजकर आपसे आपका OTP या पासवर्ड हासिल करने की कोशिश करते हैं।",
+          "urlEn": "/library/cyberawareness/topscamsfrauds/phishing/",
+          "urlNative": "/hi/library/cyberawareness/topscamsfrauds/phishing/"
+        },
+        {
+          "id": "firewall",
+          "english": "Firewall",
+          "vernacular": "सुरक्षा दीवार",
+          "transliteration": "Suraksha Deewar",
+          "exampleEn": "Like a vigilant security guard at an apartment gate who lets verified residents in while stopping unknown strangers at the entrance.",
+          "exampleNative": "अपार्टमेंट के गेट पर तैनात सतर्क सुरक्षा गार्ड जैसा — जो केवल पहचाने गए लोगों को अंदर आने देता है और अनजान घुसपैठियों को बाहर ही रोक देता है।",
+          "urlEn": "/library/cyberawareness/cyberhygine/computer-safety-tips/",
+          "urlNative": "/hi/library/cyberawareness/cyberhygine/computer-safety-tips/"
+        },
+        {
+          "id": "mfa",
+          "english": "Multi-Factor Auth",
+          "vernacular": "बहु-कारक प्रमाणीकरण",
+          "transliteration": "Bahu-Kaarak Pramaaneekaran",
+          "exampleEn": "Like a bank locker that requires two separate keys—even if someone steals your password, they cannot log in without your OTP or fingerprint.",
+          "exampleNative": "दो चाबियों से खुलने वाले बैंक लॉकर जैसा — पासवर्ड चोरी होने पर भी बिना OTP या फ़िंगरप्रिंट के कोई आपके खाते में लॉग-इन नहीं कर सकता।",
+          "urlEn": "/library/cybersecurity/iam/iam-mfa/",
+          "urlNative": "/hi/library/cybersecurity/iam/iam-mfa/"
+        },
+        {
+          "id": "zero-trust",
+          "english": "Zero Trust",
+          "vernacular": "शून्य विश्वास",
+          "transliteration": "Shoonya Vishwaas",
+          "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
+          "exampleNative": "हवाई अड्डे की सुरक्षा जांच जैसा — जहाँ प्रवेश द्वार से लेकर बोर्डिंग गेट तक हर कदम पर पहचान और बोर्डिंग पास की दोबारा पुष्टि की जाती है।",
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
+          "urlNative": "/hi/library/cybersecurity/zerotrust/zero-trust-introduction/"
+        },
+        {
+          "id": "digital-signature",
+          "english": "Digital Signature",
+          "vernacular": "डिजिटल हस्ताक्षर",
+          "transliteration": "Digital Hastaakshar",
+          "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
+          "exampleNative": "कानूनी दस्तावेज़ पर लगी मुहर और हस्ताक्षर जैसा — जो प्रमाणित करता है कि दस्तावेज़ किसने भेजा है और उसमें कोई बदलाव नहीं हुआ है।",
+          "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
+          "urlNative": "/hi/library/cybersecurity/pki/digital-signature-certificate/"
+        }
+      ]
+    },
+    "ml": {
+      "languageCode": "ml",
+      "languageName": "മലയാളം",
+      "pairLabelEn": "English ⇄ മലയാളം",
+      "pairLabelNative": "ഇംഗ്ലീഷ് ⇄ മലയാളം",
+      "terms": [
+        {
+          "id": "encryption",
+          "english": "Encryption",
+          "vernacular": "ഗൂഢലിപീകരണം",
+          "transliteration": "Goodhalipeekaranam",
+          "exampleEn": "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it.",
+          "exampleNative": "തുറന്ന പോസ്റ്റ്കാർഡിന് പകരം പൂട്ടിയ പെട്ടിക്കുള്ളിൽ കത്ത് വെച്ച് അയക്കുന്നതുപോലെ — ശരിയായ താക്കോലുള്ളവർക്ക് മാത്രമേ അത് തുറന്നു വായിക്കാനാകൂ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "phishing",
+          "english": "Phishing",
+          "vernacular": "ചൂണ്ടയിടൽ തട്ടിപ്പ്",
+          "transliteration": "Choondayidal Thattippu",
+          "exampleEn": "Like a fisherman hiding a sharp hook inside shiny fake bait—scammers send urgent fake bank alerts to trick you into sharing your OTP.",
+          "exampleNative": "ചൂണ്ടയിൽ തിളങ്ങുന്ന വ്യാജ ഇര കോർത്ത് മീൻ പിടിക്കുന്നതുപോലെ — വ്യാജ ബാങ്ക് സന്ദേശങ്ങൾ അയച്ച് നിങ്ങളുടെ OTP തട്ടിയെടുക്കുന്ന രീതി.",
+          "urlEn": "/library/cyberawareness/topscamsfrauds/phishing/",
+          "urlNative": "/ml/library/cyberawareness/topscamsfrauds/phishing/"
+        },
+        {
+          "id": "firewall",
+          "english": "Firewall",
+          "vernacular": "അഗ്നിമതിൽ",
+          "transliteration": "Agnimathil",
+          "exampleEn": "Like a vigilant security guard at an apartment gate who lets verified residents in while stopping unknown strangers at the entrance.",
+          "exampleNative": "അപ്പാർട്ട്മെന്റ് ഗേറ്റിലെ കാവൽക്കാരനെപ്പോലെ — അംഗീകൃത താമസക്കാരെ മാത്രം അകത്തേക്ക് കടത്തിവിടുകയും അപരിചിതരെ കവാടത്തിൽ തടയുകയും ചെയ്യുന്നു.",
+          "urlEn": "/library/cyberawareness/cyberhygine/computer-safety-tips/",
+          "urlNative": "/ml/library/cyberawareness/cyberhygine/computer-safety-tips/"
+        },
+        {
+          "id": "mfa",
+          "english": "Multi-Factor Auth",
+          "vernacular": "ബഹുതല പ്രാമാണീകരണം",
+          "transliteration": "Bahuthala Pramaaneekaranam",
+          "exampleEn": "Like a bank locker that requires two separate keys—even if someone steals your password, they cannot log in without your OTP or fingerprint.",
+          "exampleNative": "രണ്ട് താക്കോലുകൾ ഉണ്ടെങ്കിൽ മാത്രം തുറക്കുന്ന ബാങ്ക് ലോക്കർ പോലെ — പാസ്‌വേഡിനൊപ്പം OTP അല്ലെങ്കിൽ വിരലടയാളം കൂടി ഉണ്ടെങ്കിലേ അക്കൗണ്ട് തുറക്കാനാകൂ.",
+          "urlEn": "/library/cybersecurity/iam/iam-mfa/",
+          "urlNative": "/ml/library/cybersecurity/iam/iam-mfa/"
+        },
+        {
+          "id": "zero-trust",
+          "english": "Zero Trust",
+          "vernacular": "പൂജ്യം വിശ്വാസം",
+          "transliteration": "Poojyam Vishwaasam",
+          "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
+          "exampleNative": "വിമാനത്താവളത്തിൽ പ്രവേശന കവാടം മുതൽ ബോർഡിംഗ് ഗേറ്റ് വരെ ഓരോ ഘട്ടത്തിലും തിരിച്ചറിയൽ രേഖ വീണ്ടും പരിശോധിക്കുന്നതുപോലെയുള്ള സുരക്ഷാ രീതി.",
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
+          "urlNative": "/ml/library/cybersecurity/zerotrust/zero-trust-introduction/"
+        },
+        {
+          "id": "digital-signature",
+          "english": "Digital Signature",
+          "vernacular": "ഡിജിറ്റൽ ഒപ്പ്",
+          "transliteration": "Digital Oppu",
+          "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
+          "exampleNative": "ആധാരത്തിലെ സീലും ഒപ്പും പോലെ — രേഖ അയച്ചത് ആരാണെന്നും അതിൽ ഇടയ്ക്ക് വെച്ച് മാറ്റങ്ങളൊന്നും വരുത്തിയിട്ടില്ലെന്നും ഇത് ഉറപ്പാക്കുന്നു.",
+          "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
+          "urlNative": "/ml/library/cybersecurity/pki/digital-signature-certificate/"
+        }
+      ]
+    },
+    "te": {
+      "languageCode": "te",
+      "languageName": "తెలుగు",
+      "pairLabelEn": "English ⇄ తెలుగు",
+      "pairLabelNative": "ఇంగ్లీష్ ⇄ తెలుగు",
+      "terms": [
+        {
+          "id": "encryption",
+          "english": "Encryption",
+          "vernacular": "గూఢలిపీకరణం",
+          "transliteration": "Goodhalipeekaranam",
+          "exampleEn": "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it.",
+          "exampleNative": "తెరిచి ఉన్న పోస్ట్‌కార్డ్‌కు బదులుగా తాళం వేసిన పెట్టెలో ఉత్తరాన్ని పంపడం లాంటిది — సరైన తాళం చెవి ఉన్నవారు మాత్రమే దాన్ని చదవగలరు.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/te/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "phishing",
+          "english": "Phishing",
+          "vernacular": "ఎర వేసే మోసం",
+          "transliteration": "Era Vese Mosam",
+          "exampleEn": "Like a fisherman hiding a sharp hook inside shiny fake bait—scammers send urgent fake bank alerts to trick you into sharing your OTP.",
+          "exampleNative": "గాలానికి మెరిసే నకిలీ ఎరను తగిలించి చేపను పట్టినట్లు — నకిలీ బ్యాంకు సందేశాలు పంపి మీ OTP లేదా పాస్‌వర్డ్‌ను దొంగిలించే మోసం.",
+          "urlEn": "/library/cyberawareness/topscamsfrauds/phishing/",
+          "urlNative": "/te/library/cyberawareness/topscamsfrauds/phishing/"
+        },
+        {
+          "id": "firewall",
+          "english": "Firewall",
+          "vernacular": "రక్షణ గోడ",
+          "transliteration": "Rakshana Goda",
+          "exampleEn": "Like a vigilant security guard at an apartment gate who lets verified residents in while stopping unknown strangers at the entrance.",
+          "exampleNative": "అపార్ట్‌మెంట్ గేటు వద్ద ఉండే సెక్యూరిటీ గార్డు లాంటిది — అనుమతి ఉన్నవారిని మాత్రమే లోపలికి రానిచ్చి, అపరిచితులను బయటే అడ్డుకుంటుంది.",
+          "urlEn": "/library/cyberawareness/cyberhygine/computer-safety-tips/",
+          "urlNative": "/te/library/cyberawareness/cyberhygine/computer-safety-tips/"
+        },
+        {
+          "id": "mfa",
+          "english": "Multi-Factor Auth",
+          "vernacular": "బహుళ-కారకాల ధృవీకరణ",
+          "transliteration": "Bahula-Kaarakaala Dhruveekaranam",
+          "exampleEn": "Like a bank locker that requires two separate keys—even if someone steals your password, they cannot log in without your OTP or fingerprint.",
+          "exampleNative": "రెండు వేర్వేరు తాళం చెవులతో మాత్రమే తెరుచుకునే బ్యాంక్ లాకర్ లాంటిది — పాస్‌వర్డ్‌తో పాటు OTP లేదా వేలిముద్ర ఉంటేనే ఖాతా తెరుచుకుంటుంది.",
+          "urlEn": "/library/cybersecurity/iam/iam-mfa/",
+          "urlNative": "/te/library/cybersecurity/iam/iam-mfa/"
+        },
+        {
+          "id": "zero-trust",
+          "english": "Zero Trust",
+          "vernacular": "శూన్య విశ్వాసం",
+          "transliteration": "Shoonya Vishwaasam",
+          "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
+          "exampleNative": "విమానాశ్రయంలో ప్రవేశ ద్వారం నుండి బోర్డింగ్ గేట్ వరకు ప్రతి దశలోనూ గుర్తింపు కార్డును మళ్లీ తనిఖీ చేసే భద్రతా విధానం లాంటిది.",
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
+          "urlNative": "/te/library/cybersecurity/zerotrust/zero-trust-introduction/"
+        },
+        {
+          "id": "digital-signature",
+          "english": "Digital Signature",
+          "vernacular": "డిజిటల్ సంతకం",
+          "transliteration": "Digital Santhakam",
+          "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
+          "exampleNative": "చట్టపరమైన పత్రంపై వేసే అధికారిక ముద్ర మరియు సంతకం లాంటిది — పత్రాన్ని ఎవరు పంపారో మరియు అందులో ఎలాంటి మార్పులు జరగలేదని నిర్ధారిస్తుంది.",
+          "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
+          "urlNative": "/te/library/cybersecurity/pki/digital-signature-certificate/"
+        }
+      ]
+    },
+    "kn": {
+      "languageCode": "kn",
+      "languageName": "ಕನ್ನಡ",
+      "pairLabelEn": "English ⇄ ಕನ್ನಡ",
+      "pairLabelNative": "ಇಂಗ್ಲಿಷ್ ⇄ ಕನ್ನಡ",
+      "terms": [
+        {
+          "id": "encryption",
+          "english": "Encryption",
+          "vernacular": "ಗೂಢಲಿಪೀಕರಣ",
+          "transliteration": "Goodhalipeekarana",
+          "exampleEn": "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it.",
+          "exampleNative": "ತೆರೆದ ಪೋಸ್ಟ್‌ಕಾರ್ಡ್ ಬದಲಿಗೆ ಬೀಗ ಹಾಕಿದ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಪತ್ರ ಕಳುಹಿಸಿದಂತೆ — ಸರಿಯಾದ ಕೀಲಿ ಇರುವವರು ಮಾತ್ರ ಅದನ್ನು ತೆರೆದು ಓದಬಹುದು.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/kn/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "phishing",
+          "english": "Phishing",
+          "vernacular": "ಗಾಳ ಹಾಕುವ ವಂಚನೆ",
+          "transliteration": "Gaala Haakuva Vanchane",
+          "exampleEn": "Like a fisherman hiding a sharp hook inside shiny fake bait—scammers send urgent fake bank alerts to trick you into sharing your OTP.",
+          "exampleNative": "ಮೀನಿನ ಗಾಳಕ್ಕೆ ಹೊಳೆಯುವ ನಕಲಿ ಆಹಾರ ಸಿಕ್ಕಿಸಿ ಮೀನು ಹಿಡಿಯುವಂತೆ — ನಕಲಿ ಬ್ಯಾಂಕ್ ಸಂದೇಶ ಕಳುಹಿಸಿ ನಿಮ್ಮ OTP ಕದಿಯುವ ವಂಚನೆ.",
+          "urlEn": "/library/cyberawareness/topscamsfrauds/phishing/",
+          "urlNative": "/kn/library/cyberawareness/topscamsfrauds/phishing/"
+        },
+        {
+          "id": "firewall",
+          "english": "Firewall",
+          "vernacular": "ರಕ್ಷಣಾ ಗೋಡೆ",
+          "transliteration": "Rakshanaa Gode",
+          "exampleEn": "Like a vigilant security guard at an apartment gate who lets verified residents in while stopping unknown strangers at the entrance.",
+          "exampleNative": "ಅಪಾರ್ಟ್‌ಮೆಂಟ್ ಗೇಟ್‌ನಲ್ಲಿರುವ ಕಾವಲುಗಾರನಂತೆ — ಅಧಿಕೃತ ನಿವಾಸಿಗಳನ್ನು ಮಾತ್ರ ಒಳಗೆ ಬಿಟ್ಟು, ಅಪರಿಚಿತರನ್ನು ಪ್ರವೇಶದ್ವಾರದಲ್ಲೇ ತಡೆಯುತ್ತದೆ.",
+          "urlEn": "/library/cyberawareness/cyberhygine/computer-safety-tips/",
+          "urlNative": "/kn/library/cyberawareness/cyberhygine/computer-safety-tips/"
+        },
+        {
+          "id": "mfa",
+          "english": "Multi-Factor Auth",
+          "vernacular": "ಬಹು-ಅಂಶ ದೃಢೀಕರಣ",
+          "transliteration": "Bahu-Amsha Drudheekarana",
+          "exampleEn": "Like a bank locker that requires two separate keys—even if someone steals your password, they cannot log in without your OTP or fingerprint.",
+          "exampleNative": "ಎರಡು ಪ್ರತ್ಯೇಕ ಕೀಲಿಗಳಿದ್ದರೆ ಮಾತ್ರ ತೆರೆಯುವ ಬ್ಯಾಂಕ್ ಲಾಕರ್‌ನಂತೆ — ಪಾಸ್‌ವರ್ಡ್ ಜೊತೆಗೆ OTP ಅಥವಾ ಬೆರಳಚ್ಚು ಇದ್ದರೆ ಮಾತ್ರ ಖಾತೆ ತೆರೆಯುತ್ತದೆ.",
+          "urlEn": "/library/cybersecurity/iam/iam-mfa/",
+          "urlNative": "/kn/library/cybersecurity/iam/iam-mfa/"
+        },
+        {
+          "id": "zero-trust",
+          "english": "Zero Trust",
+          "vernacular": "ಶೂನ್ಯ ನಂಬಿಕೆ",
+          "transliteration": "Shoonya Nambike",
+          "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
+          "exampleNative": "ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಪ್ರವೇಶ ದ್ವಾರದಿಂದ ಬೋರ್ಡಿಂಗ್ ಗೇಟ್‌ವರೆಗೆ ಪ್ರತಿ ಹಂತದಲ್ಲೂ ಗುರುತಿನ ಚೀಟಿಯನ್ನು ಮರುಪರಿಶೀಲಿಸುವ ಸುರಕ್ಷತಾ ವಿಧಾನದಂತೆ.",
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
+          "urlNative": "/kn/library/cybersecurity/zerotrust/zero-trust-introduction/"
+        },
+        {
+          "id": "digital-signature",
+          "english": "Digital Signature",
+          "vernacular": "ಡಿಜಿಟಲ್ ಸಹಿ",
+          "transliteration": "Digital Sahi",
+          "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
+          "exampleNative": "ಕಾನೂನು ದಾಖಲೆಯ ಮೇಲಿನ ಅಧಿಕೃತ ಮುದ್ರೆ ಮತ್ತು ಸಹಿಯಂತೆ — ದಾಖಲೆಯನ್ನು ಯಾರು ಕಳುಹಿಸಿದ್ದಾರೆ ಮತ್ತು ಅದರಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆಯಾಗಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
+          "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
+          "urlNative": "/kn/library/cybersecurity/pki/digital-signature-certificate/"
+        }
+      ]
+    }
+  }
+}
