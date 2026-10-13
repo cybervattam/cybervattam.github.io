@@ -15,7 +15,7 @@
 
 {{ if and (ne .Site.Language.Lang "en") (not .IsTranslated) }}
   {{ $fallbackPath := replaceRE "^/(en|ta|hi|ml|te|kn)" "" .RelPermalink }}
-  {{ $contributeURL := ("library/aboutus/contributors/" | relLangURL) }}
+  {{ $contributeURL := ("library/aboutus/contribute/" | relLangURL) }}
   <div class="translation-banner" role="status" aria-live="polite">
     <p>
       {{ i18n "translationMissing" }}

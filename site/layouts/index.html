@@ -6,8 +6,8 @@
 		{{ $learningSections = $learningSections | append . }}
 	{{ end }}
 {{ end }}
-{{ $contributorsPage := .Site.GetPage "library/aboutus/contributors" }}
-{{ if not $contributorsPage }}{{ $contributorsPage = .Site.GetPage "library/aboutus" }}{{ end }}
+{{ $contributePage := .Site.GetPage "library/aboutus/contribute" }}
+{{ if not $contributePage }}{{ $contributePage = .Site.GetPage "library/aboutus" }}{{ end }}
 <section class="hero-section">
 	<div class="hero-section__rings" aria-hidden="true"></div>
 	<div class="page-width hero-section__grid">
@@ -17,13 +17,80 @@
 			<div class="hero-copy__body">{{ .Content }}</div>
 			<div class="hero-actions">
 				<a class="button button--primary" href="{{ $libraryPage.RelPermalink }}">{{ i18n "browseBooks" | default "Browse the library" }} <span>→</span></a>
-				<a class="button button--ghost" href="{{ $contributorsPage.RelPermalink }}">{{ i18n "contribute" | default "Contribute knowledge" }}</a>
+				<a class="button button--ghost" href="{{ $contributePage.RelPermalink }}">{{ i18n "contribute" | default "Contribute knowledge" }}</a>
 			</div>
 		</div>
-		<aside class="language-card">
-			<p class="language-card__label">{{ i18n "browseByTag" }}</p>
-			<div class="home-tag-list" data-search-tag-list data-search-tags-index="{{ "tags.json" | relLangURL }}" aria-label="{{ i18n "searchByTag" }}"></div>
-		</aside>
+		<div class="hero-aside">
+			{{- $lang := .Site.Language.Lang -}}
+			{{- $pairLabel := "English ⇄ தமிழ்" -}}
+			{{- $nativeLangTag := "தமிழ்" -}}
+			{{- $initialNative := "மறையாக்கம்" -}}
+			{{- $initialTranslit := "Maraiyaakkam" -}}
+			{{- $initialExample := "Like mailing a letter inside a locked steel box instead of an open postcard—only the person with the matching key can read it." -}}
+			{{- if eq $lang "ta" -}}
+				{{- $pairLabel = "ஆங்கிலம் ⇄ தமிழ்" -}}
+				{{- $nativeLangTag = "தமிழ்" -}}
+				{{- $initialNative = "மறையாக்கம்" -}}
+				{{- $initialTranslit = "Maraiyaakkam" -}}
+				{{- $initialExample = "திறந்த அஞ்சல் அட்டைக்குப் பதிலாகப் பூட்டிய பெட்டிக்குள் கடிதத்தை வைத்து அனுப்புவது போன்றது — உரிய சாவி உள்ளவரால் மட்டுமே படிக்க முடியும்." -}}
+			{{- else if eq $lang "hi" -}}
+				{{- $pairLabel = "अंग्रेज़ी ⇄ हिन्दी" -}}
+				{{- $nativeLangTag = "हिन्दी" -}}
+				{{- $initialNative = "गूढ़लेखन" -}}
+				{{- $initialTranslit = "Goodhlekhan" -}}
+				{{- $initialExample = "खुले पोस्टकार्ड के बजाय ताले लगे बक्से में पत्र भेजने जैसा — केवल सही चाबी वाला व्यक्ति ही इसे खोलकर पढ़ सकता है।" -}}
+			{{- else if eq $lang "ml" -}}
+				{{- $pairLabel = "ഇംഗ്ലീഷ് ⇄ മലയാളം" -}}
+				{{- $nativeLangTag = "മലയാളം" -}}
+				{{- $initialNative = "ഗൂഢലിപീകരണം" -}}
+				{{- $initialTranslit = "Goodhalipeekaranam" -}}
+				{{- $initialExample = "തുറന്ന പോസ്റ്റ്കാർഡിന് പകരം പൂട്ടിയ പെട്ടിക്കുള്ളിൽ കത്ത് വെച്ച് അയക്കുന്നതുപോലെ — ശരിയായ താക്കോലുള്ളവർക്ക് മാത്രമേ അത് തുറന്നു വായിക്കാനാകൂ." -}}
+			{{- else if eq $lang "te" -}}
+				{{- $pairLabel = "ఇంగ్లీష్ ⇄ తెలుగు" -}}
+				{{- $nativeLangTag = "తెలుగు" -}}
+				{{- $initialNative = "గూఢలిపీకరణం" -}}
+				{{- $initialTranslit = "Goodhalipeekaranam" -}}
+				{{- $initialExample = "తెరిచి ఉన్న పోస్ట్‌కార్డ్‌కు బదులుగా తాళం వేసిన పెట్టెలో ఉత్తరాన్ని పంపడం లాంటిది — సరైన తాళం చెవి ఉన్నవారు మాత్రమే దాన్ని చదవగలరు." -}}
+			{{- else if eq $lang "kn" -}}
+				{{- $pairLabel = "ಇಂಗ್ಲಿಷ್ ⇄ ಕನ್ನಡ" -}}
+				{{- $nativeLangTag = "ಕನ್ನಡ" -}}
+				{{- $initialNative = "ಗೂಢಲಿಪೀಕರಣ" -}}
+				{{- $initialTranslit = "Goodhalipeekarana" -}}
+				{{- $initialExample = "ತೆರೆದ ಪೋಸ್ಟ್‌ಕಾರ್ಡ್ ಬದಲಿಗೆ ಬೀಗ ಹಾಕಿದ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಪತ್ರ ಕಳುಹಿಸಿದಂತೆ — ಸರಿಯಾದ ಕೀಲಿ ಇರುವವರು ಮಾತ್ರ ಅದನ್ನು ತೆರೆದು ಓದಬಹುದು." -}}
+			{{- end -}}
+			<aside class="term-widget" data-term-widget data-term-source="{{ "data/terms-of-the-week.json" | relURL }}" data-term-lang="{{ $lang }}" aria-live="polite">
+				<div class="term-widget__header">
+					<span class="term-widget__eyebrow"><span class="term-widget__pulse" aria-hidden="true"></span> {{ i18n "termOfTheWeek" | default "Term of the Week" }}</span>
+					<span class="term-widget__pair" data-term-pair-label>{{ $pairLabel }}</span>
+				</div>
+				<a class="term-widget__badge" href="{{ "library/cybersecurity/cryptography/cryptography-introduction/" | relLangURL }}" data-term-badge>
+					<div class="term-widget__lang-col">
+						<span class="term-widget__lang-tag">EN</span>
+						<strong class="term-widget__en" data-term-en>Encryption</strong>
+					</div>
+					<span class="term-widget__swap" aria-hidden="true">⇄</span>
+					<div class="term-widget__lang-col term-widget__lang-col--native">
+						<span class="term-widget__lang-tag term-widget__lang-tag--native" data-term-native-lang>{{ $nativeLangTag }}</span>
+						<strong class="term-widget__native" data-term-native>{{ $initialNative }}</strong>
+						<small class="term-widget__translit" data-term-translit>{{ $initialTranslit }}</small>
+					</div>
+				</a>
+				<div class="term-widget__example-box">
+					<span class="term-widget__example-label">💡 {{ i18n "realWorldExample" | default "Real-world example:" }}</span>
+					<p class="term-widget__example" data-term-example>{{ $initialExample }}</p>
+				</div>
+				<div class="term-widget__footer">
+					<div class="term-widget__progress-track" aria-hidden="true">
+						<span class="term-widget__progress-bar" data-term-progress></span>
+					</div>
+					<div class="term-widget__dots" data-term-dots role="tablist" aria-label="Term of the Week items"></div>
+				</div>
+			</aside>
+			<aside class="language-card">
+				<p class="language-card__label">{{ i18n "browseByTag" }}</p>
+				<div class="home-tag-list" data-search-tag-list data-search-tags-index="{{ "tags.json" | relLangURL }}" aria-label="{{ i18n "searchByTag" }}"></div>
+			</aside>
+		</div>
 	</div>
 </section>
 
@@ -81,3 +148,4 @@
 
 
 {{ end }}
+
