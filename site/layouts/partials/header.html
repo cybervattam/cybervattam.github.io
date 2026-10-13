@@ -1,6 +1,10 @@
 {{ $homePage := .Site.Home }}
 {{ $logoPath := "/images/shared/branding/Cybervattam-logo.png" }}
-{{ if eq .Site.Language.Lang "ta" }}{{ $logoPath = "/images/ta/branding/cybervattam-logo-tamil.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $logoPath = "/images/ta/branding/cybervattam-logo-blue-ta.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "hi" }}{{ $logoPath = "/images/hi/branding/cybervattam-logo-blue-hi.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "kn" }}{{ $logoPath = "/images/kn/branding/cybervattam-logo-blue-kn.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "ml" }}{{ $logoPath = "/images/ml/branding/cybervattam-logo-blue-ml.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "te" }}{{ $logoPath = "/images/te/branding/cybervattam-logo-blue-te.png" }}{{ end }}
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-header__brand" href="{{ $homePage.RelPermalink }}" aria-label="Cybervattam home">

@@ -8,7 +8,11 @@
 {{ $teamPage := .Site.GetPage "library/aboutus/team/team" }}
 {{ if not $teamPage }}{{ $teamPage = $aboutPage }}{{ end }}
 {{ $footerLogoPath := "/images/shared/branding/cybervattam-logo-white.png" }}
-{{ if eq .Site.Language.Lang "ta" }}{{ $footerLogoPath = "/images/ta/branding/cybervattam-logo-white-tamil.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $footerLogoPath = "/images/ta/branding/cybervattam-logo-white-ta.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "hi" }}{{ $footerLogoPath = "/images/hi/branding/cybervattam-logo-white-hi.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "kn" }}{{ $footerLogoPath = "/images/kn/branding/cybervattam-logo-white-kn.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "ml" }}{{ $footerLogoPath = "/images/ml/branding/cybervattam-logo-white-ml.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "te" }}{{ $footerLogoPath = "/images/te/branding/cybervattam-logo-white-te.png" }}{{ end }}
 
 <footer class="site-footer">
 	<div class="page-width site-footer__inner">

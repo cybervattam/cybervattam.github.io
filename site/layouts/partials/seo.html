@@ -8,7 +8,7 @@
 	{{ $description = .Site.Home.Summary | plainify | htmlUnescape | truncate 160 }}
 {{ end }}
 {{ $ogImage := "/images/shared/branding/Cybervattam-logo.png" }}
-{{ if eq .Site.Language.Lang "ta" }}{{ $ogImage = "/images/ta/branding/cybervattam-logo-tamil.png" }}{{ end }}
+{{ if eq .Site.Language.Lang "ta" }}{{ $ogImage = "/images/ta/branding/cybervattam-logo-blue-ta.png" }}{{ end }}
 {{ with .Params.image }}{{ $ogImage = . }}{{ end }}
 
 <meta name="robots" content="index, follow" />
