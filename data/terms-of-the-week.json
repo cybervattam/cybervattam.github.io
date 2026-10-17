@@ -51,22 +51,112 @@
         {
           "id": "zero-trust",
           "english": "Zero Trust",
-          "vernacular": "பூஜ்ஜிய நம்பிக்கை",
-          "transliteration": "Poojjiya Nambikkai",
+          "vernacular": "நம்பாமை",
+          "transliteration": "Nambaamai",
           "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
           "exampleNative": "விமான நிலையத்தில் நுழைவாயில் முதல் விமானம் ஏறும் வாயில் வரை ஒவ்வொரு கட்டத்திலும் அடையாளத்தை மீண்டும் சரிபார்ப்பதைப் போன்றது.",
-          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
-          "urlNative": "/ta/library/cybersecurity/zerotrust/zero-trust-introduction/"
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/",
+          "urlNative": "/ta/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/"
         },
         {
           "id": "digital-signature",
           "english": "Digital Signature",
-          "vernacular": "இலக்கமுறைக் குறியொப்பம்",
-          "transliteration": "Ilakkamurai Kuriyoppam",
+          "vernacular": "இலக்கமுறைக் கையொப்பம்",
+          "transliteration": "Ilakkamurai Kaiyoppam",
           "exampleEn": "Like a tamper-proof wax seal and notarized signature on a legal deed—proving who signed a document and that not a single word was altered.",
           "exampleNative": "பத்திரத்தில் இடப்படும் முத்திரையும் கையொப்பமும் போல — ஆவணத்தை அனுப்பியவர் யார் என்பதையும் அது இடையில் மாற்றப்படவில்லை என்பதையும் உறுதிப்படுத்தும்.",
           "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
           "urlNative": "/ta/library/cybersecurity/pki/digital-signature-certificate/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "கட்டச்சங்கிலி",
+          "transliteration": "Kattachangili",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "ஆயிரக்கணக்கான கணினிகளில் ஒரே நேரத்தில் பதியப்படும் பொதுப் பேரேடு போன்றது — ஒருமுறை பதிவான விவரங்களை யாராலும் மாற்றவோ அழிக்கவோ முடியாது.",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/ta/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "மாற்றில்லா வில்லை (NFT)",
+          "transliteration": "Maatrillaa Villai (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "அசல் ஓவியத்திற்கான பிரத்யேக டிஜிட்டல் உரிமைச் சான்றிதழ் போன்றது — ரூபாய் நோட்டுகளைப் போல மற்றொரு நகலால் இதனை ஈடுசெய்ய முடியாது.",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/ta/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "நிலையான நாணயம்",
+          "transliteration": "Nilaiyaana Naanayam",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "வங்கிக் கருவூலத்தில் உள்ள உண்மையான பணத்திற்கு இணையாகப் பிணைக்கப்பட்ட டிஜிட்டல் நாணயம் போன்றது — விலையில் பெரும் ஏற்ற இறக்கங்கள் இன்றி நிலைத்தன்மை தரும்.",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/ta/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "மறைநாணயப் பணப்பை",
+          "transliteration": "Marainaanaya Panappai",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "பணத்தை அடைத்து வைப்பதற்குப் பதிலாக, கட்டச்சங்கிலியில் உள்ள உங்கள் சொத்துக்களைத் திறக்கும் இரகசியத் திறவிகளைப் பாதுகாக்கும் டிஜிட்டல் சாவிக்கொத்து போன்றது.",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/ta/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "சொத்து வில்லையாக்கம்",
+          "transliteration": "Sothu Villaiyaakkam",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "ஒரு பெரிய வணிகக் கட்டிடத்தின் மதிப்பை ஆயிரக்கணக்கான டிஜிட்டல் பங்குகளாகப் பிரித்து, எவரும் சிறு பகுதியைச் சொந்தமாக்கிக் கொள்ள வழிவகுப்பது போன்றது.",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/ta/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "மறைப்பியல்",
+          "transliteration": "Maraippiyal",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "ரகசியக் குறியீடுகளின் கணித அறிவியல் — முக்கியமான தகவல்களைக் மறையாக்கம் செய்து உரிய நபரைத் தவிர வேறு யாரும் படிக்க முடியாதபடி பாதுகாக்கும் தொழில்நுட்பம்.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ta/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "மறைநீக்கம்",
+          "transliteration": "Maraineekkam",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "சரியான சாவியைக் கொண்டு பூட்டைத் திறந்து, படிக்க முடியாத மறைக்கப்பட்ட உரையை மீண்டும் பழைய வாசிக்கக்கூடிய தகவலாக மாற்றும் செயல்முறை.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ta/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "குறுக்கம்",
+          "transliteration": "Kurukkam",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "ஒரு கோப்பிற்கான பிரத்யேக டிஜிட்டல் கைரேகை போன்றது — ஆவணத்தில் ஒரு சிறிய புள்ளி மாறினாலும் முற்றிலும் புதிய கைரேகையே உருவாகும்.",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/ta/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "நேர முத்திரையிடல்",
+          "transliteration": "Naera Muthiraiyidal",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "அஞ்சல் கடிதத்தில் இடப்படும் அதிகாரப்பூர்வ தேதி முத்திரை போல — ஒரு ஆவணம் குறிப்பிட்ட நாளில் குறிப்பிட்ட நேரத்தில் இருந்தது என்பதை நம்பகமாக உறுதிப்படுத்தும் முறை.",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/ta/library/cybersecurity/pki/time-stamping/"
         }
       ]
     },
@@ -123,8 +213,8 @@
           "transliteration": "Shoonya Vishwaas",
           "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
           "exampleNative": "हवाई अड्डे की सुरक्षा जांच जैसा — जहाँ प्रवेश द्वार से लेकर बोर्डिंग गेट तक हर कदम पर पहचान और बोर्डिंग पास की दोबारा पुष्टि की जाती है।",
-          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
-          "urlNative": "/hi/library/cybersecurity/zerotrust/zero-trust-introduction/"
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/",
+          "urlNative": "/hi/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/"
         },
         {
           "id": "digital-signature",
@@ -135,6 +225,186 @@
           "exampleNative": "कानूनी दस्तावेज़ पर लगी मुहर और हस्ताक्षर जैसा — जो प्रमाणित करता है कि दस्तावेज़ किसने भेजा है और उसमें कोई बदलाव नहीं हुआ है।",
           "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
           "urlNative": "/hi/library/cybersecurity/pki/digital-signature-certificate/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "ब्लॉकचेन",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "हज़ारों कंप्यूटरों में एक साथ दर्ज होने वाले साझा डिजिटल बहीखाते जैसा — जिसमें एक बार जानकारी दर्ज होने के बाद कोई उसे मिटा या बदल नहीं सकता।",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/hi/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "नॉन-फंजिबल टोकन (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "किसी मूल कलाकृति के डिजिटल स्वामित्व प्रमाणपत्र जैसा — जिसे सामान्य नोटों की तरह किसी दूसरी समान प्रति से बदला नहीं जा सकता।",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "स्टेबलकॉइन",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "बैंक में सुरक्षित असली मुद्रा से जुड़े डिजिटल टोकन जैसा — जो कीमतों में भारी उतार-चढ़ाव के बिना डिजिटल लेन-देन की सुविधा देता है।",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "क्रिप्टो वॉलेट",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "एक डिजिटल चाबी के गुच्छे जैसा — जिसमें भौतिक नकदी के बजाय ब्लॉकचेन पर आपकी संपत्तियों को अनलॉक करने वाली निजी कुंजियाँ सुरक्षित रहती हैं।",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "एसेट टोकनीकरण",
+          "transliteration": "Asset Tokenization",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "किसी बड़ी व्यावसायिक इमारत के स्वामित्व को हज़ारों डिजिटल हिस्सों में बांटने जैसा — जिससे कोई भी उसका एक छोटा अंश खरीद सके।",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "क्रिप्टोग्राफी",
+          "transliteration": "Cryptography",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "गुप्त कोड का गणितीय विज्ञान — जो संवेदनशील सूचनाओं को ऐसे कोड में बदल देता है जिसे केवल अधिकृत व्यक्ति ही पढ़ सके।",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "डिक्रिप्शन",
+          "transliteration": "Decryption",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "सही चाबी से ताला खोलने जैसा — जो एन्क्रिप्टेड और अपठनीय साइफ़रटेक्स्ट को वापस मूल, पढ़ने योग्य सूचना में बदल देता है।",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "हैशिंग",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "किसी भी फ़ाइल के लिए तैयार किए गए अद्वितीय डिजिटल फिंगरप्रिंट जैसा — फ़ाइल में एक भी अक्षर बदलने पर पूरा हैश बदल जाता है।",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "टाइम स्टैंपिंग",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "डाकघर की आधिकारिक तारीख़ी मुहर जैसा — जो क्रिप्टोग्राफ़िक रूप से प्रमाणित करता है कि कोई दस्तावेज़ उस निश्चित समय पर मौजूद था।",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/hi/library/cybersecurity/pki/time-stamping/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "ब्लॉकचेन",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "हज़ारों कंप्यूटरों में एक साथ दर्ज होने वाले साझा डिजिटल बहीखाते जैसा — जिसमें एक बार जानकारी दर्ज होने के बाद कोई उसे मिटा या बदल नहीं सकता।",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/hi/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "नॉन-फंजिबल टोकन (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "किसी मूल कलाकृति के डिजिटल स्वामित्व प्रमाणपत्र जैसा — जिसे सामान्य नोटों की तरह किसी दूसरी समान प्रति से बदला नहीं जा सकता।",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "स्टेबलकॉइन",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "बैंक में सुरक्षित असली मुद्रा से जुड़े डिजिटल टोकन जैसा — जो कीमतों में भारी उतार-चढ़ाव के बिना डिजिटल लेन-देन की सुविधा देता है।",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "क्रिप्टो वॉलेट",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "एक डिजिटल चाबी के गुच्छे जैसा — जिसमें भौतिक नकदी के बजाय ब्लॉकचेन पर आपकी संपत्तियों को अनलॉक करने वाली निजी कुंजियाँ सुरक्षित रहती हैं।",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "एसेट टोकनीकरण",
+          "transliteration": "Asset Tokenization",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "किसी बड़ी व्यावसायिक इमारत के स्वामित्व को हज़ारों डिजिटल हिस्सों में बांटने जैसा — जिससे कोई भी उसका एक छोटा अंश खरीद सके।",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/hi/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "क्रिप्टोग्राफी",
+          "transliteration": "Cryptography",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "गुप्त कोड का गणितीय विज्ञान — जो संवेदनशील सूचनाओं को ऐसे कोड में बदल देता है जिसे केवल अधिकृत व्यक्ति ही पढ़ सके।",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "डिक्रिप्शन",
+          "transliteration": "Decryption",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "सही चाबी से ताला खोलने जैसा — जो एन्क्रिप्टेड और अपठनीय साइफ़रटेक्स्ट को वापस मूल, पढ़ने योग्य सूचना में बदल देता है।",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "हैशिंग",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "किसी भी फ़ाइल के लिए तैयार किए गए अद्वितीय डिजिटल फिंगरप्रिंट जैसा — फ़ाइल में एक भी अक्षर बदलने पर पूरा हैश बदल जाता है।",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/hi/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "टाइम स्टैंपिंग",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "डाकघर की आधिकारिक तारीख़ी मुहर जैसा — जो क्रिप्टोग्राफ़िक रूप से प्रमाणित करता है कि कोई दस्तावेज़ उस निश्चित समय पर मौजूद था।",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/"
+          ,"urlNative": "/hi/library/cybersecurity/pki/time-stamping/"
         }
       ]
     },
@@ -191,8 +461,8 @@
           "transliteration": "Poojyam Vishwaasam",
           "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
           "exampleNative": "വിമാനത്താവളത്തിൽ പ്രവേശന കവാടം മുതൽ ബോർഡിംഗ് ഗേറ്റ് വരെ ഓരോ ഘട്ടത്തിലും തിരിച്ചറിയൽ രേഖ വീണ്ടും പരിശോധിക്കുന്നതുപോലെയുള്ള സുരക്ഷാ രീതി.",
-          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
-          "urlNative": "/ml/library/cybersecurity/zerotrust/zero-trust-introduction/"
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/",
+          "urlNative": "/ml/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/"
         },
         {
           "id": "digital-signature",
@@ -203,6 +473,186 @@
           "exampleNative": "ആധാരത്തിലെ സീലും ഒപ്പും പോലെ — രേഖ അയച്ചത് ആരാണെന്നും അതിൽ ഇടയ്ക്ക് വെച്ച് മാറ്റങ്ങളൊന്നും വരുത്തിയിട്ടില്ലെന്നും ഇത് ഉറപ്പാക്കുന്നു.",
           "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
           "urlNative": "/ml/library/cybersecurity/pki/digital-signature-certificate/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "ബ്ലോക്ക്ചെയിൻ",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "ആയിരക്കണക്കിന് കമ്പ്യൂട്ടറുകളിൽ ഒരേസമയം സൂക്ഷിക്കുന്ന ഡിജിറ്റൽ ലെഡ്ജർ പോലെ — ഒരിക്കൽ രേഖപ്പെടുത്തിയാൽ ആർക്കും മാറ്റാനോ മായ്ക്കാനോ കഴിയില്ല.",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/ml/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "നോൺ-ഫംഗിബിൾ ടോക്കൺ (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "ഒരു യഥാർത്ഥ പെയിന്റിംഗിന്റെ ഡിജിറ്റൽ ഉടമസ്ഥാവകാശ രേഖ പോലെ — കറൻസി നോട്ടുകൾ പോലെ മറ്റൊന്നുമായി ഇത് തുല്യമായി കൈമാറ്റം ചെയ്യാനാകില്ല.",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "സ്റ്റേബിൾകോയിൻ",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "ബാങ്ക് നിലവറയിൽ സൂക്ഷിച്ചിരിക്കുന്ന യഥാർത്ഥ കറൻസിയുമായി ബന്ധിപ്പിച്ച ഡിജിറ്റൽ നാണയം പോലെ — വിലയിലെ ചാഞ്ചാട്ടം കുറച്ച് സ്ഥിരത നൽകുന്നു.",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "ക്രിപ്‌റ്റോ വാലറ്റ്",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "യഥാർത്ഥ പണം സൂക്ഷിക്കുന്നതിന് പകരം, ബ്ലോക്ക്‌ചെയിനിലെ നിങ്ങളുടെ ആസ്തികൾ നിയന്ത്രിക്കാനുള്ള സ്വകാര്യ കീകൾ സൂക്ഷിക്കുന്ന ഡിജിറ്റൽ താക്കോൽക്കൂട്ടം.",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "ആസ്തി ടോക്കണൈസേഷൻ",
+          "transliteration": "Aasthi Tokenisation",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "ഒരു വലിയ വാണിജ്യ കെട്ടിടത്തിന്റെ ഉടമസ്ഥാവകാശം ആയിരക്കണക്കിന് ഡിജിറ്റൽ ഓഹരികളാക്കി മാറ്റി ആർക്കും ചെറിയൊരു പങ്ക് സ്വന്തമാക്കാൻ സൗകര്യമൊരുക്കുന്നത് പോലെ.",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "ക്രിപ്റ്റോഗ്രഫി",
+          "transliteration": "Cryptography",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "രഹസ്യ കോഡുകളുടെ ഗണിതശാസ്ത്രം — പ്രധാന വിവരങ്ങൾ മറ്റുള്ളവർ വായിക്കാതിരിക്കാൻ രഹസ്യ രൂപത്തിലേക്ക് മാറ്റുന്ന സാങ്കേതികവിദ്യ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "ഡീക്രിപ്ഷൻ",
+          "transliteration": "Decryption",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "ശരിയായ താക്കോൽ ഉപയോഗിച്ച് പൂട്ട് തുറക്കുന്നത് പോലെ — വായിക്കാൻ കഴിയാത്ത സൈഫർടെക്സ്റ്റിനെ തിരികെ യഥാർത്ഥ വിവരമാക്കി മാറ്റുന്ന പ്രക്രിയ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "ഹാഷിംഗ്",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "ഒരു ഫയലിന്റെ സവിശേഷമായ ഡിജിറ്റൽ വിരലടയാളം പോലെ — ഫയലിൽ ഒരു ചെറിയ അക്ഷരം മാറിയാൽ പോലും പുതിയൊരു വിരലടയാളമാണ് ഉണ്ടാവുക.",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "ടൈം സ്റ്റാമ്പിംഗ്",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "തപാൽ കവറിൽ പതിപ്പിക്കുന്ന ഔദ്യോഗിക തീയതി മുദ്ര പോലെ — ഒരു ഡിജിറ്റൽ രേഖ ആ നിശ്ചിത സമയത്ത് നിലവിലുണ്ടായിരുന്നുവെന്ന് ഉറപ്പാക്കുന്ന രീതി.",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/ml/library/cybersecurity/pki/time-stamping/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "ബ്ലോക്ക്ചെയിൻ",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "ആയിരക്കണക്കിന് കമ്പ്യൂട്ടറുകളിൽ ഒരേസമയം സൂക്ഷിക്കുന്ന ഡിജിറ്റൽ ലെഡ്ജർ പോലെ — ഒരിക്കൽ രേഖപ്പെടുത്തിയാൽ ആർക്കും മാറ്റാനോ മായ്ക്കാനോ കഴിയില്ല.",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/ml/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "നോൺ-ഫംഗിബിൾ ടോക്കൺ (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "ഒരു യഥാർത്ഥ പെയിന്റിംഗിന്റെ ഡിജിറ്റൽ ഉടമസ്ഥാവകാശ രേഖ പോലെ — കറൻസി നോട്ടുകൾ പോലെ മറ്റൊന്നുമായി ഇത് തുല്യമായി കൈമാറ്റം ചെയ്യാനാകില്ല.",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "സ്റ്റേബിൾകോയിൻ",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "ബാങ്ക് നിലവറയിൽ സൂക്ഷിച്ചിരിക്കുന്ന യഥാർത്ഥ കറൻസിയുമായി ബന്ധിപ്പിച്ച ഡിജിറ്റൽ നാണയം പോലെ — വിലയിലെ ചാഞ്ചാട്ടം കുറച്ച് സ്ഥിരത നൽകുന്നു.",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "ക്രിപ്‌റ്റോ വാലറ്റ്",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "യഥാർത്ഥ പണം സൂക്ഷിക്കുന്നതിന് പകരം, ബ്ലോക്ക്‌ചെയിനിലെ നിങ്ങളുടെ ആസ്തികൾ നിയന്ത്രിക്കാനുള്ള സ്വകാര്യ കീകൾ സൂക്ഷിക്കുന്ന ഡിജിറ്റൽ താക്കോൽക്കൂട്ടം.",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/"
+          ,"urlNative": "/ml/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "ആസ്തി ടോക്കണൈസേഷൻ",
+          "transliteration": "Aasthi Tokenisation",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "ഒരു വലിയ വാണിജ്യ കെട്ടിടത്തിന്റെ ഉടമസ്ഥാവകാശം ആയിരക്കണക്കിന് ഡിജിറ്റൽ ഓഹരികളാക്കി മാറ്റി ആർക്കും ചെറിയൊരു പങ്ക് സ്വന്തമാക്കാൻ സൗകര്യമൊരുക്കുന്നത് പോലെ.",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/ml/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "ക്രിപ്റ്റോഗ്രഫി",
+          "transliteration": "Cryptography",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "രഹസ്യ കോഡുകളുടെ ഗണിതശാസ്ത്രം — പ്രധാന വിവരങ്ങൾ മറ്റുള്ളവർ വായിക്കാതിരിക്കാൻ രഹസ്യ രൂപത്തിലേക്ക് മാറ്റുന്ന സാങ്കേതികവിദ്യ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "ഡീക്രിപ്ഷൻ",
+          "transliteration": "Decryption",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "ശരിയായ താക്കോൽ ഉപയോഗിച്ച് പൂട്ട് തുറക്കുന്നത് പോലെ — വായിക്കാൻ കഴിയാത്ത സൈഫർടെക്സ്റ്റിനെ തിരികെ യഥാർത്ഥ വിവരമാക്കി മാറ്റുന്ന പ്രക്രിയ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "ഹാഷിംഗ്",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "ഒരു ഫയലിന്റെ സവിശേഷമായ ഡിജിറ്റൽ വിരലടയാളം പോലെ — ഫയലിൽ ഒരു ചെറിയ അക്ഷരം മാറിയാൽ പോലും പുതിയൊരു വിരലടയാളമാണ് ഉണ്ടാവുക.",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/ml/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "ടൈം സ്റ്റാമ്പിംഗ്",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "തപാൽ കവറിൽ പതിപ്പിക്കുന്ന ഔദ്യോഗിക തീയതി മുദ്ര പോലെ — ഒരു ഡിജിറ്റൽ രേഖ ആ നിശ്ചിത സമയത്ത് നിലവിലുണ്ടായിരുന്നുവെന്ന് ഉറപ്പാക്കുന്ന രീതി.",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/ml/library/cybersecurity/pki/time-stamping/"
         }
       ]
     },
@@ -259,8 +709,8 @@
           "transliteration": "Shoonya Vishwaasam",
           "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
           "exampleNative": "విమానాశ్రయంలో ప్రవేశ ద్వారం నుండి బోర్డింగ్ గేట్ వరకు ప్రతి దశలోనూ గుర్తింపు కార్డును మళ్లీ తనిఖీ చేసే భద్రతా విధానం లాంటిది.",
-          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
-          "urlNative": "/te/library/cybersecurity/zerotrust/zero-trust-introduction/"
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/",
+          "urlNative": "/te/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/"
         },
         {
           "id": "digital-signature",
@@ -271,6 +721,96 @@
           "exampleNative": "చట్టపరమైన పత్రంపై వేసే అధికారిక ముద్ర మరియు సంతకం లాంటిది — పత్రాన్ని ఎవరు పంపారో మరియు అందులో ఎలాంటి మార్పులు జరగలేదని నిర్ధారిస్తుంది.",
           "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
           "urlNative": "/te/library/cybersecurity/pki/digital-signature-certificate/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "బ్లాక్‌చైన్",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "వేలాది కంప్యూటర్లలో ఏకకాలంలో నమోదు చేయబడే ఉమ్మడి డిజిటల్ లెడ్జర్ లాంటిది — ఇందులో ఒకసారి రాసిన సమాచారాన్ని ఎవరూ మార్చలేరు లేదా చెరిపివేయలేరు.",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/te/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "నాన్-ఫంగిబుల్ టోకెన్ (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "అసలైన కళాఖండానికి ఇచ్చే మార్చలేని డిజిటల్ యాజమాన్య ధృవీకరణ పత్రం లాంటిది — సాధారణ కరెన్సీ నోట్లలా దీనికి సమానమైన మరొకటి ఉండదు.",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/te/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "స్టేబుల్‌కాయిన్",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "బ్యాంక్ లాకర్‌లో భద్రపరిచిన అసలు కరెన్సీతో సమాన విలువ గల డిజిటల్ కరెన్సీ లాంటిది — ధరలలో హెచ్చుతగ్గులు లేకుండా స్థిరత్వాన్ని ఇస్తుంది.",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/te/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "క్రిప్టో వాలెట్",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "భౌతిక నగదును దాచుకోవడానికి కాకుండా, బ్లాక్‌చైన్‌లోని మీ డిజిటల్ ఆస్తులను యాక్సెస్ చేసే రహస్య కీలను భద్రపరిచే డిజిటల్ తాళాల గుత్తి లాంటిది.",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/te/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "ఆస్తి టోకనైజేషన్",
+          "transliteration": "Aasti Tokenization",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "ఒక పెద్ద వాణిజ్య భవనం యాజమాన్యాన్ని వేలాది డిజిటల్ వాటాలుగా విభజించి, ఎవరైనా ఒక చిన్న భాగాన్ని కొనుగోలు చేయడానికి వీలు కల్పించే విధానం.",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/te/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "క్రిప్టోగ్రఫీ",
+          "transliteration": "Cryptography",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "రహస్య కోడ్‌ల గణిత శాస్త్రం — సున్నితమైన సమాచారాన్ని ఇతరులు చదవలేకుండా రహస్య కోడ్‌గా మార్చే భద్రతా పద్ధతి.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/te/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "డీక్రిప్షన్",
+          "transliteration": "Decryption",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "సరైన తాళం చెవితో లాకర్‌ను తెరిచినట్లు — చదవడానికి వీలుకాని సైఫర్‌టెక్స్ట్‌ను తిరిగి అసలైన సాధారణ సమాచారంగా మార్చే ప్రక్రియ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/te/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "హాషింగ్",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "ప్రతి డిజిటల్ ఫైల్‌కు ఉండే ప్రత్యేక వేలిముద్ర లాంటిది — ఫైల్‌లో ఒక్క చిన్న అక్షరం మారినా సరికొత్త వేలిముద్ర ఉత్పన్నమవుతుంది.",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/te/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "టైమ్ స్టాంపింగ్",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "పోస్టల్ కవరుపై వేసే అధికారిక తేదీ ముద్ర లాంటిది — ఒక డిజిటల్ పత్రం ఆ నిర్దిష్ట సమయంలో ఖచ్చితంగా ఉనికిలో ఉందని ధృవీకరిస్తుంది.",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/te/library/cybersecurity/pki/time-stamping/"
         }
       ]
     },
@@ -327,8 +867,8 @@
           "transliteration": "Shoonya Nambike",
           "exampleEn": "Like an airport where your ID and boarding pass are re-checked at the entrance, security check, and boarding gate—never assumed safe once inside.",
           "exampleNative": "ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಪ್ರವೇಶ ದ್ವಾರದಿಂದ ಬೋರ್ಡಿಂಗ್ ಗೇಟ್‌ವರೆಗೆ ಪ್ರತಿ ಹಂತದಲ್ಲೂ ಗುರುತಿನ ಚೀಟಿಯನ್ನು ಮರುಪರಿಶೀಲಿಸುವ ಸುರಕ್ಷತಾ ವಿಧಾನದಂತೆ.",
-          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-introduction/",
-          "urlNative": "/kn/library/cybersecurity/zerotrust/zero-trust-introduction/"
+          "urlEn": "/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/",
+          "urlNative": "/kn/library/cybersecurity/zerotrust/zero-trust-overview-and-tenets/"
         },
         {
           "id": "digital-signature",
@@ -339,8 +879,99 @@
           "exampleNative": "ಕಾನೂನು ದಾಖಲೆಯ ಮೇಲಿನ ಅಧಿಕೃತ ಮುದ್ರೆ ಮತ್ತು ಸಹಿಯಂತೆ — ದಾಖಲೆಯನ್ನು ಯಾರು ಕಳುಹಿಸಿದ್ದಾರೆ ಮತ್ತು ಅದರಲ್ಲಿ ಯಾವುದೇ ಬದಲಾವಣೆಯಾಗಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸುತ್ತದೆ.",
           "urlEn": "/library/cybersecurity/pki/digital-signature-certificate/",
           "urlNative": "/kn/library/cybersecurity/pki/digital-signature-certificate/"
+        },
+        {
+          "id": "blockchain",
+          "english": "Blockchain",
+          "vernacular": "ಬ್ಲಾಕ್‌ಚೈನ್",
+          "transliteration": "Blockchain",
+          "exampleEn": "Like a shared digital ledger distributed across thousands of computers simultaneously—once verified, nobody can erase or alter the record.",
+          "exampleNative": "ಸಾವಿರಾರು ಕಂಪ್ಯೂಟರ್‌ಗಳಲ್ಲಿ ಏಕಕಾಲದಲ್ಲಿ ದಾಖಲಾಗುವ ಹಂಚಿಕೆಯ ಡಿಜಿಟಲ್ ಲೆಡ್ಜರ್‌ನಂತೆ — ಒಮ್ಮೆ ಬರೆದ ಮಾಹಿತಿಯನ್ನು ಯಾರೂ ಅಳಿಸಲು ಅಥವಾ ತಿದ್ದಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+          "urlEn": "/library/emergingtech/blockchain/introduction/",
+          "urlNative": "/kn/library/emergingtech/blockchain/introduction/"
+        },
+        {
+          "id": "non-fungible-token",
+          "english": "Non-Fungible Token (NFT)",
+          "vernacular": "ನಾನ್-ಫಂಗಿಬಲ್ ಟೋಕನ್ (NFT)",
+          "transliteration": "Non-Fungible Token (NFT)",
+          "exampleEn": "Like an original signed painting with a tamper-proof digital deed—unlike currency notes, it is completely unique and cannot be swapped for an identical copy.",
+          "exampleNative": "ಮೂಲ ಕಲಾಕೃತಿಗೆ ನೀಡಲಾಗುವ ಡಿಜಿಟಲ್ ಮಾಲೀಕತ್ವದ ಅಧಿಕೃತ ಪ್ರಮಾಣಪತ್ರದಂತೆ — ಸಾಮಾನ್ಯ ಕರೆನ್ಸಿ ನೋಟುಗಳಂತೆ ಇದನ್ನು ಬೇರೊಂದರಿಂದ ಬದಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+          "urlEn": "/library/emergingtech/digitalassets/non-fungible-tokens/",
+          "urlNative": "/kn/library/emergingtech/digitalassets/non-fungible-tokens/"
+        },
+        {
+          "id": "stablecoins",
+          "english": "Stablecoin",
+          "vernacular": "ಸ್ಟೇಬಲ್‌ಕಾಯಿನ್",
+          "transliteration": "Stablecoin",
+          "exampleEn": "Like a digital token pegged directly to a physical reserve currency in a bank vault—giving the speed of crypto without wild price swings.",
+          "exampleNative": "ಬ್ಯಾಂಕ್ ಖಜಾನೆಯಲ್ಲಿರುವ ನೈಜ ಕರೆನ್ಸಿಯ ಮೌಲ್ಯಕ್ಕೆ ಜೋಡಿಸಲಾದ ಡಿಜಿಟಲ್ ನಾಣ್ಯದಂತೆ — ಬೆಲೆಯ ಏರಿಳಿತವಿಲ್ಲದೆ ಸ್ಥಿರತೆಯನ್ನು ನೀಡುತ್ತದೆ.",
+          "urlEn": "/library/emergingtech/digitalassets/stablecoins/",
+          "urlNative": "/kn/library/emergingtech/digitalassets/stablecoins/"
+        },
+        {
+          "id": "crypto-wallet",
+          "english": "Crypto Wallet",
+          "vernacular": "ಕ್ರಿಪ್ಟೋ ವಾಲೆಟ್",
+          "transliteration": "Crypto Wallet",
+          "exampleEn": "Like a digital keychain guarding the secret private keys that unlock and transfer your funds on the blockchain, rather than holding paper cash.",
+          "exampleNative": "ನೈಜ ಹಣವನ್ನು ಇಡುವ ಬದಲು, ಬ್ಲಾಕ್‌ಚೈನ್‌ನಲ್ಲಿರುವ ನಿಮ್ಮ ಡಿಜಿಟಲ್ ಆಸ್ತಿಯನ್ನು ತೆರೆಯುವ ಖಾಸಗಿ ಕೀಲಿಗಳನ್ನು ರಕ್ಷಿಸುವ ಡಿಜಿಟಲ್ ಕೀಲಿಗೊಂಚಲಿನಂತೆ.",
+          "urlEn": "/library/emergingtech/digitalassets/crypto-wallets/",
+          "urlNative": "/kn/library/emergingtech/digitalassets/crypto-wallets/"
+        },
+        {
+          "id": "asset-tokenization",
+          "english": "Asset Tokenization",
+          "vernacular": "ಆಸ್ತಿ ಟೋಕನೈಸೇಶನ್",
+          "transliteration": "Aasti Tokenisation",
+          "exampleEn": "Like dividing an expensive commercial property into thousands of tradeable digital shares so anyone can easily invest in a fraction of it.",
+          "exampleNative": "ದೊಡ್ಡ ವಾಣಿಜ್ಯ ಕಟ್ಟಡದ ಮಾಲೀಕತ್ವವನ್ನು ಸಾವಿರಾರು ಡಿಜಿಟಲ್ ಷೇರುಗಳಾಗಿ ವಿಭಜಿಸಿ, ಯಾರಾದರೂ ಸಣ್ಣ ಭಾಗವನ್ನು ಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುವ ವಿಧಾನ.",
+          "urlEn": "/library/emergingtech/digitalassets/asset-tokenization/",
+          "urlNative": "/kn/library/emergingtech/digitalassets/asset-tokenization/"
+        },
+        {
+          "id": "cryptography",
+          "english": "Cryptography",
+          "vernacular": "ಗೂಢಲಿಪಿಶಾಸ್ತ್ರ",
+          "transliteration": "Goodhalipishaastra",
+          "exampleEn": "The mathematical science of secure communication—transforming sensitive data into secret codes so only authorized parties can read it.",
+          "exampleNative": "ರಹಸ್ಯ ಸಂಕೇತಗಳ ಗಣಿತೀಯ ವಿಜ್ಞಾನ — ಪ್ರಮುಖ ಮಾಹಿತಿಯನ್ನು ಬೇರೆಯವರು ಓದದಂತೆ ರಹಸ್ಯ ಸಂಕೇತವಾಗಿ ಪರಿವರ್ತಿಸುವ ಕಲೆ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/kn/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "decryption",
+          "english": "Decryption",
+          "vernacular": "ಗೂಢಲಿಪಿ ಬಿಡಿಸುವಿಕೆ",
+          "transliteration": "Goodhalipi Bidisuvike",
+          "exampleEn": "Like unlocking a safe with the secret combination—reversing encrypted ciphertext back into its original, plain readable text.",
+          "exampleNative": "ಸರಿಯಾದ ಕೀಲಿಯಿಂದ ಬೀಗ ತೆರೆದಂತೆ — ಓದಲು ಸಾಧ್ಯವಾಗದ ಗೂಢಲಿಪಿ ಪಠ್ಯವನ್ನು ಪುನಃ ಮೂಲ, ಓದಬಹುದಾದ ಮಾಹಿತಿಗೆ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+          "urlEn": "/library/cybersecurity/cryptography/cryptography-introduction/",
+          "urlNative": "/kn/library/cybersecurity/cryptography/cryptography-introduction/"
+        },
+        {
+          "id": "hashing",
+          "english": "Hashing",
+          "vernacular": "ಹ್ಯಾಶಿಂಗ್",
+          "transliteration": "Hashing",
+          "exampleEn": "Like a one-way digital fingerprint of a document—even changing a single punctuation mark generates an entirely different hash string.",
+          "exampleNative": "ಯಾವುದೇ ಫೈಲ್‌ಗೆ ರಚಿಸಲಾಗುವ ವಿಶಿಷ್ಟ ಡಿಜಿಟಲ್ ಬೆರಳಚ್ಚಿನಂತೆ — ಫೈಲ್‌ನಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಅಕ್ಷರ ಬದಲಾದರೂ ಸಂಪೂರ್ಣ ಹೊಸ ಬೆರಳಚ್ಚು ಸೃಷ್ಟಿಯಾಗುತ್ತದೆ.",
+          "urlEn": "/library/cybersecurity/cryptography/hashing/",
+          "urlNative": "/kn/library/cybersecurity/cryptography/hashing/"
+        },
+        {
+          "id": "time-stamping",
+          "english": "Time Stamping",
+          "vernacular": "ಟೈಮ್ ಸ್ಟ್ಯಾಂಪಿಂಗ್",
+          "transliteration": "Time Stamping",
+          "exampleEn": "Like a certified postal date seal stamped across a legal agreement, cryptographically verifying that the file existed at that precise time.",
+          "exampleNative": "ಅಂಚೆ ಲಕೋಟೆಯ ಮೇಲಿನ ಅಧಿಕೃತ ದಿನಾಂಕದ ಮುದ್ರೆಯಂತೆ — ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಆ ಡಿಜಿಟಲ್ ದಾಖಲೆ ಅಸ್ತಿತ್ವದಲ್ಲಿತ್ತು ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ.",
+          "urlEn": "/library/cybersecurity/pki/time-stamping/",
+          "urlNative": "/kn/library/cybersecurity/pki/time-stamping/"
         }
       ]
     }
   }
 }
+

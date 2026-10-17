@@ -12581,12 +12581,15 @@ h1, .h1, h2, .h2, h3, .h3 {
 .term-widget__dots {
   display: flex;
   align-items: center;
-  gap: 5px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 4px;
+  max-width: 160px;
 }
 
 .term-widget__dot {
-  width: 7px;
-  height: 7px;
+  width: 6px;
+  height: 6px;
   padding: 0;
   border: 0;
   border-radius: 999px;
@@ -12596,7 +12599,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 
 .term-widget__dot.is-active {
-  width: 18px;
+  width: 14px;
   background: var(--cobalt);
 }
 
