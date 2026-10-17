@@ -169,19 +169,20 @@
         if (!langOrder.length) return;
 
         const baseTermCount = data.languages[langOrder[0]].terms.length;
-        const totalSteps = langOrder.length * baseTermCount;
         const combined = [];
 
-        for (let step = 0; step < totalSteps; step += 1) {
-          const langCode = langOrder[step % langOrder.length];
-          const langPack = data.languages[langCode];
-          const term = langPack.terms[step % langPack.terms.length];
-          if (term) {
-            combined.push({
-              ...term,
-              languageName: langPack.languageName,
-              pairLabel: langPack.pairLabelEn || langPack.pairLabelNative
-            });
+        for (let round = 0; round < langOrder.length; round += 1) {
+          for (let t = 0; t < baseTermCount; t += 1) {
+            const langCode = langOrder[(t + round) % langOrder.length];
+            const langPack = data.languages[langCode];
+            const term = langPack.terms[t];
+            if (term) {
+              combined.push({
+                ...term,
+                languageName: langPack.languageName,
+                pairLabel: langPack.pairLabelEn || langPack.pairLabelNative
+              });
+            }
           }
         }
         if (!combined.length) return;
