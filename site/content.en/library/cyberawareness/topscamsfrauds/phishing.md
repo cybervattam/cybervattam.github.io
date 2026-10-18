@@ -6,6 +6,10 @@ weight: 13
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Phishing
+
+<img src="/images/en/cyberawareness/topscamsfrauds/phishing.svg" width=700 alt="Phishing" loading="lazy">
+
 Phishing uses email, text messages, social media, or phone calls to impersonate a trusted source and steal information or money. Text phishing is called smishing, and phone phishing is called vishing.
 
 ## Warning signs

@@ -6,6 +6,10 @@ weight: 11
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Money Mule Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/money-mule-scams.svg" width=700 alt="Money Mule Scams" loading="lazy">
+
 A money mule is a person used to receive, transfer, or withdraw money obtained through crime. Recruitment may happen through fake jobs, romance scams, social media, or stolen identity details.
 
 ## Warning signs

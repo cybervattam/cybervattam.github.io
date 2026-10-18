@@ -6,6 +6,10 @@ weight: 5
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Business Email Compromise
+
+<img src="/images/en/cyberawareness/topscamsfrauds/email-compromise-scams.svg" width=700 alt="Business Email Compromise" loading="lazy">
+
 Business email compromise occurs when criminals hack or spoof an email account to impersonate an executive, colleague, supplier, accountant, or lawyer. They request payments, confidential information, or changes to payment details.
 
 ## Common scenarios

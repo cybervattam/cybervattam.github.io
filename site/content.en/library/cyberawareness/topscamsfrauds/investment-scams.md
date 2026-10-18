@@ -6,6 +6,10 @@ weight: 9
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Investment Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/investment-scams.jpg" width=700 alt="Investment Scams" loading="lazy">
+
 Investment scams promote fake or non-existent investments, often promising unusually high returns with little or no risk. Contact may begin through a call, social media, email, or text message.
 
 ## Warning signs

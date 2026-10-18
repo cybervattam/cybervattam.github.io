@@ -6,6 +6,10 @@ weight: 1
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# AI-Powered Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/artificial-intelligence-scams.jpg" width=700 alt="AI-Powered Scams" loading="lazy">
+
 Artificial intelligence can make scam emails, messages, calls, and videos look or sound convincing. Criminals may imitate a trusted person, manager, supplier, organisation, or family member using generated text, cloned voices, or deepfake video.
 
 ## Warning signs

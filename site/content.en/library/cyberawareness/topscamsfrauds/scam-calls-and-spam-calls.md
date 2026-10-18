@@ -6,6 +6,10 @@ weight: 18
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Scam Calls and Spam Calls
+
+<img src="/images/en/cyberawareness/topscamsfrauds/scam-calls-and-spam-calls.svg" width=700 alt="Scam Calls and Spam Calls" loading="lazy">
+
 A scam call uses a phone conversation to impersonate a trusted organisation or person and obtain information or money. Spam calls are unwanted marketing, but scam calls may include deception, threats, or requests for payment.
 
 ## Warning signs

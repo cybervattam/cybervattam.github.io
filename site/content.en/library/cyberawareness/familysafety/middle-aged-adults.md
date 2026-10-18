@@ -6,6 +6,10 @@ weight: 3
 tags: ["Cyber Awareness","Family Safety"]
 ---
 
+# Middle-Aged Adults (35–54)
+
+<img src="/images/en/cyberawareness/familysafety/middle-aged-adults.jpg" width=700 alt="Middle-Aged Adults (35–54)" loading="lazy">
+
 Middle-aged adults often manage significant financial responsibilities, including home loans, children's education, retirement investments, and workplace procurement. Cybercriminals frequently target this age group with sophisticated blended threats that cross the boundary between personal life and professional obligations.
 
 ## Common Threats

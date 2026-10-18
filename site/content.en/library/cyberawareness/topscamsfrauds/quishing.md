@@ -6,6 +6,10 @@ weight: 15
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Quishing and QR Code Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/quishing.svg" width=700 alt="Quishing and QR Code Scams" loading="lazy">
+
 Quishing is phishing delivered through a QR code. A fraudulent code may open a fake login page, trigger an unsafe download, or send you to a payment site controlled by a criminal.
 
 ## Warning signs

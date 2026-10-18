@@ -6,6 +6,10 @@ weight: 3
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Password Security Management
+
+<img src="/images/en/cyberawareness/cyberhygine/password-security-management.svg" width=700 alt="Password Security Management" loading="lazy">
+
 Passwords restrict access to information and systems to authorized users. Strong, unique passwords help defend against dictionary attacks, brute-force attacks, and password-capturing tools such as keyloggers.
 
 ## Do
@@ -28,7 +32,7 @@ Passwords restrict access to information and systems to authorized users. Strong
 - Write passwords down where they can be found, such as on a note next to the computer.
 - Use biometrics at untrusted terminals or locations.
 
-# Password Managers and Multi-Factor Authentication (MFA)
+## Password Managers and Multi-Factor Authentication (MFA)
 
 ## Password Managers
 

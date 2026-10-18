@@ -6,6 +6,10 @@ weight: 7
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Gambling Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/gambling-scams.svg" width=700 alt="Gambling Scams" loading="lazy">
+
 Gambling scams use fake online betting, casino, or slot-style websites and apps. They may promise free spins, large bonuses, or guaranteed winnings but are designed to collect money and personal details.
 
 ## Warning signs

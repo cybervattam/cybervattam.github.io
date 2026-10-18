@@ -6,6 +6,10 @@ weight: 7
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Mobile Phone Safety
+
+<img src="/images/en/cyberawareness/cyberhygine/mobile-phone-safety.svg" width=700 alt="Mobile Phone Safety" loading="lazy">
+
 Mobile phones hold personal and organizational data. Poor security can lead to data theft, financial loss, unauthorized access, and malware infection.
 
 ## Do

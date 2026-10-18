@@ -6,6 +6,10 @@ weight: 9
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Email Security Practices
+
+<img src="/images/en/cyberawareness/cyberhygine/email-security-practices.jpg" width=700 alt="Email Security Practices" loading="lazy">
+
 Email messages can contain links that attempt to steal personal, financial, or organizational information.
 
 ## Safe practices

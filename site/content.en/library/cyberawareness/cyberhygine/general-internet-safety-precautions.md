@@ -6,6 +6,10 @@ weight: 4
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# General Internet Safety Precautions
+
+<img src="/images/en/cyberawareness/cyberhygine/general-internet-safety-precautions.svg" width=700 alt="General Internet Safety Precautions" loading="lazy">
+
 Unsafe internet use can expose people and organizations to phishing, viruses, trojans, worms, ransomware, business email compromise, and financial loss.
 
 ## Do

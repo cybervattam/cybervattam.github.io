@@ -6,6 +6,10 @@ weight: 6
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Social Media Platforms - Safety Tips
+
+<img src="/images/en/cyberawareness/cyberhygine/social-media-platforms-safety-tips.svg" width=700 alt="Social Media Platforms - Safety Tips" loading="lazy">
+
 Use social media carefully to protect personal information, location details, and the authenticity of shared content.
 
 ## Do

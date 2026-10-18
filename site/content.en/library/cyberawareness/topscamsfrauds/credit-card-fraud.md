@@ -6,6 +6,10 @@ weight: 4
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Credit Card Fraud
+
+<img src="/images/en/cyberawareness/topscamsfrauds/credit-card-fraud.svg" width=700 alt="Credit Card Fraud" loading="lazy">
+
 Credit card fraud occurs when card details are used without the cardholder's permission. Details may be stolen through phishing, unsafe websites, malware, skimming, data breaches, or social engineering.
 
 ## Warning signs

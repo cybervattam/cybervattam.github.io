@@ -6,6 +6,10 @@ weight: 20
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Social Media Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/social-media-scams.svg" width=700 alt="Social Media Scams" loading="lazy">
+
 Social media scams use profiles, posts, messages, advertisements, and marketplaces to obtain money or personal information.
 
 ## Common forms

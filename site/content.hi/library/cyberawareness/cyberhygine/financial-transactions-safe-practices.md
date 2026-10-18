@@ -5,6 +5,11 @@ draft: false
 weight: 5
 tags: ["साइबर जागरूकता","साइबर स्वच्छता"]
 ---
+
+# वित्तीय लेनदेन - सुरक्षित आचरण
+
+<img src="/images/hi/cyberawareness/cyberhygine/financial-transactions-safe-practices.jpg" width=700 alt="वित्तीय लेनदेन - सुरक्षित आचरण" loading="lazy">
+
 इंटरनेट बैंकिंग, यूपीआई, कार्ड और मोबाइल बैंकिंग भुगतान को सुविधाजनक बनाते हैं, लेकिन सुरक्षा चूक से वित्तीय नुकसान हो सकता है।
 
 ## यूपीआई और भुगतान सुरक्षा

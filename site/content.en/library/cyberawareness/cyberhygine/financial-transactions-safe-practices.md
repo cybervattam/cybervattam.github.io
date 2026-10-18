@@ -6,6 +6,10 @@ weight: 5
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Financial Transactions - Safe Practices
+
+<img src="/images/en/cyberawareness/cyberhygine/financial-transactions-safe-practices.jpg" width=700 alt="Financial Transactions - Safe Practices" loading="lazy">
+
 Internet banking, UPI, cards, and mobile banking make payments convenient, but a security lapse can cause financial loss.
 
 ## UPI and payment safety

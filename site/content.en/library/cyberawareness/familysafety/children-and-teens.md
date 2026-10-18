@@ -6,6 +6,10 @@ weight: 1
 tags: ["Cyber Awareness","Family Safety"]
 ---
 
+# Children & Teens (Under 18)
+
+<img src="/images/en/cyberawareness/familysafety/children-and-teens.jpg" width=700 alt="Children & Teens (Under 18)" loading="lazy">
+
 Children and teenagers are frequent users of online gaming, video sharing, messaging, and social networks. Because of their active digital presence and relative inexperience, they face unique cyber risks often concealed within entertainment or social platforms.
 
 ## Common Threats

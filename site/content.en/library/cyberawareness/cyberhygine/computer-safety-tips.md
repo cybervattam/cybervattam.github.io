@@ -6,6 +6,10 @@ weight: 1
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# Computer Safety Tips
+
+<img src="/images/en/cyberawareness/cyberhygine/computer-safety-tips.jpg" width=700 alt="Computer Safety Tips" loading="lazy">
+
 Computer security protects computer systems and information from theft and unauthorized access. Use the following practices to reduce common risks.
 
 ## Do

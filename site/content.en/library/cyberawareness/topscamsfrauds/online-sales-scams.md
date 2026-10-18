@@ -6,6 +6,10 @@ weight: 12
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Online Sales Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/online-sales-scams.svg" width=700 alt="Online Sales Scams" loading="lazy">
+
 Online sales scams target buyers and sellers on fake stores and marketplaces. A fake seller may take payment without sending goods; a fake buyer may send a false payment notice or claim to have overpaid.
 
 ## Warning signs
