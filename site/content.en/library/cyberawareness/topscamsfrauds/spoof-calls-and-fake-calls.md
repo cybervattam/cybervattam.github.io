@@ -6,6 +6,10 @@ weight: 21
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Spoof Calls and Fake Caller IDs
+
+<img src="/images/en/cyberawareness/topscamsfrauds/spoof-calls-and-fake-calls.svg" width=700 alt="Spoof Calls and Fake Caller IDs" loading="lazy">
+
 Caller ID spoofing falsifies the number or name displayed on your phone so a criminal appears to be a trusted person or organisation. The caller may then seek money or personal information.
 
 ## Warning signs

@@ -73,6 +73,9 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 500; }
 .term-widget__lang-tag--native { align-self: flex-end; background: rgba(36, 80, 164, .12); color: var(--cobalt); }
 .term-widget__en { color: var(--ink); font: 600 18px/1.25 var(--serif); overflow-wrap: anywhere; }
 .term-widget__native { color: var(--cobalt); font-size: 19px; font-weight: 700; line-height: 1.45; overflow-wrap: anywhere; }
+.term-widget[data-term-lang="ta"] .term-widget__badge { grid-template-columns: minmax(0, 1fr) auto minmax(0, 1.2fr); gap: 8px; }
+.term-widget[data-term-lang="ta"] .term-widget__en { font-size: 15px; overflow-wrap: normal; }
+.term-widget[data-term-lang="ta"] .term-widget__native { font-size: 16px; overflow-wrap: normal; }
 .term-widget__translit { color: var(--muted); font-size: 11.5px; font-style: italic; line-height: 1.2; }
 .term-widget__swap { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: var(--cobalt); color: #fff; font-size: 14px; font-weight: 700; flex-shrink: 0; box-shadow: 0 4px 10px rgba(36, 80, 164, .22); }
 .term-widget__example-box { margin-top: 12px; padding: 11px 13px; border-left: 3px solid var(--cobalt); border-radius: 0 10px 10px 0; background: var(--paper); }

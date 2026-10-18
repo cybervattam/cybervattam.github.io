@@ -6,6 +6,10 @@ weight: 10
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Job Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/job-scams.jpg" width=700 alt="Job Scams" loading="lazy">
+
 Job scams advertise or offer employment that promises high pay for little effort. Criminals may seek recruitment fees, personal information, access to accounts, or use of your account to move money.
 
 ## Warning signs

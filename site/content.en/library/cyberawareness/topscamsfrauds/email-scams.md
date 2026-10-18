@@ -6,6 +6,10 @@ weight: 6
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Email Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/email-scams.svg" width=700 alt="Email Scams" loading="lazy">
+
 An email scam is a message designed to make you click a malicious link, open an unsafe attachment, disclose information, or send money. Phishing is a common form of email scam.
 
 ## Warning signs

@@ -5,6 +5,11 @@ draft: false
 weight: 9
 tags: ["साइबर जागरूकता","साइबर स्वच्छता"]
 ---
+
+# ईमेल सुरक्षा प्रथाएँ
+
+<img src="/images/hi/cyberawareness/cyberhygine/email-security-practices.jpg" width=700 alt="ईमेल सुरक्षा प्रथाएँ" loading="lazy">
+
 ईमेल संदेशों में ऐसे लिंक हो सकते हैं जो व्यक्तिगत, वित्तीय या संगठनात्मक जानकारी चुराने का प्रयास करते हैं।
 
 ## सुरक्षित प्रथाएँ

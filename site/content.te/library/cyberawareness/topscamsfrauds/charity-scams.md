@@ -6,7 +6,9 @@ weight: 3
 tags: ["సైబర్ అవగాహన","అగ్ర స్కామ్‌లు & మోసాలు"]
 ---
 
-<img src="/images/te/cyberawareness/topscamsfrauds/charity-scam.png" width=700 alt="ఛారిటీ స్కామ్‌లు" loading="lazy">
+# ఛారిటీ స్కామ్‌లు
+
+<img src="/images/te/cyberawareness/topscamsfrauds/charity-scams.jpg" width=700 alt="ఛారిటీ స్కామ్‌లు" loading="lazy">
 
 ఛారిటీ స్కామ్‌లు విరాళాలు సేకరించడానికి నకిలీ స్వచ్ఛంద సంస్థలు, కాపీ చేసిన గుర్తింపులు లేదా తప్పుడు నిధుల సేకరణ ప్రచారాలను ఉపయోగిస్తాయి. అవి తరచుగా విపత్తులు, అత్యవసర పరిస్థితులు లేదా ప్రధాన వార్తల సంఘటనల సమయంలో కనిపిస్తాయి.
 

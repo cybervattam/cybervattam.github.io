@@ -6,6 +6,10 @@ weight: 16
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Ransomware
+
+<img src="/images/en/cyberawareness/topscamsfrauds/ransomware.jpg" width=700 alt="Ransomware" loading="lazy">
+
 Ransomware is malicious software that encrypts files or blocks access to a device and demands payment. Criminals may also steal data and threaten to publish it.
 
 ## How it spreads

@@ -6,6 +6,10 @@ weight: 19
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Scam Text Messages
+
+<img src="/images/en/cyberawareness/topscamsfrauds/scam-text-messages.svg" width=700 alt="Scam Text Messages" loading="lazy">
+
 Scam text messages, also called smishing, use SMS to impersonate an organisation or family member. They commonly contain a link or phone number designed to steal information, install malware, or obtain payment.
 
 ## Common scenarios

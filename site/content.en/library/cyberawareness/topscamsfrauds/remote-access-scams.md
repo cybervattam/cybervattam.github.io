@@ -6,6 +6,10 @@ weight: 17
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Remote Access Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/remote-access-scams.jpg" width=700 alt="Remote Access Scams" loading="lazy">
+
 A remote access scam tricks you into installing software or granting control of your computer or phone. The criminal may steal information, install malware, or access online banking.
 
 ## Warning signs

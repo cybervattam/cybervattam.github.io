@@ -6,6 +6,10 @@ weight: 2
 tags: ["Cyber Awareness","Cyber Hygiene"]
 ---
 
+# USB Device Security
+
+<img src="/images/en/cyberawareness/cyberhygine/usb-device-security.svg" width=700 alt="USB Device Security" loading="lazy">
+
 USB devices are convenient for transferring data, but their portability can introduce data theft, data leakage, and malware risks. Examples include flash drives, portable hard drives, memory cards, cameras, mobile phones, and USB keyboards or mice.
 
 ## Safe practices

@@ -6,6 +6,10 @@ weight: 22
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Unexpected Money and Inheritance Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/unexpected-money-scams.svg" width=700 alt="Unexpected Money and Inheritance Scams" loading="lazy">
+
 Unexpected-money scams claim that you have won a prize, inherited money, or are owed a payment. The criminal asks for personal details, an upfront fee, or access to an account before releasing the supposed funds.
 
 ## Common scenarios

@@ -6,7 +6,9 @@ weight: 3
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
-<img src="/images/en/cyberawareness/topscamsfrauds/charity-scam.png" width=700 alt="Charity Scams" loading="lazy">
+# Charity Scams
+
+<img src="/images/en/cyberawareness/topscamsfrauds/charity-scams.jpg" width=700 alt="Charity Scams" loading="lazy">
 
 Charity scams use fake charities, copied identities, or false fundraising campaigns to collect donations. They often appear during disasters, emergencies, or major news events.
 

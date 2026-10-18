@@ -6,6 +6,10 @@ weight: 8
 tags: ["Cyber Awareness","Scams and Frauds"]
 ---
 
+# Identity Theft and Identity Fraud
+
+<img src="/images/en/cyberawareness/topscamsfrauds/identity-theft-fraud.svg" width=700 alt="Identity Theft and Identity Fraud" loading="lazy">
+
 Identity theft occurs when someone obtains personal information and uses it to impersonate you. Criminals may use names, addresses, dates of birth, licence or passport details, health identifiers, and account information to open accounts or commit fraud.
 
 ## Warning signs
