@@ -1,19 +1,13 @@
 ---
-title: 'About Us'
+title: 'About'
 date: 2018-11-14T19:02:50-07:00
 draft: false
 weight: 3
-tags: ["About Us"]
+tags: ["About"]
 ---
 
-Welcome to **Cybervattam**—an open community initiative dedicated to creating and sharing technology and cybersecurity knowledge in Indian languages, empowering everyone to learn core technical concepts in their native language.
+### Our Vision
+To build an inclusive generation of technology and cybersecurity professionals in India—empowered to learn, contribute, and lead in their own languages while strengthening digital trust and security for society.
 
-Our library is currently available in **English, Tamil, Malayalam, Telugu, Kannada, and Hindi**, and we are actively working to expand into additional Indian languages.
-
-### Translation & Localization Approach
-
-Articles are primarily authored in English and localized across supported languages. **Cybervattam leverages AI translation tools combined with community review.** Because automated translation can occasionally miss context or nuance, we continuously refine our content through human proofreading. Want to help write, translate, or review? Visit our [How to Contribute](/library/aboutus/contribute/) guide.
-
-### Open License
-
-All works on this site are shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) license.
+### Our Mission
+To make practical, industry-relevant technology, cybersecurity, and financial-literacy knowledge accessible in major Indian languages, with bilingual English support. Through open, community-verified learning resources, academia–industry collaboration, and continuous updates aligned with emerging technologies and workplace expectations, we help underserved students build the confidence, communication skills, and career readiness needed to thrive in the modern digital economy.

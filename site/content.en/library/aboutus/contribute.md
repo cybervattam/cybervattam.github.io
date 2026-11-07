@@ -101,7 +101,7 @@ When a technical concept has a meaningful, natural native equivalent, use the **
 | **Encryption** | Native concept + `(Encryption)` on 1st use | மறையாக்கம் (Encryption) | गूढ़लेखन / एन्क्रिप्शन (Encryption) |
 | **Phishing** | Descriptive native term + `(Phishing)` | தூண்டில் மோசடி (Phishing) | जालसाज़ी संदेश (Phishing) |
 | **Multi-Factor Authentication** | Native concept + `(MFA)` | பல்காரணி சான்றுறுதி (MFA) | बहु-कारक प्रमाणीकरण (MFA) |
-| **Zero Trust** | Native concept + `(Zero Trust)` | பூஜ்ஜிய நம்பிக்கை (Zero Trust) | शून्य विश्वास (Zero Trust) |
+| **Zero Trust** | Native concept + `(Zero Trust)` | நம்பாமை (Zero Trust) | शून्य विश्वास (Zero Trust) |
 | **Brute-Force Attack** | Meaning-based translation (never literal "rude attack") | தொடர் முயற்சித் தாக்குதல் (Brute-force attack) | ब्रूट-फ़ोर्स हमला (लगातार पासवर्ड आज़माना) |
 
 #### B. Retain / Transliterate Universal Acronyms, Protocols & Proper Nouns
